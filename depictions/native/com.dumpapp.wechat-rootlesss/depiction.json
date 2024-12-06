@@ -1,0 +1,95 @@
+{
+  "class": "DepictionTabView",
+  "headerImage": "https://TrollStore-Pro.Github.io/repo/depictions/image/com.dumpapp.wechat-rootlesss/header/header.png",
+  "tintColor": "#59A5E2",
+  "minVersion": "0.3",
+  "tabs": [
+    {
+      "class": "DepictionStackView",
+      "tabname": "描述",
+      "views": [
+        {
+          "action": "https://t.me/+RVJMILhu36lmYTY9",
+          "openExternal": 1,
+          "class": "DepictionButtonView",
+          "text": "加入全能玩机交流群 Chat"
+        },
+        {
+          "markdown": "## 微信多功能插件\n- 1:1 复刻“微信净化”插件，功能一模一样\n- ⚠️注意：不可与“微信净化”共存",
+          "useSpacing": true,
+          "class": "DepictionMarkdownView"
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 8
+        },
+        {
+          "useBoldText": true,
+          "useBottomMargin": false,
+          "class": "DepictionHeaderView",
+          "title": "预览"
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 8
+        },
+        {
+          "itemCornerRadius": 0,
+          "itemSize": "{240, 800}",
+          "screenshots": [
+            {
+              "accessibilityText": "Screenshot",
+              "url": "https://trollstorex.github.io/sileodepiction/DumpApp/pic1.png"
+            }
+          ],
+          "class": "DepictionScreenshotsView"
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 16
+        },
+        {
+          "class": "DepictionHeaderView",
+          "title": "详情",
+          "useBoldText": true,
+          "useBottomMargin": false
+        },
+        {
+          "spacing": 8,
+          "class": "DepictionSpacerView"
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "text": "2.0.4",
+          "title": "插件版本"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "text": "iOS 15 - iOS 17.0",
+          "title": "支持系统"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "text": "2024 年 10 月 28 日",
+          "title": "最后更新"
+        }
+      ]
+    },
+    {
+      "views": [
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "### 2.0.4\n- 修复闪退"
+        }
+      ],
+      "class": "DepictionStackView",
+      "tabname": "更新"
+    }
+  ]
+}

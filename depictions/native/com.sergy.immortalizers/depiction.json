@@ -1,0 +1,104 @@
+{
+  "headerImage": "https://TrollStore-Pro.Github.io/repo/depictions/image/com.sergy.immortalizers/header/header.png",
+  "tintColor": "#36046D",
+  "minVersion": "0.3",
+  "tabs": [
+    {
+      "class": "DepictionStackView",
+      "tabname": "描述",
+      "views": [
+        {
+          "openExternal": 1,
+          "class": "DepictionButtonView",
+          "text": "加入全能玩机交流群 Chat",
+          "action": "https://t.me/+RVJMILhu36lmYTY9"
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "## 越狱永生，应用真后台插件\n- 将您的应用保持在前台无限运行，即使它们处于后台！\n- 您是否厌倦了某些应用必须在前台才能执行某些操作？或者，您是否想让应用在后台不被挂起？别担心，Immortalizer帮您解决！",
+          "useSpacing": true
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "markdown": "## 功能特点\n- 通过 3D Touch 菜单启用/禁用应用真后台运行（前台保持）\n- 即使屏幕关闭或设备锁定也能正常运行，因此会减少电量损耗\n- 提供状态指示器或提示消息选项，取决于应用的状态\n- 允许您为某些在前台模式下无法显示通知的应用启用通知",
+          "useSpacing": true,
+          "class": "DepictionMarkdownView"
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionHeaderView",
+          "title": "预览",
+          "useBoldText": true,
+          "useBottomMargin": false
+        },
+        {
+          "itemCornerRadius": 0,
+          "itemSize": "{700, 700}",
+          "screenshots": [
+            {
+              "url": "https://trollstorex.github.io/sileodepiction/Immortalizer/pic1.png",
+              "accessibilityText": "Screenshot"
+            }
+          ],
+          "class": "DepictionScreenshotsView"
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 16
+        },
+        {
+          "class": "DepictionHeaderView",
+          "title": "详情",
+          "useBoldText": true,
+          "useBottomMargin": false
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 8
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "text": "2.0.0-1",
+          "title": "插件版本"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "text": "iOS 15 - iOS 16.6.1",
+          "title": "支持系统"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "text": "2024 年 11 月 14 日",
+          "title": "最后更新"
+        }
+      ]
+    },
+    {
+      "class": "DepictionStackView",
+      "tabname": "更新",
+      "views": [
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "### 2.0.0-1\n- 修复了与某些拦截通知的插件（例如 Glance）冲突的错误\n- 修复了控制中心模块的禁用按钮无响应的问题\n- 修复了某些应用程序崩溃或卡顿的问题\n- 修复了键盘无法使用的问题\n- 提高了前台优化\n- 优化了弹窗动画",
+          "useSpacing": true
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "markdown": "### 1.0.1\n- 修复了屏幕旋转在开启了“真后台”应用上不起作用的错误\n- 改进安全检查",
+          "useSpacing": true,
+          "class": "DepictionMarkdownView"
+        }
+      ]
+    }
+  ],
+  "class": "DepictionTabView"
+}

@@ -1,0 +1,93 @@
+{
+  "tabs": [
+    {
+      "class": "DepictionStackView",
+      "tabname": "描述",
+      "views": [
+        {
+          "class": "DepictionButtonView",
+          "text": "加入全能玩机交流群 Chat",
+          "action": "https://t.me/+RVJMILhu36lmYTY9",
+          "openExternal": 1
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "显示存储“系统数据”详情 </br> </br> Tweak to enable the hidden storage settings",
+          "useBoldText": true,
+          "useRawFormat": true
+        },
+        {
+          "class": "DepictionScreenshotsView",
+          "itemCornerRadius": 6,
+          "itemSize": "{160, 346.4533333333333}",
+          "screenshots": [
+            {
+              "accessibilityText": "Screenshot",
+              "url": "https://trollstorex.github.io/sileodepiction/InternalStorageSettings/pic1.png"
+            },
+            {
+              "accessibilityText": "Screenshot",
+              "url": ""
+            }
+          ]
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 16
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "spacing": 16,
+          "class": "DepictionSpacerView"
+        },
+        {
+          "class": "DepictionHeaderView",
+          "title": "详情",
+          "useBoldText": true,
+          "useBottomMargin": false
+        },
+        {
+          "spacing": 8,
+          "class": "DepictionSpacerView"
+        },
+        {
+          "text": "1.0",
+          "title": "最新版本",
+          "class": "DepictionTableTextView"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "text": "iOS 15 - iOS 17.0",
+          "title": "支持系统范围"
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 16
+        }
+      ]
+    },
+    {
+      "class": "DepictionStackView",
+      "tabname": "更新",
+      "views": [
+        {
+          "class": "DepictionSubheaderView",
+          "title": "1.0",
+          "useBoldText": true,
+          "useBottomMargin": false
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "未知",
+          "useRawFormat": true
+        }
+      ]
+    }
+  ],
+  "class": "DepictionTabView",
+  "headerImage": "https://TrollStore-Pro.Github.io/repo/depictions/image/com.nathan.internalstoragesettingss/header/header.png",
+  "tintColor": "#59AEBC",
+  "minVersion": "0.3"
+}

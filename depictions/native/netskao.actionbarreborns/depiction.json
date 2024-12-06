@@ -1,0 +1,84 @@
+{
+  "tabs": [
+    {
+      "class": "DepictionStackView",
+      "tabname": "描述",
+      "views": [
+        {
+          "action": "https://t.me/+RVJMILhu36lmYTY9",
+          "openExternal": 1,
+          "class": "DepictionButtonView",
+          "text": "加入全能玩机交流群 Chat"
+        },
+        {
+          "markdown": "## 键盘底部显示\n ### [撤销] [选择] [粘贴] 按钮 \n- Undo, redo, select all, copy, cut and paste actions on bottom of keyboard. \n- ActionBar Free Reborn Edition",
+          "useSpacing": true,
+          "class": "DepictionMarkdownView"
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 8
+        },
+        {
+          "class": "DepictionHeaderView",
+          "title": "预览",
+          "useBoldText": true,
+          "useBottomMargin": false
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 8
+        },
+        {
+          "screenshots": [
+            {
+              "url": "https://trollstorex.github.io/sileodepiction/ActionBarReborn/pic1.png",
+              "accessibilityText": "Screenshot"
+            },
+            {
+              "accessibilityText": "Screenshot",
+              "url": "https://trollstorex.github.io/sileodepiction/ActionBarReborn/pic.png"
+            }
+          ],
+          "class": "DepictionScreenshotsView",
+          "itemCornerRadius": 25,
+          "itemSize": "{240, 520}"
+        },
+        {
+          "spacing": 16,
+          "class": "DepictionSpacerView"
+        },
+        {
+          "useBoldText": true,
+          "useBottomMargin": false,
+          "class": "DepictionHeaderView",
+          "title": "详情"
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 8
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "text": "1.1-2",
+          "title": "插件版本"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "text": "iOS 15 - iOS 17.0",
+          "title": "支持系统"
+        }
+      ]
+    }
+  ],
+  "class": "DepictionTabView",
+  "headerImage": "https://TrollStore-Pro.Github.io/repo/depictions/image/netskao.actionbarreborns/header/header.png",
+  "tintColor": "#3485FF",
+  "minVersion": "0.3"
+}

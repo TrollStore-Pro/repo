@@ -1,0 +1,95 @@
+{
+  "tintColor": "#59A5E2",
+  "minVersion": "0.3",
+  "tabs": [
+    {
+      "views": [
+        {
+          "text": "加入全能玩机交流群 Chat",
+          "action": "https://t.me/+RVJMILhu36lmYTY9",
+          "openExternal": 1,
+          "class": "DepictionButtonView"
+        },
+        {
+          "useSpacing": true,
+          "class": "DepictionMarkdownView",
+          "markdown": "## 缩小键盘与底部的间隙\n- Shrink the keyboard gap on notched devices"
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 8
+        },
+        {
+          "class": "DepictionHeaderView",
+          "title": "预览",
+          "useBoldText": true,
+          "useBottomMargin": false
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 8
+        },
+        {
+          "class": "DepictionScreenshotsView",
+          "itemCornerRadius": 0,
+          "itemSize": "{300, 520}",
+          "screenshots": [
+            {
+              "accessibilityText": "Screenshot",
+              "url": "https://trollstorex.github.io/sileodepiction/SmallBoard/pic1.png"
+            }
+          ]
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 16
+        },
+        {
+          "class": "DepictionHeaderView",
+          "title": "详情",
+          "useBoldText": true,
+          "useBottomMargin": false
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 8
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "text": "1.1",
+          "title": "插件版本"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "text": "iOS 15 - iOS 17.0",
+          "title": "支持系统"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "text": "2024 年 10 月 28 日",
+          "title": "最后更新"
+        }
+      ],
+      "class": "DepictionStackView",
+      "tabname": "描述"
+    },
+    {
+      "class": "DepictionStackView",
+      "tabname": "更新",
+      "views": [
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "### 1.1\n- 转换支持 Bootstrap"
+        }
+      ]
+    }
+  ],
+  "class": "DepictionTabView",
+  "headerImage": "https://TrollStore-Pro.Github.io/repo/depictions/image/com.icraze.smallboards/header/header.png"
+}

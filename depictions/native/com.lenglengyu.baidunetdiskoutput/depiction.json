@@ -1,0 +1,101 @@
+{
+  "class": "DepictionTabView",
+  "headerImage": "https://TrollStore-Pro.Github.io/repo/depictions/image/com.lenglengyu.baidunetdiskoutput/header/header.png",
+  "tintColor": "#33BDFF",
+  "minVersion": "0.3",
+  "tabs": [
+    {
+      "views": [
+        {
+          "text": "加入全能玩机交流群 Chat",
+          "action": "https://t.me/+RVJMILhu36lmYTY9",
+          "openExternal": 1,
+          "class": "DepictionButtonView"
+        },
+        {
+          "markdown": "## 百度网盘下载管理添加导出按钮",
+          "useSpacing": true,
+          "class": "DepictionMarkdownView"
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 8
+        },
+        {
+          "useBoldText": true,
+          "useBottomMargin": false,
+          "class": "DepictionHeaderView",
+          "title": "预览"
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 8
+        },
+        {
+          "itemCornerRadius": 0,
+          "itemSize": "{240, 800}",
+          "screenshots": [
+            {
+              "accessibilityText": "Screenshot",
+              "url": "https://trollstorex.github.io/sileodepiction/DP/pic1.png"
+            }
+          ],
+          "class": "DepictionScreenshotsView"
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 16
+        },
+        {
+          "class": "DepictionHeaderView",
+          "title": "详情",
+          "useBoldText": true,
+          "useBottomMargin": false
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 8
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "text": "1.0.1k",
+          "title": "插件版本"
+        },
+        {
+          "title": "支持系统",
+          "class": "DepictionTableTextView",
+          "text": "iOS 15 - iOS 17.0"
+        },
+        {
+          "title": "最后更新",
+          "class": "DepictionTableTextView",
+          "text": "2024 年 11 月 04 日"
+        },
+        {
+          "openExternal": 1,
+          "class": "DepictionTableButtonView",
+          "title": "冷冷雨源",
+          "action": "https://lenglengyu.com/"
+        }
+      ],
+      "class": "DepictionStackView",
+      "tabname": "描述"
+    },
+    {
+      "class": "DepictionStackView",
+      "tabname": "更新",
+      "views": [
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "### 1.0.1k\n- 初始发布"
+        }
+      ]
+    }
+  ]
+}

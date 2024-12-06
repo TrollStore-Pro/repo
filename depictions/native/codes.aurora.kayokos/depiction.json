@@ -1,0 +1,131 @@
+{
+  "minVersion": "0.3",
+  "tabs": [
+    {
+      "class": "DepictionStackView",
+      "tabname": "描述",
+      "views": [
+        {
+          "text": "加入全能玩机交流群 Chat",
+          "action": "https://t.me/+RVJMILhu36lmYTY9",
+          "openExternal": 1,
+          "class": "DepictionButtonView"
+        },
+        {
+          "markdown": "## iOS 剪切板越狱插件\n- Clipboard manager for iOS.\n- 由「乌龙工作室」修复支持 iOS 16，免费发布和使用",
+          "useSpacing": true,
+          "class": "DepictionMarkdownView"
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 8
+        },
+        {
+          "class": "DepictionHeaderView",
+          "title": "预览",
+          "useBoldText": true,
+          "useBottomMargin": false
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 8
+        },
+        {
+          "itemCornerRadius": 0,
+          "itemSize": "{240, 520}",
+          "screenshots": [
+            {
+              "accessibilityText": "Screenshot",
+              "url": "https://trollstorex.github.io/sileodepiction/Kayoko/pic1.png"
+            },
+            {
+              "accessibilityText": "Screenshot",
+              "url": "https://trollstorex.github.io/sileodepiction/Kayoko/pic2.png"
+            },
+            {
+              "accessibilityText": "Screenshot",
+              "url": "https://trollstorex.github.io/sileodepiction/Kayoko/pic3.png"
+            }
+          ],
+          "class": "DepictionScreenshotsView"
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 16
+        },
+        {
+          "useBoldText": true,
+          "useBottomMargin": false,
+          "class": "DepictionHeaderView",
+          "title": "详情"
+        },
+        {
+          "spacing": 8,
+          "class": "DepictionSpacerView"
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "text": "2.7",
+          "title": "插件版本"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "text": "iOS 15 - iOS 16.6.1",
+          "title": "支持系统"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "text": "2024 年 10 月 29 日",
+          "title": "最后更新"
+        }
+      ]
+    },
+    {
+      "class": "DepictionStackView",
+      "tabname": "更新",
+      "views": [
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "### 2.7\n- 支持半越狱"
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "### 2.6\n- 优化隐藏动画和时机"
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "### 2.5\n- 「播放触感反馈」开关现已能控制整个插件的触感反馈效果\n- 为听写键触发新增了一处触感反馈。"
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "### 2.4\n- 优化删除/收藏时的动画效果\n- 优化面板颜色跟随状态栏风格\n- 查看预览时，右上角图标改为「返回」\n- SpringBoard 改成 「主屏幕」，并配上小图标"
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "### 2.3\n- 初始发布"
+        }
+      ]
+    }
+  ],
+  "class": "DepictionTabView",
+  "headerImage": "https://TrollStore-Pro.Github.io/repo/depictions/image/codes.aurora.kayokos/header/header.png",
+  "tintColor": "#1DD660"
+}

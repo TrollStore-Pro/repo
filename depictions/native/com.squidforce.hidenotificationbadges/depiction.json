@@ -1,0 +1,92 @@
+{
+  "minVersion": "0.3",
+  "tabs": [
+    {
+      "tabname": "描述",
+      "views": [
+        {
+          "text": "加入全能玩机交流群 Chat",
+          "action": "https://t.me/+RVJMILhu36lmYTY9",
+          "openExternal": 1,
+          "class": "DepictionButtonView"
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "###  HideNotificationBadge\n- 隐藏推送通知图标右下角标\n- 可配合 WeChatNotiAvatar 插件使用",
+          "useSpacing": true
+        },
+        {
+          "class": "DepictionScreenshotsView",
+          "itemCornerRadius": 6,
+          "itemSize": "{160, 346.4533333333333}",
+          "screenshots": [
+            {
+              "accessibilityText": "Screenshot",
+              "url": "https://trollstorex.github.io/sileodepiction/HideNotificationBadge/pic1.png"
+            },
+            {
+              "accessibilityText": "Screenshot",
+              "url": ""
+            }
+          ]
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 16
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 16
+        },
+        {
+          "class": "DepictionHeaderView",
+          "title": "详情",
+          "useBoldText": true,
+          "useBottomMargin": false
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 8
+        },
+        {
+          "class": "DepictionTableTextView",
+          "text": "0.0.1",
+          "title": "插件版本"
+        },
+        {
+          "text": "iOS 15 - iOS 16.6.1",
+          "title": "支持系统",
+          "class": "DepictionTableTextView"
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 16
+        }
+      ],
+      "class": "DepictionStackView"
+    },
+    {
+      "class": "DepictionStackView",
+      "tabname": "更新",
+      "views": [
+        {
+          "class": "DepictionSubheaderView",
+          "title": "0.0.1",
+          "useBoldText": true,
+          "useBottomMargin": false
+        },
+        {
+          "useRawFormat": true,
+          "class": "DepictionMarkdownView",
+          "markdown": "暂无"
+        }
+      ]
+    }
+  ],
+  "class": "DepictionTabView",
+  "headerImage": "https://TrollStore-Pro.Github.io/repo/depictions/image/com.squidforce.hidenotificationbadges/header/header.png",
+  "tintColor": "#59AEBC"
+}

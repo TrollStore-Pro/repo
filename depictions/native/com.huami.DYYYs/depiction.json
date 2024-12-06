@@ -1,0 +1,161 @@
+{
+  "class": "DepictionTabView",
+  "headerImage": "https://TrollStore-Pro.Github.io/repo/depictions/image/com.huami.DYYYs/header/header.png",
+  "tintColor": "#59A5E2",
+  "minVersion": "0.3",
+  "tabs": [
+    {
+      "class": "DepictionStackView",
+      "tabname": "描述",
+      "views": [
+        {
+          "class": "DepictionButtonView",
+          "text": "加入全能玩机交流群 Chat",
+          "action": "https://t.me/+RVJMILhu36lmYTY9",
+          "openExternal": 1
+        },
+        {
+          "useSpacing": true,
+          "class": "DepictionMarkdownView",
+          "markdown": "## 抖音增强插件\n ## 双指长按打开插件设置\n- 设置顶栏透明\n- 设置全局透明度\n- 隐藏全屏观看\n- 隐藏底栏加号\n- 开启弹幕改色\n- 新增默认倍速播放功能"
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "spacing": 8,
+          "class": "DepictionSpacerView"
+        },
+        {
+          "class": "DepictionHeaderView",
+          "title": "预览",
+          "useBoldText": true,
+          "useBottomMargin": false
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 8
+        },
+        {
+          "screenshots": [
+            {
+              "accessibilityText": "Screenshot",
+              "url": "https://trollstorex.github.io/sileodepiction/DYYY/pic1.png"
+            }
+          ],
+          "class": "DepictionScreenshotsView",
+          "itemCornerRadius": 0,
+          "itemSize": "{700, 700}"
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 16
+        },
+        {
+          "class": "DepictionHeaderView",
+          "title": "详情",
+          "useBoldText": true,
+          "useBottomMargin": false
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 8
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 8
+        },
+        {
+          "class": "DepictionTableTextView",
+          "text": "1.7",
+          "title": "插件版本"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "text": "iOS 15 - iOS 17.0",
+          "title": "支持系统"
+        },
+        {
+          "text": "2024 年 12 月 02 日",
+          "title": "最后更新",
+          "class": "DepictionTableTextView"
+        },
+        {
+          "title": "huami 的小窝｜Telegram",
+          "action": "https://t.me/huamidev",
+          "openExternal": 1,
+          "class": "DepictionTableButtonView"
+        }
+      ]
+    },
+    {
+      "class": "DepictionStackView",
+      "tabname": "更新",
+      "views": [
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "### 1.7\n- 修复因新版本导致侧边倍速播放失效\n- 新增评论区键盘切换深色模式（在设置）\n- 为新版本抖音的弹幕热更新适配改色功能"
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "### 1.6-2\n- 修复 TF 抖音 31.9.0 屏蔽底栏红点失效问题"
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "### 1.6\n- 新增默认倍速播放功能\n- 完全重构了UI \n- 修改打开设置方式为双指长按\n- 让 #random 也支持随机颜色"
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "### 1.5\n- 修复在透明度为1的情况下切换视频导致强制透明度卡顿的问题\n- 新增默认允许被标为“广告”的视频倍速，无设置项\n- 修复iPad显示问题，修改为全屏显示\n- 去除频道弹窗\n- 修复其他 bug"
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "### 1.4-2\n- 修复移除收藏问题"
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "### 1.4-1\n- 修复与 AwemeDownloadMedia 冲突导致移除收藏闪退问题"
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "### 1.4\n- 新增移除(点赞、评论、收藏、分享)按钮\n- 修复iPad适配问题?自测\n-不会写UI，所以很丑，将就着吧\n- 部分设备移除收藏与 Netskao 插件 AwemeDownloadMedia 冲突导致闪退暂时无法解决"
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "### 1.3\n - 新增隐藏底栏红点\n- 新增隐藏侧栏红点\n- 修复 iPad 显示不完整\n- 优化插件体积"
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "### 1.2\n- 修复隐藏全屏观看开关失效\n- 新增全局透明（不包含顶栏）"
+        }
+      ]
+    }
+  ]
+}

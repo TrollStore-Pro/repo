@@ -1,0 +1,93 @@
+{
+  "headerImage": "https://TrollStore-Pro.Github.io/repo/depictions/image/preferenceloader.rootless.tops/header/header.png",
+  "tintColor": "#59AEBC",
+  "minVersion": "0.3",
+  "tabs": [
+    {
+      "views": [
+        {
+          "text": "加入全能玩机交流群 Chat",
+          "action": "https://t.me/+RVJMILhu36lmYTY9",
+          "openExternal": 1,
+          "class": "DepictionButtonView"
+        },
+        {
+          "markdown": "## 越狱依赖 PreferenceLoader \n- 显示 Sileo 已安装插件设置\n- Top 版本可以置顶插件设置",
+          "useSpacing": true,
+          "class": "DepictionMarkdownView"
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 8
+        },
+        {
+          "class": "DepictionHeaderView",
+          "title": "预览",
+          "useBoldText": true,
+          "useBottomMargin": false
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 8
+        },
+        {
+          "class": "DepictionScreenshotsView",
+          "itemCornerRadius": 0,
+          "itemSize": "{240, 520}",
+          "screenshots": [
+            {
+              "accessibilityText": "Screenshot",
+              "url": "https://trollstorex.github.io/sileodepiction/PreferenceLoader/pic1.png"
+            },
+            {
+              "accessibilityText": "Screenshot",
+              "url": ""
+            }
+          ]
+        },
+        {
+          "spacing": 16,
+          "class": "DepictionSpacerView"
+        },
+        {
+          "class": "DepictionHeaderView",
+          "title": "详情",
+          "useBoldText": true,
+          "useBottomMargin": false
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 8
+        },
+        {
+          "class": "DepictionTableTextView",
+          "text": "2.2.6.6",
+          "title": "插件版本"
+        },
+        {
+          "text": "iOS 15 - iOS 17.0",
+          "title": "支持系统",
+          "class": "DepictionTableTextView"
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "title": "By 真皮源",
+          "action": "https://rootless.zq666.eu.org/",
+          "openExternal": 1,
+          "class": "DepictionTableButtonView"
+        }
+      ],
+      "class": "DepictionStackView",
+      "tabname": "描述"
+    }
+  ],
+  "class": "DepictionTabView"
+}

@@ -1,0 +1,101 @@
+{
+  "class": "DepictionTabView",
+  "headerImage": "https://TrollStore-Pro.Github.io/repo/depictions/image/com.kingpuffdaddi.control-center.ccvpn.surge/header/header.png",
+  "tintColor": "#59AEBC",
+  "minVersion": "0.3",
+  "tabs": [
+    {
+      "class": "DepictionStackView",
+      "tabname": "描述",
+      "views": [
+        {
+          "class": "DepictionButtonView",
+          "text": "加入全能玩机交流群 Chat",
+          "action": "https://t.me/+RVJMILhu36lmYTY9",
+          "openExternal": 1
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "## 控制中心 VPN 开启关闭模块\n- CCVPN 控制中心图标修改为 Surge\n- Change the CCVPN icon to Surge",
+          "useSpacing": true
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 8
+        },
+        {
+          "title": "预览",
+          "useBoldText": true,
+          "useBottomMargin": false,
+          "class": "DepictionHeaderView"
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 8
+        },
+        {
+          "class": "DepictionScreenshotsView",
+          "itemCornerRadius": 25,
+          "itemSize": "{240,520}",
+          "screenshots": [
+            {
+              "accessibilityText": "Screenshot",
+              "url": "https://trollstorex.github.io/sileodepiction/CCVPN/pic1.png"
+            },
+            {
+              "accessibilityText": "Screenshot",
+              "url": "https://trollstorex.github.io/sileodepiction/CCVPN/pic2.png"
+            }
+          ]
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 16
+        },
+        {
+          "class": "DepictionHeaderView",
+          "title": "详情",
+          "useBoldText": true,
+          "useBottomMargin": false
+        },
+        {
+          "spacing": 8,
+          "class": "DepictionSpacerView"
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "text": "1.0.6",
+          "title": "插件版本"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "text": "iOS 15 - iOS 16.6.1",
+          "title": "支持系统"
+        }
+      ]
+    },
+    {
+      "views": [
+        {
+          "useBottomMargin": false,
+          "class": "DepictionSubheaderView",
+          "title": "1.0.6",
+          "useBoldText": true
+        },
+        {
+          "useRawFormat": true,
+          "class": "DepictionMarkdownView",
+          "markdown": " • 更新支持rootless"
+        }
+      ],
+      "class": "DepictionStackView",
+      "tabname": "更新"
+    }
+  ]
+}

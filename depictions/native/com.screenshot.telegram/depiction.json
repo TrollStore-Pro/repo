@@ -1,0 +1,95 @@
+{
+  "tabs": [
+    {
+      "class": "DepictionStackView",
+      "tabname": "描述",
+      "views": [
+        {
+          "class": "DepictionButtonView",
+          "text": "加入全能玩机交流群 Chat",
+          "action": "https://t.me/+RVJMILhu36lmYTY9",
+          "openExternal": 1
+        },
+        {
+          "markdown": "## 支持 Swiftgram、Turit、iMe、Nicegram\n- 部分群组频道开启限制截图功能，安装后可以绕过限制\n- Some group channels have enabled restrictions on screenshotting. After installation, this can bypass the restriction",
+          "useSpacing": true,
+          "class": "DepictionMarkdownView"
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 8
+        },
+        {
+          "title": "预览",
+          "useBoldText": true,
+          "useBottomMargin": false,
+          "class": "DepictionHeaderView"
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 8
+        },
+        {
+          "itemSize": "{800, 800}",
+          "screenshots": [
+            {
+              "accessibilityText": "Screenshot",
+              "url": "https://trollstorex.github.io/sileodepiction/Telegram/pic2.png"
+            }
+          ],
+          "class": "DepictionScreenshotsView",
+          "itemCornerRadius": 0
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 16
+        },
+        {
+          "useBottomMargin": false,
+          "class": "DepictionHeaderView",
+          "title": "详情",
+          "useBoldText": true
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 8
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "title": "插件版本",
+          "class": "DepictionTableTextView",
+          "text": "1.0"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "text": "iOS 15 - iOS 17.0",
+          "title": "支持系统"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "text": "2024 年 10 月 29 日",
+          "title": "最后更新"
+        }
+      ]
+    },
+    {
+      "class": "DepictionStackView",
+      "tabname": "更新",
+      "views": [
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "### 1.0\n- 初始发布"
+        }
+      ]
+    }
+  ],
+  "class": "DepictionTabView",
+  "headerImage": "https://TrollStore-Pro.Github.io/repo/depictions/image/com.screenshot.telegram/header/header.png",
+  "tintColor": "#269CD8",
+  "minVersion": "0.3"
+}

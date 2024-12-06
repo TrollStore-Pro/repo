@@ -1,0 +1,104 @@
+{
+  "tintColor": "#FDD600",
+  "minVersion": "0.3",
+  "tabs": [
+    {
+      "class": "DepictionStackView",
+      "tabname": "介绍",
+      "views": [
+        {
+          "itemSize": "{160, 346.4533333333333}",
+          "screenshots": [
+            {
+              "accessibilityText": "Screenshot",
+              "url": "https://trollstorex.github.io/sileodepiction/opa334/pic1.png"
+            },
+            {
+              "url": "https://trollstorex.github.io/sileodepiction/opa334/pic2.png",
+              "accessibilityText": "Screenshot"
+            },
+            {
+              "accessibilityText": "Screenshot",
+              "url": "https://trollstorex.github.io/sileodepiction/opa334/pic3.png"
+            }
+          ],
+          "class": "DepictionScreenshotsView",
+          "itemCornerRadius": 6
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "markdown": "# 空包，仅浏览，🚫勿安装",
+          "useSpacing": true,
+          "class": "DepictionMarkdownView"
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "useSpacing": true,
+          "class": "DepictionMarkdownView",
+          "markdown": "# opa334\n- 也叫 Lars Fröder，是一位著名的 iOS 开发者，特别是在越狱社区中有很高的知名度。他开发了许多受欢迎的工具和插件，其中最知名的项目是 TrollStore 和 Dopamine。"
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionButtonView",
+          "text": "opa334's Twitter",
+          "action": "https://x.com/opa334dev?s=21",
+          "openExternal": 1
+        },
+        {
+          "text": "opa334's Github",
+          "action": "https://github.com/opa334/",
+          "openExternal": 1,
+          "class": "DepictionButtonView"
+        },
+        {
+          "class": "DepictionButtonView",
+          "text": "Donate 捐赠 ",
+          "action": "https://www.paypal.com/donate/?cmd=_donations&business=opa334@protonmail.com&item_name=TrollStore",
+          "openExternal": 1
+        }
+      ]
+    },
+    {
+      "class": "DepictionStackView",
+      "tabname": "TrollStore",
+      "views": [
+        {
+          "class": "DepictionScreenshotsView",
+          "itemCornerRadius": 6,
+          "itemSize": "{160, 346.4533333333333}",
+          "screenshots": [
+            {
+              "accessibilityText": "Screenshot",
+              "url": "https://trollstorex.github.io/sileodepiction/opa334/pic4.png"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tabname": "Dopamine",
+      "views": [
+        {
+          "screenshots": [
+            {
+              "accessibilityText": "Screenshot",
+              "url": "https://trollstorex.github.io/sileodepiction/opa334/pic5.png"
+            }
+          ],
+          "class": "DepictionScreenshotsView",
+          "itemCornerRadius": 6,
+          "itemSize": "{160, 346.4533333333333}"
+        }
+      ],
+      "class": "DepictionStackView"
+    }
+  ],
+  "class": "DepictionTabView",
+  "headerImage": "https://TrollStore-Pro.Github.io/repo/depictions/image/com.opa334.dopamine.trollstore/header/header.png"
+}

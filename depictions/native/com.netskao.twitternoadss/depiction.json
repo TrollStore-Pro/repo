@@ -1,0 +1,111 @@
+{
+  "class": "DepictionTabView",
+  "headerImage": "https://TrollStore-Pro.Github.io/repo/depictions/image/com.netskao.twitternoadss/header/header.png",
+  "tintColor": "#59AEBC",
+  "minVersion": "0.3",
+  "tabs": [
+    {
+      "tabname": "描述",
+      "views": [
+        {
+          "text": "加入全能玩机交流群 Chat",
+          "action": "https://t.me/+RVJMILhu36lmYTY9",
+          "openExternal": 1,
+          "class": "DepictionButtonView"
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "## Twitter X\n- 在 Twitter 中删除信息流广告，仅在 10.64.1 版本上测试\n- Twitter removes ads from data stream. Tested on version 10.64.1 only",
+          "useSpacing": true
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 8
+        },
+        {
+          "title": "预览",
+          "useBoldText": true,
+          "useBottomMargin": false,
+          "class": "DepictionHeaderView"
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 8
+        },
+        {
+          "class": "DepictionScreenshotsView",
+          "itemCornerRadius": 25,
+          "itemSize": "{240, 520}",
+          "screenshots": [
+            {
+              "accessibilityText": "Screenshot",
+              "url": "https://trollstorex.github.io/sileodepiction/TwitterNoAds/pic1.png"
+            },
+            {
+              "accessibilityText": "Screenshot",
+              "url": "https://trollstorex.github.io/sileodepiction/TwitterNoAds/pic2.png"
+            }
+          ]
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 16
+        },
+        {
+          "useBottomMargin": false,
+          "class": "DepictionHeaderView",
+          "title": "详情",
+          "useBoldText": true
+        },
+        {
+          "spacing": 8,
+          "class": "DepictionSpacerView"
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "text": "1.1-2",
+          "title": "插件版本"
+        },
+        {
+          "text": "iOS 15 - iOS 17.0",
+          "title": "支持系统",
+          "class": "DepictionTableTextView"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "text": "2024 年 11 月 19 日",
+          "title": "最后更新"
+        },
+        {
+          "title": "Netskao 作者源",
+          "action": "https://jailrepo.initnil.com/",
+          "openExternal": 1,
+          "class": "DepictionTableButtonView"
+        },
+        {
+          "class": "DepictionTableButtonView",
+          "title": "Twitter NoAds Github 开源地址",
+          "action": "https://jailrepo.initnil.com/",
+          "openExternal": 1
+        }
+      ],
+      "class": "DepictionStackView"
+    },
+    {
+      "class": "DepictionStackView",
+      "tabname": "更新",
+      "views": [
+        {
+          "markdown": "### 1.1-2\n- 添加 B 计划",
+          "class": "DepictionMarkdownView"
+        }
+      ]
+    }
+  ]
+}

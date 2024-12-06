@@ -1,0 +1,101 @@
+{
+  "headerImage": "https://TrollStore-Pro.Github.io/repo/depictions/image/com.xx.kshooks/header/header.png",
+  "tintColor": "#FF4905",
+  "minVersion": "0.3",
+  "tabs": [
+    {
+      "views": [
+        {
+          "action": "https://t.me/+RVJMILhu36lmYTY9",
+          "openExternal": 1,
+          "class": "DepictionButtonView",
+          "text": "加入全能玩机交流群 Chat"
+        },
+        {
+          "markdown": "## 快手增强插件\n- 插件入口：依次点击-我-右上角三横-空白处长按打开菜单开启功能或在设置右上角打开\n- 移除一些广告和弹窗\n- 无水印保存图片、视频",
+          "useSpacing": true,
+          "class": "DepictionMarkdownView"
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 8
+        },
+        {
+          "class": "DepictionHeaderView",
+          "title": "预览",
+          "useBoldText": true,
+          "useBottomMargin": false
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 8
+        },
+        {
+          "class": "DepictionScreenshotsView",
+          "itemCornerRadius": 0,
+          "itemSize": "{700, 700}",
+          "screenshots": [
+            {
+              "accessibilityText": "Screenshot",
+              "url": "https://trollstorex.github.io/sileodepiction/KS/pic1.png"
+            }
+          ]
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 16
+        },
+        {
+          "class": "DepictionHeaderView",
+          "title": "详情",
+          "useBoldText": true,
+          "useBottomMargin": false
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 8
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "text": "1.0.6-3",
+          "title": "插件版本",
+          "class": "DepictionTableTextView"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "text": "iOS 15 - iOS 17.0",
+          "title": "支持系统"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "text": "2024 年 09 月 26 日",
+          "title": "最后更新"
+        },
+        {
+          "title": "抖音图层｜Telegram",
+          "action": "https://t.me/DouYinHook",
+          "openExternal": 1,
+          "class": "DepictionTableButtonView"
+        }
+      ],
+      "class": "DepictionStackView",
+      "tabname": "描述"
+    },
+    {
+      "views": [
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "### 1.0.6-3\n- 初始发布"
+        }
+      ],
+      "class": "DepictionStackView",
+      "tabname": "更新"
+    }
+  ],
+  "class": "DepictionTabView"
+}

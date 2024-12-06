@@ -1,0 +1,93 @@
+{
+  "class": "DepictionTabView",
+  "headerImage": "https://TrollStore-Pro.Github.io/repo/depictions/image/com.lenglengyu.passbyccs/header/header.png",
+  "tintColor": "#59AEBC",
+  "minVersion": "0.3",
+  "tabs": [
+    {
+      "tabname": "描述",
+      "views": [
+        {
+          "class": "DepictionButtonView",
+          "text": "加入全能玩机交流群 Chat",
+          "action": "https://t.me/+RVJMILhu36lmYTY9",
+          "openExternal": 1
+        },
+        {
+          "markdown": "控制中心模块，临时绕过面容  </br> </br> 修改为 FaceID 图标，无设置选项",
+          "useBoldText": true,
+          "useRawFormat": true,
+          "class": "DepictionMarkdownView"
+        },
+        {
+          "itemCornerRadius": 6,
+          "itemSize": "{160, 346.4533333333333}",
+          "screenshots": [
+            {
+              "accessibilityText": "Screenshot",
+              "url": "https://trollstorex.github.io/sileodepiction/PassbyCC/pic1.png"
+            },
+            {
+              "accessibilityText": "Screenshot",
+              "url": "https://trollstorex.github.io/sileodepiction/PassbyCC/pic2.png"
+            }
+          ],
+          "class": "DepictionScreenshotsView"
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 16
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 16
+        },
+        {
+          "class": "DepictionHeaderView",
+          "title": "详情",
+          "useBoldText": true,
+          "useBottomMargin": false
+        },
+        {
+          "spacing": 8,
+          "class": "DepictionSpacerView"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "text": "1.0.2",
+          "title": "最新版本"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "text": "iOS 15 - iOS 16.6.1",
+          "title": "支持系统范围"
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 16
+        }
+      ],
+      "class": "DepictionStackView"
+    },
+    {
+      "tabname": "更新",
+      "views": [
+        {
+          "class": "DepictionSubheaderView",
+          "title": "1.0.2",
+          "useBoldText": true,
+          "useBottomMargin": false
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "未知",
+          "useRawFormat": true
+        }
+      ],
+      "class": "DepictionStackView"
+    }
+  ]
+}

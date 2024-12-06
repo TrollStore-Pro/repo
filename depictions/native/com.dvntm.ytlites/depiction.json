@@ -1,0 +1,124 @@
+{
+  "class": "DepictionTabView",
+  "headerImage": "https://TrollStore-Pro.Github.io/repo/depictions/image/com.dvntm.ytlites/header/header.png",
+  "tintColor": "#FD0000",
+  "minVersion": "0.3",
+  "tabs": [
+    {
+      "class": "DepictionStackView",
+      "tabname": "描述",
+      "views": [
+        {
+          "text": "加入全能玩机交流群 Chat",
+          "action": "https://t.me/+RVJMILhu36lmYTY9",
+          "openExternal": 1,
+          "class": "DepictionButtonView"
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "openExternal": 1,
+          "class": "DepictionTableButtonView",
+          "title": "YouTube Lite Telegram",
+          "action": "https://t.me/dvntms"
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "useSpacing": true,
+          "class": "DepictionMarkdownView",
+          "markdown": "## YouTube 增强插件\n- 支持去广告\n- 视频下载\n- 隐藏各种按钮元素\n- 包括各种自定功能等"
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 8
+        },
+        {
+          "class": "DepictionHeaderView",
+          "title": "预览",
+          "useBoldText": true,
+          "useBottomMargin": false
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 8
+        },
+        {
+          "class": "DepictionScreenshotsView",
+          "itemCornerRadius": 0,
+          "itemSize": "{240, 520}",
+          "screenshots": [
+            {
+              "accessibilityText": "Screenshot",
+              "url": "https://trollstorex.github.io/sileodepiction/YTlite/pic1.png"
+            },
+            {
+              "accessibilityText": "Screenshot",
+              "url": "https://trollstorex.github.io/sileodepiction/YTlite/pic2.png"
+            },
+            {
+              "accessibilityText": "Screenshot",
+              "url": "https://trollstorex.github.io/sileodepiction/YTlite/pic3.png"
+            },
+            {
+              "accessibilityText": "Screenshot",
+              "url": "https://trollstorex.github.io/sileodepiction/YTlite/pic4.png"
+            },
+            {
+              "accessibilityText": "Screenshot",
+              "url": "https://trollstorex.github.io/sileodepiction/YTlite/pic5.png"
+            }
+          ]
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 16
+        },
+        {
+          "class": "DepictionHeaderView",
+          "title": "详情",
+          "useBoldText": true,
+          "useBottomMargin": false
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 8
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "title": "当前版本",
+          "class": "DepictionTableTextView",
+          "text": "5.1"
+        },
+        {
+          "title": "支持系统",
+          "class": "DepictionTableTextView",
+          "text": "iOS 15 - iOS 17.0"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "text": "2024 年 12 月 01 日",
+          "title": "最后更新"
+        }
+      ]
+    },
+    {
+      "class": "DepictionStackView",
+      "tabname": "更新",
+      "views": [
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "### 5.1\n- 修复大量 bug\n- 修复视频下载闪退\n- 新增各种功能",
+          "useSpacing": true
+        }
+      ]
+    }
+  ]
+}

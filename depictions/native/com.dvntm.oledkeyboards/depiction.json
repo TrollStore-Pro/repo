@@ -1,0 +1,108 @@
+{
+  "headerImage": "https://TrollStore-Pro.Github.io/repo/depictions/image/com.dvntm.oledkeyboards/header/header.png",
+  "tintColor": "#1DD660",
+  "minVersion": "0.3",
+  "tabs": [
+    {
+      "class": "DepictionStackView",
+      "tabname": "描述",
+      "views": [
+        {
+          "action": "https://t.me/+RVJMILhu36lmYTY9",
+          "openExternal": 1,
+          "class": "DepictionButtonView",
+          "text": "加入全能玩机交流群 Chat"
+        },
+        {
+          "markdown": "## 深色模式下键盘背景显示为纯黑\n- OLED Dark Mode for iOS System Keyboard",
+          "useSpacing": true,
+          "class": "DepictionMarkdownView"
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 8
+        },
+        {
+          "class": "DepictionHeaderView",
+          "title": "预览",
+          "useBoldText": true,
+          "useBottomMargin": false
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 8
+        },
+        {
+          "itemCornerRadius": 25,
+          "itemSize": "{240, 520}",
+          "screenshots": [
+            {
+              "accessibilityText": "Screenshot",
+              "url": "https://trollstorex.github.io/sileodepiction/OledKeyboard/pic1.png"
+            },
+            {
+              "accessibilityText": "Screenshot",
+              "url": "https://trollstorex.github.io/sileodepiction/OledKeyboard/pic2.png"
+            }
+          ],
+          "class": "DepictionScreenshotsView"
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 16
+        },
+        {
+          "class": "DepictionHeaderView",
+          "title": "详情",
+          "useBoldText": true,
+          "useBottomMargin": false
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 8
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "text": "0.0.3",
+          "title": "插件版本",
+          "class": "DepictionTableTextView"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "text": "iOS 15 - iOS 17.0",
+          "title": "支持系统"
+        },
+        {
+          "title": "最后更新",
+          "class": "DepictionTableTextView",
+          "text": "2024 年 10 月 12 日"
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "title": "OledKeyboard 开源 Github 地址",
+          "action": "https://github.com/dayanch96/OledKeyboard",
+          "openExternal": 1,
+          "class": "DepictionTableButtonView"
+        }
+      ]
+    },
+    {
+      "class": "DepictionStackView",
+      "tabname": "更新",
+      "views": [
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "### 0.3\n- 支持自动填充键盘纯黑背景\n- 支持键盘上方的条形纯黑背景"
+        }
+      ]
+    }
+  ],
+  "class": "DepictionTabView"
+}

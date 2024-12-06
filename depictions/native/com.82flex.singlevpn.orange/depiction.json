@@ -1,0 +1,106 @@
+{
+  "class": "DepictionTabView",
+  "headerImage": "https://TrollStore-Pro.Github.io/repo/depictions/image/com.82flex.singlevpn.orange/header/header.png",
+  "tintColor": "#FF9E07",
+  "minVersion": "0.3",
+  "tabs": [
+    {
+      "views": [
+        {
+          "class": "DepictionButtonView",
+          "text": "加入全能玩机交流群 Chat",
+          "action": "https://t.me/+RVJMILhu36lmYTY9",
+          "openExternal": 1
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionTableButtonView",
+          "title": "No Redirect Github 开源地址",
+          "action": "https://github.com/Lessica/NoRedirect",
+          "openExternal": 1
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "markdown": "### 连接 VPN 时\n ### Wi-Fi 和 移动数据图标着色：橙色 🟠\n- Combine VPN state and wireless state into one icon.",
+          "useSpacing": true,
+          "class": "DepictionMarkdownView"
+        },
+        {
+          "screenshots": [
+            {
+              "accessibilityText": "Screenshot",
+              "url": "https://trollstorex.github.io/sileodepiction/SingleVPN/pic1.png"
+            },
+            {
+              "accessibilityText": "Screenshot",
+              "url": ""
+            }
+          ],
+          "class": "DepictionScreenshotsView",
+          "itemCornerRadius": 6,
+          "itemSize": "{160, 346.4533333333333}"
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 16
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 16
+        },
+        {
+          "class": "DepictionHeaderView",
+          "title": "详情",
+          "useBoldText": true,
+          "useBottomMargin": false
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 8
+        },
+        {
+          "class": "DepictionTableTextView",
+          "text": "1.0",
+          "title": "插件版本"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "text": "iOS 15 - iOS 16.6.1",
+          "title": "支持系统"
+        },
+        {
+          "spacing": 16,
+          "class": "DepictionSpacerView"
+        },
+        {
+          "textColor": "aaa",
+          "fontSize": 15,
+          "alignment": 1,
+          "text": "© 2024",
+          "class": "DepictionLabelView",
+          "useMargins": false,
+          "usePadding": false
+        }
+      ],
+      "class": "DepictionStackView",
+      "tabname": "描述"
+    },
+    {
+      "class": "DepictionStackView",
+      "tabname": "更新",
+      "views": [
+        {
+          "markdown": "### 1.0\n- 初始发布",
+          "class": "DepictionMarkdownView"
+        }
+      ]
+    }
+  ]
+}

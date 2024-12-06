@@ -1,0 +1,111 @@
+{
+  "class": "DepictionTabView",
+  "headerImage": "https://TrollStore-Pro.Github.io/repo/depictions/image/com.shepgoba.settingswidgetss/header/header.png",
+  "tintColor": "#804FF8",
+  "minVersion": "0.3",
+  "tabs": [
+    {
+      "tabname": "描述",
+      "views": [
+        {
+          "action": "https://t.me/+RVJMILhu36lmYTY9",
+          "openExternal": 1,
+          "class": "DepictionButtonView",
+          "text": "加入全能玩机交流群 Chat"
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "title": "开发者 shepgoba Twitter",
+          "action": "https://x.com/shepgoba?s=21",
+          "openExternal": 1,
+          "class": "DepictionTableButtonView"
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "markdown": "### 将好看的小部件带到设置首页！\n- Bring good looking widgets to the front page of settings!",
+          "useSpacing": true,
+          "class": "DepictionMarkdownView"
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "useBoldText": true,
+          "useBottomMargin": false,
+          "class": "DepictionHeaderView",
+          "title": "预览"
+        },
+        {
+          "itemCornerRadius": 25,
+          "itemSize": "{240, 520}",
+          "screenshots": [
+            {
+              "accessibilityText": "Screenshot",
+              "url": "https://trollstorex.github.io/sileodepiction/SettingsWidgets/pic1.png"
+            },
+            {
+              "url": "https://trollstorex.github.io/sileodepiction/SettingsWidgets/pic2.png",
+              "accessibilityText": "Screenshot"
+            },
+            {
+              "accessibilityText": "Screenshot",
+              "url": "https://trollstorex.github.io/sileodepiction/SettingsWidgets/pic3.png"
+            },
+            {
+              "accessibilityText": "Screenshot",
+              "url": "https://trollstorex.github.io/sileodepiction/SettingsWidgets/pic4.png"
+            }
+          ],
+          "class": "DepictionScreenshotsView"
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 16
+        },
+        {
+          "useBoldText": true,
+          "useBottomMargin": false,
+          "class": "DepictionHeaderView",
+          "title": "详情"
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 8
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "text": "1.2.3",
+          "title": "插件版本"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "text": "iOS 15 - iOS 17.0",
+          "title": "支持系统"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "text": "2024 年 10 月 10 日",
+          "title": "最后更新"
+        }
+      ],
+      "class": "DepictionStackView"
+    },
+    {
+      "class": "DepictionStackView",
+      "tabname": "更新",
+      "views": [
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "暂无"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "tintColor": "#4158A6",
+  "minVersion": "0.3",
+  "tabs": [
+    {
+      "views": [
+        {
+          "action": "https://t.me/+RVJMILhu36lmYTY9",
+          "openExternal": 1,
+          "class": "DepictionButtonView",
+          "text": "加入全能玩机交流群 Chat"
+        },
+        {
+          "markdown": "## 页面自动滑动\n- 安装生效无设置选项\n- 跟随你的手指滑动幅度，页面始终自动滑动，直到你触摸屏幕才停止\n- [阿立视频效果演示](https://t.me/iOS_TrollStore/3731?comment=2798945)",
+          "useSpacing": true,
+          "class": "DepictionMarkdownView"
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 8
+        },
+        {
+          "title": "预览",
+          "useBoldText": true,
+          "useBottomMargin": false,
+          "class": "DepictionHeaderView"
+        },
+        {
+          "spacing": 8,
+          "class": "DepictionSpacerView"
+        },
+        {
+          "class": "DepictionScreenshotsView",
+          "itemCornerRadius": 25,
+          "itemSize": "{240, 175}",
+          "screenshots": [
+            {
+              "accessibilityText": "Screenshot",
+              "url": "https://trollstorex.github.io/sileodepiction/repo_pic/meinv.png"
+            },
+            {
+              "accessibilityText": "Screenshot",
+              "url": "https://trollstorex.github.io/sileodepiction/repo_pic/meinv1.png"
+            }
+          ]
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 16
+        },
+        {
+          "class": "DepictionHeaderView",
+          "title": "详情",
+          "useBoldText": true,
+          "useBottomMargin": false
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 8
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "text": "1.0",
+          "title": "插件版本"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "text": "iOS 15 - iOS 17.0",
+          "title": "支持系统"
+        }
+      ],
+      "class": "DepictionStackView",
+      "tabname": "描述"
+    }
+  ],
+  "class": "DepictionTabView",
+  "headerImage": "https://TrollStore-Pro.Github.io/repo/depictions/image/com.autoscroll.jb/header/header.png"
+}

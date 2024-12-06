@@ -1,0 +1,162 @@
+{
+  "class": "DepictionTabView",
+  "headerImage": "https://TrollStore-Pro.Github.io/repo/depictions/image/com.eevee.spotifys/header/header.png",
+  "tintColor": "#1DD660",
+  "minVersion": "0.3",
+  "tabs": [
+    {
+      "class": "DepictionStackView",
+      "tabname": "描述",
+      "views": [
+        {
+          "text": "加入全能玩机交流群 Chat",
+          "action": "https://t.me/+RVJMILhu36lmYTY9",
+          "openExternal": 1,
+          "class": "DepictionButtonView"
+        },
+        {
+          "markdown": "## Spotify Premium \n- 该插件让 Spotify 认为您有高级订阅，提供免费播放，就像 Spotilife 一样，并提供一些附加功能，如自定义歌词等\n- A tweak to get Spotify Premium for free, just like Spotilife",
+          "useSpacing": true,
+          "class": "DepictionMarkdownView"
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 8
+        },
+        {
+          "title": "预览",
+          "useBoldText": true,
+          "useBottomMargin": false,
+          "class": "DepictionHeaderView"
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 8
+        },
+        {
+          "class": "DepictionScreenshotsView",
+          "itemCornerRadius": 25,
+          "itemSize": "{700, 700}",
+          "screenshots": [
+            {
+              "accessibilityText": "Screenshot",
+              "url": "https://trollstorex.github.io/sileodepiction/Eevee/pic1.png"
+            },
+            {
+              "accessibilityText": "Screenshot",
+              "url": "https://trollstorex.github.io/sileodepiction/Eevee/pic2.png"
+            },
+            {
+              "accessibilityText": "Screenshot",
+              "url": "https://trollstorex.github.io/sileodepiction/Eevee/pic3.png"
+            },
+            {
+              "url": "https://trollstorex.github.io/sileodepiction/Eevee/pic4.png",
+              "accessibilityText": "Screenshot"
+            }
+          ]
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 16
+        },
+        {
+          "class": "DepictionHeaderView",
+          "title": "详情",
+          "useBoldText": true,
+          "useBottomMargin": false
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 8
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "text": "5.8.1",
+          "title": "插件版本"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "text": "iOS 15 - iOS 17.0",
+          "title": "支持系统"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "text": "2024 年 11 月 18 日",
+          "title": "最后更新"
+        },
+        {
+          "title": "Spotify Eevee Github 开源地址",
+          "action": "https://github.com/whoeevee/EeveeSpotify",
+          "openExternal": 1,
+          "class": "DepictionTableButtonView"
+        }
+      ]
+    },
+    {
+      "class": "DepictionStackView",
+      "tabname": "更新",
+      "views": [
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "### 5.8.1\n- 由 @gototheskinny 更新了土耳其语本地化\n- 由 @ElliotCHEN37 更新了繁体中文本地化\n- 由 @HackZy01 更新了波兰语本地化\n- 由 @Incognito-Coder 更新了波斯语本地化"
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "### 5.8\n- 请求为 Musixmatch 提供匿名令牌选项\n- 阿拉伯语（埃及）、匈牙利语和罗马尼亚语本地化由 @RikyPy 提供\n- 土耳其语本地化更新，由 @gototheskinny 提供\n- 意大利语本地化更新，由 @RikyPy 提供\n- 越南语本地化更新，由 @Richard-NDC 和 @hieuck 提供\n- 简体中文本地化更新，由 @xiangfeidexiaohuo 提供\n- 丹麦语本地化更新，由 @UnexcitingDean 提供"
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "### 5.7\n- EeveeSpotify 现在使用默认本地化来填补缺失的字符串\n- @zrvpuna 提供的日语本地化\n- @longopy 更新的西班牙语本地化\n- @wlxxd 更新的德语本地化\n- @KAGUYA-1137 更新的日语本地化"
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "### 5.6\n- 新增不替换歌词选项\n- 实际修复了本地文件传输问题 (#437) \n- 修复了部分歌曲使用Musixmatch显示罗马化歌词时的崩溃问题 (#452) \n- 由@LPCC12提供的葡萄牙语本地化\n- 由@dvirzxc提供的加泰罗尼亚语本地化\n- 由@LIKVIDATOR1337更新的乌克兰语本地化\n- 由@xiangfeidexiaohuo更新的简体中文本地化\n- 由@ElliotCHEN37更新的繁体中文本地化\n- 由@UnexcitingDean更新的丹麦语本地化\n- 由@Richard-NDC和@hieuck更新的越南语本地化\n- 由@Incognito-Coder更新的波斯语本地化\n- 由@RikyPy更新的意大利语本地化"
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "### 5.5\n- 贡献者列表\n- 可能修复了本地文件传输的问题（#437）\n- 默认字符串（取消、确定等）现在已通过UIKit本地化"
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "### 5.4 \n- 新增乌克兰语本地化@LIKVIDATOR1337\n- 新增土耳其语本土化@gototheskinny\n- 新增丹麦语本地化@UnexcitingDean"
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "### 5.3\n- 在艺术家页面中增加了“喜欢的歌曲”功能\n- 改进了“重置数据”选项（现在会清除 /Library/Caches/，并加入进度动画）\n- 更新了导出的配置\n- 修复了点击歌曲页面上的三点菜单时应用崩溃的问题\n- 将 swift-protobuf 更新至 1.28.1，Swift 更新至版本 6（Xcode 16.0）\n- 修复了下载操作导致的应用崩溃问题，改进了挂钩逻辑\n- 现在所有用户都可以使用 PetitLyrics \n- @xiangfeidexiaohuo 更新了简体中文翻译\n- @ElliotCHEN37 更新了繁体中文翻译\n- @Richard-NDC 更新了越南语翻译"
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "### 5.2\n- 新增巴西语言本地化，法语本地化更正"
+        }
+      ]
+    }
+  ]
+}

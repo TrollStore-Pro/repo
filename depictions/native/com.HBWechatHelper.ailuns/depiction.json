@@ -1,0 +1,130 @@
+{
+  "class": "DepictionTabView",
+  "headerImage": "https://TrollStore-Pro.Github.io/repo/depictions/image/com.HBWechatHelper.ailuns/header/header.png",
+  "tintColor": "#FCCD2A",
+  "minVersion": "0.3",
+  "tabs": [
+    {
+      "class": "DepictionStackView",
+      "tabname": "描述",
+      "views": [
+        {
+          "text": "加入全能玩机交流群 Chat",
+          "action": "https://t.me/+RVJMILhu36lmYTY9",
+          "openExternal": 1,
+          "class": "DepictionButtonView"
+        },
+        {
+          "markdown": " ## 微信插件\n- 一个微信插件文本转语音（付费功能）\n- 点歌朋友圈一键点赞等诸多功能\n- 发送网络语录舔狗日记骂人等文案\n- 4K原图手绘壁纸等\n- 抢私聊红包\n- 自定义信息尾巴\n- 自定义拍一拍、百变小尾巴、实时尾巴时间等功能",
+          "useSpacing": true,
+          "class": "DepictionMarkdownView"
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 8
+        },
+        {
+          "useBoldText": true,
+          "useBottomMargin": false,
+          "class": "DepictionHeaderView",
+          "title": "预览"
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 8
+        },
+        {
+          "class": "DepictionScreenshotsView",
+          "itemCornerRadius": 0,
+          "itemSize": "{700, 700}",
+          "screenshots": [
+            {
+              "accessibilityText": "Screenshot",
+              "url": "https://trollstorex.github.io/sileodepiction/HB/pic1.png"
+            },
+            {
+              "accessibilityText": "Screenshot",
+              "url": "https://trollstorex.github.io/sileodepiction/HB/pic2.png"
+            },
+            {
+              "url": "https://trollstorex.github.io/sileodepiction/HB/pic3.png",
+              "accessibilityText": "Screenshot"
+            },
+            {
+              "accessibilityText": "Screenshot",
+              "url": "https://trollstorex.github.io/sileodepiction/HB/pic4.png"
+            }
+          ]
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 16
+        },
+        {
+          "class": "DepictionHeaderView",
+          "title": "详情",
+          "useBoldText": true,
+          "useBottomMargin": false
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 8
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "text": "1.7-8",
+          "title": "插件版本"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "text": "iOS 15 - iOS 17.0",
+          "title": "支持系统"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "text": "2024 年 11 月 12 日",
+          "title": "最后更新"
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "title": "黄白助手官方 Telegram 频道",
+          "action": "https://t.me/HbHelper",
+          "openExternal": 1,
+          "class": "DepictionTableButtonView"
+        }
+      ]
+    },
+    {
+      "class": "DepictionStackView",
+      "tabname": "更新",
+      "views": [
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "### 1.7-8\n- 临时修复微软语音接口修复地区无法访问问题\n- 支持导出本地音色配置\n- 支持纳入本地音色配置\n- 支持删除异常音色配置\n- 新增音色记忆选择功能\n- 新增添加本地明星音色配置\n- 所有功能基于内测群员给予补偿\n- 所有语音都基于本地请求官网服务器转换\n- 考虑情况决定是否把微软音色替换成一个全新的这一版有什么问题尽快说明"
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "### 1.7-7\n- 该版本未更新任何功能\n- 仅为打某些🤡的脸\n- 一言不合就喊跑路\n- 内测用户强烈建议更新\n- 该版本无需群验证且7天检测一次授权\n- 避免授权失效问题\n- 昨晚还在维护 谈何跑路\n- 待一切处理完整后开源"
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "### 1.7.6\n- 优化"
+        }
+      ]
+    }
+  ]
+}

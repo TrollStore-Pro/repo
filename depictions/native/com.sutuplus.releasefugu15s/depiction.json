@@ -1,0 +1,101 @@
+{
+  "class": "DepictionTabView",
+  "headerImage": "https://TrollStore-Pro.Github.io/repo/depictions/image/com.sutuplus.releasefugu15s/header/header.png",
+  "tintColor": "#EE66A6",
+  "minVersion": "0.3",
+  "tabs": [
+    {
+      "tabname": "描述",
+      "views": [
+        {
+          "text": "加入全能玩机交流群 Chat",
+          "action": "https://t.me/+RVJMILhu36lmYTY9",
+          "openExternal": 1,
+          "class": "DepictionButtonView"
+        },
+        {
+          "markdown": "## 微信主题插件",
+          "useSpacing": true,
+          "class": "DepictionMarkdownView"
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 8
+        },
+        {
+          "useBottomMargin": false,
+          "class": "DepictionHeaderView",
+          "title": "预览",
+          "useBoldText": true
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 8
+        },
+        {
+          "class": "DepictionScreenshotsView",
+          "itemCornerRadius": 0,
+          "itemSize": "{700, 700}",
+          "screenshots": [
+            {
+              "url": "https://trollstorex.github.io/sileodepiction/Sutu/pic1.png",
+              "accessibilityText": "Screenshot"
+            }
+          ]
+        },
+        {
+          "spacing": 16,
+          "class": "DepictionSpacerView"
+        },
+        {
+          "class": "DepictionHeaderView",
+          "title": "详情",
+          "useBoldText": true,
+          "useBottomMargin": false
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 8
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "text": "5.9.2-1",
+          "title": "插件版本"
+        },
+        {
+          "text": "iOS 15 - iOS 17.0",
+          "title": "支持系统",
+          "class": "DepictionTableTextView"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "text": "2024 年 12 月 01 日",
+          "title": "最后更新"
+        },
+        {
+          "title": "苏兔公众号",
+          "action": "https://mp.weixin.qq.com/s/gk_-xeGIu8CqWL9cWrcr1g",
+          "openExternal": 1,
+          "class": "DepictionTableButtonView"
+        }
+      ],
+      "class": "DepictionStackView"
+    },
+    {
+      "class": "DepictionStackView",
+      "tabname": "更新",
+      "views": [
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "### 5.9.2-1\n- 新增 使用动态底栏图标 开关\n- 新增 启用原始红点素材设置开关\n- 新增 主题列表下滑定位到在用的\n- 修复 标题/昵称/备注色值 部分位置失效的问题\n- 修复 小店订单与卡包 图标失效问题\n- 新增部分映射\n- 修复部分机型顶栏可能存在异色缝隙"
+        }
+      ]
+    }
+  ]
+}

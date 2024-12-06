@@ -1,0 +1,121 @@
+{
+  "class": "DepictionTabView",
+  "headerImage": "https://TrollStore-Pro.Github.io/repo/depictions/image/com.netskao.awemedownloadmedias/header/header.png",
+  "tintColor": "#59AEBC",
+  "minVersion": "0.3",
+  "tabs": [
+    {
+      "class": "DepictionStackView",
+      "tabname": "描述",
+      "views": [
+        {
+          "openExternal": 1,
+          "class": "DepictionButtonView",
+          "text": "加入全能玩机交流群 Chat",
+          "action": "https://t.me/+RVJMILhu36lmYTY9"
+        },
+        {
+          "markdown": "## 抖音下载增强插件\n- 右下角显示下载按钮\n- 无水印保存图片、视频、LivePhoto\n- 仅在 31.7.0 及更高版本上进行测试",
+          "useSpacing": true,
+          "class": "DepictionMarkdownView"
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "## 使用提示\n- 评论区「图片/实况」无需点开大图，直接长按图片即可开始下载（不要点开大图）\n- 开启功能后只有在视频/图片右侧中的下载按钮中下载才为无水印",
+          "useSpacing": true
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 8
+        },
+        {
+          "class": "DepictionHeaderView",
+          "title": "预览",
+          "useBoldText": true,
+          "useBottomMargin": false
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 8
+        },
+        {
+          "class": "DepictionScreenshotsView",
+          "itemCornerRadius": 25,
+          "itemSize": "{240, 520}",
+          "screenshots": [
+            {
+              "accessibilityText": "Screenshot",
+              "url": "https://trollstorex.github.io/sileodepiction/AwemeDownloadMedia/pic1.png"
+            },
+            {
+              "accessibilityText": "Screenshot",
+              "url": "https://trollstorex.github.io/sileodepiction/AwemeDownloadMedia/pic2.png"
+            },
+            {
+              "accessibilityText": "Screenshot",
+              "url": "https://trollstorex.github.io/sileodepiction/AwemeDownloadMedia/pic3.png"
+            }
+          ]
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 16
+        },
+        {
+          "class": "DepictionHeaderView",
+          "title": "详情",
+          "useBoldText": true,
+          "useBottomMargin": false
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 8
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "text": "1.1-8",
+          "title": "插件版本"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "text": "iOS 15 - iOS 17.0",
+          "title": "支持系统"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "text": "2024 年 10 月 20 日",
+          "title": "最后更新"
+        },
+        {
+          "title": "Netskao 作者源",
+          "action": "https://jailrepo.initnil.com/",
+          "openExternal": 1,
+          "class": "DepictionTableButtonView"
+        }
+      ]
+    },
+    {
+      "views": [
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "### 1.1-8\n- 支持抖音 31.7.0 版本"
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "### 1.1-1\n- 初始发布"
+        }
+      ],
+      "class": "DepictionStackView",
+      "tabname": "更新"
+    }
+  ]
+}

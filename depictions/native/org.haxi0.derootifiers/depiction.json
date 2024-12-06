@@ -1,0 +1,95 @@
+{
+  "headerImage": "https://TrollStore-Pro.Github.io/repo/depictions/image/org.haxi0.derootifiers/header/header.png",
+  "tintColor": "#28C670",
+  "minVersion": "0.3",
+  "tabs": [
+    {
+      "class": "DepictionStackView",
+      "tabname": "描述",
+      "views": [
+        {
+          "text": "加入全能玩机交流群 Chat",
+          "action": "https://t.me/+RVJMILhu36lmYTY9",
+          "openExternal": 1,
+          "class": "DepictionButtonView"
+        },
+        {
+          "markdown": "## 有根转无根工具\n- arm to arm64\n- 仅支持「应用注入类」转换\n- 自动安装转换越狱依赖",
+          "useSpacing": true,
+          "class": "DepictionMarkdownView"
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 8
+        },
+        {
+          "class": "DepictionHeaderView",
+          "title": "预览",
+          "useBoldText": true,
+          "useBottomMargin": false
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 8
+        },
+        {
+          "class": "DepictionScreenshotsView",
+          "itemCornerRadius": 0,
+          "itemSize": "{700, 700}",
+          "screenshots": [
+            {
+              "accessibilityText": "Screenshot",
+              "url": "https://trollstorex.github.io/sileodepiction/Derootifier/pic1.png"
+            }
+          ]
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 16
+        },
+        {
+          "useBottomMargin": false,
+          "class": "DepictionHeaderView",
+          "title": "详情",
+          "useBoldText": true
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 8
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "text": "1.3",
+          "title": "插件版本"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "text": "iOS 15 - iOS 16.6.1",
+          "title": "支持系统"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "text": "2024 年 11 月 02 日",
+          "title": "最后更新"
+        }
+      ]
+    },
+    {
+      "class": "DepictionStackView",
+      "tabname": "使用教程",
+      "views": [
+        {
+          "markdown": "# 使用教程\n- 桌面打开 Derootifier\n- 选择「Select .deb file」导入 arm 有根插件\n- 再点击「Convert .deb」转换未无根\n- 转换成功插件保存路径为/var/mobile/.Derootifier/",
+          "class": "DepictionMarkdownView"
+        }
+      ]
+    }
+  ],
+  "class": "DepictionTabView"
+}

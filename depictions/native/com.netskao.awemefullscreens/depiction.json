@@ -1,0 +1,108 @@
+{
+  "class": "DepictionTabView",
+  "headerImage": "https://TrollStore-Pro.Github.io/repo/depictions/image/com.netskao.awemefullscreens/header/header.png",
+  "tintColor": "",
+  "minVersion": "0.3",
+  "tabs": [
+    {
+      "class": "DepictionStackView",
+      "tabname": "描述",
+      "views": [
+        {
+          "text": "加入全能玩机交流群 Chat",
+          "action": "https://t.me/+RVJMILhu36lmYTY9",
+          "openExternal": 1,
+          "class": "DepictionButtonView"
+        },
+        {
+          "markdown": "## 抖音视频全屏显示\n- 仅在 31.9.0 版本上进行测试\n- 插件开关位于抖音设置内",
+          "useSpacing": true,
+          "class": "DepictionMarkdownView"
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 8
+        },
+        {
+          "title": "预览",
+          "useBoldText": true,
+          "useBottomMargin": false,
+          "class": "DepictionHeaderView"
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 8
+        },
+        {
+          "screenshots": [
+            {
+              "url": "https://trollstorex.github.io/sileodepiction/AwemeFullScreen/pic3.png",
+              "accessibilityText": "Screenshot"
+            },
+            {
+              "accessibilityText": "Screenshot",
+              "url": "https://trollstorex.github.io/sileodepiction/AwemeFullScreen/pic4.png"
+            }
+          ],
+          "class": "DepictionScreenshotsView",
+          "itemCornerRadius": 0,
+          "itemSize": "{700, 700}"
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 16
+        },
+        {
+          "class": "DepictionHeaderView",
+          "title": "详情",
+          "useBoldText": true,
+          "useBottomMargin": false
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 8
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "text": "1.2-3",
+          "title": "当前版本"
+        },
+        {
+          "title": "支持系统",
+          "class": "DepictionTableTextView",
+          "text": "iOS 15 - iOS 17.0"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "text": "2024 年 11 月 06 日",
+          "title": "最后更新"
+        }
+      ]
+    },
+    {
+      "views": [
+        {
+          "markdown": "### 1.2-3\n- 首页直播界面关闭全屏显示",
+          "useSpacing": true,
+          "class": "DepictionMarkdownView"
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "markdown": "### 1.2-2\n- 重构插件\n- 新增插件开关设置",
+          "useSpacing": true,
+          "class": "DepictionMarkdownView"
+        }
+      ],
+      "class": "DepictionStackView",
+      "tabname": "更新"
+    }
+  ]
+}

@@ -1,0 +1,127 @@
+{
+  "tintColor": "#E92F11",
+  "minVersion": "0.3",
+  "tabs": [
+    {
+      "class": "DepictionStackView",
+      "tabname": "描述",
+      "views": [
+        {
+          "action": "https://t.me/+RVJMILhu36lmYTY9",
+          "openExternal": 1,
+          "class": "DepictionButtonView",
+          "text": "加入全能玩机交流群 Chat"
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "title": "乌龙工作室出品，必属精品",
+          "action": "https://havoc.app/search/82Flex",
+          "openExternal": 1,
+          "class": "DepictionTableButtonView"
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "markdown": "# ✋禁字诀\n- 阻止指定的应用重定向到 App Store、Safari 或其他应用。\n- Stop specified apps from redirecting to App Store, Safari or other apps.\n- 通过注入 SpringBoard 生效\n- 后续版本在 Havoc 源上架并收费0.99刀，不再更新\n [Havoc No Redirect](https://havoc.app/package/noredirect)",
+          "useSpacing": true,
+          "class": "DepictionMarkdownView"
+        },
+        {
+          "class": "DepictionScreenshotsView",
+          "itemCornerRadius": 6,
+          "itemSize": "{160, 346.4533333333333}",
+          "screenshots": [
+            {
+              "accessibilityText": "Screenshot",
+              "url": "https://trollstorex.github.io/sileodepiction/NoRedirect/pic1.png"
+            },
+            {
+              "url": "https://trollstorex.github.io/sileodepiction/NoRedirect/pic2.png",
+              "accessibilityText": "Screenshot"
+            }
+          ]
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 16
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 16
+        },
+        {
+          "useBoldText": true,
+          "useBottomMargin": false,
+          "class": "DepictionHeaderView",
+          "title": "详情"
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 8
+        },
+        {
+          "class": "DepictionTableTextView",
+          "text": "1.3",
+          "title": "插件版本"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "text": "iOS 15 - iOS 16.6.1",
+          "title": "支持系统"
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 16
+        },
+        {
+          "useMargins": false,
+          "usePadding": false,
+          "textColor": "aaa",
+          "fontSize": 15,
+          "alignment": 1,
+          "text": "© 2024",
+          "class": "DepictionLabelView"
+        }
+      ]
+    },
+    {
+      "tabname": "更新",
+      "views": [
+        {
+          "markdown": "### 1.3\n- 新增「历史记录」选项",
+          "class": "DepictionMarkdownView"
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "### 1.2\n- 修复 RootHide 和 iOS 14 支持\n- 「禁止被其他应用程序启动」选项现已排除系统应用\n- 新增「延迟解除」选项：每次 App 进入前台 10 秒后暂停拦截"
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "### 1.1\n- 添加“自定义放行”功能"
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "### 1.0\n- 初始发布"
+        }
+      ],
+      "class": "DepictionStackView"
+    }
+  ],
+  "class": "DepictionTabView",
+  "headerImage": "https://TrollStore-Pro.Github.io/repo/depictions/image/com.82flex.noredirects/header/header.png"
+}
