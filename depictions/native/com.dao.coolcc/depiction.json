@@ -5,8 +5,6 @@
   "minVersion": "0.3",
   "tabs": [
     {
-      "class": "DepictionStackView",
-      "tabname": "描述",
       "views": [
         {
           "class": "DepictionMarkdownView",
@@ -14,6 +12,7 @@
           "useRawFormat": true
         },
         {
+          "class": "DepictionScreenshotsView",
           "itemCornerRadius": 6,
           "itemSize": "{160, 346.4533333333333}",
           "screenshots": [
@@ -22,11 +21,10 @@
               "url": "https://TrollStore-Pro.Github.io/repo/depictions/image/com.dao.coolcc/screenshots/Screenshot_01.png"
             },
             {
-              "accessibilityText": "Screenshot",
-              "url": "https://TrollStore-Pro.Github.io/repo/depictions/image/com.dao.coolcc/screenshots/Screenshot_02.png"
+              "url": "https://TrollStore-Pro.Github.io/repo/depictions/image/com.dao.coolcc/screenshots/Screenshot_02.png",
+              "accessibilityText": "Screenshot"
             }
-          ],
-          "class": "DepictionScreenshotsView"
+          ]
         },
         {
           "class": "DepictionSpacerView",
@@ -36,8 +34,8 @@
           "class": "DepictionSeparatorView"
         },
         {
-          "spacing": 16,
-          "class": "DepictionSpacerView"
+          "class": "DepictionSpacerView",
+          "spacing": 16
         },
         {
           "class": "DepictionHeaderView",
@@ -46,8 +44,8 @@
           "useBottomMargin": false
         },
         {
-          "spacing": 8,
-          "class": "DepictionSpacerView"
+          "class": "DepictionSpacerView",
+          "spacing": 8
         },
         {
           "class": "DepictionTableTextView",
@@ -78,7 +76,9 @@
           "class": "DepictionSpacerView",
           "spacing": 16
         }
-      ]
+      ],
+      "class": "DepictionStackView",
+      "tabname": "描述"
     },
     {
       "class": "DepictionStackView",
@@ -96,15 +96,15 @@
           "useRawFormat": true
         },
         {
-          "useBoldText": true,
-          "useBottomMargin": false,
           "class": "DepictionSubheaderView",
-          "title": "2.0.2"
+          "title": "2.0.2",
+          "useBoldText": true,
+          "useBottomMargin": false
         },
         {
-          "useRawFormat": true,
           "class": "DepictionMarkdownView",
-          "markdown": "优化支持多语言"
+          "markdown": "优化支持多语言",
+          "useRawFormat": true
         },
         {
           "class": "DepictionSubheaderView",
@@ -113,9 +113,9 @@
           "useBottomMargin": false
         },
         {
+          "useRawFormat": true,
           "class": "DepictionMarkdownView",
-          "markdown": "laileld 和乌贼力量修复 alias20 版的一些问题，优化支持 iOS16 音量框。",
-          "useRawFormat": true
+          "markdown": "laileld 和乌贼力量修复 alias20 版的一些问题，优化支持 iOS16 音量框。"
         }
       ]
     }

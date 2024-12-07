@@ -4,14 +4,18 @@
   "minVersion": "0.3",
   "tabs": [
     {
+      "class": "DepictionStackView",
       "tabname": "描述",
       "views": [
         {
-          "class": "DepictionMarkdownView",
           "markdown": "完全可自由定制的通知横幅变色，根据开源编译/优化/汉化而来。",
-          "useRawFormat": true
+          "useRawFormat": true,
+          "class": "DepictionMarkdownView"
         },
         {
+          "class": "DepictionScreenshotsView",
+          "itemCornerRadius": 6,
+          "itemSize": "{160, 346.4533333333333}",
           "screenshots": [
             {
               "accessibilityText": "Screenshot",
@@ -21,10 +25,7 @@
               "accessibilityText": "Screenshot",
               "url": "https://TrollStore-Pro.Github.io/repo/depictions/image/com.dao.velvet2/screenshots/Screenshot_02.png"
             }
-          ],
-          "class": "DepictionScreenshotsView",
-          "itemCornerRadius": 6,
-          "itemSize": "{160, 346.4533333333333}"
+          ]
         },
         {
           "class": "DepictionSpacerView",
@@ -63,9 +64,9 @@
           "title": "最新版本"
         },
         {
+          "title": "支持系统范围",
           "class": "DepictionTableTextView",
-          "text": "15.0 - 16.5.1",
-          "title": "支持系统范围"
+          "text": "15.0 - 16.5.1"
         },
         {
           "class": "DepictionTableTextView",
@@ -76,10 +77,10 @@
           "class": "DepictionSpacerView",
           "spacing": 16
         }
-      ],
-      "class": "DepictionStackView"
+      ]
     },
     {
+      "class": "DepictionStackView",
       "tabname": "更新日志",
       "views": [
         {
@@ -93,8 +94,7 @@
           "markdown": "优化",
           "useRawFormat": true
         }
-      ],
-      "class": "DepictionStackView"
+      ]
     }
   ],
   "class": "DepictionTabView"

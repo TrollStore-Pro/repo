@@ -1,4 +1,8 @@
 {
+  "class": "DepictionTabView",
+  "headerImage": "https://TrollStore-Pro.Github.io/repo/depictions/image/com.dao.reverie/header/header.png",
+  "tintColor": "#1DBBFF",
+  "minVersion": "0.3",
   "tabs": [
     {
       "class": "DepictionStackView",
@@ -10,7 +14,6 @@
           "useRawFormat": true
         },
         {
-          "itemSize": "{160, 346.4533333333333}",
           "screenshots": [
             {
               "accessibilityText": "Screenshot",
@@ -22,11 +25,12 @@
             }
           ],
           "class": "DepictionScreenshotsView",
-          "itemCornerRadius": 6
+          "itemCornerRadius": 6,
+          "itemSize": "{160, 346.4533333333333}"
         },
         {
-          "spacing": 16,
-          "class": "DepictionSpacerView"
+          "class": "DepictionSpacerView",
+          "spacing": 16
         },
         {
           "class": "DepictionSeparatorView"
@@ -42,8 +46,8 @@
           "useBottomMargin": false
         },
         {
-          "class": "DepictionSpacerView",
-          "spacing": 8
+          "spacing": 8,
+          "class": "DepictionSpacerView"
         },
         {
           "class": "DepictionTableTextView",
@@ -56,23 +60,23 @@
           "title": "维护者"
         },
         {
-          "title": "最新版本",
           "class": "DepictionTableTextView",
-          "text": "0.6"
+          "text": "0.6",
+          "title": "最新版本"
         },
         {
-          "class": "DepictionTableTextView",
           "text": "13.0 - 15.9",
-          "title": "支持系统范围"
-        },
-        {
-          "text": "2024 年 05 月 17 日",
-          "title": "最后更新日期",
+          "title": "支持系统范围",
           "class": "DepictionTableTextView"
         },
         {
-          "class": "DepictionSpacerView",
-          "spacing": 16
+          "class": "DepictionTableTextView",
+          "text": "2024 年 05 月 17 日",
+          "title": "最后更新日期"
+        },
+        {
+          "spacing": 16,
+          "class": "DepictionSpacerView"
         }
       ]
     },
@@ -87,15 +91,11 @@
           "useBottomMargin": false
         },
         {
+          "class": "DepictionMarkdownView",
           "markdown": "重新编译，修复某些机器不生效的问题。",
-          "useRawFormat": true,
-          "class": "DepictionMarkdownView"
+          "useRawFormat": true
         }
       ]
     }
-  ],
-  "class": "DepictionTabView",
-  "headerImage": "https://TrollStore-Pro.Github.io/repo/depictions/image/com.dao.reverie/header/header.png",
-  "tintColor": "#1DBBFF",
-  "minVersion": "0.3"
+  ]
 }

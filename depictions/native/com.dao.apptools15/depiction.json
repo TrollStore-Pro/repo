@@ -9,9 +9,9 @@
       "tabname": "描述",
       "views": [
         {
-          "class": "DepictionMarkdownView",
           "markdown": "强大的App类辅助插件，可以清理缓存、备份程序、清理角标、自定义分辨率、禁止插件插件注入等，系付费插件，自行购买。",
-          "useRawFormat": true
+          "useRawFormat": true,
+          "class": "DepictionMarkdownView"
         },
         {
           "class": "DepictionScreenshotsView",
@@ -19,8 +19,8 @@
           "itemSize": "{160, 346.4533333333333}",
           "screenshots": [
             {
-              "accessibilityText": "Screenshot",
-              "url": "https://TrollStore-Pro.Github.io/repo/depictions/image/com.dao.apptools15/screenshots/Screenshot_01.png"
+              "url": "https://TrollStore-Pro.Github.io/repo/depictions/image/com.dao.apptools15/screenshots/Screenshot_01.png",
+              "accessibilityText": "Screenshot"
             },
             {
               "accessibilityText": "Screenshot",
@@ -50,9 +50,9 @@
           "spacing": 8
         },
         {
-          "class": "DepictionTableTextView",
           "text": "aReo",
-          "title": "作者"
+          "title": "作者",
+          "class": "DepictionTableTextView"
         },
         {
           "class": "DepictionTableTextView",
@@ -96,15 +96,15 @@
           "useRawFormat": true
         },
         {
-          "useBoldText": true,
           "useBottomMargin": false,
           "class": "DepictionSubheaderView",
-          "title": "1.2.8"
+          "title": "1.2.8",
+          "useBoldText": true
         },
         {
-          "class": "DepictionMarkdownView",
           "markdown": "新增时间变速功能，支持0.5-30倍变速（0为暂停）。",
-          "useRawFormat": true
+          "useRawFormat": true,
+          "class": "DepictionMarkdownView"
         },
         {
           "class": "DepictionSubheaderView",
@@ -124,9 +124,9 @@
           "useBottomMargin": false
         },
         {
+          "class": "DepictionMarkdownView",
           "markdown": "适配 iOS16 系统",
-          "useRawFormat": true,
-          "class": "DepictionMarkdownView"
+          "useRawFormat": true
         }
       ]
     }

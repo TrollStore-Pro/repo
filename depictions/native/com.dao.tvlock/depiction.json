@@ -1,14 +1,14 @@
 {
-  "headerImage": "https://TrollStore-Pro.Github.io/repo/depictions/image/com.dao.tvlock/header/header.png",
-  "tintColor": "#1DBBFF",
   "minVersion": "0.3",
   "tabs": [
     {
+      "class": "DepictionStackView",
+      "tabname": "描述",
       "views": [
         {
+          "useRawFormat": true,
           "class": "DepictionMarkdownView",
-          "markdown": "很棒的老电视关屏动画，根据开源编译，已内置简体中文。",
-          "useRawFormat": true
+          "markdown": "很棒的老电视关屏动画，根据开源编译，已内置简体中文。"
         },
         {
           "class": "DepictionScreenshotsView",
@@ -33,33 +33,33 @@
           "class": "DepictionSeparatorView"
         },
         {
-          "class": "DepictionSpacerView",
-          "spacing": 16
+          "spacing": 16,
+          "class": "DepictionSpacerView"
         },
         {
-          "class": "DepictionHeaderView",
-          "title": "详情",
           "useBoldText": true,
-          "useBottomMargin": false
+          "useBottomMargin": false,
+          "class": "DepictionHeaderView",
+          "title": "详情"
         },
         {
           "spacing": 8,
           "class": "DepictionSpacerView"
         },
         {
-          "title": "作者",
           "class": "DepictionTableTextView",
-          "text": "Wes"
-        },
-        {
-          "title": "维护者",
-          "class": "DepictionTableTextView",
-          "text": "Wes & 妖刀"
+          "text": "Wes",
+          "title": "作者"
         },
         {
           "class": "DepictionTableTextView",
-          "text": "1.2.3",
-          "title": "最新版本"
+          "text": "Wes & 妖刀",
+          "title": "维护者"
+        },
+        {
+          "title": "最新版本",
+          "class": "DepictionTableTextView",
+          "text": "1.2.3"
         },
         {
           "title": "支持系统范围",
@@ -67,17 +67,15 @@
           "text": "13.0 - 16.5.1"
         },
         {
-          "title": "最后更新日期",
           "class": "DepictionTableTextView",
-          "text": "2024 年 05 月 13 日"
+          "text": "2024 年 05 月 13 日",
+          "title": "最后更新日期"
         },
         {
-          "class": "DepictionSpacerView",
-          "spacing": 16
+          "spacing": 16,
+          "class": "DepictionSpacerView"
         }
-      ],
-      "class": "DepictionStackView",
-      "tabname": "描述"
+      ]
     },
     {
       "class": "DepictionStackView",
@@ -97,5 +95,7 @@
       ]
     }
   ],
-  "class": "DepictionTabView"
+  "class": "DepictionTabView",
+  "headerImage": "https://TrollStore-Pro.Github.io/repo/depictions/image/com.dao.tvlock/header/header.png",
+  "tintColor": "#1DBBFF"
 }

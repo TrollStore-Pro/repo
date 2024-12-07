@@ -9,9 +9,9 @@
       "tabname": "描述",
       "views": [
         {
+          "class": "DepictionMarkdownView",
           "markdown": "BHTwitter中文修复优化版，推特的综合功能性插件，插件选项位于推特设置顶部。",
-          "useRawFormat": true,
-          "class": "DepictionMarkdownView"
+          "useRawFormat": true
         },
         {
           "class": "DepictionScreenshotsView",
@@ -59,14 +59,14 @@
           "title": "作者"
         },
         {
-          "class": "DepictionTableTextView",
           "text": "Bandar Alruwaili & 妖刀",
-          "title": "维护者"
+          "title": "维护者",
+          "class": "DepictionTableTextView"
         },
         {
-          "class": "DepictionTableTextView",
           "text": "4.3-4",
-          "title": "最新版本"
+          "title": "最新版本",
+          "class": "DepictionTableTextView"
         },
         {
           "class": "DepictionTableTextView",
@@ -79,14 +79,12 @@
           "title": "最后更新日期"
         },
         {
-          "spacing": 16,
-          "class": "DepictionSpacerView"
+          "class": "DepictionSpacerView",
+          "spacing": 16
         }
       ]
     },
     {
-      "class": "DepictionStackView",
-      "tabname": "更新日志",
       "views": [
         {
           "class": "DepictionSubheaderView",
@@ -95,11 +93,13 @@
           "useBottomMargin": false
         },
         {
+          "class": "DepictionMarkdownView",
           "markdown": "小修复",
-          "useRawFormat": true,
-          "class": "DepictionMarkdownView"
+          "useRawFormat": true
         }
-      ]
+      ],
+      "class": "DepictionStackView",
+      "tabname": "更新日志"
     }
   ]
 }

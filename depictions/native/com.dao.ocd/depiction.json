@@ -1,15 +1,13 @@
 {
-  "tintColor": "#1DBBFF",
-  "minVersion": "0.3",
   "tabs": [
     {
       "class": "DepictionStackView",
       "tabname": "描述",
       "views": [
         {
+          "useRawFormat": true,
           "class": "DepictionMarkdownView",
-          "markdown": "根据 App 图标颜色来自适应 App 名称和角标的颜色。</br> </br> 替换插件图标且已经汉化，去掉一些效果不明显的选项。",
-          "useRawFormat": true
+          "markdown": "根据 App 图标颜色来自适应 App 名称和角标的颜色。</br> </br> 替换插件图标且已经汉化，去掉一些效果不明显的选项。"
         },
         {
           "class": "DepictionScreenshotsView",
@@ -38,14 +36,14 @@
           "spacing": 16
         },
         {
-          "class": "DepictionHeaderView",
           "title": "详情",
           "useBoldText": true,
-          "useBottomMargin": false
+          "useBottomMargin": false,
+          "class": "DepictionHeaderView"
         },
         {
-          "spacing": 8,
-          "class": "DepictionSpacerView"
+          "class": "DepictionSpacerView",
+          "spacing": 8
         },
         {
           "class": "DepictionTableTextView",
@@ -83,30 +81,32 @@
       "tabname": "更新日志",
       "views": [
         {
+          "useBoldText": true,
+          "useBottomMargin": false,
           "class": "DepictionSubheaderView",
-          "title": "4.0-3",
+          "title": "4.0-3"
+        },
+        {
+          "markdown": "同步更新汉化。",
+          "useRawFormat": true,
+          "class": "DepictionMarkdownView"
+        },
+        {
+          "class": "DepictionSubheaderView",
+          "title": "4.0-2",
           "useBoldText": true,
           "useBottomMargin": false
         },
         {
-          "class": "DepictionMarkdownView",
-          "markdown": "同步更新汉化。",
-          "useRawFormat": true
-        },
-        {
-          "useBoldText": true,
-          "useBottomMargin": false,
-          "class": "DepictionSubheaderView",
-          "title": "4.0-2"
-        },
-        {
-          "class": "DepictionMarkdownView",
           "markdown": "替换插件图标且已经汉化，去掉一些效果不明显的选项。",
-          "useRawFormat": true
+          "useRawFormat": true,
+          "class": "DepictionMarkdownView"
         }
       ]
     }
   ],
   "class": "DepictionTabView",
-  "headerImage": "https://TrollStore-Pro.Github.io/repo/depictions/image/com.dao.ocd/header/header.png"
+  "headerImage": "https://TrollStore-Pro.Github.io/repo/depictions/image/com.dao.ocd/header/header.png",
+  "tintColor": "#1DBBFF",
+  "minVersion": "0.3"
 }

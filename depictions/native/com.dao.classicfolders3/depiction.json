@@ -1,12 +1,8 @@
 {
-  "class": "DepictionTabView",
-  "headerImage": "https://TrollStore-Pro.Github.io/repo/depictions/image/com.dao.classicfolders3/header/header.png",
   "tintColor": "#1DBBFF",
   "minVersion": "0.3",
   "tabs": [
     {
-      "class": "DepictionStackView",
-      "tabname": "描述",
       "views": [
         {
           "class": "DepictionMarkdownView",
@@ -40,23 +36,23 @@
           "class": "DepictionSeparatorView"
         },
         {
-          "spacing": 16,
-          "class": "DepictionSpacerView"
+          "class": "DepictionSpacerView",
+          "spacing": 16
         },
         {
+          "class": "DepictionHeaderView",
           "title": "详情",
           "useBoldText": true,
-          "useBottomMargin": false,
-          "class": "DepictionHeaderView"
+          "useBottomMargin": false
         },
         {
           "class": "DepictionSpacerView",
           "spacing": 8
         },
         {
+          "class": "DepictionTableTextView",
           "text": "CoolStar & Lizynz",
-          "title": "作者",
-          "class": "DepictionTableTextView"
+          "title": "作者"
         },
         {
           "class": "DepictionTableTextView",
@@ -82,7 +78,9 @@
           "class": "DepictionSpacerView",
           "spacing": 16
         }
-      ]
+      ],
+      "class": "DepictionStackView",
+      "tabname": "描述"
     },
     {
       "class": "DepictionStackView",
@@ -111,10 +109,10 @@
           "useRawFormat": true
         },
         {
-          "class": "DepictionSubheaderView",
-          "title": "3.0.5.5",
           "useBoldText": true,
-          "useBottomMargin": false
+          "useBottomMargin": false,
+          "class": "DepictionSubheaderView",
+          "title": "3.0.5.5"
         },
         {
           "class": "DepictionMarkdownView",
@@ -139,9 +137,9 @@
           "useBottomMargin": false
         },
         {
-          "class": "DepictionMarkdownView",
           "markdown": "悬浮方式打开文件夹(无错位和闪屏Bug)</br> </br> 如果想展开文件夹为原始样式，可降级 v3.0.4.3。",
-          "useRawFormat": true
+          "useRawFormat": true,
+          "class": "DepictionMarkdownView"
         },
         {
           "class": "DepictionSubheaderView",
@@ -166,15 +164,15 @@
           "useRawFormat": true
         },
         {
-          "useBottomMargin": false,
           "class": "DepictionSubheaderView",
           "title": "3.0.4.1",
-          "useBoldText": true
+          "useBoldText": true,
+          "useBottomMargin": false
         },
         {
-          "useRawFormat": true,
           "class": "DepictionMarkdownView",
-          "markdown": "模糊加深"
+          "markdown": "模糊加深",
+          "useRawFormat": true
         },
         {
           "class": "DepictionSubheaderView",
@@ -183,9 +181,9 @@
           "useBottomMargin": false
         },
         {
+          "markdown": "文件夹展开方式改回原始样式，但是会有错位和闪屏bug。",
           "useRawFormat": true,
-          "class": "DepictionMarkdownView",
-          "markdown": "文件夹展开方式改回原始样式，但是会有错位和闪屏bug。"
+          "class": "DepictionMarkdownView"
         },
         {
           "class": "DepictionSubheaderView",
@@ -194,31 +192,31 @@
           "useBottomMargin": false
         },
         {
+          "class": "DepictionMarkdownView",
           "markdown": "重新梳理代码，重新编译。</br> </br> 与 Lizynz 大佬的 v3.0.4 主体源码一致，版本号不一样而已。",
-          "useRawFormat": true,
-          "class": "DepictionMarkdownView"
-        },
-        {
-          "useBoldText": true,
-          "useBottomMargin": false,
-          "class": "DepictionSubheaderView",
-          "title": "3.0.3.11"
-        },
-        {
-          "markdown": "蜜汁修复",
-          "useRawFormat": true,
-          "class": "DepictionMarkdownView"
+          "useRawFormat": true
         },
         {
           "class": "DepictionSubheaderView",
-          "title": "3.0.3.10",
+          "title": "3.0.3.11",
           "useBoldText": true,
           "useBottomMargin": false
         },
         {
-          "useRawFormat": true,
           "class": "DepictionMarkdownView",
-          "markdown": "Lizynz 修复翻页点相关问题"
+          "markdown": "蜜汁修复",
+          "useRawFormat": true
+        },
+        {
+          "title": "3.0.3.10",
+          "useBoldText": true,
+          "useBottomMargin": false,
+          "class": "DepictionSubheaderView"
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "Lizynz 修复翻页点相关问题",
+          "useRawFormat": true
         },
         {
           "class": "DepictionSubheaderView",
@@ -265,21 +263,21 @@
           "useRawFormat": true
         },
         {
-          "useBoldText": true,
-          "useBottomMargin": false,
           "class": "DepictionSubheaderView",
-          "title": "3.0.3.5"
+          "title": "3.0.3.5",
+          "useBoldText": true,
+          "useBottomMargin": false
         },
         {
-          "markdown": "同步 Lizynz 最新源码：</br> 1、修复了编辑文件夹时的错误</br> 2、支持 Bolders Reborn (仅限网格，最大 4x5)</br> </br> 刀刀更新：</br> 弃用 Lizynz 带开关的自动关闭文件夹，改用 v3.0.2.5 的自动关闭文件夹(强制开启，无设置)的方案。",
           "useRawFormat": true,
-          "class": "DepictionMarkdownView"
+          "class": "DepictionMarkdownView",
+          "markdown": "同步 Lizynz 最新源码：</br> 1、修复了编辑文件夹时的错误</br> 2、支持 Bolders Reborn (仅限网格，最大 4x5)</br> </br> 刀刀更新：</br> 弃用 Lizynz 带开关的自动关闭文件夹，改用 v3.0.2.5 的自动关闭文件夹(强制开启，无设置)的方案。"
         },
         {
-          "useBottomMargin": false,
           "class": "DepictionSubheaderView",
           "title": "3.0.3-1",
-          "useBoldText": true
+          "useBoldText": true,
+          "useBottomMargin": false
         },
         {
           "class": "DepictionMarkdownView",
@@ -293,9 +291,9 @@
           "useBottomMargin": false
         },
         {
-          "useRawFormat": true,
           "class": "DepictionMarkdownView",
-          "markdown": "1、设置新增“自动关闭”开关，可自由控制点击图标自动关闭文件夹；</br> 2、修复解锁设备后间歇性动画问题。"
+          "markdown": "1、设置新增“自动关闭”开关，可自由控制点击图标自动关闭文件夹；</br> 2、修复解锁设备后间歇性动画问题。",
+          "useRawFormat": true
         },
         {
           "class": "DepictionSubheaderView",
@@ -304,9 +302,9 @@
           "useBottomMargin": false
         },
         {
+          "class": "DepictionMarkdownView",
           "markdown": "同步 Lizynz 源码：修复打开文件夹时的某些 bug。",
-          "useRawFormat": true,
-          "class": "DepictionMarkdownView"
+          "useRawFormat": true
         },
         {
           "class": "DepictionSubheaderView",
@@ -315,15 +313,15 @@
           "useBottomMargin": false
         },
         {
-          "useRawFormat": true,
           "class": "DepictionMarkdownView",
-          "markdown": "1、刀刀增加点击文件夹内图标后自动关闭文件夹(强制开启，无设置)</br> 2、同步 Lizynz 源码：壁纸模糊"
+          "markdown": "1、刀刀增加点击文件夹内图标后自动关闭文件夹(强制开启，无设置)</br> 2、同步 Lizynz 源码：壁纸模糊",
+          "useRawFormat": true
         },
         {
+          "class": "DepictionSubheaderView",
           "title": "3.0.2",
           "useBoldText": true,
-          "useBottomMargin": false,
-          "class": "DepictionSubheaderView"
+          "useBottomMargin": false
         },
         {
           "class": "DepictionMarkdownView",
@@ -343,5 +341,7 @@
         }
       ]
     }
-  ]
+  ],
+  "class": "DepictionTabView",
+  "headerImage": "https://TrollStore-Pro.Github.io/repo/depictions/image/com.dao.classicfolders3/header/header.png"
 }

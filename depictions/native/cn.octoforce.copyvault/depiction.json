@@ -17,10 +17,13 @@
           "class": "DepictionSeparatorView"
         },
         {
-          "class": "DepictionMarkdownView",
-          "markdown": "激活码用户或需要激活码的用户安装此包，非激活码用户不要装。\n\nActivation code users or users who need an activation code install this package, Otherwise do not install this.\n\n简洁轻量化、功能丰富且易用的剪贴板。它可以不受系统限制地保存你复制过的文本、链接、图片等内容，并且可以精准搜索和自定义分组归档。\n"
+          "markdown": "激活码用户或需要激活码的用户安装此包，非激活码用户不要装。\n\nActivation code users or users who need an activation code install this package, Otherwise do not install this.\n\n简洁轻量化、功能丰富且易用的剪贴板。它可以不受系统限制地保存你复制过的文本、链接、图片等内容，并且可以精准搜索和自定义分组归档。\n",
+          "class": "DepictionMarkdownView"
         },
         {
+          "itemSize": "{370,456}",
+          "class": "DepictionScreenshotsView",
+          "itemCornerRadius": 14,
           "screenshots": [
             {
               "url": "https://TrollStore-Pro.Github.io/repo/depictions/image/cn.octoforce.copyvault/screenshots/1.jpg",
@@ -39,17 +42,14 @@
               "accessibilityText": "4.jpg"
             },
             {
-              "url": "https://TrollStore-Pro.Github.io/repo/depictions/image/cn.octoforce.copyvault/screenshots/5.jpg",
-              "accessibilityText": "5.jpg"
+              "accessibilityText": "5.jpg",
+              "url": "https://TrollStore-Pro.Github.io/repo/depictions/image/cn.octoforce.copyvault/screenshots/5.jpg"
             }
-          ],
-          "itemSize": "{370,456}",
-          "class": "DepictionScreenshotsView",
-          "itemCornerRadius": 14
+          ]
         },
         {
-          "markdown": "* 直观的界面\n* 可以保存文本/富文本/链接/图片等\n* 可使用正则表达式对剪贴板进行选择性保存\n* 支持JavaScript脚本处理\n* 可以给收藏区记录添加备注\n* 收藏区自定义分组\n* 通过文本内容搜索\n* 通过类型搜索(关键词是txt，url，img等)\n* 通过来源应用名搜索\n* 通过记录时间搜索(完整格式为2024-05-20 00:00，可截取部分搜索)\n* 通过备注搜索(比如给图片或长文字添加的备注)\n* 搜索支持智能大小写\n支持输入法中上滑唤出\n支持外接键盘快捷键唤出\n* 可自定义界面\n* 长按/左滑/右滑单条记录进行更多操作\n* 联动其他插件，如SquidGesture、DockX、Hammer It、Snapper等\n* 支持iOS/iPadOS\n",
-          "class": "DepictionMarkdownView"
+          "class": "DepictionMarkdownView",
+          "markdown": "* 直观的界面\n* 可以保存文本/富文本/链接/图片等\n* 可使用正则表达式对剪贴板进行选择性保存\n* 支持JavaScript脚本处理\n* 可以给收藏区记录添加备注\n* 收藏区自定义分组\n* 通过文本内容搜索\n* 通过类型搜索(关键词是txt，url，img等)\n* 通过来源应用名搜索\n* 通过记录时间搜索(完整格式为2024-05-20 00:00，可截取部分搜索)\n* 通过备注搜索(比如给图片或长文字添加的备注)\n* 搜索支持智能大小写\n支持输入法中上滑唤出\n支持外接键盘快捷键唤出\n* 可自定义界面\n* 长按/左滑/右滑单条记录进行更多操作\n* 联动其他插件，如SquidGesture、DockX、Hammer It、Snapper等\n* 支持iOS/iPadOS\n"
         },
         {
           "spacing": 15,
@@ -72,8 +72,8 @@
           "class": "DepictionTableTextView"
         },
         {
-          "class": "DepictionSpacerView",
-          "spacing": 16
+          "spacing": 16,
+          "class": "DepictionSpacerView"
         },
         {
           "spacing": 20,
@@ -86,17 +86,17 @@
       "tabname": "Changelog",
       "views": [
         {
+          "useBottomMargin": false,
           "class": "DepictionSubheaderView",
           "title": "1.7.0",
           "useBoldText": true,
-          "useSpacing": false,
-          "useBottomMargin": false
+          "useSpacing": false
         },
         {
+          "markdown": "1. 增加：正则表达式过滤设置\n2. 增加：窗口左上角增加一个简单菜单按钮，包括清空剪贴板，清理图片，跳转收藏排序(iOS15及以上显示总数)\n3. 增加：调整窗口圆角，并增加设置开关\n4. 优化：调整“自动粘贴”方案以适应更多输入框\n5. 优化：设置中收藏记录排序，增加保存按钮，以即时生效\n6. 修复：短时间移动收藏夹多条记录到自定义分组时，出现遗漏问题\n7. 修复：第三方键盘上滑调出窗口时，不能“总是显示历史”和“总是显示收藏”\n8. 调整：调高一点窗口层级\n9. 其他：一些优化和修复",
           "useSpacing": false,
           "useBottomMargin": false,
-          "class": "DepictionMarkdownView",
-          "markdown": "1. 增加：正则表达式过滤设置\n2. 增加：窗口左上角增加一个简单菜单按钮，包括清空剪贴板，清理图片，跳转收藏排序(iOS15及以上显示总数)\n3. 增加：调整窗口圆角，并增加设置开关\n4. 优化：调整“自动粘贴”方案以适应更多输入框\n5. 优化：设置中收藏记录排序，增加保存按钮，以即时生效\n6. 修复：短时间移动收藏夹多条记录到自定义分组时，出现遗漏问题\n7. 修复：第三方键盘上滑调出窗口时，不能“总是显示历史”和“总是显示收藏”\n8. 调整：调高一点窗口层级\n9. 其他：一些优化和修复"
+          "class": "DepictionMarkdownView"
         },
         {
           "title": "1.5.9",
@@ -112,11 +112,11 @@
           "class": "DepictionMarkdownView"
         },
         {
-          "class": "DepictionSubheaderView",
           "title": "1.5.8",
           "useBoldText": true,
           "useSpacing": false,
-          "useBottomMargin": false
+          "useBottomMargin": false,
+          "class": "DepictionSubheaderView"
         },
         {
           "markdown": "\t‣ 增加：清理历史记录中所有图片记录选项\n\t‣ 优化：总条目数或图片数量达到一定数量时，弹出窗口延迟问题\n\t‣ 优化：总条目数或图片数量达到一定数量时，复制新记录延迟问题\n\t‣ 修复：iOS14上“忽略来自其他设备的复制”开关无效",
@@ -125,56 +125,56 @@
           "class": "DepictionMarkdownView"
         },
         {
-          "title": "1.5.6",
-          "useBoldText": true,
-          "useSpacing": false,
-          "useBottomMargin": false,
-          "class": "DepictionSubheaderView"
-        },
-        {
-          "class": "DepictionMarkdownView",
-          "markdown": "\t‣ - 修复部分iPad上键盘按钮问题\n\t‣ - iPad键盘按钮设置加入限制，使其在iPhone上不生效\n\t‣ - 补充部分语言包遗漏字段\n\t‣ 若越狱环境为真皮版多巴胺，需要在/var/mobile/下新建一个叫.appex的文件或文件夹，才可使用第三方键盘上滑",
-          "useSpacing": false,
-          "useBottomMargin": false
-        },
-        {
           "useBoldText": true,
           "useSpacing": false,
           "useBottomMargin": false,
           "class": "DepictionSubheaderView",
-          "title": "1.5.5"
+          "title": "1.5.6"
         },
         {
           "useSpacing": false,
           "useBottomMargin": false,
           "class": "DepictionMarkdownView",
-          "markdown": "\t‣ 增加编辑：可编辑文本类条目\n\t‣ 增加JavaScript脚本支持：可通过编写JS脚本处理文本条目\n\t‣ 增加条目显示方式设置：默认模式、简约模式\n\t‣ 增加设置：收藏排序\n\t‣ 增加设置：唤起窗口显示页面(默认/历史/收藏)\n\t‣ 增加唤起窗口方式：iPad键盘左上角按钮\n\t‣ 增加外接键盘唤起窗口：⇧⌘V打开上次视图，⇧⌘C打开剪贴板，⇧⌘B打开收藏夹\n\t‣ 增加粘贴的声音反馈和设置\n\t‣ 优化保存成功的声音反馈\n\t‣ 去掉条目左右滑删除动画\n\t‣ 修复分享菜单有时不能关闭\n\t‣ 修复部分机型上复制大分辨率图片导致崩溃"
+          "markdown": "\t‣ - 修复部分iPad上键盘按钮问题\n\t‣ - iPad键盘按钮设置加入限制，使其在iPhone上不生效\n\t‣ - 补充部分语言包遗漏字段\n\t‣ 若越狱环境为真皮版多巴胺，需要在/var/mobile/下新建一个叫.appex的文件或文件夹，才可使用第三方键盘上滑"
         },
         {
           "useSpacing": false,
           "useBottomMargin": false,
           "class": "DepictionSubheaderView",
-          "title": "1.4.6",
+          "title": "1.5.5",
           "useBoldText": true
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "\t‣ 剪贴板记录长按：增加添加到收藏夹指定分类\n\t‣ 增加高级设置：禁用类别\n\t‣ 优化图片保存形式\n\t‣ 修复占用存储bug(如从旧版本更新，在插件设置内清除一次缓存)\n\t‣ 若越狱环境为真皮版多巴胺，需要在/var/mobile/下新建一个叫.appex的文件或文件夹，才可使用第三方键盘上滑",
+          "markdown": "\t‣ 增加编辑：可编辑文本类条目\n\t‣ 增加JavaScript脚本支持：可通过编写JS脚本处理文本条目\n\t‣ 增加条目显示方式设置：默认模式、简约模式\n\t‣ 增加设置：收藏排序\n\t‣ 增加设置：唤起窗口显示页面(默认/历史/收藏)\n\t‣ 增加唤起窗口方式：iPad键盘左上角按钮\n\t‣ 增加外接键盘唤起窗口：⇧⌘V打开上次视图，⇧⌘C打开剪贴板，⇧⌘B打开收藏夹\n\t‣ 增加粘贴的声音反馈和设置\n\t‣ 优化保存成功的声音反馈\n\t‣ 去掉条目左右滑删除动画\n\t‣ 修复分享菜单有时不能关闭\n\t‣ 修复部分机型上复制大分辨率图片导致崩溃",
           "useSpacing": false,
           "useBottomMargin": false
         },
         {
-          "title": "1.4.2",
+          "title": "1.4.6",
           "useBoldText": true,
           "useSpacing": false,
           "useBottomMargin": false,
           "class": "DepictionSubheaderView"
         },
         {
+          "markdown": "\t‣ 剪贴板记录长按：增加添加到收藏夹指定分类\n\t‣ 增加高级设置：禁用类别\n\t‣ 优化图片保存形式\n\t‣ 修复占用存储bug(如从旧版本更新，在插件设置内清除一次缓存)\n\t‣ 若越狱环境为真皮版多巴胺，需要在/var/mobile/下新建一个叫.appex的文件或文件夹，才可使用第三方键盘上滑",
           "useSpacing": false,
           "useBottomMargin": false,
-          "class": "DepictionMarkdownView",
-          "markdown": "\t‣ 条目长按添加共享选项\n\t‣ 增加选择保存类型设置\n\t‣ 若越狱环境为真皮版多巴胺，需要在/var/mobile/下新建一个叫.appex的文件或文件夹，才可使用第三方键盘上滑"
+          "class": "DepictionMarkdownView"
+        },
+        {
+          "useBoldText": true,
+          "useSpacing": false,
+          "useBottomMargin": false,
+          "class": "DepictionSubheaderView",
+          "title": "1.4.2"
+        },
+        {
+          "markdown": "\t‣ 条目长按添加共享选项\n\t‣ 增加选择保存类型设置\n\t‣ 若越狱环境为真皮版多巴胺，需要在/var/mobile/下新建一个叫.appex的文件或文件夹，才可使用第三方键盘上滑",
+          "useSpacing": false,
+          "useBottomMargin": false,
+          "class": "DepictionMarkdownView"
         },
         {
           "title": "1.4.1",
@@ -184,17 +184,17 @@
           "class": "DepictionSubheaderView"
         },
         {
-          "markdown": "\t‣ 调整条目长按布局\n\t‣ 图片条目长按添加保存到相簿选项\n\t‣ 若越狱环境为真皮版多巴胺，需要在/var/mobile/下新建一个叫.appex的文件或文件夹，才可使用第三方键盘上滑",
           "useSpacing": false,
           "useBottomMargin": false,
-          "class": "DepictionMarkdownView"
+          "class": "DepictionMarkdownView",
+          "markdown": "\t‣ 调整条目长按布局\n\t‣ 图片条目长按添加保存到相簿选项\n\t‣ 若越狱环境为真皮版多巴胺，需要在/var/mobile/下新建一个叫.appex的文件或文件夹，才可使用第三方键盘上滑"
         },
         {
-          "useSpacing": false,
-          "useBottomMargin": false,
           "class": "DepictionSubheaderView",
           "title": "1.4.0",
-          "useBoldText": true
+          "useBoldText": true,
+          "useSpacing": false,
+          "useBottomMargin": false
         },
         {
           "markdown": "\t‣ 提升收藏和删除性能\n\t‣ 修复部分情况下，当前分组和内容不相符\n\t‣ 清空收藏夹时，同时清空分组信息\n\n\t‣ 若越狱环境为真皮版多巴胺，需要在/var/mobile/下新建一个叫.appex的文件或文件夹，才可使用第三方键盘上滑",
@@ -216,43 +216,43 @@
           "useBottomMargin": false
         },
         {
-          "title": "1.3.9",
           "useBoldText": true,
           "useSpacing": false,
           "useBottomMargin": false,
-          "class": "DepictionSubheaderView"
+          "class": "DepictionSubheaderView",
+          "title": "1.3.9"
         },
         {
-          "useBottomMargin": false,
           "class": "DepictionMarkdownView",
           "markdown": "\t‣ 修复一个动画问题\n\t‣ 修复部分链接被识别为富文本\n\t‣ 修复听写键在选择颜色输入框不生效\n\t‣ 若越狱环境为真皮版多巴胺，需要在/var/mobile/下新建一个叫.appex的文件或文件夹，才可使用第三方键盘上滑",
-          "useSpacing": false
-        },
-        {
-          "title": "1.3.8",
-          "useBoldText": true,
-          "useSpacing": false,
-          "useBottomMargin": false,
-          "class": "DepictionSubheaderView"
-        },
-        {
-          "useBottomMargin": false,
-          "class": "DepictionMarkdownView",
-          "markdown": "\t‣ 微调收藏夹界面\n\t‣ 修复因插件冲突导致的点击屏幕某个位置会触发弹出窗口\n\t‣ 修复听写键在部分设备上不起作用\n\t‣ 若越狱环境为真皮版多巴胺，需要在/var/mobile/下新建一个叫.appex的文件或文件夹，才可使用第三方键盘上滑",
-          "useSpacing": false
-        },
-        {
-          "class": "DepictionSubheaderView",
-          "title": "1.3.7",
-          "useBoldText": true,
           "useSpacing": false,
           "useBottomMargin": false
         },
         {
-          "markdown": "\t‣ 收藏区搜索框增加分类筛选按钮\n\t‣ 条目左滑添加Snapper 2/3贴图\n\t‣ 修复有些图片的metadata错误问题\n\t‣ 分开设置Dock上听写键和键盘内听写键\n\t‣ 若越狱环境为真皮版多巴胺，需要在/var/mobile/下新建一个叫.appex的文件或文件夹，才可使用第三方键盘上滑",
+          "useBoldText": true,
           "useSpacing": false,
           "useBottomMargin": false,
-          "class": "DepictionMarkdownView"
+          "class": "DepictionSubheaderView",
+          "title": "1.3.8"
+        },
+        {
+          "useSpacing": false,
+          "useBottomMargin": false,
+          "class": "DepictionMarkdownView",
+          "markdown": "\t‣ 微调收藏夹界面\n\t‣ 修复因插件冲突导致的点击屏幕某个位置会触发弹出窗口\n\t‣ 修复听写键在部分设备上不起作用\n\t‣ 若越狱环境为真皮版多巴胺，需要在/var/mobile/下新建一个叫.appex的文件或文件夹，才可使用第三方键盘上滑"
+        },
+        {
+          "useBoldText": true,
+          "useSpacing": false,
+          "useBottomMargin": false,
+          "class": "DepictionSubheaderView",
+          "title": "1.3.7"
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "\t‣ 收藏区搜索框增加分类筛选按钮\n\t‣ 条目左滑添加Snapper 2/3贴图\n\t‣ 修复有些图片的metadata错误问题\n\t‣ 分开设置Dock上听写键和键盘内听写键\n\t‣ 若越狱环境为真皮版多巴胺，需要在/var/mobile/下新建一个叫.appex的文件或文件夹，才可使用第三方键盘上滑",
+          "useSpacing": false,
+          "useBottomMargin": false
         },
         {
           "useBottomMargin": false,
@@ -262,10 +262,10 @@
           "useSpacing": false
         },
         {
-          "markdown": "\t‣ initial",
           "useSpacing": false,
           "useBottomMargin": false,
-          "class": "DepictionMarkdownView"
+          "class": "DepictionMarkdownView",
+          "markdown": "\t‣ initial"
         },
         {
           "spacing": 20,

@@ -1,6 +1,4 @@
 {
-  "class": "DepictionTabView",
-  "headerImage": "https://TrollStore-Pro.Github.io/repo/depictions/image/com.dao.kayoko/header/header.png",
   "tintColor": "#1DBBFF",
   "minVersion": "0.3",
   "tabs": [
@@ -14,7 +12,6 @@
           "useRawFormat": true
         },
         {
-          "itemSize": "{160, 346.4533333333333}",
           "screenshots": [
             {
               "accessibilityText": "Screenshot",
@@ -26,7 +23,8 @@
             }
           ],
           "class": "DepictionScreenshotsView",
-          "itemCornerRadius": 6
+          "itemCornerRadius": 6,
+          "itemSize": "{160, 346.4533333333333}"
         },
         {
           "class": "DepictionSpacerView",
@@ -36,8 +34,8 @@
           "class": "DepictionSeparatorView"
         },
         {
-          "class": "DepictionSpacerView",
-          "spacing": 16
+          "spacing": 16,
+          "class": "DepictionSpacerView"
         },
         {
           "class": "DepictionHeaderView",
@@ -55,14 +53,14 @@
           "title": "作者"
         },
         {
+          "title": "维护者",
           "class": "DepictionTableTextView",
-          "text": "乌龙工作室",
-          "title": "维护者"
+          "text": "乌龙工作室"
         },
         {
+          "class": "DepictionTableTextView",
           "text": "2.7",
-          "title": "最新版本",
-          "class": "DepictionTableTextView"
+          "title": "最新版本"
         },
         {
           "class": "DepictionTableTextView",
@@ -85,32 +83,32 @@
       "tabname": "更新日志",
       "views": [
         {
+          "useBoldText": true,
+          "useBottomMargin": false,
           "class": "DepictionSubheaderView",
-          "title": "2.7",
+          "title": "2.7"
+        },
+        {
+          "useRawFormat": true,
+          "class": "DepictionMarkdownView",
+          "markdown": "添加反馈限制</br> </br> 去除守护进程"
+        },
+        {
+          "class": "DepictionSubheaderView",
+          "title": "2.6",
           "useBoldText": true,
           "useBottomMargin": false
         },
         {
-          "class": "DepictionMarkdownView",
-          "markdown": "添加反馈限制</br> </br> 去除守护进程",
-          "useRawFormat": true
-        },
-        {
-          "useBottomMargin": false,
-          "class": "DepictionSubheaderView",
-          "title": "2.6",
-          "useBoldText": true
-        },
-        {
-          "markdown": "优化隐藏动画和时机",
           "useRawFormat": true,
-          "class": "DepictionMarkdownView"
+          "class": "DepictionMarkdownView",
+          "markdown": "优化隐藏动画和时机"
         },
         {
-          "useBottomMargin": false,
           "class": "DepictionSubheaderView",
           "title": "2.5",
-          "useBoldText": true
+          "useBoldText": true,
+          "useBottomMargin": false
         },
         {
           "class": "DepictionMarkdownView",
@@ -118,10 +116,10 @@
           "useRawFormat": true
         },
         {
-          "title": "2.4",
           "useBoldText": true,
           "useBottomMargin": false,
-          "class": "DepictionSubheaderView"
+          "class": "DepictionSubheaderView",
+          "title": "2.4"
         },
         {
           "class": "DepictionMarkdownView",
@@ -152,5 +150,7 @@
         }
       ]
     }
-  ]
+  ],
+  "class": "DepictionTabView",
+  "headerImage": "https://TrollStore-Pro.Github.io/repo/depictions/image/com.dao.kayoko/header/header.png"
 }

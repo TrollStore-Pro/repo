@@ -1,14 +1,14 @@
 {
-  "headerImage": "https://TrollStore-Pro.Github.io/repo/depictions/image/com.dao.appprotect/header/header.png",
-  "tintColor": "#1DBBFF",
   "minVersion": "0.3",
   "tabs": [
     {
+      "class": "DepictionStackView",
+      "tabname": "描述",
       "views": [
         {
-          "useRawFormat": true,
           "class": "DepictionMarkdownView",
-          "markdown": "保护隐私插件，可加密 App 等，可静默验证，隐藏验证框，无声无息验证。"
+          "markdown": "保护隐私插件，可加密 App 等，可静默验证，隐藏验证框，无声无息验证。",
+          "useRawFormat": true
         },
         {
           "class": "DepictionScreenshotsView",
@@ -20,8 +20,8 @@
               "url": "https://TrollStore-Pro.Github.io/repo/depictions/image/com.dao.appprotect/screenshots/Screenshot_01.png"
             },
             {
-              "url": "https://TrollStore-Pro.Github.io/repo/depictions/image/com.dao.appprotect/screenshots/Screenshot_02.png",
-              "accessibilityText": "Screenshot"
+              "accessibilityText": "Screenshot",
+              "url": "https://TrollStore-Pro.Github.io/repo/depictions/image/com.dao.appprotect/screenshots/Screenshot_02.png"
             }
           ]
         },
@@ -37,19 +37,19 @@
           "spacing": 16
         },
         {
+          "class": "DepictionHeaderView",
           "title": "详情",
           "useBoldText": true,
-          "useBottomMargin": false,
-          "class": "DepictionHeaderView"
+          "useBottomMargin": false
         },
         {
           "class": "DepictionSpacerView",
           "spacing": 8
         },
         {
-          "class": "DepictionTableTextView",
           "text": "aReo",
-          "title": "作者"
+          "title": "作者",
+          "class": "DepictionTableTextView"
         },
         {
           "class": "DepictionTableTextView",
@@ -62,9 +62,9 @@
           "title": "最新版本"
         },
         {
-          "title": "支持系统范围",
           "class": "DepictionTableTextView",
-          "text": "15.0 - 16.5.1"
+          "text": "15.0 - 16.5.1",
+          "title": "支持系统范围"
         },
         {
           "class": "DepictionTableTextView",
@@ -72,22 +72,20 @@
           "title": "最后更新日期"
         },
         {
-          "class": "DepictionSpacerView",
-          "spacing": 16
+          "spacing": 16,
+          "class": "DepictionSpacerView"
         }
-      ],
-      "class": "DepictionStackView",
-      "tabname": "描述"
+      ]
     },
     {
       "class": "DepictionStackView",
       "tabname": "更新日志",
       "views": [
         {
+          "useBottomMargin": false,
           "class": "DepictionSubheaderView",
           "title": "1.9.7",
-          "useBoldText": true,
-          "useBottomMargin": false
+          "useBoldText": true
         },
         {
           "class": "DepictionMarkdownView",
@@ -112,9 +110,9 @@
           "useBottomMargin": false
         },
         {
+          "useRawFormat": true,
           "class": "DepictionMarkdownView",
-          "markdown": "1、修复设置中账号加密不生效问题；</br> 2、修复16.4.1系统锁屏返回桌面安全模式问题。",
-          "useRawFormat": true
+          "markdown": "1、修复设置中账号加密不生效问题；</br> 2、修复16.4.1系统锁屏返回桌面安全模式问题。"
         },
         {
           "class": "DepictionSubheaderView",
@@ -134,9 +132,9 @@
           "useBottomMargin": false
         },
         {
+          "class": "DepictionMarkdownView",
           "markdown": "1、新增锁屏自动返回桌面功能；</br> 2、修复隐藏设置中隐藏电池活动功能。",
-          "useRawFormat": true,
-          "class": "DepictionMarkdownView"
+          "useRawFormat": true
         },
         {
           "title": "1.8.9",
@@ -150,10 +148,10 @@
           "useRawFormat": true
         },
         {
-          "useBoldText": true,
-          "useBottomMargin": false,
           "class": "DepictionSubheaderView",
-          "title": "1.8.8"
+          "title": "1.8.8",
+          "useBoldText": true,
+          "useBottomMargin": false
         },
         {
           "class": "DepictionMarkdownView",
@@ -163,5 +161,7 @@
       ]
     }
   ],
-  "class": "DepictionTabView"
+  "class": "DepictionTabView",
+  "headerImage": "https://TrollStore-Pro.Github.io/repo/depictions/image/com.dao.appprotect/header/header.png",
+  "tintColor": "#1DBBFF"
 }

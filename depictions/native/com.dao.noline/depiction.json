@@ -1,5 +1,4 @@
 {
-  "class": "DepictionTabView",
   "headerImage": "https://TrollStore-Pro.Github.io/repo/depictions/image/com.dao.noline/header/header.png",
   "tintColor": "#1DBBFF",
   "minVersion": "0.3",
@@ -9,9 +8,9 @@
       "tabname": "描述",
       "views": [
         {
+          "useRawFormat": true,
           "class": "DepictionMarkdownView",
-          "markdown": "去除弹窗/UI/长按菜单等地方的分割线，NoLine 的新版本，重构代码。",
-          "useRawFormat": true
+          "markdown": "去除弹窗/UI/长按菜单等地方的分割线，NoLine 的新版本，重构代码。"
         },
         {
           "class": "DepictionScreenshotsView",
@@ -40,10 +39,10 @@
           "spacing": 16
         },
         {
+          "class": "DepictionHeaderView",
           "title": "详情",
           "useBoldText": true,
-          "useBottomMargin": false,
-          "class": "DepictionHeaderView"
+          "useBottomMargin": false
         },
         {
           "class": "DepictionSpacerView",
@@ -60,14 +59,14 @@
           "title": "维护者"
         },
         {
-          "title": "最新版本",
           "class": "DepictionTableTextView",
-          "text": "1.0.1"
+          "text": "1.0.1",
+          "title": "最新版本"
         },
         {
+          "title": "支持系统范围",
           "class": "DepictionTableTextView",
-          "text": "14.0 - 16.5.1",
-          "title": "支持系统范围"
+          "text": "14.0 - 16.5.1"
         },
         {
           "class": "DepictionTableTextView",
@@ -81,21 +80,22 @@
       ]
     },
     {
-      "class": "DepictionStackView",
-      "tabname": "更新日志",
       "views": [
         {
-          "class": "DepictionSubheaderView",
           "title": "1.0.1",
           "useBoldText": true,
-          "useBottomMargin": false
+          "useBottomMargin": false,
+          "class": "DepictionSubheaderView"
         },
         {
           "class": "DepictionMarkdownView",
           "markdown": "NoLine 的新版本，重构代码。",
           "useRawFormat": true
         }
-      ]
+      ],
+      "class": "DepictionStackView",
+      "tabname": "更新日志"
     }
-  ]
+  ],
+  "class": "DepictionTabView"
 }

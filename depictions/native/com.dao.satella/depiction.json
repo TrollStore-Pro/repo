@@ -1,8 +1,4 @@
 {
-  "class": "DepictionTabView",
-  "headerImage": "https://TrollStore-Pro.Github.io/repo/depictions/image/com.dao.satella/header/header.png",
-  "tintColor": "#1DBBFF",
-  "minVersion": "0.3",
   "tabs": [
     {
       "views": [
@@ -12,19 +8,19 @@
           "useRawFormat": true
         },
         {
-          "class": "DepictionScreenshotsView",
-          "itemCornerRadius": 6,
-          "itemSize": "{160, 346.4533333333333}",
           "screenshots": [
             {
               "accessibilityText": "Screenshot",
               "url": "https://TrollStore-Pro.Github.io/repo/depictions/image/com.dao.satella/screenshots/Screenshot_01.png"
             }
-          ]
+          ],
+          "class": "DepictionScreenshotsView",
+          "itemCornerRadius": 6,
+          "itemSize": "{160, 346.4533333333333}"
         },
         {
-          "class": "DepictionSpacerView",
-          "spacing": 16
+          "spacing": 16,
+          "class": "DepictionSpacerView"
         },
         {
           "class": "DepictionSeparatorView"
@@ -54,9 +50,9 @@
           "title": "维护者"
         },
         {
-          "class": "DepictionTableTextView",
           "text": "1.9.0-1",
-          "title": "最新版本"
+          "title": "最新版本",
+          "class": "DepictionTableTextView"
         },
         {
           "class": "DepictionTableTextView",
@@ -77,6 +73,8 @@
       "tabname": "描述"
     },
     {
+      "class": "DepictionStackView",
+      "tabname": "更新日志",
       "views": [
         {
           "class": "DepictionSubheaderView",
@@ -90,19 +88,21 @@
           "useRawFormat": true
         },
         {
+          "title": "1.9.0",
           "useBoldText": true,
           "useBottomMargin": false,
-          "class": "DepictionSubheaderView",
-          "title": "1.9.0"
+          "class": "DepictionSubheaderView"
         },
         {
           "class": "DepictionMarkdownView",
           "markdown": "加入中文翻译。",
           "useRawFormat": true
         }
-      ],
-      "class": "DepictionStackView",
-      "tabname": "更新日志"
+      ]
     }
-  ]
+  ],
+  "class": "DepictionTabView",
+  "headerImage": "https://TrollStore-Pro.Github.io/repo/depictions/image/com.dao.satella/header/header.png",
+  "tintColor": "#1DBBFF",
+  "minVersion": "0.3"
 }

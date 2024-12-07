@@ -14,7 +14,6 @@
           "useRawFormat": true
         },
         {
-          "class": "DepictionScreenshotsView",
           "itemCornerRadius": 6,
           "itemSize": "{160, 346.4533333333333}",
           "screenshots": [
@@ -26,7 +25,8 @@
               "accessibilityText": "Screenshot",
               "url": "https://TrollStore-Pro.Github.io/repo/depictions/image/com.dao.axon/screenshots/Screenshot_02.png"
             }
-          ]
+          ],
+          "class": "DepictionScreenshotsView"
         },
         {
           "class": "DepictionSpacerView",
@@ -50,14 +50,14 @@
           "spacing": 8
         },
         {
+          "class": "DepictionTableTextView",
           "text": "Nepeta & 妖刀",
-          "title": "作者",
-          "class": "DepictionTableTextView"
+          "title": "作者"
         },
         {
+          "class": "DepictionTableTextView",
           "text": "妖刀",
-          "title": "维护者",
-          "class": "DepictionTableTextView"
+          "title": "维护者"
         },
         {
           "class": "DepictionTableTextView",
@@ -65,9 +65,9 @@
           "title": "最新版本"
         },
         {
+          "title": "支持系统范围",
           "class": "DepictionTableTextView",
-          "text": "14.0 - 16.5.1",
-          "title": "支持系统范围"
+          "text": "14.0 - 16.5.1"
         },
         {
           "class": "DepictionTableTextView",
@@ -81,6 +81,7 @@
       ]
     },
     {
+      "class": "DepictionStackView",
       "tabname": "更新日志",
       "views": [
         {
@@ -101,23 +102,22 @@
           "useBottomMargin": false
         },
         {
+          "class": "DepictionMarkdownView",
           "markdown": "优化支持多语言，优化部分代码。",
-          "useRawFormat": true,
-          "class": "DepictionMarkdownView"
+          "useRawFormat": true
         },
         {
+          "useBottomMargin": false,
           "class": "DepictionSubheaderView",
           "title": "1.5.2",
-          "useBoldText": true,
-          "useBottomMargin": false
+          "useBoldText": true
         },
         {
           "class": "DepictionMarkdownView",
           "markdown": "优化支持 iOS16/17。",
           "useRawFormat": true
         }
-      ],
-      "class": "DepictionStackView"
+      ]
     }
   ]
 }

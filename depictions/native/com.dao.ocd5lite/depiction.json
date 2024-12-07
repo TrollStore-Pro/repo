@@ -9,12 +9,11 @@
       "tabname": "描述",
       "views": [
         {
+          "class": "DepictionMarkdownView",
           "markdown": "根据 App 图标颜色来自适应 App 名称和角标的颜色。</br> </br> 精简 OCD5 其他功能，只保留“圆点/空心”角标效果，精简无用文件，替换插件图标。</br> </br> 如果觉得好用，请支持正版！",
-          "useRawFormat": true,
-          "class": "DepictionMarkdownView"
+          "useRawFormat": true
         },
         {
-          "class": "DepictionScreenshotsView",
           "itemCornerRadius": 6,
           "itemSize": "{160, 346.4533333333333}",
           "screenshots": [
@@ -26,11 +25,12 @@
               "accessibilityText": "Screenshot",
               "url": "https://TrollStore-Pro.Github.io/repo/depictions/image/com.dao.ocd5lite/screenshots/Screenshot_02.png"
             }
-          ]
+          ],
+          "class": "DepictionScreenshotsView"
         },
         {
-          "spacing": 16,
-          "class": "DepictionSpacerView"
+          "class": "DepictionSpacerView",
+          "spacing": 16
         },
         {
           "class": "DepictionSeparatorView"
@@ -55,9 +55,9 @@
           "title": "作者"
         },
         {
-          "class": "DepictionTableTextView",
           "text": "b4db1r3 & 妖刀",
-          "title": "维护者"
+          "title": "维护者",
+          "class": "DepictionTableTextView"
         },
         {
           "text": "5.4.1.2",
@@ -70,9 +70,9 @@
           "class": "DepictionTableTextView"
         },
         {
+          "title": "最后更新日期",
           "class": "DepictionTableTextView",
-          "text": "2024 年 07 月 30 日",
-          "title": "最后更新日期"
+          "text": "2024 年 07 月 30 日"
         },
         {
           "class": "DepictionSpacerView",
@@ -96,15 +96,15 @@
           "useRawFormat": true
         },
         {
+          "useBottomMargin": false,
           "class": "DepictionSubheaderView",
           "title": "5.4.1.1",
-          "useBoldText": true,
-          "useBottomMargin": false
+          "useBoldText": true
         },
         {
+          "markdown": "同步最新 OCD，精简其他功能，只保留圆点/空心角标效果。</br> </br> 纯粹只要圆点角标效果！",
           "useRawFormat": true,
-          "class": "DepictionMarkdownView",
-          "markdown": "同步最新 OCD，精简其他功能，只保留圆点/空心角标效果。</br> </br> 纯粹只要圆点角标效果！"
+          "class": "DepictionMarkdownView"
         }
       ]
     }

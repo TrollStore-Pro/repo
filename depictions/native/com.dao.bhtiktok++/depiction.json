@@ -1,6 +1,4 @@
 {
-  "class": "DepictionTabView",
-  "headerImage": "https://TrollStore-Pro.Github.io/repo/depictions/image/com.dao.bhtiktok++/header/header.png",
   "tintColor": "#1DBBFF",
   "minVersion": "0.3",
   "tabs": [
@@ -9,12 +7,11 @@
       "tabname": "描述",
       "views": [
         {
-          "markdown": "全新的TikTok多功能插件，刀刀基于开源定制并汉化。</br> </br> 插件选项在TikTok设置顶部。",
           "useRawFormat": true,
-          "class": "DepictionMarkdownView"
+          "class": "DepictionMarkdownView",
+          "markdown": "全新的TikTok多功能插件，刀刀基于开源定制并汉化。</br> </br> 插件选项在TikTok设置顶部。"
         },
         {
-          "class": "DepictionScreenshotsView",
           "itemCornerRadius": 6,
           "itemSize": "{160, 346.4533333333333}",
           "screenshots": [
@@ -23,8 +20,8 @@
               "url": "https://TrollStore-Pro.Github.io/repo/depictions/image/com.dao.bhtiktok++/screenshots/Screenshot_01.png"
             },
             {
-              "accessibilityText": "Screenshot",
-              "url": "https://TrollStore-Pro.Github.io/repo/depictions/image/com.dao.bhtiktok++/screenshots/Screenshot_02.png"
+              "url": "https://TrollStore-Pro.Github.io/repo/depictions/image/com.dao.bhtiktok++/screenshots/Screenshot_02.png",
+              "accessibilityText": "Screenshot"
             },
             {
               "accessibilityText": "Screenshot",
@@ -34,7 +31,8 @@
               "accessibilityText": "Screenshot",
               "url": "https://TrollStore-Pro.Github.io/repo/depictions/image/com.dao.bhtiktok++/screenshots/Screenshot_04.png"
             }
-          ]
+          ],
+          "class": "DepictionScreenshotsView"
         },
         {
           "class": "DepictionSpacerView",
@@ -48,10 +46,10 @@
           "spacing": 16
         },
         {
+          "class": "DepictionHeaderView",
           "title": "详情",
           "useBoldText": true,
-          "useBottomMargin": false,
-          "class": "DepictionHeaderView"
+          "useBottomMargin": false
         },
         {
           "class": "DepictionSpacerView",
@@ -63,24 +61,24 @@
           "title": "作者"
         },
         {
-          "class": "DepictionTableTextView",
           "text": "raul saeed & 妖刀",
-          "title": "维护者"
-        },
-        {
-          "title": "最新版本",
-          "class": "DepictionTableTextView",
-          "text": "1.7.1"
+          "title": "维护者",
+          "class": "DepictionTableTextView"
         },
         {
           "class": "DepictionTableTextView",
-          "text": "14.0 - 16.5.1",
-          "title": "支持系统范围"
+          "text": "1.7.1",
+          "title": "最新版本"
         },
         {
-          "title": "最后更新日期",
+          "title": "支持系统范围",
           "class": "DepictionTableTextView",
-          "text": "2024 年 11 月 14 日"
+          "text": "14.0 - 16.5.1"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "text": "2024 年 11 月 14 日",
+          "title": "最后更新日期"
         },
         {
           "class": "DepictionSpacerView",
@@ -93,10 +91,10 @@
       "tabname": "更新日志",
       "views": [
         {
-          "useBottomMargin": false,
           "class": "DepictionSubheaderView",
           "title": "1.7.1",
-          "useBoldText": true
+          "useBoldText": true,
+          "useBottomMargin": false
         },
         {
           "class": "DepictionMarkdownView",
@@ -115,21 +113,21 @@
           "useRawFormat": true
         },
         {
-          "useBottomMargin": false,
           "class": "DepictionSubheaderView",
           "title": "1.5.5",
-          "useBoldText": true
+          "useBoldText": true,
+          "useBottomMargin": false
         },
         {
-          "class": "DepictionMarkdownView",
           "markdown": "同步最新源码并汉化</br> </br> 代码重构，功能重新排版；新增一些小功能。",
-          "useRawFormat": true
+          "useRawFormat": true,
+          "class": "DepictionMarkdownView"
         },
         {
+          "useBoldText": true,
           "useBottomMargin": false,
           "class": "DepictionSubheaderView",
-          "title": "1.5",
-          "useBoldText": true
+          "title": "1.5"
         },
         {
           "class": "DepictionMarkdownView",
@@ -137,28 +135,30 @@
           "useRawFormat": true
         },
         {
-          "useBottomMargin": false,
-          "class": "DepictionSubheaderView",
           "title": "1.3.5",
-          "useBoldText": true
-        },
-        {
-          "class": "DepictionMarkdownView",
-          "markdown": "新增播放速度控制",
-          "useRawFormat": true
-        },
-        {
           "useBoldText": true,
           "useBottomMargin": false,
-          "class": "DepictionSubheaderView",
-          "title": "1.3"
+          "class": "DepictionSubheaderView"
         },
         {
+          "markdown": "新增播放速度控制",
           "useRawFormat": true,
+          "class": "DepictionMarkdownView"
+        },
+        {
+          "class": "DepictionSubheaderView",
+          "title": "1.3",
+          "useBoldText": true,
+          "useBottomMargin": false
+        },
+        {
           "class": "DepictionMarkdownView",
-          "markdown": "同步最新源码并汉化"
+          "markdown": "同步最新源码并汉化",
+          "useRawFormat": true
         }
       ]
     }
-  ]
+  ],
+  "class": "DepictionTabView",
+  "headerImage": "https://TrollStore-Pro.Github.io/repo/depictions/image/com.dao.bhtiktok++/header/header.png"
 }

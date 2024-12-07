@@ -6,11 +6,12 @@
       "tabname": "描述",
       "views": [
         {
+          "class": "DepictionMarkdownView",
           "markdown": "Instagram功能丰富的插件，可去广告、可隐藏推荐、二次确认、下载媒体等，刀刀根据开源直接编译的中文版。</br> </br> 长按主页面左上角“Instagram图标”进入插件设置！",
-          "useRawFormat": true,
-          "class": "DepictionMarkdownView"
+          "useRawFormat": true
         },
         {
+          "class": "DepictionScreenshotsView",
           "itemCornerRadius": 6,
           "itemSize": "{160, 346.4533333333333}",
           "screenshots": [
@@ -26,8 +27,7 @@
               "accessibilityText": "Screenshot",
               "url": "https://TrollStore-Pro.Github.io/repo/depictions/image/com.dao.scinsta/screenshots/Screenshot_03.png"
             }
-          ],
-          "class": "DepictionScreenshotsView"
+          ]
         },
         {
           "class": "DepictionSpacerView",
@@ -41,10 +41,10 @@
           "spacing": 16
         },
         {
-          "useBoldText": true,
-          "useBottomMargin": false,
           "class": "DepictionHeaderView",
-          "title": "详情"
+          "title": "详情",
+          "useBoldText": true,
+          "useBottomMargin": false
         },
         {
           "class": "DepictionSpacerView",
@@ -56,14 +56,14 @@
           "title": "作者"
         },
         {
-          "text": "SoCuul & 妖刀",
           "title": "维护者",
-          "class": "DepictionTableTextView"
+          "class": "DepictionTableTextView",
+          "text": "SoCuul & 妖刀"
         },
         {
+          "text": "0.6.0",
           "title": "最新版本",
-          "class": "DepictionTableTextView",
-          "text": "0.6.0"
+          "class": "DepictionTableTextView"
         },
         {
           "class": "DepictionTableTextView",

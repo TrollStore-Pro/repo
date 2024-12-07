@@ -7,14 +7,11 @@
     {
       "views": [
         {
+          "class": "DepictionMarkdownView",
           "markdown": "免费获得 Spotify Premium，就像 Spotilife 一样；更多的歌词服务，更多的自定义。",
-          "useRawFormat": true,
-          "class": "DepictionMarkdownView"
+          "useRawFormat": true
         },
         {
-          "class": "DepictionScreenshotsView",
-          "itemCornerRadius": 6,
-          "itemSize": "{160, 346.4533333333333}",
           "screenshots": [
             {
               "accessibilityText": "Screenshot",
@@ -24,7 +21,10 @@
               "accessibilityText": "Screenshot",
               "url": "https://TrollStore-Pro.Github.io/repo/depictions/image/com.dao.spotify/screenshots/Screenshot_02.png"
             }
-          ]
+          ],
+          "class": "DepictionScreenshotsView",
+          "itemCornerRadius": 6,
+          "itemSize": "{160, 346.4533333333333}"
         },
         {
           "class": "DepictionSpacerView",
@@ -34,23 +34,23 @@
           "class": "DepictionSeparatorView"
         },
         {
-          "spacing": 16,
-          "class": "DepictionSpacerView"
+          "class": "DepictionSpacerView",
+          "spacing": 16
         },
         {
-          "class": "DepictionHeaderView",
           "title": "详情",
           "useBoldText": true,
-          "useBottomMargin": false
+          "useBottomMargin": false,
+          "class": "DepictionHeaderView"
         },
         {
           "class": "DepictionSpacerView",
           "spacing": 8
         },
         {
-          "title": "作者",
           "class": "DepictionTableTextView",
-          "text": "Eevee"
+          "text": "Eevee",
+          "title": "作者"
         },
         {
           "class": "DepictionTableTextView",
@@ -58,14 +58,14 @@
           "title": "维护者"
         },
         {
-          "class": "DepictionTableTextView",
           "text": "5.8.2",
-          "title": "最新版本"
+          "title": "最新版本",
+          "class": "DepictionTableTextView"
         },
         {
+          "text": "14.0 - 16.5.1",
           "title": "支持系统范围",
-          "class": "DepictionTableTextView",
-          "text": "14.0 - 16.5.1"
+          "class": "DepictionTableTextView"
         },
         {
           "class": "DepictionTableTextView",
@@ -85,10 +85,10 @@
       "tabname": "更新日志",
       "views": [
         {
+          "useBottomMargin": false,
           "class": "DepictionSubheaderView",
           "title": "5.8.2",
-          "useBoldText": true,
-          "useBottomMargin": false
+          "useBoldText": true
         },
         {
           "class": "DepictionMarkdownView",
@@ -102,9 +102,9 @@
           "class": "DepictionSubheaderView"
         },
         {
-          "class": "DepictionMarkdownView",
           "markdown": "支持多语言",
-          "useRawFormat": true
+          "useRawFormat": true,
+          "class": "DepictionMarkdownView"
         }
       ]
     }
