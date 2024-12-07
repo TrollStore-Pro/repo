@@ -21,7 +21,7 @@ function getContentBlocks() {
           th.append(
             $('<img class="img-fluid">').attr(
               "src",
-              `${bundleid}/screenshots/${$(data).find("image").text()}`
+              `../image/${bundleid}/screenshots/${$(data).find("image").text()}`
             )
           );
           $(element).append(th);
