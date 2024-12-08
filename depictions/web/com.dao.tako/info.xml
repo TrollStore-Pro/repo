@@ -1,0 +1,38 @@
+<package>
+  <id>com.dao.tako</id>
+  <name>Tako(rootless)</name>
+  <version>3.5.2</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>mobilesubstrate</package>
+    <package>preferenceloader</package>
+    <package>ws.hbang.common (&gt;= 1.16)</package>
+    <package>com.mrgcgamer.libgcuniversal</package>
+    <package>com.hk.tako.cn.rl</package>
+  </dependencies>
+  <shortDescription>类似Group和Axon的通知聚合插件，b4db1r3优化编译版。</shortDescription>
+  <descriptionlist>
+    <description><![CDATA[类似 Group和 Axon 的通知聚合插件，b4db1r3 优化编译版。]]></description>
+  </descriptionlist>
+  <screenshots>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>Screenshot_01.png</image>
+    </screenshot>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>Screenshot_02.png</image>
+    </screenshot>
+  </screenshots>
+  <changelog>
+    <change><![CDATA[•改进过渡动画：修复了从分组视图切换到主视图时令人讨厌的过渡动画。</br> </br> •背景错误修复：修复了分组视图中的背景问题。]]></change>
+    <change><![CDATA[调整编译的SDK版本]]></change>
+    <change><![CDATA[修复消失的问题</br> 修复视图的一些逻辑问题</br> 修复“完整图标(红色角标)”的一些问题]]></change>
+    <change><![CDATA[修复分组视图]]></change>
+  </changelog>
+  <links></links>
+</package>

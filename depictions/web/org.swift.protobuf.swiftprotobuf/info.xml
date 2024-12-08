@@ -1,0 +1,16 @@
+<package>
+  <id>org.swift.protobuf.swiftprotobuf</id>
+  <name>SwiftProtobuf(rootless)</name>
+  <version>1.28.1</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies></dependencies>
+  <shortDescription>EeveeSpotify的依赖。</shortDescription>
+  <descriptionlist></descriptionlist>
+  <screenshots></screenshots>
+  <changelog></changelog>
+  <links></links>
+</package>

@@ -1,0 +1,20 @@
+<package>
+  <id>com.daodao.snapper3</id>
+  <name>Snapper 3(rootless)</name>
+  <version>1.0k</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>mobilesubstrate</package>
+    <package>firmware(&gt;=15.0)</package>
+    <package>preferenceloader</package>
+  </dependencies>
+  <shortDescription>便捷截屏3，已由CBZ破解。已修正OCR，源内可安装中文包。</shortDescription>
+  <descriptionlist></descriptionlist>
+  <screenshots></screenshots>
+  <changelog></changelog>
+  <links></links>
+</package>

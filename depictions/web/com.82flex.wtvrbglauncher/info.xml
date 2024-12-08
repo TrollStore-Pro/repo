@@ -1,0 +1,20 @@
+<package>
+  <id>com.82flex.wtvrbglauncher</id>
+  <name>语音转文字免跳转(rootless)</name>
+  <version>1.1</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>firmware (&gt;= 14.0)</package>
+    <package>mobilesubstrate</package>
+    <package>preferenceloader</package>
+  </dependencies>
+  <shortDescription>App内调用输入法的“语音转文字”功能时，免去跳转的过程；支持微信输入法，百度输入法，讯飞输入法，搜狗输入法。v1.x：新增插件简易选项。</shortDescription>
+  <descriptionlist></descriptionlist>
+  <screenshots></screenshots>
+  <changelog></changelog>
+  <links></links>
+</package>

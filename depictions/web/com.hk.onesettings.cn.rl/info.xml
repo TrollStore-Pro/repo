@@ -1,0 +1,18 @@
+<package>
+  <id>com.hk.onesettings.cn.rl</id>
+  <name>OneSettings 简体中文包(rootless)</name>
+  <version>2.1.2</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>mobilesubstrate (&gt;= 0.9.5000)</package>
+  </dependencies>
+  <shortDescription>OneSettings 简体中文包(rootless)。</shortDescription>
+  <descriptionlist></descriptionlist>
+  <screenshots></screenshots>
+  <changelog></changelog>
+  <links></links>
+</package>

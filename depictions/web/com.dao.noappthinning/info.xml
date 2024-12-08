@@ -1,0 +1,19 @@
+<package>
+  <id>com.dao.noappthinning</id>
+  <name>NoAppThinning(rootless)</name>
+  <version>1.4</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>firmware (&gt;= 15.0)</package>
+    <package>mobilesubstrate</package>
+  </dependencies>
+  <shortDescription>让AppStore/TestFlight下载软件为全量包，不经过AppThinning。通俗来说，就是禁止应用瘦身，意味着从AppStore下载的应用，将包含可用的所有架构；这会增加下载体积。再者，可能会让TrollFools等工具找不到框架文件，注入错误，所以除非你懂，不懂就别碰。</shortDescription>
+  <descriptionlist></descriptionlist>
+  <screenshots></screenshots>
+  <changelog></changelog>
+  <links></links>
+</package>

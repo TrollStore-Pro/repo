@@ -1,0 +1,19 @@
+<package>
+  <id>com.dao.batteryhealth</id>
+  <name>BatteryHealth(RootHide)</name>
+  <version>1.0.1</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>mobilesubstrate (&gt;= 0.9.5000)</package>
+    <package>firmware (&gt;= 11.3)</package>
+  </dependencies>
+  <shortDescription>修复更换电池后，电池健康显示维修或无法验证的问题，无设置，自动生效。</shortDescription>
+  <descriptionlist></descriptionlist>
+  <screenshots></screenshots>
+  <changelog></changelog>
+  <links></links>
+</package>

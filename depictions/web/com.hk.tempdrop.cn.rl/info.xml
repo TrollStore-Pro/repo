@@ -1,0 +1,18 @@
+<package>
+  <id>com.hk.tempdrop.cn.rl</id>
+  <name>TempDrop 简体中文包(rootless)</name>
+  <version>1.0</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>mobilesubstrate (&gt;= 0.9.5000)</package>
+  </dependencies>
+  <shortDescription>TempDrop 简体中文包(rootless)。插件源：https://repo.icrazeios.com/</shortDescription>
+  <descriptionlist></descriptionlist>
+  <screenshots></screenshots>
+  <changelog></changelog>
+  <links></links>
+</package>

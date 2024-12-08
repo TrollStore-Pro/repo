@@ -1,0 +1,37 @@
+<package>
+  <id>com.dao.scinsta</id>
+  <name>SCInsta 中文版(RootHide)</name>
+  <version>0.6.0</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>mobilesubstrate</package>
+    <package>ws.hbang.common</package>
+  </dependencies>
+  <shortDescription>Instagram功能丰富的插件，可去广告、可隐藏推荐、二次确认、下载媒体等，长按主页面左上角“Instagram图标”进入插件设置，刀刀根据开源直接编译的中文版。</shortDescription>
+  <descriptionlist>
+    <description><![CDATA[Instagram功能丰富的插件，可去广告、可隐藏推荐、二次确认、下载媒体等，刀刀根据开源直接编译的中文版。</br> </br> 长按主页面左上角“Instagram图标”进入插件设置！]]></description>
+  </descriptionlist>
+  <screenshots>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>Screenshot_01.png</image>
+    </screenshot>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>Screenshot_02.png</image>
+    </screenshot>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>Screenshot_03.png</image>
+    </screenshot>
+  </screenshots>
+  <changelog>
+    <change><![CDATA[同步最新源码并汉化]]></change>
+    <change><![CDATA[根据 SoCuul 的开源，直接编译简体中文版。]]></change>
+  </changelog>
+  <links></links>
+</package>

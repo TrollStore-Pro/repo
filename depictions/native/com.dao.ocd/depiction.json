@@ -1,13 +1,17 @@
 {
+  "class": "DepictionTabView",
+  "headerImage": "https://TrollStore-Pro.Github.io/repo/depictions/image/com.dao.ocd/header/header.png",
+  "tintColor": "#1DBBFF",
+  "minVersion": "0.3",
   "tabs": [
     {
       "class": "DepictionStackView",
       "tabname": "描述",
       "views": [
         {
-          "useRawFormat": true,
           "class": "DepictionMarkdownView",
-          "markdown": "根据 App 图标颜色来自适应 App 名称和角标的颜色。</br> </br> 替换插件图标且已经汉化，去掉一些效果不明显的选项。"
+          "markdown": "根据 App 图标颜色来自适应 App 名称和角标的颜色。</br> </br> 替换插件图标且已经汉化，去掉一些效果不明显的选项。",
+          "useRawFormat": true
         },
         {
           "class": "DepictionScreenshotsView",
@@ -36,10 +40,10 @@
           "spacing": 16
         },
         {
+          "class": "DepictionHeaderView",
           "title": "详情",
           "useBoldText": true,
-          "useBottomMargin": false,
-          "class": "DepictionHeaderView"
+          "useBottomMargin": false
         },
         {
           "class": "DepictionSpacerView",
@@ -66,9 +70,9 @@
           "title": "支持系统范围"
         },
         {
-          "class": "DepictionTableTextView",
           "text": "2024 年 05 月 11 日",
-          "title": "最后更新日期"
+          "title": "最后更新日期",
+          "class": "DepictionTableTextView"
         },
         {
           "class": "DepictionSpacerView",
@@ -77,8 +81,6 @@
       ]
     },
     {
-      "class": "DepictionStackView",
-      "tabname": "更新日志",
       "views": [
         {
           "useBoldText": true,
@@ -87,26 +89,24 @@
           "title": "4.0-3"
         },
         {
+          "class": "DepictionMarkdownView",
           "markdown": "同步更新汉化。",
-          "useRawFormat": true,
-          "class": "DepictionMarkdownView"
+          "useRawFormat": true
         },
         {
+          "useBottomMargin": false,
           "class": "DepictionSubheaderView",
           "title": "4.0-2",
-          "useBoldText": true,
-          "useBottomMargin": false
+          "useBoldText": true
         },
         {
+          "class": "DepictionMarkdownView",
           "markdown": "替换插件图标且已经汉化，去掉一些效果不明显的选项。",
-          "useRawFormat": true,
-          "class": "DepictionMarkdownView"
+          "useRawFormat": true
         }
-      ]
+      ],
+      "class": "DepictionStackView",
+      "tabname": "更新日志"
     }
-  ],
-  "class": "DepictionTabView",
-  "headerImage": "https://TrollStore-Pro.Github.io/repo/depictions/image/com.dao.ocd/header/header.png",
-  "tintColor": "#1DBBFF",
-  "minVersion": "0.3"
+  ]
 }

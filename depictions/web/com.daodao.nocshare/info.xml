@@ -1,0 +1,18 @@
+<package>
+  <id>com.daodao.nocshare</id>
+  <name>NoCShare(rootless)</name>
+  <version>1.1.3</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>mobilesubstrate</package>
+  </dependencies>
+  <shortDescription>移除分享菜单中烦人的投送和联系人，基于i_82的源码修复支持16系统。</shortDescription>
+  <descriptionlist></descriptionlist>
+  <screenshots></screenshots>
+  <changelog></changelog>
+  <links></links>
+</package>

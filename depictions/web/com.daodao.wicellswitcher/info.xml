@@ -1,0 +1,19 @@
+<package>
+  <id>com.daodao.wicellswitcher</id>
+  <name>WiCellSwitcher(rootless)</name>
+  <version>1.2</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>mobilesubstrate</package>
+    <package>ws.hbang.common (&gt;= 1.11)</package>
+  </dependencies>
+  <shortDescription>WiFi和蜂窝数据之间智能切换，控制中心连接WiFi关闭蜂窝，连接蜂窝关闭WiFi，或者断开连接时触发。Skypain基于i_82修复支持iOS15的源码，编译支持rootless。</shortDescription>
+  <descriptionlist></descriptionlist>
+  <screenshots></screenshots>
+  <changelog></changelog>
+  <links></links>
+</package>

@@ -1,0 +1,20 @@
+<package>
+  <id>com.dao.icleanerpro</id>
+  <name>iCleaner Pro(rootless)</name>
+  <version>7.10.0</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>firmware (&gt;= 4.0)</package>
+    <package>findutils</package>
+    <package>apt | apt7</package>
+  </dependencies>
+  <shortDescription>真正的iOS系统清理和管理实用程序，默认简体中文，破解版。</shortDescription>
+  <descriptionlist></descriptionlist>
+  <screenshots></screenshots>
+  <changelog></changelog>
+  <links></links>
+</package>

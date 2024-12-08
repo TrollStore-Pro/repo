@@ -1,0 +1,6 @@
+<changelog>
+  <changes>
+    <version>1.2.3</version>
+    <change><![CDATA[根据开源重新编译，并内置中文翻译。]]></change>
+  </changes>
+</changelog>

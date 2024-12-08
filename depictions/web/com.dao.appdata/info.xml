@@ -1,0 +1,20 @@
+<package>
+  <id>com.dao.appdata</id>
+  <name>AppData(rootless)</name>
+  <version>1.4.4</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>firmware (&gt;= 15.0)</package>
+    <package>mobilesubstrate</package>
+    <package>preferenceloader</package>
+  </dependencies>
+  <shortDescription>桌面图标上滑或下滑或3D长按菜单选择即可唤出图标应用数据的快捷工具。Netskao新更的版本，上架备份。</shortDescription>
+  <descriptionlist></descriptionlist>
+  <screenshots></screenshots>
+  <changelog></changelog>
+  <links></links>
+</package>

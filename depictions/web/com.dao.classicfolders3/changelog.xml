@@ -1,0 +1,94 @@
+<changelog>
+  <changes>
+    <version>3.0.5.8</version>
+    <change><![CDATA[同步源码，小更新！]]></change>
+  </changes>
+  <changes>
+    <version>3.0.5.7</version>
+    <change><![CDATA[界面小优化]]></change>
+  </changes>
+  <changes>
+    <version>3.0.5.5</version>
+    <change><![CDATA[新增文件夹展开方式开关：</br> 可选择原始往下推或者悬浮方式打开文件夹(无错位和闪屏Bug)</br> 其他优化</br> 其他修复]]></change>
+  </changes>
+  <changes>
+    <version>3.0.5</version>
+    <change><![CDATA[悬浮方式打开文件夹(无错位和闪屏Bug)</br> </br> 同步 Lizynz v3.0.5 源码：</br> 修复App资源库相关问题</br> 添加文件夹内标签颜色</br> 优化编辑文件夹逻辑</br> 其他修复]]></change>
+  </changes>
+  <changes>
+    <version>3.0.4.5</version>
+    <change><![CDATA[悬浮方式打开文件夹(无错位和闪屏Bug)</br> </br> 如果想展开文件夹为原始样式，可降级 v3.0.4.3。]]></change>
+  </changes>
+  <changes>
+    <version>3.0.4.3</version>
+    <change><![CDATA[小更新]]></change>
+  </changes>
+  <changes>
+    <version>3.0.4.2</version>
+    <change><![CDATA[添加编辑文件夹逻辑，应该可以在完成文件夹编辑后更轻松地访问第一个图标。]]></change>
+  </changes>
+  <changes>
+    <version>3.0.4.1</version>
+    <change><![CDATA[模糊加深]]></change>
+  </changes>
+  <changes>
+    <version>3.0.4</version>
+    <change><![CDATA[文件夹展开方式改回原始样式，但是会有错位和闪屏bug。]]></change>
+  </changes>
+  <changes>
+    <version>3.0.3.12</version>
+    <change><![CDATA[重新梳理代码，重新编译。</br> </br> 与 Lizynz 大佬的 v3.0.4 主体源码一致，版本号不一样而已。]]></change>
+  </changes>
+  <changes>
+    <version>3.0.3.11</version>
+    <change><![CDATA[蜜汁修复]]></change>
+  </changes>
+  <changes>
+    <version>3.0.3.10</version>
+    <change><![CDATA[Lizynz 修复翻页点相关问题]]></change>
+  </changes>
+  <changes>
+    <version>3.0.3.9</version>
+    <change><![CDATA[Lizynz 修复支持 iOS17</br> 用 iOS17 模拟器测试的？]]></change>
+  </changes>
+  <changes>
+    <version>3.0.3.8</version>
+    <change><![CDATA[修复悬浮Dock相关(来源于 b4db1r3 的修复)]]></change>
+  </changes>
+  <changes>
+    <version>3.0.3.7</version>
+    <change><![CDATA[同步 Lizynz 最新源码：</br> 修复从 Dock 打开文件夹时的错误</br> 修复键盘的小错误]]></change>
+  </changes>
+  <changes>
+    <version>3.0.3.6</version>
+    <change><![CDATA[1、修复解锁后第一次打开文件夹时位置错乱的 Bug</br> 2、修复点击文件夹图标时其他文件夹和小组件会闪的 Bug]]></change>
+  </changes>
+  <changes>
+    <version>3.0.3.5</version>
+    <change><![CDATA[同步 Lizynz 最新源码：</br> 1、修复了编辑文件夹时的错误</br> 2、支持 Bolders Reborn (仅限网格，最大 4x5)</br> </br> 刀刀更新：</br> 弃用 Lizynz 带开关的自动关闭文件夹，改用 v3.0.2.5 的自动关闭文件夹(强制开启，无设置)的方案。]]></change>
+  </changes>
+  <changes>
+    <version>3.0.3-1</version>
+    <change><![CDATA[优化排版和中文翻译。]]></change>
+  </changes>
+  <changes>
+    <version>3.0.3</version>
+    <change><![CDATA[1、设置新增“自动关闭”开关，可自由控制点击图标自动关闭文件夹；</br> 2、修复解锁设备后间歇性动画问题。]]></change>
+  </changes>
+  <changes>
+    <version>3.0.2.6</version>
+    <change><![CDATA[同步 Lizynz 源码：修复打开文件夹时的某些 bug。]]></change>
+  </changes>
+  <changes>
+    <version>3.0.2.5</version>
+    <change><![CDATA[1、刀刀增加点击文件夹内图标后自动关闭文件夹(强制开启，无设置)</br> 2、同步 Lizynz 源码：壁纸模糊]]></change>
+  </changes>
+  <changes>
+    <version>3.0.2</version>
+    <change><![CDATA[同步 Lizynz 更新：</br> 1、修复主屏幕上的页面点的问题(仅在 iOS16 测试)</br> 2、摩登风格自动支持深色主题(删除深色背景选项)]]></change>
+  </changes>
+  <changes>
+    <version>3.0.1.1</version>
+    <change><![CDATA[重新编译，并加入中文包！]]></change>
+  </changes>
+</changelog>

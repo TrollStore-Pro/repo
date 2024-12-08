@@ -1,0 +1,32 @@
+<package>
+  <id>cax.zhumi.ThemeManager.rootlesss</id>
+  <name>ThemeManager 猪咪微信主题</name>
+  <version>1.6.2</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>firmware (&gt;= 13.0)</package>
+    <package>mobilesubstrate</package>
+  </dependencies>
+  <shortDescription>微信主题插件</shortDescription>
+  <descriptionlist>
+    <description><![CDATA[## 微信主题插件]]></description>
+  </descriptionlist>
+  <screenshots>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>pic1.png</image>
+    </screenshot>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>pic2.png</image>
+    </screenshot>
+  </screenshots>
+  <changelog>
+    <change><![CDATA[### 1.6.2<br />- 适配16系列机型显示<br />- 修复部分插件修改微信号导致的bug<br />- 修复iPad模式无顶栏和白条问题<br />- 更改了目前插件的UI显示<br />- 修改了一些使用bug等]]></change>
+  </changelog>
+  <links></links>
+</package>

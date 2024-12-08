@@ -1,0 +1,18 @@
+<changelog>
+  <changes>
+    <version>3.5.2</version>
+    <change><![CDATA[•改进过渡动画：修复了从分组视图切换到主视图时令人讨厌的过渡动画。</br> </br> •背景错误修复：修复了分组视图中的背景问题。]]></change>
+  </changes>
+  <changes>
+    <version>3.5</version>
+    <change><![CDATA[调整编译的SDK版本]]></change>
+  </changes>
+  <changes>
+    <version>3.4</version>
+    <change><![CDATA[修复消失的问题</br> 修复视图的一些逻辑问题</br> 修复“完整图标(红色角标)”的一些问题]]></change>
+  </changes>
+  <changes>
+    <version>3.3.1</version>
+    <change><![CDATA[修复分组视图]]></change>
+  </changes>
+</changelog>

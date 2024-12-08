@@ -1,0 +1,19 @@
+<package>
+  <id>com.dao.storeswitcher2</id>
+  <name>StoreSwitcher2(RootHide)</name>
+  <version>1.0.5</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>firmware (&gt;= 11)</package>
+    <package>mobilesubstrate</package>
+  </dependencies>
+  <shortDescription>点击AppStore帐户页面左上角图标快速切换账号。</shortDescription>
+  <descriptionlist></descriptionlist>
+  <screenshots></screenshots>
+  <changelog></changelog>
+  <links></links>
+</package>

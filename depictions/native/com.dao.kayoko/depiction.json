@@ -1,4 +1,6 @@
 {
+  "class": "DepictionTabView",
+  "headerImage": "https://TrollStore-Pro.Github.io/repo/depictions/image/com.dao.kayoko/header/header.png",
   "tintColor": "#1DBBFF",
   "minVersion": "0.3",
   "tabs": [
@@ -7,11 +9,14 @@
       "tabname": "描述",
       "views": [
         {
+          "useRawFormat": true,
           "class": "DepictionMarkdownView",
-          "markdown": "Kayoko 剪切板，现已由「乌龙工作室」继续维护，免费发布和使用！</br> </br> ❤️优化增强和添加 iOS16 支持！",
-          "useRawFormat": true
+          "markdown": "Kayoko 剪切板，现已由「乌龙工作室」继续维护，免费发布和使用！</br> </br> ❤️优化增强和添加 iOS16 支持！"
         },
         {
+          "class": "DepictionScreenshotsView",
+          "itemCornerRadius": 6,
+          "itemSize": "{160, 346.4533333333333}",
           "screenshots": [
             {
               "accessibilityText": "Screenshot",
@@ -21,10 +26,7 @@
               "accessibilityText": "Screenshot",
               "url": "https://TrollStore-Pro.Github.io/repo/depictions/image/com.dao.kayoko/screenshots/Screenshot_02.png"
             }
-          ],
-          "class": "DepictionScreenshotsView",
-          "itemCornerRadius": 6,
-          "itemSize": "{160, 346.4533333333333}"
+          ]
         },
         {
           "class": "DepictionSpacerView",
@@ -44,8 +46,8 @@
           "useBottomMargin": false
         },
         {
-          "class": "DepictionSpacerView",
-          "spacing": 8
+          "spacing": 8,
+          "class": "DepictionSpacerView"
         },
         {
           "class": "DepictionTableTextView",
@@ -53,9 +55,9 @@
           "title": "作者"
         },
         {
-          "title": "维护者",
           "class": "DepictionTableTextView",
-          "text": "乌龙工作室"
+          "text": "乌龙工作室",
+          "title": "维护者"
         },
         {
           "class": "DepictionTableTextView",
@@ -83,15 +85,15 @@
       "tabname": "更新日志",
       "views": [
         {
-          "useBoldText": true,
-          "useBottomMargin": false,
           "class": "DepictionSubheaderView",
-          "title": "2.7"
+          "title": "2.7",
+          "useBoldText": true,
+          "useBottomMargin": false
         },
         {
-          "useRawFormat": true,
           "class": "DepictionMarkdownView",
-          "markdown": "添加反馈限制</br> </br> 去除守护进程"
+          "markdown": "添加反馈限制</br> </br> 去除守护进程",
+          "useRawFormat": true
         },
         {
           "class": "DepictionSubheaderView",
@@ -100,9 +102,9 @@
           "useBottomMargin": false
         },
         {
-          "useRawFormat": true,
           "class": "DepictionMarkdownView",
-          "markdown": "优化隐藏动画和时机"
+          "markdown": "优化隐藏动画和时机",
+          "useRawFormat": true
         },
         {
           "class": "DepictionSubheaderView",
@@ -150,7 +152,5 @@
         }
       ]
     }
-  ],
-  "class": "DepictionTabView",
-  "headerImage": "https://TrollStore-Pro.Github.io/repo/depictions/image/com.dao.kayoko/header/header.png"
+  ]
 }

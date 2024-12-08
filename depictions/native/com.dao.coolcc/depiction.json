@@ -1,10 +1,10 @@
 {
-  "class": "DepictionTabView",
-  "headerImage": "https://TrollStore-Pro.Github.io/repo/depictions/image/com.dao.coolcc/header/header.png",
   "tintColor": "#1DBBFF",
   "minVersion": "0.3",
   "tabs": [
     {
+      "class": "DepictionStackView",
+      "tabname": "描述",
       "views": [
         {
           "class": "DepictionMarkdownView",
@@ -21,8 +21,8 @@
               "url": "https://TrollStore-Pro.Github.io/repo/depictions/image/com.dao.coolcc/screenshots/Screenshot_01.png"
             },
             {
-              "url": "https://TrollStore-Pro.Github.io/repo/depictions/image/com.dao.coolcc/screenshots/Screenshot_02.png",
-              "accessibilityText": "Screenshot"
+              "accessibilityText": "Screenshot",
+              "url": "https://TrollStore-Pro.Github.io/repo/depictions/image/com.dao.coolcc/screenshots/Screenshot_02.png"
             }
           ]
         },
@@ -68,27 +68,25 @@
           "title": "支持系统范围"
         },
         {
+          "title": "最后更新日期",
           "class": "DepictionTableTextView",
-          "text": "2024 年 05 月 19 日",
-          "title": "最后更新日期"
+          "text": "2024 年 05 月 19 日"
         },
         {
           "class": "DepictionSpacerView",
           "spacing": 16
         }
-      ],
-      "class": "DepictionStackView",
-      "tabname": "描述"
+      ]
     },
     {
       "class": "DepictionStackView",
       "tabname": "更新日志",
       "views": [
         {
-          "class": "DepictionSubheaderView",
-          "title": "2.1",
           "useBoldText": true,
-          "useBottomMargin": false
+          "useBottomMargin": false,
+          "class": "DepictionSubheaderView",
+          "title": "2.1"
         },
         {
           "class": "DepictionMarkdownView",
@@ -107,17 +105,19 @@
           "useRawFormat": true
         },
         {
+          "useBottomMargin": false,
           "class": "DepictionSubheaderView",
           "title": "2.0.1",
-          "useBoldText": true,
-          "useBottomMargin": false
+          "useBoldText": true
         },
         {
-          "useRawFormat": true,
           "class": "DepictionMarkdownView",
-          "markdown": "laileld 和乌贼力量修复 alias20 版的一些问题，优化支持 iOS16 音量框。"
+          "markdown": "laileld 和乌贼力量修复 alias20 版的一些问题，优化支持 iOS16 音量框。",
+          "useRawFormat": true
         }
       ]
     }
-  ]
+  ],
+  "class": "DepictionTabView",
+  "headerImage": "https://TrollStore-Pro.Github.io/repo/depictions/image/com.dao.coolcc/header/header.png"
 }

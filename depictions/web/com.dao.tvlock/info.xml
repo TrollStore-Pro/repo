@@ -1,0 +1,32 @@
+<package>
+  <id>com.dao.tvlock</id>
+  <name>TVLock(RootHide)</name>
+  <version>1.2.3</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>mobilesubstrate (&gt;= 0.9.5000)</package>
+    <package>preferenceloader</package>
+  </dependencies>
+  <shortDescription>很棒的老电视关屏动画，根据开源编译，已内置简体中文。</shortDescription>
+  <descriptionlist>
+    <description><![CDATA[很棒的老电视关屏动画，根据开源编译，已内置简体中文。]]></description>
+  </descriptionlist>
+  <screenshots>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>Screenshot_01.png</image>
+    </screenshot>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>Screenshot_02.png</image>
+    </screenshot>
+  </screenshots>
+  <changelog>
+    <change><![CDATA[根据开源重新编译，并内置中文翻译。]]></change>
+  </changelog>
+  <links></links>
+</package>

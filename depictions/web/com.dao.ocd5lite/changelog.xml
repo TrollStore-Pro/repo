@@ -1,0 +1,10 @@
+<changelog>
+  <changes>
+    <version>5.4.1.2</version>
+    <change><![CDATA[界面微调]]></change>
+  </changes>
+  <changes>
+    <version>5.4.1.1</version>
+    <change><![CDATA[同步最新 OCD，精简其他功能，只保留圆点/空心角标效果。</br> </br> 纯粹只要圆点角标效果！]]></change>
+  </changes>
+</changelog>

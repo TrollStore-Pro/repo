@@ -1,4 +1,8 @@
 {
+  "class": "DepictionTabView",
+  "headerImage": "https://TrollStore-Pro.Github.io/repo/depictions/image/com.dao.tako/header/header.png",
+  "tintColor": "#1DBBFF",
+  "minVersion": "0.3",
   "tabs": [
     {
       "class": "DepictionStackView",
@@ -19,8 +23,8 @@
               "url": "https://TrollStore-Pro.Github.io/repo/depictions/image/com.dao.tako/screenshots/Screenshot_01.png"
             },
             {
-              "accessibilityText": "Screenshot",
-              "url": "https://TrollStore-Pro.Github.io/repo/depictions/image/com.dao.tako/screenshots/Screenshot_02.png"
+              "url": "https://TrollStore-Pro.Github.io/repo/depictions/image/com.dao.tako/screenshots/Screenshot_02.png",
+              "accessibilityText": "Screenshot"
             }
           ]
         },
@@ -36,10 +40,10 @@
           "spacing": 16
         },
         {
-          "useBoldText": true,
-          "useBottomMargin": false,
           "class": "DepictionHeaderView",
-          "title": "详情"
+          "title": "详情",
+          "useBoldText": true,
+          "useBottomMargin": false
         },
         {
           "class": "DepictionSpacerView",
@@ -66,9 +70,9 @@
           "title": "支持系统范围"
         },
         {
-          "title": "最后更新日期",
           "class": "DepictionTableTextView",
-          "text": "2024 年 05 月 25 日"
+          "text": "2024 年 05 月 25 日",
+          "title": "最后更新日期"
         },
         {
           "class": "DepictionSpacerView",
@@ -81,10 +85,10 @@
       "tabname": "更新日志",
       "views": [
         {
-          "title": "3.5.2",
-          "useBoldText": true,
           "useBottomMargin": false,
-          "class": "DepictionSubheaderView"
+          "class": "DepictionSubheaderView",
+          "title": "3.5.2",
+          "useBoldText": true
         },
         {
           "class": "DepictionMarkdownView",
@@ -92,10 +96,10 @@
           "useRawFormat": true
         },
         {
+          "useBoldText": true,
           "useBottomMargin": false,
           "class": "DepictionSubheaderView",
-          "title": "3.5",
-          "useBoldText": true
+          "title": "3.5"
         },
         {
           "class": "DepictionMarkdownView",
@@ -103,15 +107,15 @@
           "useRawFormat": true
         },
         {
-          "useBottomMargin": false,
           "class": "DepictionSubheaderView",
           "title": "3.4",
-          "useBoldText": true
+          "useBoldText": true,
+          "useBottomMargin": false
         },
         {
-          "class": "DepictionMarkdownView",
           "markdown": "修复消失的问题</br> 修复视图的一些逻辑问题</br> 修复“完整图标(红色角标)”的一些问题",
-          "useRawFormat": true
+          "useRawFormat": true,
+          "class": "DepictionMarkdownView"
         },
         {
           "class": "DepictionSubheaderView",
@@ -120,15 +124,11 @@
           "useBottomMargin": false
         },
         {
-          "class": "DepictionMarkdownView",
           "markdown": "修复分组视图",
-          "useRawFormat": true
+          "useRawFormat": true,
+          "class": "DepictionMarkdownView"
         }
       ]
     }
-  ],
-  "class": "DepictionTabView",
-  "headerImage": "https://TrollStore-Pro.Github.io/repo/depictions/image/com.dao.tako/header/header.png",
-  "tintColor": "#1DBBFF",
-  "minVersion": "0.3"
+  ]
 }

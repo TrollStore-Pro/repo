@@ -1,4 +1,5 @@
 {
+  "class": "DepictionTabView",
   "headerImage": "https://TrollStore-Pro.Github.io/repo/depictions/image/com.dao.noline/header/header.png",
   "tintColor": "#1DBBFF",
   "minVersion": "0.3",
@@ -8,9 +9,9 @@
       "tabname": "描述",
       "views": [
         {
-          "useRawFormat": true,
           "class": "DepictionMarkdownView",
-          "markdown": "去除弹窗/UI/长按菜单等地方的分割线，NoLine 的新版本，重构代码。"
+          "markdown": "去除弹窗/UI/长按菜单等地方的分割线，NoLine 的新版本，重构代码。",
+          "useRawFormat": true
         },
         {
           "class": "DepictionScreenshotsView",
@@ -22,14 +23,14 @@
               "url": "https://TrollStore-Pro.Github.io/repo/depictions/image/com.dao.noline/screenshots/Screenshot_01.png"
             },
             {
-              "accessibilityText": "Screenshot",
-              "url": "https://TrollStore-Pro.Github.io/repo/depictions/image/com.dao.noline/screenshots/Screenshot_02.png"
+              "url": "https://TrollStore-Pro.Github.io/repo/depictions/image/com.dao.noline/screenshots/Screenshot_02.png",
+              "accessibilityText": "Screenshot"
             }
           ]
         },
         {
-          "class": "DepictionSpacerView",
-          "spacing": 16
+          "spacing": 16,
+          "class": "DepictionSpacerView"
         },
         {
           "class": "DepictionSeparatorView"
@@ -39,10 +40,10 @@
           "spacing": 16
         },
         {
-          "class": "DepictionHeaderView",
           "title": "详情",
           "useBoldText": true,
-          "useBottomMargin": false
+          "useBottomMargin": false,
+          "class": "DepictionHeaderView"
         },
         {
           "class": "DepictionSpacerView",
@@ -74,28 +75,27 @@
           "title": "最后更新日期"
         },
         {
-          "class": "DepictionSpacerView",
-          "spacing": 16
+          "spacing": 16,
+          "class": "DepictionSpacerView"
         }
       ]
     },
     {
+      "class": "DepictionStackView",
+      "tabname": "更新日志",
       "views": [
         {
+          "class": "DepictionSubheaderView",
           "title": "1.0.1",
           "useBoldText": true,
-          "useBottomMargin": false,
-          "class": "DepictionSubheaderView"
+          "useBottomMargin": false
         },
         {
           "class": "DepictionMarkdownView",
           "markdown": "NoLine 的新版本，重构代码。",
           "useRawFormat": true
         }
-      ],
-      "class": "DepictionStackView",
-      "tabname": "更新日志"
+      ]
     }
-  ],
-  "class": "DepictionTabView"
+  ]
 }

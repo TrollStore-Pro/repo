@@ -1,0 +1,22 @@
+<changelog>
+  <changes>
+    <version>2.0.6</version>
+    <change><![CDATA[更新CC注销模块，可长按！]]></change>
+  </changes>
+  <changes>
+    <version>2.0.5.5</version>
+    <change><![CDATA[新增一个振动控制模块！]]></change>
+  </changes>
+  <changes>
+    <version>2.0.5</version>
+    <change><![CDATA[整合 khanhduytran0 的CAPerfHUD帧率模块！]]></change>
+  </changes>
+  <changes>
+    <version>2.0.3</version>
+    <change><![CDATA[整合 Netskao 的控制抬起唤醒模块！]]></change>
+  </changes>
+  <changes>
+    <version>2.0.2</version>
+    <change><![CDATA[整合 Netskao 最新的一键清角标模块，iOS16 可用！]]></change>
+  </changes>
+</changelog>

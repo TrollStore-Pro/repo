@@ -1,0 +1,18 @@
+<package>
+  <id>com.dao.souvenir</id>
+  <name>Souvenir(rootless)</name>
+  <version>1.25</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>mobilesubstrate (&gt;= 0.9.5000)</package>
+  </dependencies>
+  <shortDescription>锁屏自定义插件，已包含赵楠的简体中文汉化包，增补了一些弹窗的汉化。</shortDescription>
+  <descriptionlist></descriptionlist>
+  <screenshots></screenshots>
+  <changelog></changelog>
+  <links></links>
+</package>

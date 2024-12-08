@@ -1,0 +1,33 @@
+<package>
+  <id>com.dao.ocd</id>
+  <name>OCD Lite(rootless)</name>
+  <version>4.0-3</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>com.mrgcgamer.libgcuniversal</package>
+    <package>preferenceloader</package>
+  </dependencies>
+  <shortDescription>根据App图标颜色来自适应App名称和角标的颜色。替换插件图标且已经汉化，去掉一些效果不明显的选项。</shortDescription>
+  <descriptionlist>
+    <description><![CDATA[根据 App 图标颜色来自适应 App 名称和角标的颜色。</br> </br> 替换插件图标且已经汉化，去掉一些效果不明显的选项。]]></description>
+  </descriptionlist>
+  <screenshots>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>Screenshot_01.png</image>
+    </screenshot>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>Screenshot_02.png</image>
+    </screenshot>
+  </screenshots>
+  <changelog>
+    <change><![CDATA[同步更新汉化。]]></change>
+    <change><![CDATA[替换插件图标且已经汉化，去掉一些效果不明显的选项。]]></change>
+  </changelog>
+  <links></links>
+</package>

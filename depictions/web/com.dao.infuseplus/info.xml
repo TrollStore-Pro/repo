@@ -1,0 +1,18 @@
+<package>
+  <id>com.dao.infuseplus</id>
+  <name>Infuse Plus(RootHide)</name>
+  <version>1.3.2</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>mobilesubstrate</package>
+  </dependencies>
+  <shortDescription>Infuse增强插件，开启Plus功能，新增更多实用功能。</shortDescription>
+  <descriptionlist></descriptionlist>
+  <screenshots></screenshots>
+  <changelog></changelog>
+  <links></links>
+</package>

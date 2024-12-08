@@ -1,0 +1,18 @@
+<package>
+  <id>com.hk.ct5.cn.rl</id>
+  <name>CrackTool5 中文修复包(rootless)</name>
+  <version>5.0</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>mobilesubstrate</package>
+  </dependencies>
+  <shortDescription>CrackTool5 中文修复包(rootless)，如果插件更新了，需要再次安装本中文包。</shortDescription>
+  <descriptionlist></descriptionlist>
+  <screenshots></screenshots>
+  <changelog></changelog>
+  <links></links>
+</package>

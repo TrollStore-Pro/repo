@@ -1,0 +1,35 @@
+<package>
+  <id>com.hk.roothide.cc</id>
+  <name>CCHide++(RootHide)</name>
+  <version>1.0.2</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>firmware (&gt;= 15.0)</package>
+    <package>mobilesubstrate</package>
+    <package>com.opa334.ccsupport</package>
+  </dependencies>
+  <shortDescription>集合的控制中心模块：定位、注销、设置、VPN、自动亮度、截屏、锁屏、系统运行时间、静音等。感谢Skypain、ichitaso、MTAC等各位大佬！！！</shortDescription>
+  <descriptionlist>
+    <description><![CDATA[控制中心模块集合：</br> 定位、注销、设置、VPN、自动亮度、截屏、锁屏、系统运行时间、静音等。</br> </br> ——>>模块插件来源于 Skypain、ichitaso、MTAC 等，感谢各位大佬的付出！！！</br> </br> 当前支持 roothide 的模块不多~]]></description>
+  </descriptionlist>
+  <screenshots>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>Screenshot_01.png</image>
+    </screenshot>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>Screenshot_02.png</image>
+    </screenshot>
+  </screenshots>
+  <changelog>
+    <change><![CDATA[更新CC注销模块，可长按！]]></change>
+    <change><![CDATA[新增系统运行时间、静音。]]></change>
+    <change><![CDATA[初始版本，集合的模块不多。]]></change>
+  </changelog>
+  <links></links>
+</package>

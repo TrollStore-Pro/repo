@@ -1,4 +1,5 @@
 {
+  "tintColor": "#1DBBFF",
   "minVersion": "0.3",
   "tabs": [
     {
@@ -30,8 +31,8 @@
           ]
         },
         {
-          "class": "DepictionSpacerView",
-          "spacing": 16
+          "spacing": 16,
+          "class": "DepictionSpacerView"
         },
         {
           "class": "DepictionSeparatorView"
@@ -56,14 +57,14 @@
           "title": "作者"
         },
         {
-          "title": "维护者",
           "class": "DepictionTableTextView",
-          "text": "SoCuul & 妖刀"
+          "text": "SoCuul & 妖刀",
+          "title": "维护者"
         },
         {
+          "class": "DepictionTableTextView",
           "text": "0.6.0",
-          "title": "最新版本",
-          "class": "DepictionTableTextView"
+          "title": "最新版本"
         },
         {
           "class": "DepictionTableTextView",
@@ -76,8 +77,8 @@
           "title": "最后更新日期"
         },
         {
-          "class": "DepictionSpacerView",
-          "spacing": 16
+          "spacing": 16,
+          "class": "DepictionSpacerView"
         }
       ]
     },
@@ -97,20 +98,19 @@
           "useRawFormat": true
         },
         {
-          "class": "DepictionSubheaderView",
           "title": "0.4.1",
           "useBoldText": true,
-          "useBottomMargin": false
+          "useBottomMargin": false,
+          "class": "DepictionSubheaderView"
         },
         {
-          "class": "DepictionMarkdownView",
           "markdown": "根据 SoCuul 的开源，直接编译简体中文版。",
-          "useRawFormat": true
+          "useRawFormat": true,
+          "class": "DepictionMarkdownView"
         }
       ]
     }
   ],
   "class": "DepictionTabView",
-  "headerImage": "https://TrollStore-Pro.Github.io/repo/depictions/image/com.dao.scinsta/header/header.png",
-  "tintColor": "#1DBBFF"
+  "headerImage": "https://TrollStore-Pro.Github.io/repo/depictions/image/com.dao.scinsta/header/header.png"
 }

@@ -1,0 +1,18 @@
+<package>
+  <id>com.dao.copylogfix16</id>
+  <name>CopyLogFix16(rootless)</name>
+  <version>1.0.1</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>firmware (&gt;= 16.0)</package>
+  </dependencies>
+  <shortDescription>修复CopyLog不能在iOS16上使用的问题，但听写键呼出是无效的，必须借助第三方插件(如：乌贼力量的DockX)呼出面板。v1.0.1：修复CopyLog在iOS16上听写键可用。</shortDescription>
+  <descriptionlist></descriptionlist>
+  <screenshots></screenshots>
+  <changelog></changelog>
+  <links></links>
+</package>

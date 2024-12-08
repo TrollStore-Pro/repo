@@ -1,0 +1,19 @@
+<package>
+  <id>com.dao.appsyncunified</id>
+  <name>AppSync Unified(rootless)</name>
+  <version>112.0</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>mobilesubstrate</package>
+    <package>firmware (&lt;= 16.5.1)</package>
+  </dependencies>
+  <shortDescription>允许在越狱版 Filza 中安装未签名的 iOS 应用程序；目前明美源gg中，上架备份。</shortDescription>
+  <descriptionlist></descriptionlist>
+  <screenshots></screenshots>
+  <changelog></changelog>
+  <links></links>
+</package>

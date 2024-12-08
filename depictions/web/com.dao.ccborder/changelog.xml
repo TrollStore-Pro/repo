@@ -1,0 +1,22 @@
+<changelog>
+  <changes>
+    <version>1.1.8</version>
+    <change><![CDATA[新增 音量/亮度 滑块数字大小选项]]></change>
+  </changes>
+  <changes>
+    <version>1.1.7</version>
+    <change><![CDATA[插件添加 音量/亮度 滑块数字百分比选项]]></change>
+  </changes>
+  <changes>
+    <version>1.1.6.5</version>
+    <change><![CDATA[去除 音量/亮度 滑块数字百分比，自行解决。]]></change>
+  </changes>
+  <changes>
+    <version>1.1.6</version>
+    <change><![CDATA[模块和滑块圆角分开设置]]></change>
+  </changes>
+  <changes>
+    <version>1.1.5</version>
+    <change><![CDATA[目前只适合 iOS16 宝宝体验，暂不支持 iOS15。]]></change>
+  </changes>
+</changelog>

@@ -1,0 +1,19 @@
+<package>
+  <id>com.daodao.snapper2</id>
+  <name>Snapper 2(rootless)</name>
+  <version>2.7.0</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>mobilesubstrate</package>
+    <package>firmware (&gt;= 12.1)</package>
+  </dependencies>
+  <shortDescription>便捷截屏。源内可安装中文修复包。</shortDescription>
+  <descriptionlist></descriptionlist>
+  <screenshots></screenshots>
+  <changelog></changelog>
+  <links></links>
+</package>

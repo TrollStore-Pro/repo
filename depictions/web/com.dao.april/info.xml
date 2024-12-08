@@ -1,0 +1,20 @@
+<package>
+  <id>com.dao.april</id>
+  <name>April 中文版(RootHide)</name>
+  <version>3.1</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>mobilesubstrate</package>
+    <package>preferenceloader</package>
+    <package>com.mrgcgamer.libgcuniversal</package>
+  </dependencies>
+  <shortDescription>可以设定设置App的背景图/模糊等，让设置App变得更好看。</shortDescription>
+  <descriptionlist></descriptionlist>
+  <screenshots></screenshots>
+  <changelog></changelog>
+  <links></links>
+</package>

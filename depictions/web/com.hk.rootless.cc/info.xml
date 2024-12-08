@@ -1,0 +1,37 @@
+<package>
+  <id>com.hk.rootless.cc</id>
+  <name>CCLess++(rootless)</name>
+  <version>2.0.6</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>firmware (&gt;= 15.0)</package>
+    <package>mobilesubstrate</package>
+    <package>com.opa334.ccsupport</package>
+  </dependencies>
+  <shortDescription>超级控制中心模块集合！</shortDescription>
+  <descriptionlist>
+    <description><![CDATA[📱控制中心模块集合：</br> 定位、注销、设置、VPN、自动亮度、截屏、锁屏、一键清角标、微信扫码、支付宝扫码、双卡切换、蜂窝切换、迷你音量-亮度、启动 QX/推特/油管/Filza/Sileo/Tg 等、静音、实时 CPU 使用率、系统运行时间、Snapper2、微信/支付宝付款码等。</br> </br> 😎模块插件来源：Skypain、Netskao、SOPPPra、MTAC、P2KDev、jailbreak365 +、AnubisTweaks、真皮等，感谢各位大佬的付出！！！]]></description>
+  </descriptionlist>
+  <screenshots>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>Screenshot_01.png</image>
+    </screenshot>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>Screenshot_02.png</image>
+    </screenshot>
+  </screenshots>
+  <changelog>
+    <change><![CDATA[更新CC注销模块，可长按！]]></change>
+    <change><![CDATA[新增一个振动控制模块！]]></change>
+    <change><![CDATA[整合 khanhduytran0 的CAPerfHUD帧率模块！]]></change>
+    <change><![CDATA[整合 Netskao 的控制抬起唤醒模块！]]></change>
+    <change><![CDATA[整合 Netskao 最新的一键清角标模块，iOS16 可用！]]></change>
+  </changelog>
+  <links></links>
+</package>

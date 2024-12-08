@@ -1,0 +1,18 @@
+<package>
+  <id>com.dao.satella.cn</id>
+  <name>Satella 简体中文包(RootHide)</name>
+  <version>1.9.0</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>mobilesubstrate</package>
+  </dependencies>
+  <shortDescription>Satella 简体中文包(RootHide)。</shortDescription>
+  <descriptionlist></descriptionlist>
+  <screenshots></screenshots>
+  <changelog></changelog>
+  <links></links>
+</package>

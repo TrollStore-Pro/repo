@@ -1,0 +1,32 @@
+<package>
+  <id>com.dao.azule</id>
+  <name>Azule(rootless)</name>
+  <version>0.8.2</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>odcctools</package>
+    <package>bzip2</package>
+    <package>gzip</package>
+    <package>zstd</package>
+    <package>xz-utils</package>
+    <package>bash</package>
+    <package>jq</package>
+    <package>plutil</package>
+    <package>ldid</package>
+    <package>coreutils</package>
+    <package>zip</package>
+    <package>unzip</package>
+    <package>sed</package>
+    <package>curl</package>
+    <package>com.linusyang.appinst</package>
+  </dependencies>
+  <shortDescription>一个自动化注入工具，为iOS应用程序注入插件。具体用法，自行科普azule -h。</shortDescription>
+  <descriptionlist></descriptionlist>
+  <screenshots></screenshots>
+  <changelog></changelog>
+  <links></links>
+</package>

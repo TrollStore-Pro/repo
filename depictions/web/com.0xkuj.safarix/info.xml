@@ -1,0 +1,20 @@
+<package>
+  <id>com.0xkuj.safarix</id>
+  <name>SafariX-New(rootless)</name>
+  <version>1.9.2</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>mobilesubstrate (&gt;= 0.9.5000)</package>
+    <package>preferenceloader</package>
+    <package>firmware (&gt;= 15.0)</package>
+  </dependencies>
+  <shortDescription>Safari 浏览器多功能增强插件；源内有汉化包；SafariX后期加了验证，不能改包名。</shortDescription>
+  <descriptionlist></descriptionlist>
+  <screenshots></screenshots>
+  <changelog></changelog>
+  <links></links>
+</package>

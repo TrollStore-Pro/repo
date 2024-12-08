@@ -1,0 +1,18 @@
+<package>
+  <id>com.hk.autounlockx.cn.rl</id>
+  <name>AutoUnlockX 简体中文包(rootless)</name>
+  <version>1.1.0</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>mobilesubstrate</package>
+  </dependencies>
+  <shortDescription>AutoUnlockX 简体中文包(rootless)。</shortDescription>
+  <descriptionlist></descriptionlist>
+  <screenshots></screenshots>
+  <changelog></changelog>
+  <links></links>
+</package>

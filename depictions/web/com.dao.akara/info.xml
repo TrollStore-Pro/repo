@@ -1,0 +1,23 @@
+<package>
+  <id>com.dao.akara</id>
+  <name>Akara(rootless)</name>
+  <version>2.0.0</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>mobilesubstrate</package>
+    <package>preferenceloader</package>
+    <package>com.opa334.ccsupport</package>
+    <package>com.muirey03.libimagepicker</package>
+    <package>firmware (&gt;= 15.0)</package>
+    <package>com.hk.akara.cn.rl</package>
+  </dependencies>
+  <shortDescription>不可思议的简约控制中心，源内有汉化包。</shortDescription>
+  <descriptionlist></descriptionlist>
+  <screenshots></screenshots>
+  <changelog></changelog>
+  <links></links>
+</package>

@@ -1,0 +1,30 @@
+<changelog>
+  <changes>
+    <version>1.9.7</version>
+    <change><![CDATA[1、新增短信开关免打扰功能（15左滑16右滑），开启后无角标、未读和横幅提醒；</br> 2、新增网络权限设置功能；</br> 3、修复应用加密/解密/隐藏/显示 3DTouch 图标不显示；</br> 4、修复15系统隐藏应用后接收通知崩溃问题；</br> 5、其它优化和已知 bugs 修复。]]></change>
+  </changes>
+  <changes>
+    <version>1.9.5</version>
+    <change><![CDATA[1、修复应用加密/解密/隐藏/显示 3DTouch 图标不显示；</br> 2、新增网络权限设置；</br> 3、新增右滑短信开关免打扰功能，开启后无角标、未读和横幅提醒；</br> 4、优化注销激活。]]></change>
+  </changes>
+  <changes>
+    <version>1.9.3</version>
+    <change><![CDATA[1、修复设置中账号加密不生效问题；</br> 2、修复16.4.1系统锁屏返回桌面安全模式问题。]]></change>
+  </changes>
+  <changes>
+    <version>1.9.2</version>
+    <change><![CDATA[修复16.4以下系统锁屏返回桌面无效和安全模式；</br> 修复上个版本锁屏清除通知失效问题。]]></change>
+  </changes>
+  <changes>
+    <version>1.9.1</version>
+    <change><![CDATA[1、新增锁屏自动返回桌面功能；</br> 2、修复隐藏设置中隐藏电池活动功能。]]></change>
+  </changes>
+  <changes>
+    <version>1.8.9</version>
+    <change><![CDATA[新增锁屏关闭程序白名单功能]]></change>
+  </changes>
+  <changes>
+    <version>1.8.8</version>
+    <change><![CDATA[1. 修复滑动后台卡片进入加密应用不验证问题</br> 2.修复通讯设置不过滤问题]]></change>
+  </changes>
+</changelog>

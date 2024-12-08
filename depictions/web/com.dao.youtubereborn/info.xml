@@ -1,0 +1,42 @@
+<package>
+  <id>com.dao.youtubereborn</id>
+  <name>YTR 中文版(RootHide)</name>
+  <version>4.2.6-2</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>mobilesubstrate (&gt;= 0.9.5000)</package>
+    <package>firmware (&gt;= 14.0)</package>
+  </dependencies>
+  <shortDescription>YouTube Reborn 中文版，根据开源，刀刀直接编译的中文版。油管高级自定义插件，可去广告、下载、画中画、改布局等。</shortDescription>
+  <descriptionlist>
+    <description><![CDATA[YouTube Reborn 中文版，根据开源，刀刀直接编译的中文版。</br> </br> 油管高级自定义插件，可去广告、下载、画中画、改布局等。]]></description>
+  </descriptionlist>
+  <screenshots>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>Screenshot_01.png</image>
+    </screenshot>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>Screenshot_02.png</image>
+    </screenshot>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>Screenshot_03.png</image>
+    </screenshot>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>Screenshot_04.png</image>
+    </screenshot>
+  </screenshots>
+  <changelog>
+    <change><![CDATA[修复一两处小bug]]></change>
+    <change><![CDATA[同步各种油管动态库]]></change>
+    <change><![CDATA[基于 arichornlover 优化版，制作中文版。]]></change>
+  </changelog>
+  <links></links>
+</package>

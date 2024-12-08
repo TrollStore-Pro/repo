@@ -1,8 +1,4 @@
 {
-  "class": "DepictionTabView",
-  "headerImage": "https://TrollStore-Pro.Github.io/repo/depictions/image/com.dao.youtubereborn/header/header.png",
-  "tintColor": "#1DBBFF",
-  "minVersion": "0.3",
   "tabs": [
     {
       "class": "DepictionStackView",
@@ -14,8 +10,6 @@
           "useRawFormat": true
         },
         {
-          "class": "DepictionScreenshotsView",
-          "itemCornerRadius": 6,
           "itemSize": "{160, 346.4533333333333}",
           "screenshots": [
             {
@@ -34,7 +28,9 @@
               "accessibilityText": "Screenshot",
               "url": "https://TrollStore-Pro.Github.io/repo/depictions/image/com.dao.youtubereborn/screenshots/Screenshot_04.png"
             }
-          ]
+          ],
+          "class": "DepictionScreenshotsView",
+          "itemCornerRadius": 6
         },
         {
           "class": "DepictionSpacerView",
@@ -63,14 +59,14 @@
           "title": "作者"
         },
         {
+          "class": "DepictionTableTextView",
           "text": "妖刀",
-          "title": "维护者",
-          "class": "DepictionTableTextView"
+          "title": "维护者"
         },
         {
+          "title": "最新版本",
           "class": "DepictionTableTextView",
-          "text": "4.2.6-2",
-          "title": "最新版本"
+          "text": "4.2.6-2"
         },
         {
           "class": "DepictionTableTextView",
@@ -83,8 +79,8 @@
           "title": "最后更新日期"
         },
         {
-          "spacing": 16,
-          "class": "DepictionSpacerView"
+          "class": "DepictionSpacerView",
+          "spacing": 16
         }
       ]
     },
@@ -93,26 +89,26 @@
       "tabname": "更新日志",
       "views": [
         {
-          "useBottomMargin": false,
           "class": "DepictionSubheaderView",
           "title": "4.2.6-2",
-          "useBoldText": true
-        },
-        {
-          "class": "DepictionMarkdownView",
-          "markdown": "修复一两处小bug",
-          "useRawFormat": true
-        },
-        {
-          "class": "DepictionSubheaderView",
-          "title": "4.2.6-1",
           "useBoldText": true,
           "useBottomMargin": false
         },
         {
+          "markdown": "修复一两处小bug",
+          "useRawFormat": true,
+          "class": "DepictionMarkdownView"
+        },
+        {
+          "useBottomMargin": false,
+          "class": "DepictionSubheaderView",
+          "title": "4.2.6-1",
+          "useBoldText": true
+        },
+        {
+          "useRawFormat": true,
           "class": "DepictionMarkdownView",
-          "markdown": "同步各种油管动态库",
-          "useRawFormat": true
+          "markdown": "同步各种油管动态库"
         },
         {
           "class": "DepictionSubheaderView",
@@ -127,5 +123,9 @@
         }
       ]
     }
-  ]
+  ],
+  "class": "DepictionTabView",
+  "headerImage": "https://TrollStore-Pro.Github.io/repo/depictions/image/com.dao.youtubereborn/header/header.png",
+  "tintColor": "#1DBBFF",
+  "minVersion": "0.3"
 }

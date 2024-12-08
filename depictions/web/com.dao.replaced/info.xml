@@ -1,0 +1,19 @@
+<package>
+  <id>com.dao.replaced</id>
+  <name>replaced(RootHide)</name>
+  <version>1.0</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>mobilesubstrate</package>
+    <package>firmware (&gt;= 15.0)</package>
+  </dependencies>
+  <shortDescription>删除“关于页面”中的“未知部件”或“部件和服务历史记录”（更换的组件，如电池、摄像头、显示通知）。</shortDescription>
+  <descriptionlist></descriptionlist>
+  <screenshots></screenshots>
+  <changelog></changelog>
+  <links></links>
+</package>

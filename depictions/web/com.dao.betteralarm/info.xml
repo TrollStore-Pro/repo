@@ -1,0 +1,20 @@
+<package>
+  <id>com.dao.betteralarm</id>
+  <name>BetterAlarm中文版(RootHide)</name>
+  <version>1.5</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>mobilesubstrate</package>
+    <package>firmware (&gt;= 14.0)</package>
+    <package>preferenceloader</package>
+  </dependencies>
+  <shortDescription>漂亮的定时器和闹钟提醒，根据开源编译。</shortDescription>
+  <descriptionlist></descriptionlist>
+  <screenshots></screenshots>
+  <changelog></changelog>
+  <links></links>
+</package>

@@ -1,0 +1,19 @@
+<package>
+  <id>com.dao.dumpdecrypter</id>
+  <name>DumpDecrypter(rootless)</name>
+  <version>1.5-1</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>firmware (&gt;= 15.0)</package>
+    <package>mobilesubstrate</package>
+  </dependencies>
+  <shortDescription>iOS应用提取工具，手机端的bagbak，支持iOS15~16多巴胺；上架备份。</shortDescription>
+  <descriptionlist></descriptionlist>
+  <screenshots></screenshots>
+  <changelog></changelog>
+  <links></links>
+</package>

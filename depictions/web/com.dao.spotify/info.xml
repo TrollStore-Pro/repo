@@ -1,0 +1,34 @@
+<package>
+  <id>com.dao.spotify</id>
+  <name>EeveeSpotify(rootless)</name>
+  <version>5.8.2</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>dev.theos.orion (&gt;= 1.0.0)</package>
+    <package>firmware (&gt;= 14.0)</package>
+    <package>org.swift.protobuf.swiftprotobuf (&gt;= 1.28.1)</package>
+  </dependencies>
+  <shortDescription>免费获得 Spotify Premium，就像 Spotilife 一样；更多的歌词服务，更多的自定义。</shortDescription>
+  <descriptionlist>
+    <description><![CDATA[免费获得 Spotify Premium，就像 Spotilife 一样；更多的歌词服务，更多的自定义。]]></description>
+  </descriptionlist>
+  <screenshots>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>Screenshot_01.png</image>
+    </screenshot>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>Screenshot_02.png</image>
+    </screenshot>
+  </screenshots>
+  <changelog>
+    <change><![CDATA[同步更新]]></change>
+    <change><![CDATA[支持多语言]]></change>
+  </changelog>
+  <links></links>
+</package>

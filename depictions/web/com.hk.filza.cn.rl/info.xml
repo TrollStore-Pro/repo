@@ -1,0 +1,18 @@
+<package>
+  <id>com.hk.filza.cn.rl</id>
+  <name>Filza 中文增补包(RootHide)</name>
+  <version>4.0-2</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>mobilesubstrate (&gt;= 0.9.5000)</package>
+  </dependencies>
+  <shortDescription>Filza 中文增补包(RootHide)。</shortDescription>
+  <descriptionlist></descriptionlist>
+  <screenshots></screenshots>
+  <changelog></changelog>
+  <links></links>
+</package>

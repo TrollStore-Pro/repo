@@ -1,0 +1,19 @@
+<package>
+  <id>com.hk.rootless.velvet2</id>
+  <name>Velvet 2(rootless)</name>
+  <version>2.1.2</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>mobilesubstrate (&gt;= 0.9.5000)</package>
+    <package>preferenceloader</package>
+  </dependencies>
+  <shortDescription>完全可自由定制的通知横幅，源内安装汉化包。</shortDescription>
+  <descriptionlist></descriptionlist>
+  <screenshots></screenshots>
+  <changelog></changelog>
+  <links></links>
+</package>

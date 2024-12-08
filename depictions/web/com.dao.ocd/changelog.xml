@@ -1,0 +1,10 @@
+<changelog>
+  <changes>
+    <version>4.0-3</version>
+    <change><![CDATA[同步更新汉化。]]></change>
+  </changes>
+  <changes>
+    <version>4.0-2</version>
+    <change><![CDATA[替换插件图标且已经汉化，去掉一些效果不明显的选项。]]></change>
+  </changes>
+</changelog>

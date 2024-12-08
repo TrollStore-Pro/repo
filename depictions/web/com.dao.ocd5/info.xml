@@ -1,0 +1,40 @@
+<package>
+  <id>com.dao.ocd5</id>
+  <name>OCD5(rootless)</name>
+  <version>5.4.1.1</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>com.mrgcgamer.libgcuniversal</package>
+    <package>preferenceloader</package>
+    <package>ws.hbang.common</package>
+    <package>ws.hbang.alderis</package>
+    <package>com.dao.ocd.cn</package>
+  </dependencies>
+  <shortDescription>根据App图标颜色来自适应App名称和角标的颜色，5系列更多新功能，有类似dotto+插件的圆点/空心效果，精简无用文件，替换插件图标。</shortDescription>
+  <descriptionlist>
+    <description><![CDATA[根据 App 图标颜色来自适应 App 名称和角标的颜色。</br> </br> OCD5 有更多新功能，有类似 dotto+ 插件的圆点/空心效果，精简无用文件，替换插件图标。</br> </br> 如果觉得好用，请支持正版！]]></description>
+  </descriptionlist>
+  <screenshots>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>Screenshot_01.png</image>
+    </screenshot>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>Screenshot_02.png</image>
+    </screenshot>
+  </screenshots>
+  <changelog>
+    <change><![CDATA[修复 5.4 版本的圆点角标相关问题。]]></change>
+    <change><![CDATA[性能调整，像抹了黄油一样丝滑。]]></change>
+    <change><![CDATA[调整了圆点角标的X位置，更靠近图标。</br> </br> 确实顺眼很多！]]></change>
+    <change><![CDATA[更新的依赖项，修正安装错误；</br> 调整了圆点角标的X位置，现在的位置更靠近图标。</br> </br> 实测5.2比5.1近，比5.0远！]]></change>
+    <change><![CDATA[修复了通知数量较多时圆点角标移动的问题]]></change>
+    <change><![CDATA[原版转载，精简无用文件，替换插件图标。]]></change>
+  </changelog>
+  <links></links>
+</package>

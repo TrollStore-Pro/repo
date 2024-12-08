@@ -1,0 +1,20 @@
+<package>
+  <id>com.dao.qqnotiavatar</id>
+  <name>QQ 通知头像(rootless)</name>
+  <version>1.2-2</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>firmware (&gt;= 15.0)</package>
+    <package>firmware (&lt;&lt; 17.0)</package>
+    <package>mobilesubstrate</package>
+  </dependencies>
+  <shortDescription>使用iOS15+API为QQ显示通知头像。Netskao新更的版本，上架备份。</shortDescription>
+  <descriptionlist></descriptionlist>
+  <screenshots></screenshots>
+  <changelog></changelog>
+  <links></links>
+</package>

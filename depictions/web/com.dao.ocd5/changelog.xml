@@ -1,0 +1,26 @@
+<changelog>
+  <changes>
+    <version>5.4.1.1</version>
+    <change><![CDATA[修复 5.4 版本的圆点角标相关问题。]]></change>
+  </changes>
+  <changes>
+    <version>5.4</version>
+    <change><![CDATA[性能调整，像抹了黄油一样丝滑。]]></change>
+  </changes>
+  <changes>
+    <version>5.2.1</version>
+    <change><![CDATA[调整了圆点角标的X位置，更靠近图标。</br> </br> 确实顺眼很多！]]></change>
+  </changes>
+  <changes>
+    <version>5.2</version>
+    <change><![CDATA[更新的依赖项，修正安装错误；</br> 调整了圆点角标的X位置，现在的位置更靠近图标。</br> </br> 实测5.2比5.1近，比5.0远！]]></change>
+  </changes>
+  <changes>
+    <version>5.1</version>
+    <change><![CDATA[修复了通知数量较多时圆点角标移动的问题]]></change>
+  </changes>
+  <changes>
+    <version>5.0</version>
+    <change><![CDATA[原版转载，精简无用文件，替换插件图标。]]></change>
+  </changes>
+</changelog>

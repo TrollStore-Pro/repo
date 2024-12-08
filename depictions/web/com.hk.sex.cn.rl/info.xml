@@ -1,0 +1,18 @@
+<package>
+  <id>com.hk.sex.cn.rl</id>
+  <name>SwipeExtenderX 简体中文包(RootHide)</name>
+  <version>1.6</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>mobilesubstrate</package>
+  </dependencies>
+  <shortDescription>SwipeExtenderX 简体中文包(RootHide)。此插件装了汉化包，无法自定义编辑键位功能，这是插件的遗留bug。</shortDescription>
+  <descriptionlist></descriptionlist>
+  <screenshots></screenshots>
+  <changelog></changelog>
+  <links></links>
+</package>

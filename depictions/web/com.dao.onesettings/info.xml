@@ -1,0 +1,21 @@
+<package>
+  <id>com.dao.onesettings</id>
+  <name>OneSettings(rootless)</name>
+  <version>2.0.3</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>firmware (&gt;= 14.0)</package>
+    <package>mobilesubstrate (&gt;= 0.9.5000)</package>
+    <package>com.mrgcgamer.libgcuniversal</package>
+    <package>preferenceloader</package>
+  </dependencies>
+  <shortDescription>设置应用程序的增强插件，源内有汉化包。</shortDescription>
+  <descriptionlist></descriptionlist>
+  <screenshots></screenshots>
+  <changelog></changelog>
+  <links></links>
+</package>

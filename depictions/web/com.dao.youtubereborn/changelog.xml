@@ -1,0 +1,14 @@
+<changelog>
+  <changes>
+    <version>4.2.6-2</version>
+    <change><![CDATA[修复一两处小bug]]></change>
+  </changes>
+  <changes>
+    <version>4.2.6-1</version>
+    <change><![CDATA[同步各种油管动态库]]></change>
+  </changes>
+  <changes>
+    <version>4.2.6</version>
+    <change><![CDATA[基于 arichornlover 优化版，制作中文版。]]></change>
+  </changes>
+</changelog>

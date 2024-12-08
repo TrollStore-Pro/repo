@@ -1,0 +1,14 @@
+<changelog>
+  <changes>
+    <version>1.5.5</version>
+    <change><![CDATA[优化编译，提升版本号，哈哈！</br> 修复某些机器不生效的问题。]]></change>
+  </changes>
+  <changes>
+    <version>1.5.3</version>
+    <change><![CDATA[优化支持多语言，优化部分代码。]]></change>
+  </changes>
+  <changes>
+    <version>1.5.2</version>
+    <change><![CDATA[优化支持 iOS16/17。]]></change>
+  </changes>
+</changelog>

@@ -1,0 +1,18 @@
+<package>
+  <id>com.hk.axon.cn.rl</id>
+  <name>Axon 通用中文包(rootless)</name>
+  <version>2.0-2</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>mobilesubstrate</package>
+  </dependencies>
+  <shortDescription>Axon 通用中文包(rootless)。</shortDescription>
+  <descriptionlist></descriptionlist>
+  <screenshots></screenshots>
+  <changelog></changelog>
+  <links></links>
+</package>

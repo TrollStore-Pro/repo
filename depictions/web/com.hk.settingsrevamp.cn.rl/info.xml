@@ -1,0 +1,18 @@
+<package>
+  <id>com.hk.settingsrevamp.cn.rl</id>
+  <name>SettingsRevamp 简体中文包(RootHide)</name>
+  <version>3.0.1</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>mobilesubstrate</package>
+  </dependencies>
+  <shortDescription>SettingsRevamp 简体中文包(RootHide)。</shortDescription>
+  <descriptionlist></descriptionlist>
+  <screenshots></screenshots>
+  <changelog></changelog>
+  <links></links>
+</package>

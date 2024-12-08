@@ -1,0 +1,19 @@
+<package>
+  <id>com.dao.designer</id>
+  <name>Designer(rootless)</name>
+  <version>1.4.5</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>mobilesubstrate</package>
+    <package>preferenceloader</package>
+  </dependencies>
+  <shortDescription>一款锁屏和主屏幕的主题布局插件。</shortDescription>
+  <descriptionlist></descriptionlist>
+  <screenshots></screenshots>
+  <changelog></changelog>
+  <links></links>
+</package>

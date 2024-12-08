@@ -1,0 +1,21 @@
+<package>
+  <id>com.dao.lynxtwo</id>
+  <name>Lynx 2(rootless)</name>
+  <version>2.5</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>mobilesubstrate</package>
+    <package>firmware (&gt;= 14.0)</package>
+    <package>preferenceloader</package>
+    <package>ws.hbang.common</package>
+  </dependencies>
+  <shortDescription>适用于iOS14+的军刀类多功能插件，汉化包在源内。</shortDescription>
+  <descriptionlist></descriptionlist>
+  <screenshots></screenshots>
+  <changelog></changelog>
+  <links></links>
+</package>

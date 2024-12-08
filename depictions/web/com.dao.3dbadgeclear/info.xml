@@ -1,0 +1,19 @@
+<package>
+  <id>com.dao.3dbadgeclear</id>
+  <name>3DBadgeClear(rootless)</name>
+  <version>1.6.8.1</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>firmware (&gt;= 13.0)</package>
+    <package>mobilesubstrate</package>
+  </dependencies>
+  <shortDescription>在有通知角标的程序图标的“长按/3D Touch”菜单上出现“清除角标”，可一键清除此程序的所有通知角标。</shortDescription>
+  <descriptionlist></descriptionlist>
+  <screenshots></screenshots>
+  <changelog></changelog>
+  <links></links>
+</package>

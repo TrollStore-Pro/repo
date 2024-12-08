@@ -1,0 +1,44 @@
+<package>
+  <id>com.dao.bhtiktok++</id>
+  <name>BHTikTok++中文版(RootHide)</name>
+  <version>1.7.1</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>mobilesubstrate</package>
+  </dependencies>
+  <shortDescription>全新的TikTok多功能插件，刀刀基于开源定制并汉化。</shortDescription>
+  <descriptionlist>
+    <description><![CDATA[全新的TikTok多功能插件，刀刀基于开源定制并汉化。</br> </br> 插件选项在TikTok设置顶部。]]></description>
+  </descriptionlist>
+  <screenshots>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>Screenshot_01.png</image>
+    </screenshot>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>Screenshot_02.png</image>
+    </screenshot>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>Screenshot_03.png</image>
+    </screenshot>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>Screenshot_04.png</image>
+    </screenshot>
+  </screenshots>
+  <changelog>
+    <change><![CDATA[切换区域有毛病，去掉了 国家/地区 的汉化。]]></change>
+    <change><![CDATA[提升版本号</br> </br> 自动播放下一个仅支持到 V36.6.0 版本]]></change>
+    <change><![CDATA[同步最新源码并汉化</br> </br> 代码重构，功能重新排版；新增一些小功能。]]></change>
+    <change><![CDATA[同步最新源码并汉化]]></change>
+    <change><![CDATA[新增播放速度控制]]></change>
+    <change><![CDATA[同步最新源码并汉化]]></change>
+  </changelog>
+  <links></links>
+</package>

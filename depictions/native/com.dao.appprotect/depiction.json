@@ -11,8 +11,6 @@
           "useRawFormat": true
         },
         {
-          "class": "DepictionScreenshotsView",
-          "itemCornerRadius": 6,
           "itemSize": "{160, 346.4533333333333}",
           "screenshots": [
             {
@@ -23,11 +21,13 @@
               "accessibilityText": "Screenshot",
               "url": "https://TrollStore-Pro.Github.io/repo/depictions/image/com.dao.appprotect/screenshots/Screenshot_02.png"
             }
-          ]
+          ],
+          "class": "DepictionScreenshotsView",
+          "itemCornerRadius": 6
         },
         {
-          "class": "DepictionSpacerView",
-          "spacing": 16
+          "spacing": 16,
+          "class": "DepictionSpacerView"
         },
         {
           "class": "DepictionSeparatorView"
@@ -57,14 +57,14 @@
           "title": "维护者"
         },
         {
+          "title": "最新版本",
           "class": "DepictionTableTextView",
-          "text": "1.9.7",
-          "title": "最新版本"
+          "text": "1.9.7"
         },
         {
-          "class": "DepictionTableTextView",
           "text": "15.0 - 16.5.1",
-          "title": "支持系统范围"
+          "title": "支持系统范围",
+          "class": "DepictionTableTextView"
         },
         {
           "class": "DepictionTableTextView",
@@ -72,8 +72,8 @@
           "title": "最后更新日期"
         },
         {
-          "spacing": 16,
-          "class": "DepictionSpacerView"
+          "class": "DepictionSpacerView",
+          "spacing": 16
         }
       ]
     },
@@ -82,10 +82,10 @@
       "tabname": "更新日志",
       "views": [
         {
-          "useBottomMargin": false,
-          "class": "DepictionSubheaderView",
           "title": "1.9.7",
-          "useBoldText": true
+          "useBoldText": true,
+          "useBottomMargin": false,
+          "class": "DepictionSubheaderView"
         },
         {
           "class": "DepictionMarkdownView",
@@ -93,10 +93,10 @@
           "useRawFormat": true
         },
         {
-          "class": "DepictionSubheaderView",
           "title": "1.9.5",
           "useBoldText": true,
-          "useBottomMargin": false
+          "useBottomMargin": false,
+          "class": "DepictionSubheaderView"
         },
         {
           "class": "DepictionMarkdownView",
@@ -137,15 +137,15 @@
           "useRawFormat": true
         },
         {
+          "class": "DepictionSubheaderView",
           "title": "1.8.9",
           "useBoldText": true,
-          "useBottomMargin": false,
-          "class": "DepictionSubheaderView"
+          "useBottomMargin": false
         },
         {
+          "useRawFormat": true,
           "class": "DepictionMarkdownView",
-          "markdown": "新增锁屏关闭程序白名单功能",
-          "useRawFormat": true
+          "markdown": "新增锁屏关闭程序白名单功能"
         },
         {
           "class": "DepictionSubheaderView",

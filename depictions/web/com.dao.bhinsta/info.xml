@@ -1,0 +1,19 @@
+<package>
+  <id>com.dao.bhinsta</id>
+  <name>BHInsta(rootless)</name>
+  <version>0.0.1</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>mobilesubstrate</package>
+    <package>ws.hbang.common</package>
+  </dependencies>
+  <shortDescription>Instagram多功能插件，可去广告、下载等，源内有汉化包。</shortDescription>
+  <descriptionlist></descriptionlist>
+  <screenshots></screenshots>
+  <changelog></changelog>
+  <links></links>
+</package>

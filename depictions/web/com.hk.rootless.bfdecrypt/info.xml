@@ -1,0 +1,20 @@
+<package>
+  <id>com.hk.rootless.bfdecrypt</id>
+  <name>bfdecryptor脱壳工具(rootless)</name>
+  <version>1.3.6</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>mobilesubstrate</package>
+    <package>com.opa334.altlist</package>
+    <package>firmware (&gt;=15.0)</package>
+  </dependencies>
+  <shortDescription>bfdecryptor脱壳工具 for Fugu15(多巴胺)，设置——bfdecryptor——选择要脱壳的App，然后打开该App，会有弹窗提示——选择&#34;Yes/No&#34;(随意选)，等待一会，脱壳完成，该App的数据目录——Documents下——&#34;decrypted-app.ipa&#34;文件。记得脱壳完成后，去设置里取消勾选App。砸壳出来不是全权限的，小组件可能会gg。</shortDescription>
+  <descriptionlist></descriptionlist>
+  <screenshots></screenshots>
+  <changelog></changelog>
+  <links></links>
+</package>

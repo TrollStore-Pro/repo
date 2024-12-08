@@ -1,0 +1,39 @@
+<package>
+  <id>com.dao.kayoko</id>
+  <name>Kayoko(RootHide)</name>
+  <version>2.7</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>firmware (&gt;= 14.0)</package>
+    <package>mobilesubstrate</package>
+    <package>preferenceloader</package>
+    <package>com.opa334.libsandy</package>
+  </dependencies>
+  <shortDescription>乌龙工作室版Kayoko，更多优化增强，添加支持iOS16。</shortDescription>
+  <descriptionlist>
+    <description><![CDATA[Kayoko 剪切板，现已由「乌龙工作室」继续维护，免费发布和使用！</br> </br> ❤️优化增强和添加 iOS16 支持！]]></description>
+  </descriptionlist>
+  <screenshots>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>Screenshot_01.png</image>
+    </screenshot>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>Screenshot_02.png</image>
+    </screenshot>
+  </screenshots>
+  <changelog>
+    <change><![CDATA[添加反馈限制</br> </br> 去除守护进程]]></change>
+    <change><![CDATA[优化隐藏动画和时机]]></change>
+    <change><![CDATA[听写键增加触感反馈]]></change>
+    <change><![CDATA[查看预览时，右上角图标改为“返回”；SpringBoard 改成 ”主屏幕“，并配上小图标。]]></change>
+    <change><![CDATA[添加复制反馈]]></change>
+    <change><![CDATA[乌龙工作室基于Alexandra源码，定制优化，添加支持iOS16！]]></change>
+  </changelog>
+  <links></links>
+</package>

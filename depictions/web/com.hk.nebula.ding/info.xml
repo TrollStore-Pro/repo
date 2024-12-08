@@ -1,0 +1,21 @@
+<package>
+  <id>com.hk.nebula.ding</id>
+  <name>Ding 汉化版(rootless)</name>
+  <version>2.0</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>mobilesubstrate (&gt;= 0.9.5000)</package>
+    <package>preferenceloader</package>
+    <package>ws.hbang.common (&gt;= 1.17)</package>
+    <package>firmware (&gt;= 13.0)</package>
+  </dependencies>
+  <shortDescription>控制您的铃声开关！</shortDescription>
+  <descriptionlist></descriptionlist>
+  <screenshots></screenshots>
+  <changelog></changelog>
+  <links></links>
+</package>

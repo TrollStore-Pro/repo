@@ -1,0 +1,18 @@
+<package>
+  <id>com.dao.kanoads</id>
+  <name>清爽酷安(rootless)</name>
+  <version>0.1</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>mobilesubstrate</package>
+  </dependencies>
+  <shortDescription>清爽开屏～</shortDescription>
+  <descriptionlist></descriptionlist>
+  <screenshots></screenshots>
+  <changelog></changelog>
+  <links></links>
+</package>

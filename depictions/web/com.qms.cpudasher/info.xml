@@ -1,0 +1,20 @@
+<package>
+  <id>com.qms.cpudasher</id>
+  <name>CPUDasher 破解VIP(RootHide)</name>
+  <version>1.1</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>firmware (&gt;= 15.0)</package>
+    <package>ellekit</package>
+    <package>mobilesubstrate</package>
+  </dependencies>
+  <shortDescription>CPUDasher破解VIP。</shortDescription>
+  <descriptionlist></descriptionlist>
+  <screenshots></screenshots>
+  <changelog></changelog>
+  <links></links>
+</package>

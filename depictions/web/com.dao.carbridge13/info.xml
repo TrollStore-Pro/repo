@@ -1,0 +1,21 @@
+<package>
+  <id>com.dao.carbridge13</id>
+  <name>CarBridge(rootless)</name>
+  <version>2.0.14</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>mobilesubstrate (&gt;= 0.9.5000)</package>
+    <package>firmware (&gt;= 13.0)</package>
+    <package>preferenceloader</package>
+    <package>com.opa334.altlist (&gt;= 1.0.10)</package>
+  </dependencies>
+  <shortDescription>在 CarPlay 中打开任何应用程序！</shortDescription>
+  <descriptionlist></descriptionlist>
+  <screenshots></screenshots>
+  <changelog></changelog>
+  <links></links>
+</package>

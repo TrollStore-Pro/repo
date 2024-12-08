@@ -1,0 +1,18 @@
+<package>
+  <id>com.dao.ttnoads</id>
+  <name>TalkatoneNoAds(rootless)</name>
+  <version>0.1</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>mobilesubstrate</package>
+  </dependencies>
+  <shortDescription>移除Talkatone烦人的广告。</shortDescription>
+  <descriptionlist></descriptionlist>
+  <screenshots></screenshots>
+  <changelog></changelog>
+  <links></links>
+</package>

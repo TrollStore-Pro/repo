@@ -1,0 +1,18 @@
+<package>
+  <id>com.dao.ytmusicultimate</id>
+  <name>YTMusicUltimate(RootHide)</name>
+  <version>2.3</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>mobilesubstrate</package>
+  </dependencies>
+  <shortDescription>YouTube Music 多功能插件，可下载，还有更多实用功能。</shortDescription>
+  <descriptionlist></descriptionlist>
+  <screenshots></screenshots>
+  <changelog></changelog>
+  <links></links>
+</package>

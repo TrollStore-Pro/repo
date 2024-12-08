@@ -1,0 +1,18 @@
+<package>
+  <id>com.dao.griddy</id>
+  <name>Griddy 随意摆(RootHide)</name>
+  <version>1.0.4</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>mobilesubstrate</package>
+  </dependencies>
+  <shortDescription>让你的程序图标在桌面随意摆放；根据开源重新编译。</shortDescription>
+  <descriptionlist></descriptionlist>
+  <screenshots></screenshots>
+  <changelog></changelog>
+  <links></links>
+</package>

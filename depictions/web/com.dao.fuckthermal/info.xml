@@ -1,0 +1,20 @@
+<package>
+  <id>com.dao.fuckthermal</id>
+  <name>去你X的温控iOS15(rootless)</name>
+  <version>1.2-38</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>firmware (&gt;= 5.0)</package>
+    <package>mobilesubstrate</package>
+    <package>preferenceloader (&gt;= 2.2.3)</package>
+  </dependencies>
+  <shortDescription>去你X的温控，测试支持iOS15.1.1及以下，其他系统版本自测。</shortDescription>
+  <descriptionlist></descriptionlist>
+  <screenshots></screenshots>
+  <changelog></changelog>
+  <links></links>
+</package>

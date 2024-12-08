@@ -1,0 +1,26 @@
+<changelog>
+  <changes>
+    <version>2.7</version>
+    <change><![CDATA[添加反馈限制</br> </br> 去除守护进程]]></change>
+  </changes>
+  <changes>
+    <version>2.6</version>
+    <change><![CDATA[优化隐藏动画和时机]]></change>
+  </changes>
+  <changes>
+    <version>2.5</version>
+    <change><![CDATA[听写键增加触感反馈]]></change>
+  </changes>
+  <changes>
+    <version>2.4</version>
+    <change><![CDATA[查看预览时，右上角图标改为“返回”；SpringBoard 改成 ”主屏幕“，并配上小图标。]]></change>
+  </changes>
+  <changes>
+    <version>2.3</version>
+    <change><![CDATA[添加复制反馈]]></change>
+  </changes>
+  <changes>
+    <version>2.2</version>
+    <change><![CDATA[乌龙工作室基于Alexandra源码，定制优化，添加支持iOS16！]]></change>
+  </changes>
+</changelog>

@@ -1,0 +1,21 @@
+<package>
+  <id>com.dao.hideserialnumber</id>
+  <name>HideSerialNumber(rootless)</name>
+  <version>0.0.4</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>firmware (&gt;= 12.2)</package>
+    <package>mobilesubstrate</package>
+    <package>preferenceloader</package>
+    <package>com.dao.hidenumber.cn</package>
+  </dependencies>
+  <shortDescription>在“设置关于”页面中隐藏/伪装序列号等相关信息，源内有汉化包。</shortDescription>
+  <descriptionlist></descriptionlist>
+  <screenshots></screenshots>
+  <changelog></changelog>
+  <links></links>
+</package>

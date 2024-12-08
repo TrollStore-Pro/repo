@@ -1,0 +1,20 @@
+<package>
+  <id>com.dao.immortalizer</id>
+  <name>Immortalizer中文版(RootHide)</name>
+  <version>2.0.0-1</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>mobilesubstrate (&gt;= 0.9.5000)</package>
+    <package>preferenceloader</package>
+    <package>com.opa334.altlist</package>
+  </dependencies>
+  <shortDescription>可将应用置于前台，达到「真后台」效果；应用图标长按菜单——开启/禁用「真后台」；CC模块控制，需先打开要控制的app，然后点击模块；根据开源重新编译，且汉化。</shortDescription>
+  <descriptionlist></descriptionlist>
+  <screenshots></screenshots>
+  <changelog></changelog>
+  <links></links>
+</package>

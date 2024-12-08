@@ -1,11 +1,8 @@
 {
-  "class": "DepictionTabView",
-  "headerImage": "https://TrollStore-Pro.Github.io/repo/depictions/image/com.dao.reverie/header/header.png",
   "tintColor": "#1DBBFF",
   "minVersion": "0.3",
   "tabs": [
     {
-      "class": "DepictionStackView",
       "tabname": "描述",
       "views": [
         {
@@ -14,6 +11,9 @@
           "useRawFormat": true
         },
         {
+          "class": "DepictionScreenshotsView",
+          "itemCornerRadius": 6,
+          "itemSize": "{160, 346.4533333333333}",
           "screenshots": [
             {
               "accessibilityText": "Screenshot",
@@ -23,10 +23,7 @@
               "accessibilityText": "Screenshot",
               "url": "https://TrollStore-Pro.Github.io/repo/depictions/image/com.dao.reverie/screenshots/Screenshot_02.png"
             }
-          ],
-          "class": "DepictionScreenshotsView",
-          "itemCornerRadius": 6,
-          "itemSize": "{160, 346.4533333333333}"
+          ]
         },
         {
           "class": "DepictionSpacerView",
@@ -46,8 +43,8 @@
           "useBottomMargin": false
         },
         {
-          "spacing": 8,
-          "class": "DepictionSpacerView"
+          "class": "DepictionSpacerView",
+          "spacing": 8
         },
         {
           "class": "DepictionTableTextView",
@@ -65,20 +62,21 @@
           "title": "最新版本"
         },
         {
-          "text": "13.0 - 15.9",
-          "title": "支持系统范围",
-          "class": "DepictionTableTextView"
-        },
-        {
           "class": "DepictionTableTextView",
-          "text": "2024 年 05 月 17 日",
-          "title": "最后更新日期"
+          "text": "13.0 - 15.9",
+          "title": "支持系统范围"
         },
         {
-          "spacing": 16,
-          "class": "DepictionSpacerView"
+          "title": "最后更新日期",
+          "class": "DepictionTableTextView",
+          "text": "2024 年 05 月 17 日"
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 16
         }
-      ]
+      ],
+      "class": "DepictionStackView"
     },
     {
       "class": "DepictionStackView",
@@ -97,5 +95,7 @@
         }
       ]
     }
-  ]
+  ],
+  "class": "DepictionTabView",
+  "headerImage": "https://TrollStore-Pro.Github.io/repo/depictions/image/com.dao.reverie/header/header.png"
 }

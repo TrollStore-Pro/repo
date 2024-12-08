@@ -1,0 +1,20 @@
+<package>
+  <id>com.dao.blurrybadges</id>
+  <name>BlurryBadges 中文版(RootHide)</name>
+  <version>1.5.2.1</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>firmware (&gt;= 14.0)</package>
+    <package>mobilesubstrate</package>
+    <package>preferenceloader</package>
+  </dependencies>
+  <shortDescription>自定义程序通知角标的边框颜色和透明度，基于PoomSmart的开源直接编译汉化。</shortDescription>
+  <descriptionlist></descriptionlist>
+  <screenshots></screenshots>
+  <changelog></changelog>
+  <links></links>
+</package>

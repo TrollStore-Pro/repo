@@ -1,0 +1,21 @@
+<package>
+  <id>com.dao.afc2</id>
+  <name>AFC2(rootless)</name>
+  <version>1.1.7-1</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>cy+cpu.arm64</package>
+    <package>mobilesubstrate</package>
+    <package>firmware (&gt;= 11.0)</package>
+    <package>ldid | firmware (&gt;= 15.0)</package>
+  </dependencies>
+  <shortDescription>允许设备通过USB访问完整的文件系统，对iOS 11及更高版本的设备特别有用。神秘大佬修复支持rootless，神秘版本适合某些越狱。</shortDescription>
+  <descriptionlist></descriptionlist>
+  <screenshots></screenshots>
+  <changelog></changelog>
+  <links></links>
+</package>

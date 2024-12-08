@@ -1,0 +1,36 @@
+<package>
+  <id>com.dao.ocd5lite</id>
+  <name>OCD5 Lite(rootless)</name>
+  <version>5.4.1.2</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>com.mrgcgamer.libgcuniversal</package>
+    <package>preferenceloader</package>
+    <package>ws.hbang.common</package>
+    <package>ws.hbang.alderis</package>
+    <package>com.dao.ocd.cn</package>
+  </dependencies>
+  <shortDescription>根据App图标颜色来自适应App名称和角标的颜色，精简5系列其他功能，只保留圆点/空心角标效果。</shortDescription>
+  <descriptionlist>
+    <description><![CDATA[根据 App 图标颜色来自适应 App 名称和角标的颜色。</br> </br> 精简 OCD5 其他功能，只保留“圆点/空心”角标效果，精简无用文件，替换插件图标。</br> </br> 如果觉得好用，请支持正版！]]></description>
+  </descriptionlist>
+  <screenshots>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>Screenshot_01.png</image>
+    </screenshot>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>Screenshot_02.png</image>
+    </screenshot>
+  </screenshots>
+  <changelog>
+    <change><![CDATA[界面微调]]></change>
+    <change><![CDATA[同步最新 OCD，精简其他功能，只保留圆点/空心角标效果。</br> </br> 纯粹只要圆点角标效果！]]></change>
+  </changelog>
+  <links></links>
+</package>

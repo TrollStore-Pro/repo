@@ -1,0 +1,31 @@
+<package>
+  <id>com.dao.noline</id>
+  <name>PurifyLine(RootHide)</name>
+  <version>1.0.1</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>mobilesubstrate</package>
+  </dependencies>
+  <shortDescription>去除弹窗/UI/长按菜单等地方的分割线，NoLine的新版本，重构代码。</shortDescription>
+  <descriptionlist>
+    <description><![CDATA[去除弹窗/UI/长按菜单等地方的分割线，NoLine 的新版本，重构代码。]]></description>
+  </descriptionlist>
+  <screenshots>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>Screenshot_01.png</image>
+    </screenshot>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>Screenshot_02.png</image>
+    </screenshot>
+  </screenshots>
+  <changelog>
+    <change><![CDATA[NoLine 的新版本，重构代码。]]></change>
+  </changelog>
+  <links></links>
+</package>

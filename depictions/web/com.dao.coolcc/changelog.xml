@@ -1,0 +1,14 @@
+<changelog>
+  <changes>
+    <version>2.1</version>
+    <change><![CDATA[新增“音量/亮度”模块百分比，此功能无设置项。]]></change>
+  </changes>
+  <changes>
+    <version>2.0.2</version>
+    <change><![CDATA[优化支持多语言]]></change>
+  </changes>
+  <changes>
+    <version>2.0.1</version>
+    <change><![CDATA[laileld 和乌贼力量修复 alias20 版的一些问题，优化支持 iOS16 音量框。]]></change>
+  </changes>
+</changelog>

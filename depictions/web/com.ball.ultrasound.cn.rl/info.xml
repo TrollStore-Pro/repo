@@ -1,0 +1,19 @@
+<package>
+  <id>com.ball.ultrasound.cn.rl</id>
+  <name>Ultrasound 简体中文包(rootless)</name>
+  <version>1.2.12</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>firmware (&gt;= 11.0)</package>
+    <package>mobilesubstrate</package>
+  </dependencies>
+  <shortDescription>Ultrasound 简体中文包(rootless)。</shortDescription>
+  <descriptionlist></descriptionlist>
+  <screenshots></screenshots>
+  <changelog></changelog>
+  <links></links>
+</package>

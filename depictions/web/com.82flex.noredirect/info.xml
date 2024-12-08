@@ -1,0 +1,21 @@
+<package>
+  <id>com.82flex.noredirect</id>
+  <name>禁字诀(rootless)</name>
+  <version>1.3</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>firmware (&gt;= 14.0)</package>
+    <package>mobilesubstrate</package>
+    <package>com.opa334.altlist</package>
+    <package>com.opa334.libsandy</package>
+  </dependencies>
+  <shortDescription>阻止指定的应用程序重定向到App Store、Safari或其他应用程序。</shortDescription>
+  <descriptionlist></descriptionlist>
+  <screenshots></screenshots>
+  <changelog></changelog>
+  <links></links>
+</package>

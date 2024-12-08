@@ -1,0 +1,21 @@
+<package>
+  <id>cpm.dao.tinge</id>
+  <name>Tinge(rootless)</name>
+  <version>1.2.2</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>firmware (&gt;= 15.0)</package>
+    <package>mobilesubstrate</package>
+    <package>cpm.dao.tinge.cn</package>
+    <package>ws.hbang.alderis</package>
+  </dependencies>
+  <shortDescription>通知角标的颜色，跟随图标的颜色自适应变色；可配置边框和角标数字等。</shortDescription>
+  <descriptionlist></descriptionlist>
+  <screenshots></screenshots>
+  <changelog></changelog>
+  <links></links>
+</package>

@@ -1,0 +1,21 @@
+<package>
+  <id>com.dao.primalfolder2</id>
+  <name>PrimalFolder2(rootless)</name>
+  <version>0.1.2</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>firmware (&gt;= 13.0)</package>
+    <package>mobilesubstrate</package>
+    <package>preferenceloader</package>
+    <package>com.dao.pf2.cn</package>
+  </dependencies>
+  <shortDescription>将文件夹显示为图标等多功能文件夹，源内有中文包。</shortDescription>
+  <descriptionlist></descriptionlist>
+  <screenshots></screenshots>
+  <changelog></changelog>
+  <links></links>
+</package>

@@ -1,0 +1,10 @@
+<changelog>
+  <changes>
+    <version>0.6.0</version>
+    <change><![CDATA[同步最新源码并汉化]]></change>
+  </changes>
+  <changes>
+    <version>0.4.1</version>
+    <change><![CDATA[根据 SoCuul 的开源，直接编译简体中文版。]]></change>
+  </changes>
+</changelog>

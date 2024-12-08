@@ -1,0 +1,16 @@
+<package>
+  <id>com.dao.sneakycam.cn</id>
+  <name>SneakyCam 简体中文包(rootless)</name>
+  <version>2.0.4</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies></dependencies>
+  <shortDescription>SneakyCam 简体中文包(rootless)。</shortDescription>
+  <descriptionlist></descriptionlist>
+  <screenshots></screenshots>
+  <changelog></changelog>
+  <links></links>
+</package>

@@ -1,0 +1,18 @@
+<package>
+  <id>com.dao.lpmnotification</id>
+  <name>LPMNotification(rootless)</name>
+  <version>1.0.0</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>mobilesubstrate</package>
+  </dependencies>
+  <shortDescription>删除 iOS 16 的低电量警告弹窗，点击通知横幅可启用低电量模式；重新编译且汉化提示。</shortDescription>
+  <descriptionlist></descriptionlist>
+  <screenshots></screenshots>
+  <changelog></changelog>
+  <links></links>
+</package>

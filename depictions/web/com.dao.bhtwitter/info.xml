@@ -1,0 +1,36 @@
+<package>
+  <id>com.dao.bhtwitter</id>
+  <name>BHTwitter 中文版(RootHide)</name>
+  <version>4.3-4</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>mobilesubstrate</package>
+    <package>ws.hbang.common</package>
+  </dependencies>
+  <shortDescription>BHTwitter中文修复优化版，推特的综合功能性插件，插件选项位于推特设置顶部。</shortDescription>
+  <descriptionlist>
+    <description><![CDATA[BHTwitter中文修复优化版，推特的综合功能性插件，插件选项位于推特设置顶部。]]></description>
+  </descriptionlist>
+  <screenshots>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>Screenshot_01.png</image>
+    </screenshot>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>Screenshot_02.png</image>
+    </screenshot>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>Screenshot_03.png</image>
+    </screenshot>
+  </screenshots>
+  <changelog>
+    <change><![CDATA[小修复]]></change>
+  </changelog>
+  <links></links>
+</package>

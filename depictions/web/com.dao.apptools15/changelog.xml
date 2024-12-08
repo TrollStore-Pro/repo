@@ -1,0 +1,18 @@
+<changelog>
+  <changes>
+    <version>1.2.9</version>
+    <change><![CDATA[1.修复滑动触发失效问题；</br> 2.新增自动保存布局功能，避免和其它插件类似功能冲突导致图标乱序。]]></change>
+  </changes>
+  <changes>
+    <version>1.2.8</version>
+    <change><![CDATA[新增时间变速功能，支持0.5-30倍变速（0为暂停）。]]></change>
+  </changes>
+  <changes>
+    <version>1.2.7</version>
+    <change><![CDATA[1、修复免打扰功能无效问题；</br> 2、修复修改图标后接收通知可能崩溃的问题。]]></change>
+  </changes>
+  <changes>
+    <version>1.2.6</version>
+    <change><![CDATA[适配 iOS16 系统]]></change>
+  </changes>
+</changelog>

@@ -1,0 +1,18 @@
+<package>
+  <id>com.dao.actk.cn</id>
+  <name>ACTikTok 简体中文包(RootHide)</name>
+  <version>1.1</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>mobilesubstrate</package>
+  </dependencies>
+  <shortDescription>ACTikTok 简体中文包(RootHide)。</shortDescription>
+  <descriptionlist></descriptionlist>
+  <screenshots></screenshots>
+  <changelog></changelog>
+  <links></links>
+</package>

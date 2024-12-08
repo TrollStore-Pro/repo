@@ -1,0 +1,18 @@
+<package>
+  <id>com.dao.injectipa</id>
+  <name>injectipa(rootless)</name>
+  <version>1.4-4</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>firmware (&gt;= 15.0)</package>
+  </dependencies>
+  <shortDescription>injectipa是一款命令行一键注入dylib到ipa工具；用法: injectipa ipa路径 dylib路径 (如有多个dylib依次填写在末尾即可), 其它参数执行injectipa查看即可, 注入完成后的IPA需要签名使用。上架备用。</shortDescription>
+  <descriptionlist></descriptionlist>
+  <screenshots></screenshots>
+  <changelog></changelog>
+  <links></links>
+</package>

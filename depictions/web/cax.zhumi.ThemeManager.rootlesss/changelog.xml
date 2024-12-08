@@ -1,0 +1,11 @@
+<changelog>
+  <changes>
+    <version></version>
+    <change><![CDATA[### 1.6.2]]></change>
+    <change><![CDATA[- 适配16系列机型显示]]></change>
+    <change><![CDATA[- 修复部分插件修改微信号导致的bug]]></change>
+    <change><![CDATA[- 修复iPad模式无顶栏和白条问题]]></change>
+    <change><![CDATA[- 更改了目前插件的UI显示]]></change>
+    <change><![CDATA[- 修改了一些使用bug等]]></change>
+  </changes>
+</changelog>

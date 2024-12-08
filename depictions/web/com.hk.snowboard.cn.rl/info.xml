@@ -1,0 +1,18 @@
+<package>
+  <id>com.hk.snowboard.cn.rl</id>
+  <name>Snowboard 中文修正包(RootHide)</name>
+  <version>1.5.37</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>mobilesubstrate</package>
+  </dependencies>
+  <shortDescription>Snowboard 中文修正包(RootHide)。</shortDescription>
+  <descriptionlist></descriptionlist>
+  <screenshots></screenshots>
+  <changelog></changelog>
+  <links></links>
+</package>

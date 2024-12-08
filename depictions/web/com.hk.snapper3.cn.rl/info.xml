@@ -1,0 +1,18 @@
+<package>
+  <id>com.hk.snapper3.cn.rl</id>
+  <name>Snapper3 简体中文包(RootHide)</name>
+  <version>1.2.1</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>mobilesubstrate</package>
+  </dependencies>
+  <shortDescription>Snapper3 个人自用简体中文包(RootHide)，连同控制中心Snapper3模块也一起汉化了。</shortDescription>
+  <descriptionlist></descriptionlist>
+  <screenshots></screenshots>
+  <changelog></changelog>
+  <links></links>
+</package>

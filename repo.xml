@@ -2,7 +2,7 @@
     <footerlinks>
         <link>
             <name>微信公众号：全能玩机应用汇</name>
-            <url>https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=MzkxMTczNTMyMA==</url>
+            <url>https://mp.weixin.qq.com/mp/profile_ext?action=home&amp;__biz=MzkxMTczNTMyMA==</url>
             <iconclass>fa-brands fa-weixin</iconclass>
         </link>
         <link>

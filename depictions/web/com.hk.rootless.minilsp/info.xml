@@ -1,0 +1,18 @@
+<package>
+  <id>com.hk.rootless.minilsp</id>
+  <name>MiniLsp(rootless)</name>
+  <version>1.1.2</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>mobilesubstrate</package>
+  </dependencies>
+  <shortDescription>迷你锁屏播放器，无设置。</shortDescription>
+  <descriptionlist></descriptionlist>
+  <screenshots></screenshots>
+  <changelog></changelog>
+  <links></links>
+</package>

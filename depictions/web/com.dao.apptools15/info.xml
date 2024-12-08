@@ -1,0 +1,35 @@
+<package>
+  <id>com.dao.apptools15</id>
+  <name>AppTools15-16(rootless)</name>
+  <version>1.2.9</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>firmware (&gt;=15.0)</package>
+    <package>mobilesubstrate</package>
+  </dependencies>
+  <shortDescription>AppTools for iOS15~16，强大的App类辅助插件，可以清理缓存、备份程序、清理角标、自定义分辨率、禁止插件插件注入等，系付费插件，自行购买。</shortDescription>
+  <descriptionlist>
+    <description><![CDATA[强大的App类辅助插件，可以清理缓存、备份程序、清理角标、自定义分辨率、禁止插件插件注入等，系付费插件，自行购买。]]></description>
+  </descriptionlist>
+  <screenshots>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>Screenshot_01.png</image>
+    </screenshot>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>Screenshot_02.png</image>
+    </screenshot>
+  </screenshots>
+  <changelog>
+    <change><![CDATA[1.修复滑动触发失效问题；</br> 2.新增自动保存布局功能，避免和其它插件类似功能冲突导致图标乱序。]]></change>
+    <change><![CDATA[新增时间变速功能，支持0.5-30倍变速（0为暂停）。]]></change>
+    <change><![CDATA[1、修复免打扰功能无效问题；</br> 2、修复修改图标后接收通知可能崩溃的问题。]]></change>
+    <change><![CDATA[适配 iOS16 系统]]></change>
+  </changelog>
+  <links></links>
+</package>

@@ -1,0 +1,20 @@
+<package>
+  <id>com.hk.rootless.blurrybadges</id>
+  <name>BlurryBadges(rootless)</name>
+  <version>1.4.3-2</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>firmware (&gt;= 14.0)</package>
+    <package>mobilesubstrate</package>
+    <package>preferenceloader</package>
+  </dependencies>
+  <shortDescription>程序角标边框自定义。基于PoomSmart的开源，Skypain大佬优化和汉化插件。</shortDescription>
+  <descriptionlist></descriptionlist>
+  <screenshots></screenshots>
+  <changelog></changelog>
+  <links></links>
+</package>

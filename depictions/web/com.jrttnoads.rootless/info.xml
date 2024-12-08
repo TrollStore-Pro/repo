@@ -1,0 +1,18 @@
+<package>
+  <id>com.jrttnoads.rootless</id>
+  <name>头条NoAds(rootless)</name>
+  <version>1.0</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>mobilesubstrate</package>
+  </dependencies>
+  <shortDescription>某大佬古老的今日头条系列去广告插件，无设置。插件还是老版本，可能某些功能失效，只是转换支持Fugu15/多巴胺越狱而已。提示：毕竟不是插件作者更新支持rootless，可能会出现bug/风险，若出现风险，自行承担！</shortDescription>
+  <descriptionlist></descriptionlist>
+  <screenshots></screenshots>
+  <changelog></changelog>
+  <links></links>
+</package>

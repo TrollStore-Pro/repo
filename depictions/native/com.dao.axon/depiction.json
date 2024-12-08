@@ -5,8 +5,6 @@
   "minVersion": "0.3",
   "tabs": [
     {
-      "class": "DepictionStackView",
-      "tabname": "描述",
       "views": [
         {
           "class": "DepictionMarkdownView",
@@ -14,8 +12,6 @@
           "useRawFormat": true
         },
         {
-          "itemCornerRadius": 6,
-          "itemSize": "{160, 346.4533333333333}",
           "screenshots": [
             {
               "accessibilityText": "Screenshot",
@@ -26,7 +22,9 @@
               "url": "https://TrollStore-Pro.Github.io/repo/depictions/image/com.dao.axon/screenshots/Screenshot_02.png"
             }
           ],
-          "class": "DepictionScreenshotsView"
+          "class": "DepictionScreenshotsView",
+          "itemCornerRadius": 6,
+          "itemSize": "{160, 346.4533333333333}"
         },
         {
           "class": "DepictionSpacerView",
@@ -36,14 +34,14 @@
           "class": "DepictionSeparatorView"
         },
         {
-          "class": "DepictionSpacerView",
-          "spacing": 16
+          "spacing": 16,
+          "class": "DepictionSpacerView"
         },
         {
+          "useBottomMargin": false,
           "class": "DepictionHeaderView",
           "title": "详情",
-          "useBoldText": true,
-          "useBottomMargin": false
+          "useBoldText": true
         },
         {
           "class": "DepictionSpacerView",
@@ -55,9 +53,9 @@
           "title": "作者"
         },
         {
-          "class": "DepictionTableTextView",
           "text": "妖刀",
-          "title": "维护者"
+          "title": "维护者",
+          "class": "DepictionTableTextView"
         },
         {
           "class": "DepictionTableTextView",
@@ -65,20 +63,22 @@
           "title": "最新版本"
         },
         {
-          "title": "支持系统范围",
           "class": "DepictionTableTextView",
-          "text": "14.0 - 16.5.1"
+          "text": "14.0 - 16.5.1",
+          "title": "支持系统范围"
         },
         {
-          "class": "DepictionTableTextView",
           "text": "2024 年 05 月 15 日",
-          "title": "最后更新日期"
+          "title": "最后更新日期",
+          "class": "DepictionTableTextView"
         },
         {
           "class": "DepictionSpacerView",
           "spacing": 16
         }
-      ]
+      ],
+      "class": "DepictionStackView",
+      "tabname": "描述"
     },
     {
       "class": "DepictionStackView",
@@ -91,9 +91,9 @@
           "useBottomMargin": false
         },
         {
+          "useRawFormat": true,
           "class": "DepictionMarkdownView",
-          "markdown": "优化编译，提升版本号，哈哈！</br> 修复某些机器不生效的问题。",
-          "useRawFormat": true
+          "markdown": "优化编译，提升版本号，哈哈！</br> 修复某些机器不生效的问题。"
         },
         {
           "class": "DepictionSubheaderView",
@@ -107,10 +107,10 @@
           "useRawFormat": true
         },
         {
-          "useBottomMargin": false,
           "class": "DepictionSubheaderView",
           "title": "1.5.2",
-          "useBoldText": true
+          "useBoldText": true,
+          "useBottomMargin": false
         },
         {
           "class": "DepictionMarkdownView",

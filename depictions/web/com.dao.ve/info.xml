@@ -1,0 +1,20 @@
+<package>
+  <id>com.dao.ve</id>
+  <name>Vē 通知记录(RootHide)</name>
+  <version>2.0.beta1</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>firmware (&gt;= 14.0)</package>
+    <package>mobilesubstrate</package>
+    <package>preferenceloader</package>
+  </dependencies>
+  <shortDescription>通知记录器，记录设备收到的所有通知。基于AlexandraAurora的开源源码制作，完善中文翻译。</shortDescription>
+  <descriptionlist></descriptionlist>
+  <screenshots></screenshots>
+  <changelog></changelog>
+  <links></links>
+</package>

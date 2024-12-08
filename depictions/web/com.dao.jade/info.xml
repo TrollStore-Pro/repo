@@ -1,0 +1,22 @@
+<package>
+  <id>com.dao.jade</id>
+  <name>Jade(rootless)</name>
+  <version>1.0.3</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>mobilesubstrate (&gt;= 0.9.5000)</package>
+    <package>com.opa334.ccsupport</package>
+    <package>com.mrgcgamer.libgcuniversal</package>
+    <package>preferenceloader</package>
+    <package>firmware (&gt;= 15.0)</package>
+  </dependencies>
+  <shortDescription>Prysm控制中心自定义。</shortDescription>
+  <descriptionlist></descriptionlist>
+  <screenshots></screenshots>
+  <changelog></changelog>
+  <links></links>
+</package>

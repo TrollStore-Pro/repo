@@ -1,0 +1,18 @@
+<package>
+  <id>com.dao.fivecolumnscc</id>
+  <name>CC5(rootless)</name>
+  <version>1.0.b4</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>mobilesubstrate</package>
+  </dependencies>
+  <shortDescription>控制中心模块五列排布，容纳更多的模块。</shortDescription>
+  <descriptionlist></descriptionlist>
+  <screenshots></screenshots>
+  <changelog></changelog>
+  <links></links>
+</package>

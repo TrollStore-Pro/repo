@@ -1,0 +1,6 @@
+<changelog>
+  <changes>
+    <version>0.7</version>
+    <change><![CDATA[重新编译，修复某些机器不生效的问题。]]></change>
+  </changes>
+</changelog>

@@ -1,0 +1,20 @@
+<package>
+  <id>com.dao.pulloverpro</id>
+  <name>PullOver Pro(rootless)</name>
+  <version>2.1.6</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>firmware (&gt;= 15.0)</package>
+    <package>mobilesubstrate</package>
+    <package>preferenceloader</package>
+  </dependencies>
+  <shortDescription>更好的窗口多任务分屏，屏幕侧边呼出，由Netskao适配优化支持iOS15+。Netskao新更的版本，上架备份。</shortDescription>
+  <descriptionlist></descriptionlist>
+  <screenshots></screenshots>
+  <changelog></changelog>
+  <links></links>
+</package>

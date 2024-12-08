@@ -1,0 +1,35 @@
+<package>
+  <id>com.dao.coolcc</id>
+  <name>CoolCC Reborn(RootHide)</name>
+  <version>2.1</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>mobilesubstrate (&gt;= 0.9.5000)</package>
+    <package>preferenceloader</package>
+    <package>ws.hbang.alderis</package>
+  </dependencies>
+  <shortDescription>控制中心调整背景和边框等，基于alias20的CoolCC Reborn的开源编译，已包含简体中文。laileld和乌贼力量修复alias20版的一些bug，优化支持iOS16音量框。新增：音量/亮度条添加数字百分比。</shortDescription>
+  <descriptionlist>
+    <description><![CDATA[控制中心调整背景和边框等，基于 alias20 的 CoolCC Reborn 的开源编译，已包含简体中文。]]></description>
+  </descriptionlist>
+  <screenshots>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>Screenshot_01.png</image>
+    </screenshot>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>Screenshot_02.png</image>
+    </screenshot>
+  </screenshots>
+  <changelog>
+    <change><![CDATA[新增“音量/亮度”模块百分比，此功能无设置项。]]></change>
+    <change><![CDATA[优化支持多语言]]></change>
+    <change><![CDATA[laileld 和乌贼力量修复 alias20 版的一些问题，优化支持 iOS16 音量框。]]></change>
+  </changelog>
+  <links></links>
+</package>

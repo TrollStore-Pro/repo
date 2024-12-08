@@ -1,0 +1,18 @@
+<package>
+  <id>com.Bloom.zh-hans</id>
+  <name>Bloom 简体中文包(rootless)</name>
+  <version>0.0.2</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>firmware (&gt;= 15.0)</package>
+  </dependencies>
+  <shortDescription>为Bloom提供简体中文，萧箫帅比倾情汉化。</shortDescription>
+  <descriptionlist></descriptionlist>
+  <screenshots></screenshots>
+  <changelog></changelog>
+  <links></links>
+</package>

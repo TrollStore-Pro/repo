@@ -1,0 +1,10 @@
+<changelog>
+  <changes>
+    <version>5.8.2</version>
+    <change><![CDATA[同步更新]]></change>
+  </changes>
+  <changes>
+    <version>4.8</version>
+    <change><![CDATA[支持多语言]]></change>
+  </changes>
+</changelog>

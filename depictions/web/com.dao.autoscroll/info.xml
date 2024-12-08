@@ -1,0 +1,18 @@
+<package>
+  <id>com.dao.autoscroll</id>
+  <name>AutoScroll 自动滚动(rootless)</name>
+  <version>1.0.0</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>mobilesubstrate</package>
+  </dependencies>
+  <shortDescription>防止手指疲劳，跟随手指自动滚动页面，直到再次触摸屏幕停止滚动，无设置。</shortDescription>
+  <descriptionlist></descriptionlist>
+  <screenshots></screenshots>
+  <changelog></changelog>
+  <links></links>
+</package>

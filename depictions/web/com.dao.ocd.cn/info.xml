@@ -1,0 +1,18 @@
+<package>
+  <id>com.dao.ocd.cn</id>
+  <name>OCD 简体中文包(RootHide)</name>
+  <version>5.0</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>mobilesubstrate</package>
+  </dependencies>
+  <shortDescription>OCD4和OCD5的通用简体中文包(RootHide)。</shortDescription>
+  <descriptionlist></descriptionlist>
+  <screenshots></screenshots>
+  <changelog></changelog>
+  <links></links>
+</package>

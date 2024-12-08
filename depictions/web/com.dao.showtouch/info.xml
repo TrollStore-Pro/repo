@@ -1,0 +1,20 @@
+<package>
+  <id>com.dao.showtouch</id>
+  <name>ShowTouch(rootless)</name>
+  <version>1.0.4-3</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>firmware (&gt;= 15.0)</package>
+    <package>mobilesubstrate</package>
+    <package>preferenceloader</package>
+  </dependencies>
+  <shortDescription>显示录屏时触摸屏幕的位置。Netskao新更的版本，上架备份。</shortDescription>
+  <descriptionlist></descriptionlist>
+  <screenshots></screenshots>
+  <changelog></changelog>
+  <links></links>
+</package>
