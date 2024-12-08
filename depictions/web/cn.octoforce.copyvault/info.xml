@@ -15,7 +15,10 @@
   <shortDescription>激活码用户或需要激活码的用户安装这个，非激活码用户不要安装！！Do not install if you do not have an activation code!!! Your Copy Vault, Your Pasteboard</shortDescription>
   <descriptionlist>
     <description>激活码用户或需要激活码的用户安装此包，非激活码用户不要装。&#xA;&#xA;Activation code users or users who need an activation code install this package, Otherwise do not install this.&#xA;&#xA;简洁轻量化、功能丰富且易用的剪贴板。它可以不受系统限制地保存你复制过的文本、链接、图片等内容，并且可以精准搜索和自定义分组归档。&#xA;</description>
-    <description>* 直观的界面&#xA;* 可以保存文本/富文本/链接/图片等&#xA;* 可使用正则表达式对剪贴板进行选择性保存&#xA;* 支持JavaScript脚本处理&#xA;* 可以给收藏区记录添加备注&#xA;* 收藏区自定义分组&#xA;* 通过文本内容搜索&#xA;* 通过类型搜索(关键词是txt，url，img等)&#xA;* 通过来源应用名搜索&#xA;* 通过记录时间搜索(完整格式为2024-05-20 00:00，可截取部分搜索)&#xA;* 通过备注搜索(比如给图片或长文字添加的备注)&#xA;* 搜索支持智能大小写&#xA;支持输入法中上滑唤出&#xA;支持外接键盘快捷键唤出&#xA;* 可自定义界面&#xA;* 长按/左滑/右滑单条记录进行更多操作&#xA;* 联动其他插件，如SquidGesture、DockX、Hammer It、Snapper等&#xA;* 支持iOS/iPadOS&#xA;</description>
+    <description>* 直观的界面
+      * 可以保存文本/富文本/链接/图片等
+      * 可使用正则表达式对剪贴板进行选择性保存
+      * 支持JavaScript脚本处理&#xA;* 可以给收藏区记录添加备注&#xA;* 收藏区自定义分组&#xA;* 通过文本内容搜索&#xA;* 通过类型搜索(关键词是txt，url，img等)&#xA;* 通过来源应用名搜索&#xA;* 通过记录时间搜索(完整格式为2024-05-20 00:00，可截取部分搜索)&#xA;* 通过备注搜索(比如给图片或长文字添加的备注)&#xA;* 搜索支持智能大小写&#xA;支持输入法中上滑唤出&#xA;支持外接键盘快捷键唤出&#xA;* 可自定义界面&#xA;* 长按/左滑/右滑单条记录进行更多操作&#xA;* 联动其他插件，如SquidGesture、DockX、Hammer It、Snapper等&#xA;* 支持iOS/iPadOS&#xA;</description>
   </descriptionlist>
   <screenshots>
     <screenshot>
