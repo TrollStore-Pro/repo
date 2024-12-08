@@ -1,0 +1,27 @@
+<package>
+  <id>cn.llld.zfbbs</id>
+  <name>支付宝步数 XD</name>
+  <version>1.3</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>mobilesubstrate</package>
+  </dependencies>
+  <shortDescription>支付宝步数插件</shortDescription>
+  <descriptionlist>
+    <description><![CDATA[## 支付宝步数插件<br />- 自定义步数，屏蔽越狱检测(代码半年没动了) <br />- 精简主页显示内容<br />- 长按底栏1秒控件或森林、运动顶栏或任意右上角控件顶部，弹出设置<br />- 支持任意版本]]></description>
+  </descriptionlist>
+  <screenshots>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>pic1.png</image>
+    </screenshot>
+  </screenshots>
+  <changelog>
+    <change><![CDATA[### 1.3<br />- 初始发布]]></change>
+  </changelog>
+  <links></links>
+</package>

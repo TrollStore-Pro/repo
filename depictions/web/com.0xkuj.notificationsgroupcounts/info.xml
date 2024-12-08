@@ -1,0 +1,35 @@
+<package>
+  <id>com.0xkuj.notificationsgroupcounts</id>
+  <name>NotificationsGroupCount 通知分组计数</name>
+  <version>1.0.7</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>mobilesubstrate (&gt;= 0.9.5000)</package>
+  </dependencies>
+  <shortDescription>在通知界面显示分组消息数量</shortDescription>
+  <descriptionlist>
+    <description><![CDATA[### 通知分组计数 - 让你的通知界面显示分组通知的数量！<br />- 这个功能的原始创意来自 Apple 的 iOS 18.1<br />- 在通知界面上添加一个角标，显示该组通知的数量。<br />- 让你控制角标的阴影效果，以提升可见性。]]></description>
+    <description><![CDATA[### 提供三种不同的颜色方案<br />- 自定义颜色：可以选择自己的背景和文字颜色。<br />- 壁纸匹配颜色：自动与锁屏壁纸的平均颜色匹配。<br />- 图标匹配颜色（默认）：适应徽章下方应用图标的颜色，呈现简洁外观。]]></description>
+  </descriptionlist>
+  <screenshots>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>pic1.png</image>
+    </screenshot>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>.</image>
+    </screenshot>
+  </screenshots>
+  <changelog>
+    <change><![CDATA[### 1.0.6+7<br />- 修复更多角标对齐，非常感谢 p2kdev]]></change>
+    <change><![CDATA[### 1.0.5<br />- 修复了角标可能未对齐的一些情况]]></change>
+    <change><![CDATA[### 1.0.2<br />- 希望修复罕见情况角标重影]]></change>
+    <change><![CDATA[### 1.0.0<br />- 初始发布]]></change>
+  </changelog>
+  <links></links>
+</package>

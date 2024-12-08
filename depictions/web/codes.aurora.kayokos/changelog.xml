@@ -1,0 +1,31 @@
+<changelog>
+  <changes>
+    <version></version>
+    <change><![CDATA[### 2.7]]></change>
+    <change><![CDATA[- 支持半越狱]]></change>
+  </changes>
+  <changes>
+    <version></version>
+    <change><![CDATA[### 2.6]]></change>
+    <change><![CDATA[- 优化隐藏动画和时机]]></change>
+  </changes>
+  <changes>
+    <version></version>
+    <change><![CDATA[### 2.5]]></change>
+    <change><![CDATA[- 「播放触感反馈」开关现已能控制整个插件的触感反馈效果]]></change>
+    <change><![CDATA[- 为听写键触发新增了一处触感反馈。]]></change>
+  </changes>
+  <changes>
+    <version></version>
+    <change><![CDATA[### 2.4]]></change>
+    <change><![CDATA[- 优化删除/收藏时的动画效果]]></change>
+    <change><![CDATA[- 优化面板颜色跟随状态栏风格]]></change>
+    <change><![CDATA[- 查看预览时，右上角图标改为「返回」]]></change>
+    <change><![CDATA[- SpringBoard 改成 「主屏幕」，并配上小图标]]></change>
+  </changes>
+  <changes>
+    <version></version>
+    <change><![CDATA[### 2.3]]></change>
+    <change><![CDATA[- 初始发布]]></change>
+  </changes>
+</changelog>

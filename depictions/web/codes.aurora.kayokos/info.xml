@@ -1,0 +1,42 @@
+<package>
+  <id>codes.aurora.kayokos</id>
+  <name>Kayoko 剪切板</name>
+  <version>2.7</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>firmware (&gt;= 14.0)</package>
+    <package>mobilesubstrate</package>
+    <package>preferenceloader</package>
+    <package>com.opa334.libsandy</package>
+  </dependencies>
+  <shortDescription>iOS 剪切板越狱插件</shortDescription>
+  <descriptionlist>
+    <description><![CDATA[## iOS 剪切板越狱插件<br />- Clipboard manager for iOS.<br />- 由「乌龙工作室」修复支持 iOS 16，免费发布和使用]]></description>
+  </descriptionlist>
+  <screenshots>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>pic1.png</image>
+    </screenshot>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>pic2.png</image>
+    </screenshot>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>pic3.png</image>
+    </screenshot>
+  </screenshots>
+  <changelog>
+    <change><![CDATA[### 2.7<br />- 支持半越狱]]></change>
+    <change><![CDATA[### 2.6<br />- 优化隐藏动画和时机]]></change>
+    <change><![CDATA[### 2.5<br />- 「播放触感反馈」开关现已能控制整个插件的触感反馈效果<br />- 为听写键触发新增了一处触感反馈。]]></change>
+    <change><![CDATA[### 2.4<br />- 优化删除/收藏时的动画效果<br />- 优化面板颜色跟随状态栏风格<br />- 查看预览时，右上角图标改为「返回」<br />- SpringBoard 改成 「主屏幕」，并配上小图标]]></change>
+    <change><![CDATA[### 2.3<br />- 初始发布]]></change>
+  </changelog>
+  <links></links>
+</package>

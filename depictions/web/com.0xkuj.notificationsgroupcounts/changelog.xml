@@ -1,0 +1,22 @@
+<changelog>
+  <changes>
+    <version></version>
+    <change><![CDATA[### 1.0.6+7]]></change>
+    <change><![CDATA[- 修复更多角标对齐，非常感谢 p2kdev]]></change>
+  </changes>
+  <changes>
+    <version></version>
+    <change><![CDATA[### 1.0.5]]></change>
+    <change><![CDATA[- 修复了角标可能未对齐的一些情况]]></change>
+  </changes>
+  <changes>
+    <version></version>
+    <change><![CDATA[### 1.0.2]]></change>
+    <change><![CDATA[- 希望修复罕见情况角标重影]]></change>
+  </changes>
+  <changes>
+    <version></version>
+    <change><![CDATA[### 1.0.0]]></change>
+    <change><![CDATA[- 初始发布]]></change>
+  </changes>
+</changelog>

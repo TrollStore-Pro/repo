@@ -1,8 +1,9 @@
 {
+  "headerImage": "https://TrollStore-Pro.Github.io/repo/depictions/image/codes.aurora.kayokos/header/header.png",
+  "tintColor": "#1DD660",
   "minVersion": "0.3",
   "tabs": [
     {
-      "class": "DepictionStackView",
       "tabname": "描述",
       "views": [
         {
@@ -24,8 +25,41 @@
           "spacing": 8
         },
         {
+          "useBoldText": true,
+          "useBottomMargin": false,
           "class": "DepictionHeaderView",
-          "title": "预览",
+          "title": "预览"
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 8
+        },
+        {
+          "class": "DepictionScreenshotsView",
+          "itemCornerRadius": 0,
+          "itemSize": "{240, 520}",
+          "screenshots": [
+            {
+              "accessibilityText": "Screenshot",
+              "url": "https://TrollStore-Pro.Github.io/repo/depictions/image/codes.aurora.kayokos/screenshots/pic1.png"
+            },
+            {
+              "accessibilityText": "Screenshot",
+              "url": "https://TrollStore-Pro.Github.io/repo/depictions/image/codes.aurora.kayokos/screenshots/pic2.png"
+            },
+            {
+              "accessibilityText": "Screenshot",
+              "url": "https://TrollStore-Pro.Github.io/repo/depictions/image/codes.aurora.kayokos/screenshots/pic3.png"
+            }
+          ]
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 16
+        },
+        {
+          "class": "DepictionHeaderView",
+          "title": "详情",
           "useBoldText": true,
           "useBottomMargin": false
         },
@@ -34,45 +68,12 @@
           "spacing": 8
         },
         {
-          "itemCornerRadius": 0,
-          "itemSize": "{240, 520}",
-          "screenshots": [
-            {
-              "accessibilityText": "Screenshot",
-              "url": "https://trollstorex.github.io/sileodepiction/Kayoko/pic1.png"
-            },
-            {
-              "accessibilityText": "Screenshot",
-              "url": "https://trollstorex.github.io/sileodepiction/Kayoko/pic2.png"
-            },
-            {
-              "accessibilityText": "Screenshot",
-              "url": "https://trollstorex.github.io/sileodepiction/Kayoko/pic3.png"
-            }
-          ],
-          "class": "DepictionScreenshotsView"
-        },
-        {
-          "class": "DepictionSpacerView",
-          "spacing": 16
-        },
-        {
-          "useBoldText": true,
-          "useBottomMargin": false,
-          "class": "DepictionHeaderView",
-          "title": "详情"
-        },
-        {
-          "spacing": 8,
-          "class": "DepictionSpacerView"
-        },
-        {
           "class": "DepictionSeparatorView"
         },
         {
+          "title": "插件版本",
           "class": "DepictionTableTextView",
-          "text": "2.7",
-          "title": "插件版本"
+          "text": "2.7"
         },
         {
           "class": "DepictionTableTextView",
@@ -80,19 +81,20 @@
           "title": "支持系统"
         },
         {
-          "class": "DepictionTableTextView",
           "text": "2024 年 10 月 29 日",
-          "title": "最后更新"
+          "title": "最后更新",
+          "class": "DepictionTableTextView"
         }
-      ]
+      ],
+      "class": "DepictionStackView"
     },
     {
       "class": "DepictionStackView",
       "tabname": "更新",
       "views": [
         {
-          "class": "DepictionMarkdownView",
-          "markdown": "### 2.7\n- 支持半越狱"
+          "markdown": "### 2.7\n- 支持半越狱",
+          "class": "DepictionMarkdownView"
         },
         {
           "class": "DepictionSeparatorView"
@@ -105,8 +107,8 @@
           "class": "DepictionSeparatorView"
         },
         {
-          "class": "DepictionMarkdownView",
-          "markdown": "### 2.5\n- 「播放触感反馈」开关现已能控制整个插件的触感反馈效果\n- 为听写键触发新增了一处触感反馈。"
+          "markdown": "### 2.5\n- 「播放触感反馈」开关现已能控制整个插件的触感反馈效果\n- 为听写键触发新增了一处触感反馈。",
+          "class": "DepictionMarkdownView"
         },
         {
           "class": "DepictionSeparatorView"
@@ -125,7 +127,5 @@
       ]
     }
   ],
-  "class": "DepictionTabView",
-  "headerImage": "https://TrollStore-Pro.Github.io/repo/depictions/image/codes.aurora.kayokos/header/header.png",
-  "tintColor": "#1DD660"
+  "class": "DepictionTabView"
 }

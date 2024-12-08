@@ -1,7 +1,4 @@
 {
-  "class": "DepictionTabView",
-  "headerImage": "https://TrollStore-Pro.Github.io/repo/depictions/image/cax.zhumi.ThemeManager.rootlesss/header/header.png",
-  "tintColor": "#EE66A6",
   "minVersion": "0.3",
   "tabs": [
     {
@@ -9,27 +6,27 @@
       "tabname": "描述",
       "views": [
         {
-          "text": "加入全能玩机交流群 Chat",
-          "action": "https://t.me/+RVJMILhu36lmYTY9",
           "openExternal": 1,
-          "class": "DepictionButtonView"
+          "class": "DepictionButtonView",
+          "text": "加入全能玩机交流群 Chat",
+          "action": "https://t.me/+RVJMILhu36lmYTY9"
         },
         {
           "class": "DepictionSeparatorView"
         },
         {
+          "title": "猪咪小屋公众号",
           "action": "https://mp.weixin.qq.com/s/bTWWrfRIiGDADoo9AoBTLw",
           "openExternal": 1,
-          "class": "DepictionTableButtonView",
-          "title": "猪咪小屋公众号"
+          "class": "DepictionTableButtonView"
         },
         {
           "class": "DepictionSeparatorView"
         },
         {
+          "class": "DepictionMarkdownView",
           "markdown": "## 微信主题插件",
-          "useSpacing": true,
-          "class": "DepictionMarkdownView"
+          "useSpacing": true
         },
         {
           "class": "DepictionSeparatorView"
@@ -39,10 +36,10 @@
           "spacing": 8
         },
         {
-          "class": "DepictionHeaderView",
           "title": "预览",
           "useBoldText": true,
-          "useBottomMargin": false
+          "useBottomMargin": false,
+          "class": "DepictionHeaderView"
         },
         {
           "class": "DepictionSpacerView",
@@ -54,8 +51,8 @@
           "itemSize": "{240, 520}",
           "screenshots": [
             {
-              "url": "https://TrollStore-Pro.Github.io/repo/depictions/image/cax.zhumi.ThemeManager.rootlesss/screenshots/pic1.png",
-              "accessibilityText": "Screenshot"
+              "accessibilityText": "Screenshot",
+              "url": "https://TrollStore-Pro.Github.io/repo/depictions/image/cax.zhumi.ThemeManager.rootlesss/screenshots/pic1.png"
             },
             {
               "accessibilityText": "Screenshot",
@@ -71,19 +68,19 @@
           "class": "DepictionSeparatorView"
         },
         {
-          "useBoldText": true,
-          "useBottomMargin": false,
           "class": "DepictionHeaderView",
-          "title": "详情"
+          "title": "详情",
+          "useBoldText": true,
+          "useBottomMargin": false
         },
         {
           "class": "DepictionSpacerView",
           "spacing": 8
         },
         {
+          "title": "插件版本",
           "class": "DepictionTableTextView",
-          "text": "1.6.2",
-          "title": "插件版本"
+          "text": "1.6.2"
         },
         {
           "class": "DepictionTableTextView",
@@ -102,5 +99,8 @@
         }
       ]
     }
-  ]
+  ],
+  "class": "DepictionTabView",
+  "headerImage": "https://TrollStore-Pro.Github.io/repo/depictions/image/cax.zhumi.ThemeManager.rootlesss/header/header.png",
+  "tintColor": "#EE66A6"
 }

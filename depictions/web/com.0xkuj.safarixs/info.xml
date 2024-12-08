@@ -1,0 +1,29 @@
+<package>
+  <id>com.0xkuj.safarixs</id>
+  <name>Safari X</name>
+  <version>1.9.2</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>mobilesubstrate (&gt;= 0.9.5000)</package>
+    <package>preferenceloader</package>
+    <package>firmware (&gt;= 15.0)</package>
+  </dependencies>
+  <shortDescription>Safari 浏览器增强插件</shortDescription>
+  <descriptionlist>
+    <description><![CDATA[##  Safari 浏览器增强插件<br /> ### Safari Essential Features<br />- 窗口标签栏<br />- 自定义快捷键按钮<br />- 更轻松的分组<br />- 完整 URL 显示<br />- 下载管理器<br />- 全屏滚动<br />- 支持 Bootstrap 环境<br />- 图层作者修复盗版闪退]]></description>
+  </descriptionlist>
+  <screenshots>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>pic.png</image>
+    </screenshot>
+  </screenshots>
+  <changelog>
+    <change><![CDATA[### 1.9.2<br />- 添加了返回上一个书签选项]]></change>
+  </changelog>
+  <links></links>
+</package>

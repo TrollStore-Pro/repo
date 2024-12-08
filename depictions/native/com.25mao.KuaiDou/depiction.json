@@ -1,11 +1,7 @@
 {
-  "class": "DepictionTabView",
-  "headerImage": "https://TrollStore-Pro.Github.io/repo/depictions/image/com.25mao.KuaiDou/header/header.png",
-  "tintColor": "#4158A6",
   "minVersion": "0.3",
   "tabs": [
     {
-      "class": "DepictionStackView",
       "tabname": "描述",
       "views": [
         {
@@ -23,8 +19,8 @@
           "class": "DepictionSeparatorView"
         },
         {
-          "class": "DepictionSpacerView",
-          "spacing": 8
+          "spacing": 8,
+          "class": "DepictionSpacerView"
         },
         {
           "class": "DepictionHeaderView",
@@ -33,8 +29,8 @@
           "useBottomMargin": false
         },
         {
-          "spacing": 8,
-          "class": "DepictionSpacerView"
+          "class": "DepictionSpacerView",
+          "spacing": 8
         },
         {
           "class": "DepictionScreenshotsView",
@@ -43,11 +39,11 @@
           "screenshots": [
             {
               "accessibilityText": "Screenshot",
-              "url": "https://trollstorex.github.io/sileodepiction/Kuaidou/pic3.png"
+              "url": "https://TrollStore-Pro.Github.io/repo/depictions/image/com.25mao.KuaiDou/screenshots/pic3.png"
             },
             {
               "accessibilityText": "Screenshot",
-              "url": "https://trollstorex.github.io/sileodepiction/Kuaidou/pic4.png"
+              "url": "https://TrollStore-Pro.Github.io/repo/depictions/image/com.25mao.KuaiDou/screenshots/pic4.png"
             }
           ]
         },
@@ -56,10 +52,10 @@
           "spacing": 16
         },
         {
-          "useBoldText": true,
-          "useBottomMargin": false,
           "class": "DepictionHeaderView",
-          "title": "详情"
+          "title": "详情",
+          "useBoldText": true,
+          "useBottomMargin": false
         },
         {
           "class": "DepictionSpacerView",
@@ -69,16 +65,20 @@
           "class": "DepictionSeparatorView"
         },
         {
+          "text": "0.1-1",
           "title": "插件版本",
-          "class": "DepictionTableTextView",
-          "text": "0.1-1"
+          "class": "DepictionTableTextView"
         },
         {
-          "title": "支持系统",
           "class": "DepictionTableTextView",
-          "text": "iOS 15 - iOS 17.0"
+          "text": "iOS 15 - iOS 17.0",
+          "title": "支持系统"
         }
-      ]
+      ],
+      "class": "DepictionStackView"
     }
-  ]
+  ],
+  "class": "DepictionTabView",
+  "headerImage": "https://TrollStore-Pro.Github.io/repo/depictions/image/com.25mao.KuaiDou/header/header.png",
+  "tintColor": "#4158A6"
 }

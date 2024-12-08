@@ -1,10 +1,11 @@
 {
-  "class": "DepictionTabView",
   "headerImage": "https://TrollStore-Pro.Github.io/repo/depictions/image/com.0xkuj.safarixs/header/header.png",
   "tintColor": "#FFD700",
   "minVersion": "0.3",
   "tabs": [
     {
+      "class": "DepictionStackView",
+      "tabname": "描述",
       "views": [
         {
           "text": "加入全能玩机交流群 Chat",
@@ -40,8 +41,8 @@
           "itemSize": "{700, 700}",
           "screenshots": [
             {
-              "url": "https://trollstorex.github.io/sileodepiction/SafariX/pic.png",
-              "accessibilityText": "Screenshot"
+              "accessibilityText": "Screenshot",
+              "url": "https://TrollStore-Pro.Github.io/repo/depictions/image/com.0xkuj.safarixs/screenshots/pic.png"
             }
           ]
         },
@@ -50,10 +51,10 @@
           "spacing": 16
         },
         {
-          "useBottomMargin": false,
           "class": "DepictionHeaderView",
           "title": "详情",
-          "useBoldText": true
+          "useBoldText": true,
+          "useBottomMargin": false
         },
         {
           "class": "DepictionSpacerView",
@@ -63,9 +64,9 @@
           "class": "DepictionSeparatorView"
         },
         {
-          "text": "1.9.2",
           "title": "插件版本",
-          "class": "DepictionTableTextView"
+          "class": "DepictionTableTextView",
+          "text": "1.9.2"
         },
         {
           "class": "DepictionTableTextView",
@@ -73,13 +74,11 @@
           "title": "支持系统"
         },
         {
+          "class": "DepictionTableTextView",
           "text": "2024 年 11 月 30 日",
-          "title": "最后更新",
-          "class": "DepictionTableTextView"
+          "title": "最后更新"
         }
-      ],
-      "class": "DepictionStackView",
-      "tabname": "描述"
+      ]
     },
     {
       "class": "DepictionStackView",
@@ -91,5 +90,6 @@
         }
       ]
     }
-  ]
+  ],
+  "class": "DepictionTabView"
 }

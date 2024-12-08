@@ -1,0 +1,29 @@
+<package>
+  <id>com.25mao.KuaiDou</id>
+  <name>快斗</name>
+  <version>0.1-1</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>mobilesubstrate (&gt;= 0.9.5000)</package>
+  </dependencies>
+  <shortDescription>### 微信插件</shortDescription>
+  <descriptionlist>
+    <description><![CDATA[## 微信插件<br />- 发送文字自动转换为表情<br />- 需要同时安装微信助手和微信插件管理]]></description>
+  </descriptionlist>
+  <screenshots>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>pic3.png</image>
+    </screenshot>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>pic4.png</image>
+    </screenshot>
+  </screenshots>
+  <changelog></changelog>
+  <links></links>
+</package>
