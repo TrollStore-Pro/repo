@@ -4,9 +4,8 @@
 	"itemCornerRadius": 10,
 	"banners": [
 		{
-			"url": "https://raw.githubusercontent.com/uchks/repo.me/master/assets/Banners/RepoHeader.png",
-			"title": "Sample Package",
-			"package": "com.example.sample",
+			"url": "https://trollstore-pro.github.io/repo/assets/repo/Headers/header.webp",
+			"title": "全能玩机源",
 			"hideShadow": false
 		}
 	]
