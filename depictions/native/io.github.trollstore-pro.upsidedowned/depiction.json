@@ -1,0 +1,249 @@
+{
+  "class": "DepictionTabView",
+  "headerImage": "https://trollstore-pro.github.io/repo/assets/repo/Headers/header.webp",
+  "minVersion": "0.1",
+  "tabs": [
+    {
+      "class": "DepictionStackView",
+      "tabname": "插件介绍",
+      "views": [
+        {
+          "class": "DepictionLabelView",
+          "fontSize": 19,
+          "fontWeight": "bold",
+          "margins": "{10,0,8,0}",
+          "text": "插件介绍",
+          "useMargins": true,
+          "usePadding": true
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "转载自艾锋降级。本插件可以实现颠倒显示，也就是说，方向锁定关闭后，设备颠倒过来，内容也会颠倒显示，实现一种无刘海感觉。在锁屏的状态下，也能颠倒显示，这次真正实现顶部无刘海无灵动岛显示，但会显示底部，不过！可以通过一些插件实现透明或者隐藏。使用 upsidedowned 方法：安装 upsidedowned 插件后，它自动生效，打开控制中心，关闭方向锁定，然后打开某App，将设备倒过来显示，即可看到效果。不过！针对一些视频翻转，还是有些BUG的，想解决这个问题，不要点“全屏观看”等字眼，直接翻转横屏就行。",
+          "useSpacing": false
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 20
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionLabelView",
+          "fontSize": 17,
+          "fontWeight": "semibold",
+          "margins": "{10,0,8,0}",
+          "text": "插件截图预览",
+          "useMargins": true,
+          "usePadding": true
+        },
+        {
+          "class": "DepictionScreenshotsView",
+          "itemCornerRadius": true,
+          "itemSize": "{127, 275}",
+          "screenshots": [
+            {
+              "accessibilityText": "Screenshot",
+              "url": "https://trollstore-pro.github.io/repo/assets/repo/Screenshots/no-screenshots.jpeg"
+            }
+          ]
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionLabelView",
+          "fontSize": 16,
+          "fontWeight": "semibold",
+          "margins": "{10,0,8,0}",
+          "text": "版本详细说明",
+          "useMargins": true,
+          "usePadding": true
+        },
+        {
+          "class": "DepictionStackView",
+          "orientation": "landscape",
+          "views": [
+            {
+              "class": "DepictionStackView",
+              "views": [
+                {
+                  "class": "DepictionLabelView",
+                  "margins": "{16,0,8,0}",
+                  "text": "插件版本",
+                  "textColor": "#777"
+                },
+                {
+                  "class": "DepictionLabelView",
+                  "fontSize": 16,
+                  "fontWeight": "semibold",
+                  "text": "1.1-4+debug",
+                  "usePadding": false
+                },
+                {
+                  "class": "DepictionLabelView",
+                  "margins": "{16,0,8,0}",
+                  "text": "插件大小",
+                  "textColor": "#777"
+                },
+                {
+                  "class": "DepictionLabelView",
+                  "fontSize": 16,
+                  "fontWeight": "semibold",
+                  "text": "7 KB",
+                  "usePadding": false
+                }
+              ]
+            },
+            {
+              "class": "DepictionStackView",
+              "views": [
+                {
+                  "class": "DepictionLabelView",
+                  "margins": "{16,0,8,0}",
+                  "text": "插件更新时间",
+                  "textColor": "#777"
+                },
+                {
+                  "class": "DepictionLabelView",
+                  "fontSize": 16,
+                  "fontWeight": "semibold",
+                  "text": "2024-03-05 14:44:44",
+                  "usePadding": false
+                },
+                {
+                  "class": "DepictionLabelView",
+                  "margins": "{16,0,8,0}",
+                  "text": "插件系统兼容",
+                  "textColor": "#777"
+                },
+                {
+                  "class": "DepictionLabelView",
+                  "fontSize": 17,
+                  "fontWeight": "semibold",
+                  "text": "15 ~ 17",
+                  "usePadding": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "class": "DepictionStackView",
+          "orientation": "landscape",
+          "views": [
+            {
+              "class": "DepictionStackView",
+              "views": [
+                {
+                  "class": "DepictionLabelView",
+                  "margins": "{16,0,8,0}",
+                  "text": "下载次数",
+                  "textColor": "#777"
+                },
+                {
+                  "class": "DepictionLabelView",
+                  "fontSize": 16,
+                  "fontWeight": "semibold",
+                  "text": "2213",
+                  "usePadding": false
+                }
+              ]
+            },
+            {
+              "class": "DepictionStackView",
+              "views": [
+                {
+                  "class": "DepictionLabelView",
+                  "margins": "{16,0,8,0}",
+                  "text": "上个用户下载时间",
+                  "textColor": "#777"
+                },
+                {
+                  "class": "DepictionLabelView",
+                  "fontSize": 16,
+                  "fontWeight": "semibold",
+                  "text": "2024-12-10 00:26:35",
+                  "usePadding": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 25
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "\u003csmall style='color: #aaa; font-size: 10pt;'\u003e全能玩机源\u003cBR /\u003e全能玩机源，最新最全最能的源，不添加任何广告！\u003cBR /\u003e全能玩机科技©2018 - 2024\u003c/small\u003e\u003cstyle\u003ebody { text-align: center; }\u003c/style\u003e",
+          "useRawFormat": true,
+          "useSpacing": true
+        }
+      ]
+    },
+    {
+      "class": "DepictionStackView",
+      "tabname": "更新日志",
+      "views": [
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionStackView",
+          "orientation": "landscape",
+          "views": [
+            {
+              "class": "DepictionLabelView",
+              "fontSize": 18,
+              "fontWeight": "semibold",
+              "margins": "{15,0,8,0}",
+              "text": "1.1-4+debug",
+              "useMargins": true,
+              "usePadding": true
+            },
+            {
+              "alignment": 2,
+              "class": "DepictionLabelView",
+              "fontSize": 12,
+              "margins": "{15,0,8,16}",
+              "text": "更新于:2024/03/05",
+              "textColor": "#999",
+              "useMargins": true,
+              "usePadding": true,
+              "useSpacing": false
+            }
+          ]
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "在锁屏的状态下，也能颠倒显示，这次真正实现顶部无刘海无灵动岛显示，但会显示底部，不过！可以通过一些插件实现透明或者隐藏。\n*** ",
+          "useSpacing": false
+        },
+        {
+          "alignment": 0,
+          "class": "DepictionLabelView",
+          "fontSize": 0,
+          "margins": "{-4,0,0,0}",
+          "text": "",
+          "textColor": "#999",
+          "useMargins": true,
+          "usePadding": true,
+          "useSpacing": false
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "\u003csmall style='color: #aaa; font-size: 10pt;'\u003e全能玩机源\u003cBR /\u003e全能玩机源，最新最全最能的源，不添加任何广告！\u003cBR /\u003e全能玩机科技©2018 - 2024\u003c/small\u003e\u003cstyle\u003ebody { text-align: center; }\u003c/style\u003e",
+          "useRawFormat": true,
+          "useSpacing": true
+        }
+      ]
+    }
+  ]
+}

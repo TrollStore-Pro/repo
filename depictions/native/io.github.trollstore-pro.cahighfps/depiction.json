@@ -1,0 +1,249 @@
+{
+  "class": "DepictionTabView",
+  "headerImage": "https://trollstore-pro.github.io/repo/assets/repo/Headers/header.webp",
+  "minVersion": "0.1",
+  "tabs": [
+    {
+      "class": "DepictionStackView",
+      "tabname": "插件介绍",
+      "views": [
+        {
+          "class": "DepictionLabelView",
+          "fontSize": 19,
+          "fontWeight": "bold",
+          "margins": "{10,0,8,0}",
+          "text": "插件介绍",
+          "useMargins": true,
+          "usePadding": true
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "Make CoreAnimation apps use the highest available FPS. Custom FPS option added by uz.ra (@ChromiumCandy)一款非常不错的免费锁120Hz刷新率的插件，适用于iPhone13Pro以上机型，全能玩机源已汉化，插件有设置项，感谢大神免费开发！还有一点说明一下，免费的插件，有些不生效很正常，大家自行测试！",
+          "useSpacing": false
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 20
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionLabelView",
+          "fontSize": 17,
+          "fontWeight": "semibold",
+          "margins": "{10,0,8,0}",
+          "text": "插件截图预览",
+          "useMargins": true,
+          "usePadding": true
+        },
+        {
+          "class": "DepictionScreenshotsView",
+          "itemCornerRadius": true,
+          "itemSize": "{127, 275}",
+          "screenshots": [
+            {
+              "accessibilityText": "Screenshot",
+              "url": "https://archive.biliimg.com/bfs/archive/e4c2edbc1e09f379eba737411fb75ad8d6e9b0ba.jpg"
+            }
+          ]
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionLabelView",
+          "fontSize": 16,
+          "fontWeight": "semibold",
+          "margins": "{10,0,8,0}",
+          "text": "版本详细说明",
+          "useMargins": true,
+          "usePadding": true
+        },
+        {
+          "class": "DepictionStackView",
+          "orientation": "landscape",
+          "views": [
+            {
+              "class": "DepictionStackView",
+              "views": [
+                {
+                  "class": "DepictionLabelView",
+                  "margins": "{16,0,8,0}",
+                  "text": "插件版本",
+                  "textColor": "#777"
+                },
+                {
+                  "class": "DepictionLabelView",
+                  "fontSize": 16,
+                  "fontWeight": "semibold",
+                  "text": "2.1.2",
+                  "usePadding": false
+                },
+                {
+                  "class": "DepictionLabelView",
+                  "margins": "{16,0,8,0}",
+                  "text": "插件大小",
+                  "textColor": "#777"
+                },
+                {
+                  "class": "DepictionLabelView",
+                  "fontSize": 16,
+                  "fontWeight": "semibold",
+                  "text": "21 KB",
+                  "usePadding": false
+                }
+              ]
+            },
+            {
+              "class": "DepictionStackView",
+              "views": [
+                {
+                  "class": "DepictionLabelView",
+                  "margins": "{16,0,8,0}",
+                  "text": "插件更新时间",
+                  "textColor": "#777"
+                },
+                {
+                  "class": "DepictionLabelView",
+                  "fontSize": 16,
+                  "fontWeight": "semibold",
+                  "text": "2024-12-04 07:59:54",
+                  "usePadding": false
+                },
+                {
+                  "class": "DepictionLabelView",
+                  "margins": "{16,0,8,0}",
+                  "text": "插件系统兼容",
+                  "textColor": "#777"
+                },
+                {
+                  "class": "DepictionLabelView",
+                  "fontSize": 17,
+                  "fontWeight": "semibold",
+                  "text": "15 ~ 17",
+                  "usePadding": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "class": "DepictionStackView",
+          "orientation": "landscape",
+          "views": [
+            {
+              "class": "DepictionStackView",
+              "views": [
+                {
+                  "class": "DepictionLabelView",
+                  "margins": "{16,0,8,0}",
+                  "text": "下载次数",
+                  "textColor": "#777"
+                },
+                {
+                  "class": "DepictionLabelView",
+                  "fontSize": 16,
+                  "fontWeight": "semibold",
+                  "text": "14167",
+                  "usePadding": false
+                }
+              ]
+            },
+            {
+              "class": "DepictionStackView",
+              "views": [
+                {
+                  "class": "DepictionLabelView",
+                  "margins": "{16,0,8,0}",
+                  "text": "上个用户下载时间",
+                  "textColor": "#777"
+                },
+                {
+                  "class": "DepictionLabelView",
+                  "fontSize": 16,
+                  "fontWeight": "semibold",
+                  "text": "2024-12-10 02:01:47",
+                  "usePadding": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 25
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "\u003csmall style='color: #aaa; font-size: 10pt;'\u003e全能玩机源\u003cBR /\u003e全能玩机源，最新最全最能的源，不添加任何广告！\u003cBR /\u003e全能玩机科技©2018 - 2024\u003c/small\u003e\u003cstyle\u003ebody { text-align: center; }\u003c/style\u003e",
+          "useRawFormat": true,
+          "useSpacing": true
+        }
+      ]
+    },
+    {
+      "class": "DepictionStackView",
+      "tabname": "更新日志",
+      "views": [
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionStackView",
+          "orientation": "landscape",
+          "views": [
+            {
+              "class": "DepictionLabelView",
+              "fontSize": 18,
+              "fontWeight": "semibold",
+              "margins": "{15,0,8,0}",
+              "text": "2.1.2",
+              "useMargins": true,
+              "usePadding": true
+            },
+            {
+              "alignment": 2,
+              "class": "DepictionLabelView",
+              "fontSize": 12,
+              "margins": "{15,0,8,16}",
+              "text": "更新于:2024/12/04",
+              "textColor": "#999",
+              "useMargins": true,
+              "usePadding": true,
+              "useSpacing": false
+            }
+          ]
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "修复已知问题\n*** ",
+          "useSpacing": false
+        },
+        {
+          "alignment": 0,
+          "class": "DepictionLabelView",
+          "fontSize": 0,
+          "margins": "{-4,0,0,0}",
+          "text": "",
+          "textColor": "#999",
+          "useMargins": true,
+          "usePadding": true,
+          "useSpacing": false
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "\u003csmall style='color: #aaa; font-size: 10pt;'\u003e全能玩机源\u003cBR /\u003e全能玩机源，最新最全最能的源，不添加任何广告！\u003cBR /\u003e全能玩机科技©2018 - 2024\u003c/small\u003e\u003cstyle\u003ebody { text-align: center; }\u003c/style\u003e",
+          "useRawFormat": true,
+          "useSpacing": true
+        }
+      ]
+    }
+  ]
+}

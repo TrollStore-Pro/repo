@@ -1,0 +1,257 @@
+{
+  "class": "DepictionTabView",
+  "headerImage": "https://trollstore-pro.github.io/repo/assets/repo/Headers/header.webp",
+  "minVersion": "0.1",
+  "tabs": [
+    {
+      "class": "DepictionStackView",
+      "tabname": "插件介绍",
+      "views": [
+        {
+          "class": "DepictionLabelView",
+          "fontSize": 19,
+          "fontWeight": "bold",
+          "margins": "{10,0,8,0}",
+          "text": "插件介绍",
+          "useMargins": true,
+          "usePadding": true
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "The Apple Watch homescreen experience brought to iOS本插件原价2.49美元，暂无汉化，内容太多没精力汉化，请耐心等待更新，或者自己截图翻译！这是一款更改桌面布局的插件，可以把你的桌面布局变成和Apple Watch 一样，胡里花哨，喜欢的小伙们可以体验一下！",
+          "useSpacing": false
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 20
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionLabelView",
+          "fontSize": 17,
+          "fontWeight": "semibold",
+          "margins": "{10,0,8,0}",
+          "text": "插件截图预览",
+          "useMargins": true,
+          "usePadding": true
+        },
+        {
+          "class": "DepictionScreenshotsView",
+          "itemCornerRadius": true,
+          "itemSize": "{127, 275}",
+          "screenshots": [
+            {
+              "accessibilityText": "Screenshot",
+              "url": "https://archive.biliimg.com/bfs/archive/f20e2cdaa1b329e303a7e5ba9d9b9f01d5b01567.png"
+            },
+            {
+              "accessibilityText": "Screenshot",
+              "url": "https://archive.biliimg.com/bfs/archive/4d2d9532fb602ca1ccaa6362b0518b13562f8bd4.png"
+            },
+            {
+              "accessibilityText": "Screenshot",
+              "url": "https://archive.biliimg.com/bfs/archive/3e196fc6a7c862c340a788f47bcdeea4f78baa5a.png"
+            }
+          ]
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionLabelView",
+          "fontSize": 16,
+          "fontWeight": "semibold",
+          "margins": "{10,0,8,0}",
+          "text": "版本详细说明",
+          "useMargins": true,
+          "usePadding": true
+        },
+        {
+          "class": "DepictionStackView",
+          "orientation": "landscape",
+          "views": [
+            {
+              "class": "DepictionStackView",
+              "views": [
+                {
+                  "class": "DepictionLabelView",
+                  "margins": "{16,0,8,0}",
+                  "text": "插件版本",
+                  "textColor": "#777"
+                },
+                {
+                  "class": "DepictionLabelView",
+                  "fontSize": 16,
+                  "fontWeight": "semibold",
+                  "text": "1.1",
+                  "usePadding": false
+                },
+                {
+                  "class": "DepictionLabelView",
+                  "margins": "{16,0,8,0}",
+                  "text": "插件大小",
+                  "textColor": "#777"
+                },
+                {
+                  "class": "DepictionLabelView",
+                  "fontSize": 16,
+                  "fontWeight": "semibold",
+                  "text": "5.46 MB",
+                  "usePadding": false
+                }
+              ]
+            },
+            {
+              "class": "DepictionStackView",
+              "views": [
+                {
+                  "class": "DepictionLabelView",
+                  "margins": "{16,0,8,0}",
+                  "text": "插件更新时间",
+                  "textColor": "#777"
+                },
+                {
+                  "class": "DepictionLabelView",
+                  "fontSize": 16,
+                  "fontWeight": "semibold",
+                  "text": "2024-07-27 09:57:29",
+                  "usePadding": false
+                },
+                {
+                  "class": "DepictionLabelView",
+                  "margins": "{16,0,8,0}",
+                  "text": "插件系统兼容",
+                  "textColor": "#777"
+                },
+                {
+                  "class": "DepictionLabelView",
+                  "fontSize": 17,
+                  "fontWeight": "semibold",
+                  "text": "15 ~ 17",
+                  "usePadding": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "class": "DepictionStackView",
+          "orientation": "landscape",
+          "views": [
+            {
+              "class": "DepictionStackView",
+              "views": [
+                {
+                  "class": "DepictionLabelView",
+                  "margins": "{16,0,8,0}",
+                  "text": "下载次数",
+                  "textColor": "#777"
+                },
+                {
+                  "class": "DepictionLabelView",
+                  "fontSize": 16,
+                  "fontWeight": "semibold",
+                  "text": "3412",
+                  "usePadding": false
+                }
+              ]
+            },
+            {
+              "class": "DepictionStackView",
+              "views": [
+                {
+                  "class": "DepictionLabelView",
+                  "margins": "{16,0,8,0}",
+                  "text": "上个用户下载时间",
+                  "textColor": "#777"
+                },
+                {
+                  "class": "DepictionLabelView",
+                  "fontSize": 16,
+                  "fontWeight": "semibold",
+                  "text": "2024-12-10 11:04:23",
+                  "usePadding": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 25
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "\u003csmall style='color: #aaa; font-size: 10pt;'\u003e全能玩机源\u003cBR /\u003e全能玩机源，最新最全最能的源，不添加任何广告！\u003cBR /\u003e全能玩机科技©2018 - 2024\u003c/small\u003e\u003cstyle\u003ebody { text-align: center; }\u003c/style\u003e",
+          "useRawFormat": true,
+          "useSpacing": true
+        }
+      ]
+    },
+    {
+      "class": "DepictionStackView",
+      "tabname": "更新日志",
+      "views": [
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionStackView",
+          "orientation": "landscape",
+          "views": [
+            {
+              "class": "DepictionLabelView",
+              "fontSize": 18,
+              "fontWeight": "semibold",
+              "margins": "{15,0,8,0}",
+              "text": "1.1",
+              "useMargins": true,
+              "usePadding": true
+            },
+            {
+              "alignment": 2,
+              "class": "DepictionLabelView",
+              "fontSize": 12,
+              "margins": "{15,0,8,16}",
+              "text": "更新于:2024/07/27",
+              "textColor": "#999",
+              "useMargins": true,
+              "usePadding": true,
+              "useSpacing": false
+            }
+          ]
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "优化已知问题！\n*** ",
+          "useSpacing": false
+        },
+        {
+          "alignment": 0,
+          "class": "DepictionLabelView",
+          "fontSize": 0,
+          "margins": "{-4,0,0,0}",
+          "text": "",
+          "textColor": "#999",
+          "useMargins": true,
+          "usePadding": true,
+          "useSpacing": false
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "\u003csmall style='color: #aaa; font-size: 10pt;'\u003e全能玩机源\u003cBR /\u003e全能玩机源，最新最全最能的源，不添加任何广告！\u003cBR /\u003e全能玩机科技©2018 - 2024\u003c/small\u003e\u003cstyle\u003ebody { text-align: center; }\u003c/style\u003e",
+          "useRawFormat": true,
+          "useSpacing": true
+        }
+      ]
+    }
+  ]
+}

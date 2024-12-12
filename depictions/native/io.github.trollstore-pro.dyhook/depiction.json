@@ -1,0 +1,654 @@
+{
+  "class": "DepictionTabView",
+  "headerImage": "https://trollstore-pro.github.io/repo/assets/repo/Headers/header.webp",
+  "minVersion": "0.1",
+  "tabs": [
+    {
+      "class": "DepictionStackView",
+      "tabname": "插件介绍",
+      "views": [
+        {
+          "class": "DepictionLabelView",
+          "fontSize": 19,
+          "fontWeight": "bold",
+          "margins": "{10,0,8,0}",
+          "text": "插件介绍",
+          "useMargins": true,
+          "usePadding": true
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "首页视频界面双指双击弹出设置UI，一款非常不错的插件，本插件的作用是：抖音顶部或侧面的功能，图层隐藏调节透明度！隐藏抖音上一些烦人的按扭，净化抖音！支持无水印下载视频，去除广告，个性标签等等！已经不再支持注入了，仅越狱可用，切记！",
+          "useSpacing": false
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 20
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionLabelView",
+          "fontSize": 17,
+          "fontWeight": "semibold",
+          "margins": "{10,0,8,0}",
+          "text": "插件截图预览",
+          "useMargins": true,
+          "usePadding": true
+        },
+        {
+          "class": "DepictionScreenshotsView",
+          "itemCornerRadius": true,
+          "itemSize": "{127, 275}",
+          "screenshots": [
+            {
+              "accessibilityText": "Screenshot",
+              "url": "https://archive.biliimg.com/bfs/archive/ceb718323139f4956d552ab190fda8304da5069f.jpg"
+            }
+          ]
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionLabelView",
+          "fontSize": 16,
+          "fontWeight": "semibold",
+          "margins": "{10,0,8,0}",
+          "text": "版本详细说明",
+          "useMargins": true,
+          "usePadding": true
+        },
+        {
+          "class": "DepictionStackView",
+          "orientation": "landscape",
+          "views": [
+            {
+              "class": "DepictionStackView",
+              "views": [
+                {
+                  "class": "DepictionLabelView",
+                  "margins": "{16,0,8,0}",
+                  "text": "插件版本",
+                  "textColor": "#777"
+                },
+                {
+                  "class": "DepictionLabelView",
+                  "fontSize": 16,
+                  "fontWeight": "semibold",
+                  "text": "2.0.8+1",
+                  "usePadding": false
+                },
+                {
+                  "class": "DepictionLabelView",
+                  "margins": "{16,0,8,0}",
+                  "text": "插件大小",
+                  "textColor": "#777"
+                },
+                {
+                  "class": "DepictionLabelView",
+                  "fontSize": 16,
+                  "fontWeight": "semibold",
+                  "text": "6.38 MB",
+                  "usePadding": false
+                }
+              ]
+            },
+            {
+              "class": "DepictionStackView",
+              "views": [
+                {
+                  "class": "DepictionLabelView",
+                  "margins": "{16,0,8,0}",
+                  "text": "插件更新时间",
+                  "textColor": "#777"
+                },
+                {
+                  "class": "DepictionLabelView",
+                  "fontSize": 16,
+                  "fontWeight": "semibold",
+                  "text": "2024-12-02 06:42:48",
+                  "usePadding": false
+                },
+                {
+                  "class": "DepictionLabelView",
+                  "margins": "{16,0,8,0}",
+                  "text": "插件系统兼容",
+                  "textColor": "#777"
+                },
+                {
+                  "class": "DepictionLabelView",
+                  "fontSize": 17,
+                  "fontWeight": "semibold",
+                  "text": "15 ~ 17",
+                  "usePadding": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "class": "DepictionStackView",
+          "orientation": "landscape",
+          "views": [
+            {
+              "class": "DepictionStackView",
+              "views": [
+                {
+                  "class": "DepictionLabelView",
+                  "margins": "{16,0,8,0}",
+                  "text": "下载次数",
+                  "textColor": "#777"
+                },
+                {
+                  "class": "DepictionLabelView",
+                  "fontSize": 16,
+                  "fontWeight": "semibold",
+                  "text": "103699",
+                  "usePadding": false
+                }
+              ]
+            },
+            {
+              "class": "DepictionStackView",
+              "views": [
+                {
+                  "class": "DepictionLabelView",
+                  "margins": "{16,0,8,0}",
+                  "text": "上个用户下载时间",
+                  "textColor": "#777"
+                },
+                {
+                  "class": "DepictionLabelView",
+                  "fontSize": 16,
+                  "fontWeight": "semibold",
+                  "text": "2024-12-10 02:09:22",
+                  "usePadding": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 25
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "\u003csmall style='color: #aaa; font-size: 10pt;'\u003e全能玩机源\u003cBR /\u003e全能玩机源，最新最全最能的源，不添加任何广告！\u003cBR /\u003e全能玩机科技©2018 - 2024\u003c/small\u003e\u003cstyle\u003ebody { text-align: center; }\u003c/style\u003e",
+          "useRawFormat": true,
+          "useSpacing": true
+        }
+      ]
+    },
+    {
+      "class": "DepictionStackView",
+      "tabname": "更新日志",
+      "views": [
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionStackView",
+          "orientation": "landscape",
+          "views": [
+            {
+              "class": "DepictionLabelView",
+              "fontSize": 18,
+              "fontWeight": "semibold",
+              "margins": "{15,0,8,0}",
+              "text": "2.0.8+1",
+              "useMargins": true,
+              "usePadding": true
+            },
+            {
+              "alignment": 2,
+              "class": "DepictionLabelView",
+              "fontSize": 12,
+              "margins": "{15,0,8,16}",
+              "text": "更新于:2024/12/02",
+              "textColor": "#999",
+              "useMargins": true,
+              "usePadding": true,
+              "useSpacing": false
+            }
+          ]
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "•新增移除消息界面顶部横向排列大头•2024.12.01\n*** ",
+          "useSpacing": false
+        },
+        {
+          "alignment": 0,
+          "class": "DepictionLabelView",
+          "fontSize": 0,
+          "margins": "{-4,0,0,0}",
+          "text": "",
+          "textColor": "#999",
+          "useMargins": true,
+          "usePadding": true,
+          "useSpacing": false
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionStackView",
+          "orientation": "landscape",
+          "views": [
+            {
+              "class": "DepictionLabelView",
+              "fontSize": 18,
+              "fontWeight": "semibold",
+              "margins": "{15,0,8,0}",
+              "text": "2.0.8",
+              "useMargins": true,
+              "usePadding": true
+            },
+            {
+              "alignment": 2,
+              "class": "DepictionLabelView",
+              "fontSize": 12,
+              "margins": "{15,0,8,16}",
+              "text": "更新于:2024/12/01",
+              "textColor": "#999",
+              "useMargins": true,
+              "usePadding": true,
+              "useSpacing": false
+            }
+          ]
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "•新增一项花里胡哨的按钮(最近很火的那个)•新增一个小丑功能(修改自己作品的点赞/播放/浏览/收藏/评论)_Q群小佳•修复一些已知问题•插件免费使用如你是买的，说明你被骗了，同时你也是小丑•2024.12.01\n*** ",
+          "useSpacing": false
+        },
+        {
+          "alignment": 0,
+          "class": "DepictionLabelView",
+          "fontSize": 0,
+          "margins": "{-4,0,0,0}",
+          "text": "",
+          "textColor": "#999",
+          "useMargins": true,
+          "usePadding": true,
+          "useSpacing": false
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionStackView",
+          "orientation": "landscape",
+          "views": [
+            {
+              "class": "DepictionLabelView",
+              "fontSize": 18,
+              "fontWeight": "semibold",
+              "margins": "{15,0,8,0}",
+              "text": "2.0.7-6",
+              "useMargins": true,
+              "usePadding": true
+            },
+            {
+              "alignment": 2,
+              "class": "DepictionLabelView",
+              "fontSize": 12,
+              "margins": "{15,0,8,16}",
+              "text": "更新于:2024/11/07",
+              "textColor": "#999",
+              "useMargins": true,
+              "usePadding": true,
+              "useSpacing": false
+            }
+          ]
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "底部新增显示发布时间，修复时间线问题\n*** ",
+          "useSpacing": false
+        },
+        {
+          "alignment": 0,
+          "class": "DepictionLabelView",
+          "fontSize": 0,
+          "margins": "{-4,0,0,0}",
+          "text": "",
+          "textColor": "#999",
+          "useMargins": true,
+          "usePadding": true,
+          "useSpacing": false
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionStackView",
+          "orientation": "landscape",
+          "views": [
+            {
+              "class": "DepictionLabelView",
+              "fontSize": 18,
+              "fontWeight": "semibold",
+              "margins": "{15,0,8,0}",
+              "text": "2.0.7+8",
+              "useMargins": true,
+              "usePadding": true
+            },
+            {
+              "alignment": 2,
+              "class": "DepictionLabelView",
+              "fontSize": 12,
+              "margins": "{15,0,8,16}",
+              "text": "更新于:2024/11/24",
+              "textColor": "#999",
+              "useMargins": true,
+              "usePadding": true,
+              "useSpacing": false
+            }
+          ]
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "• 新增自定义接口• 修复一些bug 优化一些细节• 修复纯净模式时无法拉动长频进度条• 修复隐藏进度条后还有一条线的问题• 新增底部显示发布时间顶部弹窗显示时状态栏颜色问题修复• 修复键盘颜色问题• 优化评论区保存方案1• 修复首页连播打开评论区时还会自动下一条问题\n*** ",
+          "useSpacing": false
+        },
+        {
+          "alignment": 0,
+          "class": "DepictionLabelView",
+          "fontSize": 0,
+          "margins": "{-4,0,0,0}",
+          "text": "",
+          "textColor": "#999",
+          "useMargins": true,
+          "usePadding": true,
+          "useSpacing": false
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionStackView",
+          "orientation": "landscape",
+          "views": [
+            {
+              "class": "DepictionLabelView",
+              "fontSize": 18,
+              "fontWeight": "semibold",
+              "margins": "{15,0,8,0}",
+              "text": "2.0.7+5",
+              "useMargins": true,
+              "usePadding": true
+            },
+            {
+              "alignment": 2,
+              "class": "DepictionLabelView",
+              "fontSize": 12,
+              "margins": "{15,0,8,16}",
+              "text": "更新于:2024/11/05",
+              "textColor": "#999",
+              "useMargins": true,
+              "usePadding": true,
+              "useSpacing": false
+            }
+          ]
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "修复直播间实际人数问题，修复直播界面异常问题\n*** ",
+          "useSpacing": false
+        },
+        {
+          "alignment": 0,
+          "class": "DepictionLabelView",
+          "fontSize": 0,
+          "margins": "{-4,0,0,0}",
+          "text": "",
+          "textColor": "#999",
+          "useMargins": true,
+          "usePadding": true,
+          "useSpacing": false
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionStackView",
+          "orientation": "landscape",
+          "views": [
+            {
+              "class": "DepictionLabelView",
+              "fontSize": 18,
+              "fontWeight": "semibold",
+              "margins": "{15,0,8,0}",
+              "text": "2.0.7+3",
+              "useMargins": true,
+              "usePadding": true
+            },
+            {
+              "alignment": 2,
+              "class": "DepictionLabelView",
+              "fontSize": 12,
+              "margins": "{15,0,8,16}",
+              "text": "更新于:2024/10/28",
+              "textColor": "#999",
+              "useMargins": true,
+              "usePadding": true,
+              "useSpacing": false
+            }
+          ]
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "新增首页自动连播，修复bug\n*** ",
+          "useSpacing": false
+        },
+        {
+          "alignment": 0,
+          "class": "DepictionLabelView",
+          "fontSize": 0,
+          "margins": "{-4,0,0,0}",
+          "text": "",
+          "textColor": "#999",
+          "useMargins": true,
+          "usePadding": true,
+          "useSpacing": false
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionStackView",
+          "orientation": "landscape",
+          "views": [
+            {
+              "class": "DepictionLabelView",
+              "fontSize": 18,
+              "fontWeight": "semibold",
+              "margins": "{15,0,8,0}",
+              "text": "2.0.7+2",
+              "useMargins": true,
+              "usePadding": true
+            },
+            {
+              "alignment": 2,
+              "class": "DepictionLabelView",
+              "fontSize": 12,
+              "margins": "{15,0,8,16}",
+              "text": "更新于:2024/10/26",
+              "textColor": "#999",
+              "useMargins": true,
+              "usePadding": true,
+              "useSpacing": false
+            }
+          ]
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "新增倍速播放自定义，长按关闭输入我爱嘉嘉可以修改头像旁名字\n*** ",
+          "useSpacing": false
+        },
+        {
+          "alignment": 0,
+          "class": "DepictionLabelView",
+          "fontSize": 0,
+          "margins": "{-4,0,0,0}",
+          "text": "",
+          "textColor": "#999",
+          "useMargins": true,
+          "usePadding": true,
+          "useSpacing": false
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionStackView",
+          "orientation": "landscape",
+          "views": [
+            {
+              "class": "DepictionLabelView",
+              "fontSize": 18,
+              "fontWeight": "semibold",
+              "margins": "{15,0,8,0}",
+              "text": "2.0.7+1",
+              "useMargins": true,
+              "usePadding": true
+            },
+            {
+              "alignment": 2,
+              "class": "DepictionLabelView",
+              "fontSize": 12,
+              "margins": "{15,0,8,16}",
+              "text": "更新于:2024/10/25",
+              "textColor": "#999",
+              "useMargins": true,
+              "usePadding": true,
+              "useSpacing": false
+            }
+          ]
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "新增菜单微透，新增评论区微透\n*** ",
+          "useSpacing": false
+        },
+        {
+          "alignment": 0,
+          "class": "DepictionLabelView",
+          "fontSize": 0,
+          "margins": "{-4,0,0,0}",
+          "text": "",
+          "textColor": "#999",
+          "useMargins": true,
+          "usePadding": true,
+          "useSpacing": false
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionStackView",
+          "orientation": "landscape",
+          "views": [
+            {
+              "class": "DepictionLabelView",
+              "fontSize": 18,
+              "fontWeight": "semibold",
+              "margins": "{15,0,8,0}",
+              "text": "2.0.7",
+              "useMargins": true,
+              "usePadding": true
+            },
+            {
+              "alignment": 2,
+              "class": "DepictionLabelView",
+              "fontSize": 12,
+              "margins": "{15,0,8,16}",
+              "text": "更新于:2024/10/21",
+              "textColor": "#999",
+              "useMargins": true,
+              "usePadding": true,
+              "useSpacing": false
+            }
+          ]
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "修夏自动发送消息为置顶时的错误 现在可以正常发送 首次可能提示错误 但是不影响；对纯净模式进行优化 现在可选择默认开启与按钮开启/ 关闭 理论对所有视频有效；保存图片为视频(调用了dy自带的保存方法 只是更快捷点）；新增全屏播放\n*** ",
+          "useSpacing": false
+        },
+        {
+          "alignment": 0,
+          "class": "DepictionLabelView",
+          "fontSize": 0,
+          "margins": "{-4,0,0,0}",
+          "text": "",
+          "textColor": "#999",
+          "useMargins": true,
+          "usePadding": true,
+          "useSpacing": false
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionStackView",
+          "orientation": "landscape",
+          "views": [
+            {
+              "class": "DepictionLabelView",
+              "fontSize": 18,
+              "fontWeight": "semibold",
+              "margins": "{15,0,8,0}",
+              "text": "2.0.6+8.1",
+              "useMargins": true,
+              "usePadding": true
+            },
+            {
+              "alignment": 2,
+              "class": "DepictionLabelView",
+              "fontSize": 12,
+              "margins": "{15,0,8,16}",
+              "text": "更新于:2024/10/16",
+              "textColor": "#999",
+              "useMargins": true,
+              "usePadding": true,
+              "useSpacing": false
+            }
+          ]
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "新增自动发送连续消息，设置完成后打开抖音自动每天发送一次；修复一些问题\n*** ",
+          "useSpacing": false
+        },
+        {
+          "alignment": 0,
+          "class": "DepictionLabelView",
+          "fontSize": 0,
+          "margins": "{-4,0,0,0}",
+          "text": "",
+          "textColor": "#999",
+          "useMargins": true,
+          "usePadding": true,
+          "useSpacing": false
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "\u003csmall style='color: #aaa; font-size: 10pt;'\u003e全能玩机源\u003cBR /\u003e全能玩机源，最新最全最能的源，不添加任何广告！\u003cBR /\u003e全能玩机科技©2018 - 2024\u003c/small\u003e\u003cstyle\u003ebody { text-align: center; }\u003c/style\u003e",
+          "useRawFormat": true,
+          "useSpacing": true
+        }
+      ]
+    }
+  ]
+}

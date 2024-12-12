@@ -1,0 +1,216 @@
+{
+  "class": "DepictionTabView",
+  "headerImage": "https://trollstore-pro.github.io/repo/assets/repo/Headers/header.webp",
+  "minVersion": "0.1",
+  "tabs": [
+    {
+      "class": "DepictionStackView",
+      "tabname": "插件介绍",
+      "views": [
+        {
+          "action": "",
+          "class": "DepictionButtonView",
+          "text": "",
+          "tintColor": ""
+        },
+        {
+          "class": "DepictionLabelView",
+          "fontSize": 19,
+          "fontWeight": "bold",
+          "margins": "{10,0,8,0}",
+          "text": "插件介绍",
+          "useMargins": true,
+          "usePadding": true
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "MultiAccount Master(361一键新机)-支持全系统(iOS 7/8/9/10/11/12/13/14/15/16)的傻瓜式改串-Switch accounts on any apps like Facebook, Twitter, WeChat, WhatsApp, Tinder faster than ever. 支持7.0-16.4的所有越狱设备包括iPhone6+/6S/6S+/7/7+/SE/8/8+/X/XR/Xs/Max/11/11Pro/12/12Pro/14/14pro/14max Max。最强大的傻瓜式改串软件，提供一键新机、全息备份、精准还原等功能。首创以App为中心的操作方式；无需任何参数配置；支持应用多开；自动更换IP；支持网络代理配置访问；模拟2G/3G/4G/Wifi；各种App组合随意搭配；支持分辨率调节。",
+          "useSpacing": false
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 20
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionLabelView",
+          "fontSize": 17,
+          "fontWeight": "semibold",
+          "margins": "{10,0,8,0}",
+          "text": "插件截图预览",
+          "useMargins": true,
+          "usePadding": true
+        },
+        {
+          "class": "DepictionScreenshotsView",
+          "itemCornerRadius": true,
+          "itemSize": "{127, 275}",
+          "screenshots": [
+            {
+              "accessibilityText": "Screenshot",
+              "url": "https://trollstore-pro.github.io/repo/assets/repo/Screenshots/no-screenshots.jpeg"
+            }
+          ]
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionLabelView",
+          "fontSize": 16,
+          "fontWeight": "semibold",
+          "margins": "{10,0,8,0}",
+          "text": "版本详细说明",
+          "useMargins": true,
+          "usePadding": true
+        },
+        {
+          "class": "DepictionStackView",
+          "orientation": "landscape",
+          "views": [
+            {
+              "class": "DepictionStackView",
+              "views": [
+                {
+                  "class": "DepictionLabelView",
+                  "margins": "{16,0,8,0}",
+                  "text": "插件版本",
+                  "textColor": "#777"
+                },
+                {
+                  "class": "DepictionLabelView",
+                  "fontSize": 16,
+                  "fontWeight": "semibold",
+                  "text": "2.3",
+                  "usePadding": false
+                },
+                {
+                  "class": "DepictionLabelView",
+                  "margins": "{16,0,8,0}",
+                  "text": "插件大小",
+                  "textColor": "#777"
+                },
+                {
+                  "class": "DepictionLabelView",
+                  "fontSize": 16,
+                  "fontWeight": "semibold",
+                  "text": "2.66 MB",
+                  "usePadding": false
+                }
+              ]
+            },
+            {
+              "class": "DepictionStackView",
+              "views": [
+                {
+                  "class": "DepictionLabelView",
+                  "margins": "{16,0,8,0}",
+                  "text": "插件更新时间",
+                  "textColor": "#777"
+                },
+                {
+                  "class": "DepictionLabelView",
+                  "fontSize": 16,
+                  "fontWeight": "semibold",
+                  "text": "2023-04-28 14:28:36",
+                  "usePadding": false
+                },
+                {
+                  "class": "DepictionLabelView",
+                  "margins": "{16,0,8,0}",
+                  "text": "插件系统兼容",
+                  "textColor": "#777"
+                },
+                {
+                  "class": "DepictionLabelView",
+                  "fontSize": 17,
+                  "fontWeight": "semibold",
+                  "text": "",
+                  "usePadding": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "class": "DepictionStackView",
+          "orientation": "landscape",
+          "views": [
+            {
+              "class": "DepictionStackView",
+              "views": [
+                {
+                  "class": "DepictionLabelView",
+                  "margins": "{16,0,8,0}",
+                  "text": "下载次数",
+                  "textColor": "#777"
+                },
+                {
+                  "class": "DepictionLabelView",
+                  "fontSize": 16,
+                  "fontWeight": "semibold",
+                  "text": "2217",
+                  "usePadding": false
+                }
+              ]
+            },
+            {
+              "class": "DepictionStackView",
+              "views": [
+                {
+                  "class": "DepictionLabelView",
+                  "margins": "{16,0,8,0}",
+                  "text": "上个用户下载时间",
+                  "textColor": "#777"
+                },
+                {
+                  "class": "DepictionLabelView",
+                  "fontSize": 16,
+                  "fontWeight": "semibold",
+                  "text": "2024-12-09 05:07:11",
+                  "usePadding": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 25
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "\u003csmall style='color: #aaa; font-size: 10pt;'\u003e全能玩机源\u003cBR /\u003e全能玩机源，最新最全最能的源，不添加任何广告！\u003cBR /\u003e全能玩机科技©2018 - 2024\u003c/small\u003e\u003cstyle\u003ebody { text-align: center; }\u003c/style\u003e",
+          "useRawFormat": true,
+          "useSpacing": true
+        }
+      ]
+    },
+    {
+      "class": "DepictionStackView",
+      "tabname": "更新日志",
+      "views": [
+        {
+          "action": "",
+          "class": "DepictionButtonView",
+          "text": "",
+          "tintColor": ""
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "\u003csmall style='color: #aaa; font-size: 10pt;'\u003e全能玩机源\u003cBR /\u003e全能玩机源，最新最全最能的源，不添加任何广告！\u003cBR /\u003e全能玩机科技©2018 - 2024\u003c/small\u003e\u003cstyle\u003ebody { text-align: center; }\u003c/style\u003e",
+          "useRawFormat": true,
+          "useSpacing": true
+        }
+      ]
+    }
+  ]
+}
