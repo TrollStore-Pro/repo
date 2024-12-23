@@ -1675,6 +1675,49 @@ Author: Curtin
 SileoDepiction: https://TrollStore-Pro.Github.io/repo/depictions/native/com.curtin.pkc.rootlesss/depiction.json
 Icon: https://TrollStore-Pro.Github.io/repo/depictions/image/com.curtin.pkc.rootlesss/icon/icon.png
 
+Package: com.curtin.pkc.rootlesss
+Architecture: iphoneos-arm64
+Version: 0.6-6
+Priority: optional
+Section: 微信插件
+Depends: firmware (>= 5.0)
+Conflicts: com.curtin.pkc.rootless, byg.iosios.net.pkc
+Filename: ./debians/com.curtin.pkc.rootlesss_0.6-6_iphoneos-arm64.deb
+Size: 771808
+MD5sum: 302ad0b3f4d45b5557b48f6f0ec3adc9
+SHA1: 00cb4e339e76582416b69410ddb7080a760bccb1
+SHA256: 2c51ee06c0f4dfc0cfbf0021af75ee830897d497fa3fa1b22430d4249e880ef5
+SHA512: 33e701349bda6477a9b0c9ff00972ddf7b42a399cf9ea35c18560867d93e62f8cac5906124f101f10b42c07a504649a7b986d916a63ae6d2097f52cc5475923e
+Description: 微信多功能插件
+ * 群管理Pro、标签Pro、显示群友真名字、群管标识、艾特提醒、动态群昵称、自定义API(图、文本、视频)、消息统计、加密对话、Bark消息推送、定时问候、JD自动签到、好友分析、会话分析、每天60s新闻快报、防撤回、退群监控、步数定时修改、朋友圈特别关注、自动更新微信状态、长头像、消息二次确认、拍一拍二次确认、艾特列表置顶群管理、按群员查找列表置顶群管理、群性别统计、关键词自动回复、转账自动收款、收款自动回复、批量退群、批量修改群昵称、自动通过好友请求、自动互删好友、id加好友、匿名艾特等
+ * 提示: 本项目旨在学习 iOS 逆向的一点实践，不可使用于商业和个人其他意图。若使用不当，均由个人承担。如有侵权，请联系本人删除。
+Name: PKC 助手
+Author: Curtin
+SileoDepiction: https://TrollStore-Pro.Github.io/repo/depictions/native/com.curtin.pkc.rootlesss/depiction.json
+Icon: https://TrollStore-Pro.Github.io/repo/depictions/image/com.curtin.pkc.rootlesss/icon/icon.png
+
+Package: com.curtin.pkc.rootlesss
+Architecture: iphoneos-arm64e
+Version: 0.6-6
+Priority: optional
+Section: 微信插件
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 5.0)
+Conflicts: com.curtin.pkc.rootless, byg.iosios.net.pkc
+Filename: ./debians/com.curtin.pkc.rootlesss_0.6-6_iphoneos-arm64e.deb
+Size: 772772
+MD5sum: 3379af287af069e54a950a7ea119e10d
+SHA1: b037c7f4f6af02fdf8e713dc2d3bb2a454b5a9a3
+SHA256: bd3b5328f7eca1a51cf9f204953ed05f2312cc36d77ad56ba957018dfd864211
+SHA512: 80d57519baa5681f68f795f6a44533dbf4d2f5c6c820e74766570c2e72d1f630b5f4cde58e6d9bd2f34190d9adfae9340b7d8eddf724545fadf076a76f93b0d6
+Description: 微信多功能插件
+ * 群管理Pro、标签Pro、显示群友真名字、群管标识、艾特提醒、动态群昵称、自定义API(图、文本、视频)、消息统计、加密对话、Bark消息推送、定时问候、JD自动签到、好友分析、会话分析、每天60s新闻快报、防撤回、退群监控、步数定时修改、朋友圈特别关注、自动更新微信状态、长头像、消息二次确认、拍一拍二次确认、艾特列表置顶群管理、按群员查找列表置顶群管理、群性别统计、关键词自动回复、转账自动收款、收款自动回复、批量退群、批量修改群昵称、自动通过好友请求、自动互删好友、id加好友、匿名艾特等
+ * 提示: 本项目旨在学习 iOS 逆向的一点实践，不可使用于商业和个人其他意图。若使用不当，均由个人承担。如有侵权，请联系本人删除。
+Name: PKC 助手
+Author: Curtin
+SileoDepiction: https://TrollStore-Pro.Github.io/repo/depictions/native/com.curtin.pkc.rootlesss/depiction.json
+Icon: https://TrollStore-Pro.Github.io/repo/depictions/image/com.curtin.pkc.rootlesss/icon/icon.png
+
 Package: com.dao.3dbadgeclear
 Architecture: iphoneos-arm64
 Version: 1.6.8.1
@@ -9606,6 +9649,96 @@ Author: Netskao
 SileoDepiction: https://TrollStore-Pro.Github.io/repo/depictions/native/com.netskao.wcisoverseausers/depiction.json
 Icon: https://TrollStore-Pro.Github.io/repo/depictions/image/com.netskao.wcisoverseausers/icon/icon.png
 
+Package: com.netskao.wcmypageinfocenters
+Architecture: iphoneos-arm64
+Version: 1.1-7
+Section: 微信插件
+Maintainer: Nets
+Installed-Size: 140
+Depends: mobilesubstrate, firmware (>= 14.0)
+Conflicts: com.netskao.wcmypageinfocenter
+Filename: ./debians/com.netskao.wcmypageinfocenters_1.1-7_iphoneos-arm64.deb
+Size: 53176
+MD5sum: 517edc78b88a3789714cd1a1ab7e76af
+SHA1: 6410c8bbc1ad48921067d36e49998c18b2899099
+SHA256: 832fae5e8000982be55e194770f0ba31604dece5cf632a23c6659c85c116dd92
+SHA512: b7e71a64b0a1f1529fdd43753ce3258e6c37a52fe3407fa868a1aac451774af02787fc3a5080adc855bd9db1c7afaef3d4dbe31858e17e5bd2953ab07dd580fc
+Description: 微信个人资料居中
+ * 仅支持微信 8.0.51 及更高版本
+ * 可收纳在老猫收纳插件内
+Name: 我的页面资料居中 WCMyPageInfoCenter
+Author: Netskao
+SileoDepiction: https://TrollStore-Pro.Github.io/repo/depictions/native/com.netskao.wcmypageinfocenters/depiction.json
+Icon: https://TrollStore-Pro.Github.io/repo/depictions/image/com.netskao.wcmypageinfocenters/icon/icon.png
+
+Package: com.netskao.wcmypageinfocenters
+Architecture: iphoneos-arm64e
+Version: 1.1-7
+Section: 微信插件
+Maintainer: Nets
+Installed-Size: 140
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, firmware (>= 14.0)
+Conflicts: com.netskao.wcmypageinfocenter
+Filename: ./debians/com.netskao.wcmypageinfocenters_1.1-7_iphoneos-arm64e.deb
+Size: 53584
+MD5sum: ebb48d6df47cbc4d867385ea51f4890d
+SHA1: 7244e04c283a9819ab8b156fe558e65578b9bbda
+SHA256: c5d7464dbfb0c2a228fee48f7b81473759009cb9236ef78300d4aedd2c0c52e2
+SHA512: 65c4fa8cf0f05320edc8946a725eb284d1b0622a15abf2537078653a12694f85362675f0d17b599da69bc1918098650ef1154b68e5e03b090f6276ea6061a322
+Description: 微信个人资料居中
+ * 仅支持微信 8.0.51 及更高版本
+ * 可收纳在老猫收纳插件内
+Name: 我的页面资料居中 WCMyPageInfoCenter
+Author: Netskao
+SileoDepiction: https://TrollStore-Pro.Github.io/repo/depictions/native/com.netskao.wcmypageinfocenters/depiction.json
+Icon: https://TrollStore-Pro.Github.io/repo/depictions/image/com.netskao.wcmypageinfocenters/icon/icon.png
+
+Package: com.netskao.wcmypageinfocenters
+Architecture: iphoneos-arm64
+Version: 1.1-8
+Section: 微信插件
+Maintainer: Nets
+Installed-Size: 140
+Depends: mobilesubstrate, firmware (>= 14.0)
+Conflicts: com.netskao.wcmypageinfocenter
+Filename: ./debians/com.netskao.wcmypageinfocenters_1.1-8_iphoneos-arm64.deb
+Size: 65808
+MD5sum: 2980f38b4e6503457827051549ff91a3
+SHA1: bec2b2e92905c91018883613025a1d46c5fa518c
+SHA256: 4c355a3ce05d5096fa7f9b8d2b11baeb0e43be308695195ee80aded1319782cd
+SHA512: 7034ae1d66c6a1957f2e92735b1a599937bbf1d223e50b04b9d47fe566f64d7492f5d3c9307ec9b069bef1630837366b7893afd9ad81385fce4f16718af2e3ba
+Description: 我的页面资料居中
+ * 仅支持微信 8.0.31 及更高版本
+ * 可收纳在老猫收纳插件内
+Name: 我的页面资料居中 WCMyPageInfoCenter
+Author: Netskao
+SileoDepiction: https://TrollStore-Pro.Github.io/repo/depictions/native/com.netskao.wcmypageinfocenters/depiction.json
+Icon: https://TrollStore-Pro.Github.io/repo/depictions/image/com.netskao.wcmypageinfocenters/icon/icon.png
+
+Package: com.netskao.wcmypageinfocenters
+Architecture: iphoneos-arm64e
+Version: 1.1-8
+Section: 微信插件
+Maintainer: Nets
+Installed-Size: 140
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, firmware (>= 14.0)
+Conflicts: com.netskao.wcmypageinfocenter
+Filename: ./debians/com.netskao.wcmypageinfocenters_1.1-8_iphoneos-arm64e.deb
+Size: 66348
+MD5sum: b017c0c3d85e1ad702d412f4d21969a6
+SHA1: 9559a99a5a7af29d13782e6e593d1b00b44ff5d5
+SHA256: d364912a69b51176a712d5f192bcbad000776cac461c837169508b685d732423
+SHA512: 7e1a78aaee2264ac9c5de604305b030ecec70c13515fe835a21ac0e008960e249562af5869f74fb0c8b460689f66fd84e45a6b8132a480c44f181869a64e9dfa
+Description: 我的页面资料居中
+ * 仅支持微信 8.0.31 及更高版本
+ * 可收纳在老猫收纳插件内
+Name: 我的页面资料居中 WCMyPageInfoCenter
+Author: Netskao
+SileoDepiction: https://TrollStore-Pro.Github.io/repo/depictions/native/com.netskao.wcmypageinfocenters/depiction.json
+Icon: https://TrollStore-Pro.Github.io/repo/depictions/image/com.netskao.wcmypageinfocenters/icon/icon.png
+
 Package: com.netskao.wechatnotiavatars
 Architecture: iphoneos-arm64
 Version: 1.2-5
@@ -9681,6 +9814,28 @@ MD5sum: 3267111daf7b2a91e25fffa5200a6c63
 SHA1: 0d229f660d3e5df6434dac3398ba8406a30b66c4
 SHA256: 1bb9c6cd3d584720df73042f0e2209d3a81089b37fded40e1137dbd40c7c8a29
 SHA512: 418ac69f47c16bf0b5b9895da62ab35e0058c69334cc3b0b7983bae965e1ec9b1f97c1c21046e45d6150b292b04a58da1b3fda3e88e90ec0434931d5501ed2e2
+Description: 微信开关图标修改，可自定义
+ * 从曾经的净化功能中独立出来附加新的设置
+Name: 微信按钮 WeChatUISwitchLoader
+Author: Netskao
+SileoDepiction: https://TrollStore-Pro.Github.io/repo/depictions/native/com.netskao.wechatuiswitchloaders/depiction.json
+Icon: https://TrollStore-Pro.Github.io/repo/depictions/image/com.netskao.wechatuiswitchloaders/icon/icon.png
+
+Package: com.netskao.wechatuiswitchloaders
+Architecture: iphoneos-arm64e
+Version: 1.1-4
+Section: 微信插件
+Maintainer: Nets
+Installed-Size: 240
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, firmware (>= 14.0)
+Conflicts: com.netskao.wechatuiswitchloader
+Filename: ./debians/com.netskao.wechatuiswitchloaders_1.1-4_iphoneos-arm64e.deb
+Size: 122060
+MD5sum: 310627b920519650f84b725779ca8367
+SHA1: 1346009a971acfe185b60c81951a517fe0654fce
+SHA256: 1608662227f6aa5550e9229dad57daa5dd180cab58cd1746ee3be6dfd6caae09
+SHA512: 34b143fd07d70a3b2ec58092e90686f88e17da294050ef01e1e739337ea8349bdc6ff321359c7cb4091278294144a5a4221eae0245f4f22b45973bfc0dd67221
 Description: 微信开关图标修改，可自定义
  * 从曾经的净化功能中独立出来附加新的设置
 Name: 微信按钮 WeChatUISwitchLoader
@@ -11480,6 +11635,88 @@ Author: WeChat
 SileoDepiction: https://TrollStore-Pro.Github.io/repo/depictions/native/com.tencent.themeboxs/depiction.json
 Icon: https://TrollStore-Pro.Github.io/repo/depictions/image/com.tencent.themeboxs/icon/icon.png
 
+Package: com.tencent.themeboxs
+Architecture: iphoneos-arm64
+Version: 1.0.3-2
+Section: 微信插件
+Maintainer: WeChat
+Installed-Size: 3660
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: com.tencent.themebox
+Filename: ./debians/com.tencent.themeboxs_1.0.3-2_iphoneos-arm64.deb
+Size: 1912624
+MD5sum: 7f679050d7ffde9611ded8135d55de0d
+SHA1: 01218b76fbd55b909fb6ac4b7fa955dab7b4090f
+SHA256: fb72b0c19c05bc5b3720c8088877b08bb43d52b863d62b414c7eed1682082843
+SHA512: 6a7990364c8e45025c90baa0fee824e4526ddf8f5b57dfdf830963127fe9ffe5004724e60907ca29e260b6e125f65f7a51ba452e8de3a33f0075f611ef9c6855
+Description: 微信主题插件
+Name: 主题盒子 微信主题
+Author: WeChat
+SileoDepiction: https://TrollStore-Pro.Github.io/repo/depictions/native/com.tencent.themeboxs/depiction.json
+Icon: https://TrollStore-Pro.Github.io/repo/depictions/image/com.tencent.themeboxs/icon/icon.png
+
+Package: com.tencent.themeboxs
+Architecture: iphoneos-arm64e
+Version: 1.0.3-2
+Section: 微信插件
+Maintainer: WeChat
+Installed-Size: 3660
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: com.tencent.themebox
+Filename: ./debians/com.tencent.themeboxs_1.0.3-2_iphoneos-arm64e.deb
+Size: 1892236
+MD5sum: 305f9371c93c8f616b0734a62ff4e5b1
+SHA1: 4c5799057da9074b278620c9751623637da9393b
+SHA256: 3234208c8c127cea5075ea250892bcff31727a268d9bc41e06e66c6292224131
+SHA512: a5385d688430cdc7cf58b9b706be5c53165d469311bccdee3c62656d7302189560e30112741a3719a8e2229404f22b884a19016c686d6eca243ba264b4ab6935
+Description: 微信主题插件
+Name: 主题盒子 微信主题
+Author: WeChat
+SileoDepiction: https://TrollStore-Pro.Github.io/repo/depictions/native/com.tencent.themeboxs/depiction.json
+Icon: https://TrollStore-Pro.Github.io/repo/depictions/image/com.tencent.themeboxs/icon/icon.png
+
+Package: com.tencent.themeboxs
+Architecture: iphoneos-arm64
+Version: 1.0.5-2
+Section: 微信插件
+Maintainer: WeChat
+Installed-Size: 3660
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: com.tencent.themebox
+Filename: ./debians/com.tencent.themeboxs_1.0.5-2_iphoneos-arm64.deb
+Size: 2181560
+MD5sum: 1a2381c3b3dd3044cf146ff4fbdd888a
+SHA1: 9bda4c353f953e46f02d2323076678ee99b88275
+SHA256: 12851e9130c405132f300598fec298c81212218d169203df71f236c62fac2a78
+SHA512: e98f6e54e4f74b3608209d21bbb500d46c5cbfbd5cff3ad87aa3964c08773006125b5a7f914954dfeabe1a0c5e218e93956df28d20a384472b3ff10d94a81a96
+Description: 微信主题插件
+Name: 主题盒子
+Author: WeChat
+SileoDepiction: https://TrollStore-Pro.Github.io/repo/depictions/native/com.tencent.themeboxs/depiction.json
+Icon: https://TrollStore-Pro.Github.io/repo/depictions/image/com.tencent.themeboxs/icon/icon.png
+
+Package: com.tencent.themeboxs
+Architecture: iphoneos-arm64e
+Version: 1.0.5-2
+Section: 微信插件
+Maintainer: WeChat
+Installed-Size: 3660
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: com.tencent.themebox
+Filename: ./debians/com.tencent.themeboxs_1.0.5-2_iphoneos-arm64e.deb
+Size: 2160588
+MD5sum: 324370fcf74d7ed33f656fe74a036ad4
+SHA1: 658c3b5a547128be8ca1666b5cb17682258f31dd
+SHA256: 1df6a6db5e5c4d8d98d8f066ac10169b079747dcd960521fc4be1568387b33a3
+SHA512: 98b7bc664714064a3bf3ee0f6dc22a710330c838b1b60bf57f5d14bd3dafa70b4b9dc00fa44334213d10d68650ab6d801178ee4041da6be3416c74da91c0c746
+Description: 微信主题插件
+Name: 主题盒子
+Author: WeChat
+SileoDepiction: https://TrollStore-Pro.Github.io/repo/depictions/native/com.tencent.themeboxs/depiction.json
+Icon: https://TrollStore-Pro.Github.io/repo/depictions/image/com.tencent.themeboxs/icon/icon.png
+
 Package: com.thuthuatjb.iconrepo.rootless
 Architecture: iphoneos-arm64
 Version: 1.0
@@ -11834,6 +12071,77 @@ Name: 抖音图层
 Author: x✨
 Icon: https://TrollStore-Pro.Github.io/repo/depictions/image/com.xx.dyhooks/icon/icon.png
 SileoDepiction: https://TrollStore-Pro.Github.io/repo/depictions/native/com.xx.dyhooks/depiction.json
+
+Package: com.xx.dyhooks
+Architecture: iphoneos-arm64
+Version: 2.0.8+5+debug
+Section: 抖音插件
+Maintainer: x✨
+Installed-Size: 9332
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: com.xx.dyhook, byg.iosios.net.dyhook
+Filename: ./debians/com.xx.dyhooks_2.0.8+5+debug_iphoneos-arm64.deb
+Size: 2766944
+MD5sum: 34c4d1a28a919d0e09ac3f399f189392
+SHA1: 14b2992f823d0d98cf14c49d7b54d3393d9599c4
+SHA256: 76cf27ecd3e47984f82c50ca90c5827021c3db596d63e3f4d8cb633d9b65addf
+SHA512: 15ca7a4c5f39aa63b99213b7b14f2c1b8485ac152388dd39e864b04c76c42fbbc677e1ad7e6d68869ae004fcb83cee91095024b5090391f125b86af25bbeda3e
+Description: 抖音多功能增强插件
+ * 无水印下载视频/图片/LivePhoto
+ * 隐藏各种元素按钮文字等功能
+ * 双指双击屏幕打开插件设置界面
+Name: 抖音图层
+Author: x✨
+SileoDepiction: https://TrollStore-Pro.Github.io/repo/depictions/native/com.xx.dyhooks/depiction.json
+Icon: https://TrollStore-Pro.Github.io/repo/depictions/image/com.xx.dyhooks/icon/icon.png
+
+Package: com.xx.dyhooks
+Architecture: iphoneos-arm64e
+Version: 2.0.8+5+debug
+Section: 抖音插件
+Maintainer: x✨
+Installed-Size: 9332
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: com.xx.dyhook, byg.iosios.net.dyhook
+Filename: ./debians/com.xx.dyhooks_2.0.8+5+debug_iphoneos-arm64e.deb
+Size: 2722624
+MD5sum: e7bdba1180e61aaedb5122b0416f22ea
+SHA1: e40ff47d1cce5fbd88562465130243cd36e7143c
+SHA256: 11a2ce9ca08cfcdd0ca91a9253cf1b98e3224ee45f402cdf8af496654cf581eb
+SHA512: 2bc26fccc044674ad6a5f9d3e6252b74f1d12c6450071d54f8ee33ac3bc910dbfd864d989959126d6d2aca9c0944339e2fa92c81ae4d457958b3285df5258018
+Description: 抖音多功能增强插件
+ * 无水印下载视频/图片/LivePhoto
+ * 隐藏各种元素按钮文字等功能
+ * 双指双击屏幕打开插件设置界面
+Name: 抖音图层
+Author: x✨
+SileoDepiction: https://TrollStore-Pro.Github.io/repo/depictions/native/com.xx.dyhooks/depiction.json
+Icon: https://TrollStore-Pro.Github.io/repo/depictions/image/com.xx.dyhooks/icon/icon.png
+
+Package: com.xx.dyhooks
+Architecture: iphoneos-arm64e
+Version: 2.0.8+5
+Section: 抖音插件
+Maintainer: x✨
+Installed-Size: 9332
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: com.xx.dyhook, byg.iosios.net.dyhook
+Filename: ./debians/com.xx.dyhooks_2.0.8+5_iphoneos-arm64e.deb
+Size: 2747964
+MD5sum: f33040e8bdd4aed1a24cc4020ce61777
+SHA1: d55e08dea56f489b28783eea67b085d3bad479c8
+SHA256: 9a0dd49bec380015b0daaf68750a22ee71a9fd0ecc8662cc82c7ee2b69f777fa
+SHA512: 5457f6e68c273488734f8bff607b7670417e6717bfab8ae9e92beb24f1b768420f9e2abd8b784c8c4b115c1ebe2e6c7f727849f797a4a5862458b376b5c8b4a2
+Description: 抖音多功能增强插件
+ * 无水印下载视频/图片/LivePhoto
+ * 隐藏各种元素按钮文字等功能
+ * 双指双击屏幕打开插件设置界面
+Name: 抖音图层
+Author: x✨
+SileoDepiction: https://TrollStore-Pro.Github.io/repo/depictions/native/com.xx.dyhooks/depiction.json
+Icon: https://TrollStore-Pro.Github.io/repo/depictions/image/com.xx.dyhooks/icon/icon.png
 
 Package: com.xx.dyhooks
 Architecture: iphoneos-arm64

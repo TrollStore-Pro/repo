@@ -2101,6 +2101,9 @@ Library/MobileSubstrate/DynamicLibraries/WCEnableShowContactAddCreateTime.plist 
 Library/MobileSubstrate/DynamicLibraries/WCIsOverSeaUser.dylib com.netskao.wcisoverseausers
 Library/MobileSubstrate/DynamicLibraries/WCIsOverSeaUser.dylib.roothidepatch com.netskao.wcisoverseausers
 Library/MobileSubstrate/DynamicLibraries/WCIsOverSeaUser.plist com.netskao.wcisoverseausers
+Library/MobileSubstrate/DynamicLibraries/WCMyPageInfoCenter.dylib com.netskao.wcmypageinfocenters
+Library/MobileSubstrate/DynamicLibraries/WCMyPageInfoCenter.dylib.roothidepatch com.netskao.wcmypageinfocenters
+Library/MobileSubstrate/DynamicLibraries/WCMyPageInfoCenter.plist com.netskao.wcmypageinfocenters
 Library/MobileSubstrate/DynamicLibraries/WCPureExtension.dylib io.github.trollstore-pro.wechatpurification,netskao.wechatpurifications
 Library/MobileSubstrate/DynamicLibraries/WCPureExtension.dylib.roothidepatch netskao.wechatpurifications
 Library/MobileSubstrate/DynamicLibraries/WCPureExtension.plist io.github.trollstore-pro.wechatpurification,netskao.wechatpurifications
@@ -17375,6 +17378,8 @@ var/jb/Library/MobileSubstrate/DynamicLibraries/WCEnableShowContactAddCreateTime
 var/jb/Library/MobileSubstrate/DynamicLibraries/WCEnableShowContactAddCreateTime.plist com.initnil.wcenableshowcontactaddcreatetimes
 var/jb/Library/MobileSubstrate/DynamicLibraries/WCIsOverSeaUser.dylib com.netskao.wcisoverseausers,io.github.trollstore-pro.wcisoverseausers
 var/jb/Library/MobileSubstrate/DynamicLibraries/WCIsOverSeaUser.plist com.netskao.wcisoverseausers,io.github.trollstore-pro.wcisoverseausers
+var/jb/Library/MobileSubstrate/DynamicLibraries/WCMyPageInfoCenter.dylib com.netskao.wcmypageinfocenters
+var/jb/Library/MobileSubstrate/DynamicLibraries/WCMyPageInfoCenter.plist com.netskao.wcmypageinfocenters
 var/jb/Library/MobileSubstrate/DynamicLibraries/WCNoAd.dylib io.github.trollstore-pro.wechatnoad.rootless
 var/jb/Library/MobileSubstrate/DynamicLibraries/WCNoAd.plist io.github.trollstore-pro.wechatnoad.rootless
 var/jb/Library/MobileSubstrate/DynamicLibraries/WCPureExtension.dylib io.github.trollstore-pro.wechatpurification-rootless.old,netskao.wechatpurifications,io.github.trollstore-pro.wechatpurification-rootless
@@ -30096,6 +30101,7 @@ var/mobile/Library/pkgmirror/DEBIAN.com.netskao.qqipadmodelogins/control com.net
 var/mobile/Library/pkgmirror/DEBIAN.com.netskao.qqnotiavatars/control com.netskao.qqnotiavatars
 var/mobile/Library/pkgmirror/DEBIAN.com.netskao.twitternoadss/control com.netskao.twitternoadss
 var/mobile/Library/pkgmirror/DEBIAN.com.netskao.wcisoverseausers/control com.netskao.wcisoverseausers
+var/mobile/Library/pkgmirror/DEBIAN.com.netskao.wcmypageinfocenters/control com.netskao.wcmypageinfocenters
 var/mobile/Library/pkgmirror/DEBIAN.com.netskao.wechatnotiavatars/control com.netskao.wechatnotiavatars
 var/mobile/Library/pkgmirror/DEBIAN.com.netskao.wechatuiswitchloaders/control com.netskao.wechatuiswitchloaders
 var/mobile/Library/pkgmirror/DEBIAN.com.niceios.nicebarx/control com.niceios.nicebarx
@@ -30677,6 +30683,8 @@ var/mobile/Library/pkgmirror/Library/MobileSubstrate/DynamicLibraries/NoRedirect
 var/mobile/Library/pkgmirror/Library/MobileSubstrate/DynamicLibraries/NoRedirect.plist com.82flex.noredirects
 var/mobile/Library/pkgmirror/Library/MobileSubstrate/DynamicLibraries/NotificationsGroupCount.dylib com.0xkuj.notificationsgroupcounts
 var/mobile/Library/pkgmirror/Library/MobileSubstrate/DynamicLibraries/NotificationsGroupCount.plist com.0xkuj.notificationsgroupcounts
+var/mobile/Library/pkgmirror/Library/MobileSubstrate/DynamicLibraries/PKCWeChatTools.dylib com.curtin.pkc.rootlesss
+var/mobile/Library/pkgmirror/Library/MobileSubstrate/DynamicLibraries/PKCWeChatTools.plist com.curtin.pkc.rootlesss
 var/mobile/Library/pkgmirror/Library/MobileSubstrate/DynamicLibraries/PicsArtPatch.dylib com.jamme.picsartpatch
 var/mobile/Library/pkgmirror/Library/MobileSubstrate/DynamicLibraries/PicsArtPatch.plist com.jamme.picsartpatch
 var/mobile/Library/pkgmirror/Library/MobileSubstrate/DynamicLibraries/PodsGrant.dylib com.lns.pogr
@@ -30729,6 +30737,8 @@ var/mobile/Library/pkgmirror/Library/MobileSubstrate/DynamicLibraries/WCEnableSh
 var/mobile/Library/pkgmirror/Library/MobileSubstrate/DynamicLibraries/WCEnableShowContactAddCreateTime.plist com.initnil.wcenableshowcontactaddcreatetimes
 var/mobile/Library/pkgmirror/Library/MobileSubstrate/DynamicLibraries/WCIsOverSeaUser.dylib com.netskao.wcisoverseausers
 var/mobile/Library/pkgmirror/Library/MobileSubstrate/DynamicLibraries/WCIsOverSeaUser.plist com.netskao.wcisoverseausers
+var/mobile/Library/pkgmirror/Library/MobileSubstrate/DynamicLibraries/WCMyPageInfoCenter.dylib com.netskao.wcmypageinfocenters
+var/mobile/Library/pkgmirror/Library/MobileSubstrate/DynamicLibraries/WCMyPageInfoCenter.plist com.netskao.wcmypageinfocenters
 var/mobile/Library/pkgmirror/Library/MobileSubstrate/DynamicLibraries/WCPureExtension.dylib netskao.wechatpurifications
 var/mobile/Library/pkgmirror/Library/MobileSubstrate/DynamicLibraries/WCPureExtension.plist netskao.wechatpurifications
 var/mobile/Library/pkgmirror/Library/MobileSubstrate/DynamicLibraries/WTVRBGLauncher.dylib com.82flex.wtvrbglaunchers
