@@ -1,0 +1,249 @@
+{
+  "headerImage": "https://trollstore-pro.github.io/repo/assets/repo/Headers/header.webp",
+  "tabs": [
+    {
+      "views": [
+        {
+          "useMargins": true,
+          "margins": "{10,0,8,0}",
+          "class": "DepictionLabelView",
+          "text": "插件介绍",
+          "fontWeight": "bold",
+          "fontSize": 19,
+          "usePadding": true
+        },
+        {
+          "markdown": "An awesome MobileSubstrate tweak!又一款微信主题加载插件，非常的不错，但是好像也要收费，大家自行体验，小编测试了一下，会读取记录微信号...自行选择！",
+          "useSpacing": false,
+          "class": "DepictionMarkdownView"
+        },
+        {
+          "spacing": 20,
+          "class": "DepictionSpacerView"
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "usePadding": true,
+          "useMargins": true,
+          "margins": "{10,0,8,0}",
+          "class": "DepictionLabelView",
+          "text": "插件截图预览",
+          "fontWeight": "semibold",
+          "fontSize": 17
+        },
+        {
+          "itemSize": "{127, 275}",
+          "screenshots": [
+            {
+              "accessibilityText": "Screenshot",
+              "url": "https://wx.y.gtimg.cn/music/photo_new/T053XD000024A92k4CDTeO.jpg"
+            }
+          ],
+          "class": "DepictionScreenshotsView",
+          "itemCornerRadius": true
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionLabelView",
+          "text": "版本详细说明",
+          "fontWeight": "semibold",
+          "fontSize": 16,
+          "usePadding": true,
+          "useMargins": true,
+          "margins": "{10,0,8,0}"
+        },
+        {
+          "class": "DepictionStackView",
+          "orientation": "landscape",
+          "views": [
+            {
+              "class": "DepictionStackView",
+              "views": [
+                {
+                  "class": "DepictionLabelView",
+                  "text": "插件版本",
+                  "textColor": "#777",
+                  "margins": "{16,0,8,0}"
+                },
+                {
+                  "text": "1.0.3-2",
+                  "fontWeight": "semibold",
+                  "fontSize": 16,
+                  "usePadding": false,
+                  "class": "DepictionLabelView"
+                },
+                {
+                  "class": "DepictionLabelView",
+                  "text": "插件大小",
+                  "textColor": "#777",
+                  "margins": "{16,0,8,0}"
+                },
+                {
+                  "fontWeight": "semibold",
+                  "fontSize": 16,
+                  "usePadding": false,
+                  "class": "DepictionLabelView",
+                  "text": "2.36 MB"
+                }
+              ]
+            },
+            {
+              "class": "DepictionStackView",
+              "views": [
+                {
+                  "textColor": "#777",
+                  "margins": "{16,0,8,0}",
+                  "class": "DepictionLabelView",
+                  "text": "插件更新时间"
+                },
+                {
+                  "fontSize": 16,
+                  "usePadding": false,
+                  "class": "DepictionLabelView",
+                  "text": "2024-12-19 22:02:58",
+                  "fontWeight": "semibold"
+                },
+                {
+                  "class": "DepictionLabelView",
+                  "text": "插件系统兼容",
+                  "textColor": "#777",
+                  "margins": "{16,0,8,0}"
+                },
+                {
+                  "class": "DepictionLabelView",
+                  "text": "15 ~ 17",
+                  "fontWeight": "semibold",
+                  "fontSize": 17,
+                  "usePadding": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "class": "DepictionStackView",
+          "orientation": "landscape",
+          "views": [
+            {
+              "class": "DepictionStackView",
+              "views": [
+                {
+                  "class": "DepictionLabelView",
+                  "text": "下载次数",
+                  "textColor": "#777",
+                  "margins": "{16,0,8,0}"
+                },
+                {
+                  "class": "DepictionLabelView",
+                  "text": "847",
+                  "fontWeight": "semibold",
+                  "fontSize": 16,
+                  "usePadding": false
+                }
+              ]
+            },
+            {
+              "class": "DepictionStackView",
+              "views": [
+                {
+                  "class": "DepictionLabelView",
+                  "text": "上个用户下载时间",
+                  "textColor": "#777",
+                  "margins": "{16,0,8,0}"
+                },
+                {
+                  "class": "DepictionLabelView",
+                  "text": "2024-12-20 11:19:32",
+                  "fontWeight": "semibold",
+                  "fontSize": 16,
+                  "usePadding": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 25
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "useSpacing": true,
+          "class": "DepictionMarkdownView",
+          "useRawFormat": true,
+          "markdown": "<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>"
+        }
+      ],
+      "class": "DepictionStackView",
+      "tabname": "插件介绍"
+    },
+    {
+      "tabname": "更新日志",
+      "views": [
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionStackView",
+          "orientation": "landscape",
+          "views": [
+            {
+              "fontSize": 18,
+              "usePadding": true,
+              "useMargins": true,
+              "margins": "{15,0,8,0}",
+              "class": "DepictionLabelView",
+              "text": "1.0.3-2",
+              "fontWeight": "semibold"
+            },
+            {
+              "fontSize": 12,
+              "usePadding": true,
+              "useMargins": true,
+              "textColor": "#999",
+              "class": "DepictionLabelView",
+              "text": "更新于:2024/12/19",
+              "useSpacing": false,
+              "margins": "{15,0,8,16}",
+              "alignment": 2
+            }
+          ]
+        },
+        {
+          "markdown": "•修复1.0-3-1修改底栏动画闪退问题•修复了1.0.2目前收集到的一些问题•再次调整底栏样式，将底栏设置移动到了插件首页•修复底栏点击漂移(点不到)问题•修复主题包未上传顶栏时从聊天返回首页顶部透明问题•新增我的页面居中布局增加头像旋转•新增自定义名字和微信号显示内容\n*** ",
+          "class": "DepictionMarkdownView",
+          "useSpacing": false
+        },
+        {
+          "class": "DepictionLabelView",
+          "fontSize": 0,
+          "useMargins": true,
+          "textColor": "#999",
+          "text": "",
+          "useSpacing": false,
+          "usePadding": true,
+          "margins": "{-4,0,0,0}",
+          "alignment": 0
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "useSpacing": true,
+          "class": "DepictionMarkdownView",
+          "useRawFormat": true,
+          "markdown": "<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>"
+        }
+      ],
+      "class": "DepictionStackView"
+    }
+  ],
+  "class": "DepictionTabView",
+  "minVersion": "0.1"
+}

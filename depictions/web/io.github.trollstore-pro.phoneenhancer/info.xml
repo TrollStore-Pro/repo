@@ -1,0 +1,32 @@
+<package>
+  <id>io.github.trollstore-pro.phoneenhancer</id>
+  <name>PhoneEnhancer15电话增强-Rootless</name>
+  <version>1.7.0</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>mobilesubstrate (&gt;= 0.9.5000)</package>
+  </dependencies>
+  <shortDescription><![CDATA[自带电话应用增强插件，如打开或关闭通话时的振动反馈和彩色通话记录。为每个通话状态分配不同的颜色来区分来电和呼出和未接来电，还不错，算是电话助手吧！]]></shortDescription>
+  <descriptionlist>
+    <description><![CDATA[自带电话应用增强插件，如打开或关闭通话时的振动反馈和彩色通话记录。为每个通话状态分配不同的颜色来区分来电和呼出和未接来电，还不错，算是电话助手吧！]]></description>
+    <description><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></description>
+  </descriptionlist>
+  <screenshots>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>6605c36e7136f6f73b8e61ca</image>
+    </screenshot>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>6605c3787136f6f73b8e639b</image>
+    </screenshot>
+  </screenshots>
+  <changelog>
+    <change><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></change>
+  </changelog>
+  <links></links>
+</package>

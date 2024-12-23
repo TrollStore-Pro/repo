@@ -1,0 +1,29 @@
+<package>
+  <id>io.github.trollstore-pro.MisakaHelper.rootless</id>
+  <name>微信Misaka助手-Rootless</name>
+  <version>2.1-0</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>mobilesubstrate</package>
+  </dependencies>
+  <shortDescription><![CDATA[MisakaHelper微信misaka助手，和其它类型微信插件类似，更多群功能！自行体验！可以解决低版本微信不能使用小程序问题！好像也可以抢红包！可以强制关注公众号，比如解决微信净化插件问题！]]></shortDescription>
+  <descriptionlist>
+    <description><![CDATA[MisakaHelper微信misaka助手，和其它类型微信插件类似，更多群功能！自行体验！可以解决低版本微信不能使用小程序问题！好像也可以抢红包！可以强制关注公众号，比如解决微信净化插件问题！]]></description>
+    <description><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></description>
+  </descriptionlist>
+  <screenshots>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>7c792cefe3735140bed88c55c681398930079900.jpg</image>
+    </screenshot>
+  </screenshots>
+  <changelog>
+    <change><![CDATA[据说是最后一个版本，免授权！<br />*** ]]></change>
+    <change><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></change>
+  </changelog>
+  <links></links>
+</package>

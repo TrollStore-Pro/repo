@@ -1,0 +1,29 @@
+<package>
+  <id>io.github.trollstore-pro.smartnotificationsios16</id>
+  <name>SmartNotifications自定义铃声-Rootless</name>
+  <version>1.0.1</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>com.spark.libsparkapplist</package>
+  </dependencies>
+  <shortDescription><![CDATA[An awesome MobileSubstrate tweak!这是一款自定义APP铃声、自定义APP通知时间插件，原价2.49美元，插件非常的不错，有需要的小伙伴们赶紧下载啦！]]></shortDescription>
+  <descriptionlist>
+    <description><![CDATA[An awesome MobileSubstrate tweak!这是一款自定义APP铃声、自定义APP通知时间插件，原价2.49美元，插件非常的不错，有需要的小伙伴们赶紧下载啦！]]></description>
+    <description><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></description>
+  </descriptionlist>
+  <screenshots>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>pFR6J2T.jpg</image>
+    </screenshot>
+  </screenshots>
+  <changelog>
+    <change><![CDATA[应群友要求，补充老弟汉化文件，感谢老弟！<br />*** ]]></change>
+    <change><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></change>
+  </changelog>
+  <links></links>
+</package>

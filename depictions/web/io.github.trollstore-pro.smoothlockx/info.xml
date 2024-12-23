@@ -1,0 +1,39 @@
+<package>
+  <id>io.github.trollstore-pro.smoothlockx</id>
+  <name>SmoothLockX高级优化-Rootless</name>
+  <version>1.4.9</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>mobilesubstrate</package>
+    <package>firmware (&gt;= 15.0)</package>
+    <package>preferenceloader</package>
+    <package>org.thebigboss.libcolorpicker</package>
+  </dependencies>
+  <shortDescription><![CDATA[Give Smooth and Clean Views to the LockScreen on the phone。高级优化，很多优化项！详情见预览截图，感谢巨魔商店M哥汉化分享！听我说，谢谢你！]]></shortDescription>
+  <descriptionlist>
+    <description><![CDATA[Give Smooth and Clean Views to the LockScreen on the phone。高级优化，很多优化项！详情见预览截图，感谢巨魔商店M哥汉化分享！听我说，谢谢你！]]></description>
+    <description><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></description>
+  </descriptionlist>
+  <screenshots>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>pCJjp0P.jpg</image>
+    </screenshot>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>pCJj9Tf.jpg</image>
+    </screenshot>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>pCJjPk8.jpg</image>
+    </screenshot>
+  </screenshots>
+  <changelog>
+    <change><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></change>
+  </changelog>
+  <links></links>
+</package>

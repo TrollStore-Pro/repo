@@ -1,0 +1,34 @@
+<package>
+  <id>io.github.trollstore-pro.pockettranslator</id>
+  <name>PocketTranslator控制中心翻译-Rootless</name>
+  <version>2.1.0</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>dev.theos.orion (&gt;= 1.0.0)</package>
+    <package>firmware (&gt;= 14.0)</package>
+    <package>com.opa334.ccsupport</package>
+  </dependencies>
+  <shortDescription><![CDATA[Lightweight & convenient translator.Pocket Translator 向控制中心添加了一个 CC 模块，当点击该模块时，会显示您选择的翻译器（即 Google、DeepL 等）。感觉有点鸡肋。]]></shortDescription>
+  <descriptionlist>
+    <description><![CDATA[Lightweight & convenient translator.Pocket Translator 向控制中心添加了一个 CC 模块，当点击该模块时，会显示您选择的翻译器（即 Google、DeepL 等）。感觉有点鸡肋。]]></description>
+    <description><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></description>
+  </descriptionlist>
+  <screenshots>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>pCitM6A.png</image>
+    </screenshot>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>pCit30P.png</image>
+    </screenshot>
+  </screenshots>
+  <changelog>
+    <change><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></change>
+  </changelog>
+  <links></links>
+</package>

@@ -1,0 +1,32 @@
+<package>
+  <id>io.github.trollstore-pro.audiorecorderxs-rootless</id>
+  <name>AudioRecorder XS 通话录音破解版-Rootless</name>
+  <version>5.0-37</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>mobilesubstrate</package>
+    <package>byg.iosios.net.limneoscrack-rootless</package>
+    <package>net.limneos.simpleactivationactions-rootless</package>
+    <package>firmware(&gt;=12.0)</package>
+  </dependencies>
+  <shortDescription><![CDATA[Most Advanced iOS Call Recorder Ever!通话录音破解版，iOS上一款非常优秀的录音插件，非常的好用！现全能玩机源可以免费使用，已汉化，无需再安装汉化插件！全能玩机源，你最好的家！]]></shortDescription>
+  <descriptionlist>
+    <description><![CDATA[Most Advanced iOS Call Recorder Ever!通话录音破解版，iOS上一款非常优秀的录音插件，非常的好用！现全能玩机源可以免费使用，已汉化，无需再安装汉化插件！全能玩机源，你最好的家！]]></description>
+    <description><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></description>
+  </descriptionlist>
+  <screenshots>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>no-screenshots.jpeg</image>
+    </screenshot>
+  </screenshots>
+  <changelog>
+    <change><![CDATA[更新适配iOS16多巴胺越狱！<br />*** ]]></change>
+    <change><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></change>
+  </changelog>
+  <links></links>
+</package>

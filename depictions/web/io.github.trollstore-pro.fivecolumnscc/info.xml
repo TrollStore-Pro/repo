@@ -1,0 +1,28 @@
+<package>
+  <id>io.github.trollstore-pro.fivecolumnscc</id>
+  <name>FiveColumnsCC控制中心5行-Rootless</name>
+  <version>1.0~beta4</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>mobilesubstrate</package>
+  </dependencies>
+  <shortDescription><![CDATA[Five rows of settings arranged in the control center。控制中心排列五行设定。感谢来了老弟修复支持多巴胺。]]></shortDescription>
+  <descriptionlist>
+    <description><![CDATA[Five rows of settings arranged in the control center。控制中心排列五行设定。感谢来了老弟修复支持多巴胺。]]></description>
+    <description><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></description>
+  </descriptionlist>
+  <screenshots>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>8afbf584c4530fe96214a0f70f16b4177b4cb13d.png</image>
+    </screenshot>
+  </screenshots>
+  <changelog>
+    <change><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></change>
+  </changelog>
+  <links></links>
+</package>

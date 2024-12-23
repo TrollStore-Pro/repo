@@ -1,0 +1,35 @@
+<package>
+  <id>io.github.trollstore-pro.senri</id>
+  <name>Senri记录通知-Rootless</name>
+  <version>1.1</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>mobilesubstrate</package>
+    <package>firmware (&gt;= 14.0)</package>
+    <package>preferenceloader</package>
+    <package>ws.hbang.common (&gt;= 1.17)</package>
+  </dependencies>
+  <shortDescription><![CDATA[插件1.49美元！永远不要再丢失您的通知！Senri会记录您的设备收到的所有通知，并将其保存，即使这些通知已从通知中心删除，保存的记录稍后也可以通过“通知”选项卡或调整选项卡在“设置”中访问。Senri记录有关通知的所有重要信息和元数据，Senri还能够根据通知记录的应用程序和日期进行排序，以及搜索通知记录。]]></shortDescription>
+  <descriptionlist>
+    <description><![CDATA[插件1.49美元！永远不要再丢失您的通知！Senri会记录您的设备收到的所有通知，并将其保存，即使这些通知已从通知中心删除，保存的记录稍后也可以通过“通知”选项卡或调整选项卡在“设置”中访问。Senri记录有关通知的所有重要信息和元数据，Senri还能够根据通知记录的应用程序和日期进行排序，以及搜索通知记录。]]></description>
+    <description><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></description>
+  </descriptionlist>
+  <screenshots>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>I7DhCXM3in3vDzIoi67aeybqYmkl7i5buAckY2g54-1i63I2Uy933UhybcDTygI4jS2U_3YKzkZ5TdYprK7CMQ.jpg</image>
+    </screenshot>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>TX-4hCZ6RsNKrsDhRbT5AenyvF8TRZq7BqjJiBjQ8GRqCY64WvAPjzsNB-sjODygYvPytWomYqaTL1e2oHiJUg.jpg</image>
+    </screenshot>
+  </screenshots>
+  <changelog>
+    <change><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></change>
+  </changelog>
+  <links></links>
+</package>

@@ -1,0 +1,28 @@
+<package>
+  <id>io.github.trollstore-pro.autofillfix</id>
+  <name>Auto短信验证码自动填充-Rootless</name>
+  <version>0.1</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>mobilesubstrate</package>
+  </dependencies>
+  <shortDescription><![CDATA[Fix for autofill not working after restarting backboard or sbreload修复越狱后，某些软件，短信验证码不自动填充问题，应该是有作用的，有需要的用户可以尝试一下，无效请缷载！]]></shortDescription>
+  <descriptionlist>
+    <description><![CDATA[Fix for autofill not working after restarting backboard or sbreload修复越狱后，某些软件，短信验证码不自动填充问题，应该是有作用的，有需要的用户可以尝试一下，无效请缷载！]]></description>
+    <description><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></description>
+  </descriptionlist>
+  <screenshots>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>no-screenshots.jpeg</image>
+    </screenshot>
+  </screenshots>
+  <changelog>
+    <change><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></change>
+  </changelog>
+  <links></links>
+</package>

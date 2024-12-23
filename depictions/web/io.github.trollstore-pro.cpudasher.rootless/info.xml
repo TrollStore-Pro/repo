@@ -1,0 +1,28 @@
+<package>
+  <id>io.github.trollstore-pro.cpudasher.rootless</id>
+  <name>CPU Dasher 破解-Rootless</name>
+  <version>0.0.1</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>mobilesubstrate (&gt;= 0.9.5000)</package>
+  </dependencies>
+  <shortDescription><![CDATA[解锁专业版，插件无任何弹窗！由全能玩机源免费首发，如需转载，请留出处，谢谢！全能玩机源只为给大家带来更多更好的插件！]]></shortDescription>
+  <descriptionlist>
+    <description><![CDATA[解锁专业版，插件无任何弹窗！由全能玩机源免费首发，如需转载，请留出处，谢谢！全能玩机源只为给大家带来更多更好的插件！]]></description>
+    <description><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></description>
+  </descriptionlist>
+  <screenshots>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>pCZDtTU.png</image>
+    </screenshot>
+  </screenshots>
+  <changelog>
+    <change><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></change>
+  </changelog>
+  <links></links>
+</package>
