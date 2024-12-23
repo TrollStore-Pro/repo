@@ -10915,6 +10915,26 @@ Author: 全能玩机
 SileoDepiction: https://TrollStore-Pro.Github.io/repo/depictions/native/com.sileo.zh-hans/depiction.json
 Icon: https://TrollStore-Pro.Github.io/repo/depictions/image/com.sileo.zh-hans/icon/icon.png
 
+Package: com.sini921.qqavatarrotation
+Architecture: iphoneos-arm64
+Version: 1.1.0-1
+Section: 杂七杂八
+Maintainer: 全能玩机
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/com.sini921.qqavatarrotation_1.1.0-1_iphoneos-arm64.deb
+Size: 4412
+MD5sum: cc6418ac97f6a747fd937e8f1a242a86
+SHA1: 36b6bcc263caf63df3c0da2397271a5ace1c6bc6
+SHA256: 6dba9f829fbd8b333e5ebbc5cbe1a13925f4b0add6c20fbfb7d6a65151c74846
+SHA512: c09414bddf452c20491d282aafb9b2433c953633f34ce50c546633f12790361ae80031e97db4d43a2e7806e9de1577701bc2788572df7328a2a8bf1fc92e2659
+Description: 大家期待已久的QQ头像旋转插件来啦，本插件由全能玩机源群友思念所作，功能如下：QQ头像瞎季伯转，仅在9.1.25版本上测试。转起来，嗨起来，花里胡哨！
+Name: QQ头像旋转-Rootless
+Author: SINI
+Sponsor: 全能玩机
+SileoDepiction: https://trollstore-pro.github.io/repo/depictions/native/com.sini921.qqavatarrotation/depiction.json
+Icon: https://trollstore-pro.github.io/repo/assets/repo/Icons/cydia.png
+
 Package: com.skypain.teleportcns
 Architecture: iphoneos-arm64
 Version: 1.0.0-2
@@ -17317,6 +17337,27 @@ Sponsor: 全能玩机
 SileoDepiction: https://trollstore-pro.github.io/repo/depictions/native/io.github.trollstore-pro.dyhook/depiction.json
 Icon: https://trollstore-pro.github.io/repo/assets/repo/Icons/cydia.png
 
+Package: io.github.trollstore-pro.dyhook
+Architecture: iphoneos-arm64
+Version: 2.0.8+5
+Section: 软件破解
+Maintainer: 全能玩机
+Installed-Size: 9332
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: byg.iosios.net.dyhook
+Filename: ./debians/io.github.trollstore-pro.dyhook_2.0.8+5_iphoneos-arm64.deb
+Size: 2792788
+MD5sum: 1653c72f796ff41045baabb1bc95e245
+SHA1: 6d7292db00245a27c80c6f785d8652e20cb4eb9e
+SHA256: e8b8c3242c5e0fbce170747890a48d26cea2fa9ff692e485fde65939f29cdf25
+SHA512: 019cdcc8bf5b92009234aba93e863a705718edbbe03378d5c6661654bf42c0e77a111c11eeddbab9561ed0197eb4882825f39595dc8c46cc6999f05da298d348
+Description: 首页视频界面双指双击弹出设置UI，一款非常不错的插件，本插件的作用是：抖音顶部或侧面的功能，图层隐藏调节透明度！隐藏抖音上一些烦人的按扭，净化抖音！支持无水印下载视频，去除广告，个性标签等等！已经不再支持注入了，仅越狱可用，切记！
+Name: 抖音图层-Rootless
+Author: x✨
+Sponsor: 全能玩机
+SileoDepiction: https://trollstore-pro.github.io/repo/depictions/native/io.github.trollstore-pro.dyhook/depiction.json
+Icon: https://trollstore-pro.github.io/repo/assets/repo/Icons/cydia.png
+
 Package: io.github.trollstore-pro.dynamic-notifier
 Architecture: iphoneos-arm64
 Version: 1.0.5
@@ -17373,6 +17414,26 @@ MD5sum: 95f50843f6f3c6638780aa160ed2d5c8
 SHA1: 5f5abaf474975f4096017954ba9f5f7ecf6a5d7b
 SHA256: 1c75bfc99c3654644f56f8e1ab9e8f4e455e58d3496dcbad265ffbf4414f07b6
 SHA512: c44752b71d3dd684e1a99a6bd526de449be0b19bb1c5fcf5a1db1dfa7aa33f8479b8c8899d8c3cdb968a46a4dede9cbe06fbef04f47df29d47c395ae84b19635
+Description: 插件功能如下：设置顶栏透明 、设置全局透明度、隐藏全屏观看、隐藏底栏加号、开启弹幕改色 设置唤醒方式：双指长按(似乎只有这一触发方式)
+Name: 抖音DYYY-Rootless
+Author: huami
+Sponsor: 全能玩机
+SileoDepiction: https://trollstore-pro.github.io/repo/depictions/native/io.github.trollstore-pro.dyyy/depiction.json
+Icon: https://trollstore-pro.github.io/repo/assets/repo/Icons/cydia.png
+
+Package: io.github.trollstore-pro.dyyy
+Architecture: iphoneos-arm64
+Version: 1.8.1
+Section: 软件破解
+Maintainer: 全能玩机
+Depends: firmware (>= 5.0), mobilesubstrate
+Conflicts: byg.iosios.net.dyyy
+Filename: ./debians/io.github.trollstore-pro.dyyy_1.8.1_iphoneos-arm64.deb
+Size: 26448
+MD5sum: 06f65c38d8466207ff25e7c8b8244543
+SHA1: 43a1f88de8b4d4fb3f523412721c75743b6cf9bd
+SHA256: 10e19612d00d2a0a3b16d2638268682bdb113044004a3f417b1341c69933070d
+SHA512: 995f27a3ee1c8f6db97d66dc471c1edc5f03917e09ed386662d785ad0c67310f0e181fad2ae108a1401732d8940f3c5d438d018bca61a0d0ad9f0c9d97fc5d76
 Description: 插件功能如下：设置顶栏透明 、设置全局透明度、隐藏全屏观看、隐藏底栏加号、开启弹幕改色 设置唤醒方式：双指长按(似乎只有这一触发方式)
 Name: 抖音DYYY-Rootless
 Author: huami
@@ -18309,6 +18370,26 @@ MD5sum: 6a1d340c70579a1d0f346d02e83b474e
 SHA1: 3a5d2661965bd4ac3ae6e41efcb5337cad047ab5
 SHA256: f968cbf5007a217c2eca93b885b68a11cb0469cf8636356ad885a8113b885665
 SHA512: 010d084cc1544716d9308cedd895f945c601ea83a9e508bbca31b45b8f676401e5537414094845263e85b3d170ddd2094e7bf4b383f8ff63e548a180d741bf47
+Description: 小伙们期待的图标随意摆的插件终于来了，不少小伙们一直问机车主无根有没有这个插件，今天它来了。原价1.49美元，有能力的请购买正版支持作者！插件安装注销即可生效，暂时无设置项！支持主屏幕、dock和文件夹中的自定义布局、支持任何大小的图标或小部件！全能玩机源，真的用心在做免费！
+Name: Griddy图标随意摆-Rootless
+Author: mikifp
+Sponsor: 全能玩机
+SileoDepiction: https://trollstore-pro.github.io/repo/depictions/native/io.github.trollstore-pro.griddy/depiction.json
+Icon: https://trollstore-pro.github.io/repo/assets/repo/Icons/cydia.png
+
+Package: io.github.trollstore-pro.griddy
+Architecture: iphoneos-arm64
+Version: 1.0.5
+Section: 杂七杂八
+Maintainer: 全能玩机
+Depends: mobilesubstrate
+Conflicts: byg.iosios.net.griddy
+Filename: ./debians/io.github.trollstore-pro.griddy_1.0.5_iphoneos-arm64.deb
+Size: 20868
+MD5sum: d5b85f0fe7ce7fb1d3061f10f5c47064
+SHA1: cd88cf64053b41a540cff95fc1954a38262a1e4d
+SHA256: 3c831c9a6b07b7c54bd78e4d2a93936925a13f8947e66af88fb22cc9f3034139
+SHA512: f08f97b2d04eff33e30473d8eca741b29981791b109be58dd854d6dd71e1ae6a65a96e6745ee67de824704057445ac26de72e39f29334124f0526dcaf1adfc3c
 Description: 小伙们期待的图标随意摆的插件终于来了，不少小伙们一直问机车主无根有没有这个插件，今天它来了。原价1.49美元，有能力的请购买正版支持作者！插件安装注销即可生效，暂时无设置项！支持主屏幕、dock和文件夹中的自定义布局、支持任何大小的图标或小部件！全能玩机源，真的用心在做免费！
 Name: Griddy图标随意摆-Rootless
 Author: mikifp
@@ -21519,6 +21600,27 @@ Sponsor: 全能玩机
 SileoDepiction: https://trollstore-pro.github.io/repo/depictions/native/io.github.trollstore-pro.pkc/depiction.json
 Icon: https://trollstore-pro.github.io/repo/assets/repo/Icons/cydia.png
 
+Package: io.github.trollstore-pro.pkc
+Architecture: iphoneos-arm64
+Version: 0.6-7
+Priority: optional
+Section: 微信插件
+Maintainer: 全能玩机
+Depends: firmware (>= 5.0)
+Conflicts: byg.iosios.net.pkc
+Filename: ./debians/io.github.trollstore-pro.pkc_0.6-7_iphoneos-arm64.deb
+Size: 776168
+MD5sum: 7e90aab6f19cf9a8cee9ea3cd439b6bf
+SHA1: 8046a2034c981ee9caa4c21a24127062a4461338
+SHA256: 4da439b2b0f0ac088658d37182c2c1372c488febf4727cd9bf46e0e968de0e96
+SHA512: c5d07c45d53d4b762f1493b112a6e1c5b2873a7ab381d8527f58b62be7f1e8bd8744c43f6ef7954b179ffe4ff53120a64a800933845171586f613150b088d192
+Description: 群管理Pro、显示群友真名字、群管标识、艾特提醒、动态群昵称、自定义API(图、文本、视频)、消息统计、加密对话、Bark消息推送、定时问候、JD自动签到、好友分析、会话分析、每天60s新闻快报、防撤回、退群监控、步数定时修改、朋友圈特别关注、自动更新微信状态、长头像、消息二次确认、拍一拍二次确认、艾特列表置顶群管理、按群员查找列表置顶群管理、[每天60s读懂世界]自动发送信息、文字转语音等功能，非常的不错，认准全能玩机源更新即可！
+Name: PKC微信助手-Rootless
+Author: Curtin Lv
+Sponsor: 全能玩机
+SileoDepiction: https://trollstore-pro.github.io/repo/depictions/native/io.github.trollstore-pro.pkc/depiction.json
+Icon: https://trollstore-pro.github.io/repo/assets/repo/Icons/cydia.png
+
 Package: io.github.trollstore-pro.plampycc
 Architecture: iphoneos-arm64
 Version: 1.0.2
@@ -21992,6 +22094,27 @@ SHA1: 1957a929cc3e440b98aa0be1477661e7d4d425ce
 SHA256: 0f83ae3561771a949c6f0af98a0f7e5abfe38a36888dd029be2cf1908b0e129c
 SHA512: ca811e06e0eb32c368e0504b5fe4df044048736c1c6d64e8367ba01536b30fe52a9c031670d6f7c08a401fa21875bcaa326936bd6839f96c1b8e1141641f23d9
 Description: QQ图层插件，非常的好用。仔细看-插件设置项在QQ设置-辅助功能-右上角开启！移除广告，移除侧滑直播，移除超级QQ秀，移除QQ钱包，移除个性装扮，防撤回，应该是无撤回提示，仅支持9.0.20及以上版本 || 开启了模拟机型iPhone 15 Pro Max。旧版本QQ请使用QQ净化插件，但是QQ版本要在8.9.58以下，新版QQ请使用本插件！非常的好用！
+Name: QQ图层-Rootless
+Author: x✨
+Sponsor: 全能玩机
+SileoDepiction: https://trollstore-pro.github.io/repo/depictions/native/io.github.trollstore-pro.qqhook/depiction.json
+Icon: https://trollstore-pro.github.io/repo/assets/repo/Icons/cydia.png
+
+Package: io.github.trollstore-pro.qqhook
+Architecture: iphoneos-arm64
+Version: 1.1.2
+Section: 软件破解
+Maintainer: 全能玩机
+Installed-Size: 1928
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: byg.iosios.net.qqhook
+Filename: ./debians/io.github.trollstore-pro.qqhook_1.1.2_iphoneos-arm64.deb
+Size: 593584
+MD5sum: f0051fdd2b849dba18bd2a9e0f5bd2ae
+SHA1: 18a7f8fb5be49eba74e6eeeac3beebea5f1d1c5e
+SHA256: 6b3091d70f0b771560903232142b5ca3767fc4cae369957f10a7588dbe582a11
+SHA512: 23d11e7e43949361a17368f0cf12bfb3d20c4c7bbaf4b265a9bb9d4879cba9a6596ee9bb93f2707fb31fcbb6dc757e6d100782ef27c7a58393a987af2b47a905
+Description: QQ图层插件，非常的好用。仔细看-插件设置项在QQ设置-辅助功能-右上角开启！移除广告，移除侧滑直播，移除超级QQ秀，移除QQ钱包，移除个性装扮，防撤回，应该是无撤回提示，仅支持9.0.20及以上版本 Tim4.0.95以上版本|| 开启了模拟机型iPhone 15 Pro Max。旧版本QQ请使用QQ净化插件，但是QQ版本要在8.9.58以下，新版QQ请使用本插件！非常的好用！
 Name: QQ图层-Rootless
 Author: x✨
 Sponsor: 全能玩机
@@ -24539,6 +24662,27 @@ Sponsor: 全能玩机
 SileoDepiction: https://trollstore-pro.github.io/repo/depictions/native/io.github.trollstore-pro.themebox.rootless/depiction.json
 Icon: https://trollstore-pro.github.io/repo/assets/repo/Icons/cydia.png
 
+Package: io.github.trollstore-pro.themebox.rootless
+Architecture: iphoneos-arm64
+Version: 1.0.5-2
+Section: 微信插件
+Maintainer: 全能玩机
+Installed-Size: 3660
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: byg.iosios.net.themebox.rootless
+Filename: ./debians/io.github.trollstore-pro.themebox.rootless_1.0.5-2_iphoneos-arm64.deb
+Size: 2183008
+MD5sum: 940774ec343a64f89e964942321e6dd5
+SHA1: c3e908cdb3eeef1b8d398095e02e68707114aa27
+SHA256: 26f4089a1fd967ed2c2561c4026d5a5d2d41572c55a77e4b7c15e18d04e55cd7
+SHA512: 2b957657d1bb1bdcce9ddc8f15eb840d9b9182d8d0daf1969b0563c34e6a7cedc6ffb4d0027c54813cc79c04477bd9fe896ab8c6b89f4c43a9813df53cda0138
+Description: An awesome MobileSubstrate tweak!又一款微信主题加载插件，非常的不错，但是好像也要收费，大家自行体验，小编测试了一下，会读取记录微信号...自行选择！
+Name: 微信主题盒子-Rootless
+Author: xuanhua880
+Sponsor: 全能玩机
+SileoDepiction: https://trollstore-pro.github.io/repo/depictions/native/io.github.trollstore-pro.themebox.rootless/depiction.json
+Icon: https://trollstore-pro.github.io/repo/assets/repo/Icons/cydia.png
+
 Package: io.github.trollstore-pro.ThemeManager.rootlesss
 Architecture: iphoneos-arm64
 Version: 1.6.2
@@ -25616,6 +25760,27 @@ Name: WCIsOver微信通行密钥-Rootless
 Author: Netskao
 Sponsor: 全能玩机
 SileoDepiction: https://trollstore-pro.github.io/repo/depictions/native/io.github.trollstore-pro.wcisoverseausers/depiction.json
+
+Package: io.github.trollstore-pro.wcmypageinfocenters
+Architecture: iphoneos-arm64
+Version: 1.1-8
+Section: 微信插件
+Maintainer: 全能玩机
+Installed-Size: 220
+Depends: mobilesubstrate, firmware (>= 13.0)
+Conflicts: byg.iosios.net.wcmypageinfocenters
+Filename: ./debians/io.github.trollstore-pro.wcmypageinfocenters_1.1-8_iphoneos-arm64.deb
+Size: 66104
+MD5sum: 9fa8bbe763d87bcf0b8854ccf900cd55
+SHA1: 360b9ee7837c2f61622254983056d18b5c676637
+SHA256: ba5600d9d65b50262f507eb7e858d42cbe8811463dcdd2ff88a6402e57110fdd
+SHA512: 99994d8d1b5e40d094598ae8c9ba2ca7840a8429763839f6b94a742636fcbf15ebe4d82f0617cbd06bd171569b6a804723986df98f40200824a9cf71f7d6e578
+Description: 微信个人资料居中*效果看截图！支持点击微信号自定义文本内容！ 仅支持微信 8.0.31 及更高版本，可收纳在老猫收纳插件内！全能玩机源搬你所想，爱你所爱！
+Name: 微信资料居中-Rootless
+Author: Netskao
+Sponsor: 全能玩机
+SileoDepiction: https://trollstore-pro.github.io/repo/depictions/native/io.github.trollstore-pro.wcmypageinfocenters/depiction.json
+Icon: https://trollstore-pro.github.io/repo/assets/repo/Icons/cydia.png
 
 Package: io.github.trollstore-pro.wcplugins.rootless
 Architecture: iphoneos-arm64

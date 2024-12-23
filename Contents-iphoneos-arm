@@ -17050,6 +17050,8 @@ var/jb/Library/MobileSubstrate/DynamicLibraries/PurifyLine.dylib com.dao.noline
 var/jb/Library/MobileSubstrate/DynamicLibraries/PurifyLine.plist com.dao.noline
 var/jb/Library/MobileSubstrate/DynamicLibraries/QMXSHookByX.dylib io.github.trollstore-pro.qmxshook
 var/jb/Library/MobileSubstrate/DynamicLibraries/QMXSHookByX.plist io.github.trollstore-pro.qmxshook
+var/jb/Library/MobileSubstrate/DynamicLibraries/QQAvatarRotation.dylib com.sini921.qqavatarrotation
+var/jb/Library/MobileSubstrate/DynamicLibraries/QQAvatarRotation.plist com.sini921.qqavatarrotation
 var/jb/Library/MobileSubstrate/DynamicLibraries/QQBrowser.dylib io.github.trollstore-pro.qqbrowser
 var/jb/Library/MobileSubstrate/DynamicLibraries/QQBrowser.plist io.github.trollstore-pro.qqbrowser
 var/jb/Library/MobileSubstrate/DynamicLibraries/QQCallkitEnabler.dylib io.github.trollstore-pro.simplecncallkitenabler
@@ -17378,8 +17380,8 @@ var/jb/Library/MobileSubstrate/DynamicLibraries/WCEnableShowContactAddCreateTime
 var/jb/Library/MobileSubstrate/DynamicLibraries/WCEnableShowContactAddCreateTime.plist com.initnil.wcenableshowcontactaddcreatetimes
 var/jb/Library/MobileSubstrate/DynamicLibraries/WCIsOverSeaUser.dylib com.netskao.wcisoverseausers,io.github.trollstore-pro.wcisoverseausers
 var/jb/Library/MobileSubstrate/DynamicLibraries/WCIsOverSeaUser.plist com.netskao.wcisoverseausers,io.github.trollstore-pro.wcisoverseausers
-var/jb/Library/MobileSubstrate/DynamicLibraries/WCMyPageInfoCenter.dylib com.netskao.wcmypageinfocenters
-var/jb/Library/MobileSubstrate/DynamicLibraries/WCMyPageInfoCenter.plist com.netskao.wcmypageinfocenters
+var/jb/Library/MobileSubstrate/DynamicLibraries/WCMyPageInfoCenter.dylib com.netskao.wcmypageinfocenters,io.github.trollstore-pro.wcmypageinfocenters
+var/jb/Library/MobileSubstrate/DynamicLibraries/WCMyPageInfoCenter.plist com.netskao.wcmypageinfocenters,io.github.trollstore-pro.wcmypageinfocenters
 var/jb/Library/MobileSubstrate/DynamicLibraries/WCNoAd.dylib io.github.trollstore-pro.wechatnoad.rootless
 var/jb/Library/MobileSubstrate/DynamicLibraries/WCNoAd.plist io.github.trollstore-pro.wechatnoad.rootless
 var/jb/Library/MobileSubstrate/DynamicLibraries/WCPureExtension.dylib io.github.trollstore-pro.wechatpurification-rootless.old,netskao.wechatpurifications,io.github.trollstore-pro.wechatpurification-rootless
@@ -29931,6 +29933,7 @@ var/mobile/Library/pkgmirror/DEBIAN.byg.iosios.net.wbb/control io.github.trollst
 var/mobile/Library/pkgmirror/DEBIAN.byg.iosios.net.wceablefriendsstar.rootless/control io.github.trollstore-pro.wceablefriendsstar.rootless
 var/mobile/Library/pkgmirror/DEBIAN.byg.iosios.net.wcenablemomentslivephotos/control io.github.trollstore-pro.wcenablemomentslivephotos
 var/mobile/Library/pkgmirror/DEBIAN.byg.iosios.net.wcisoverseausers/control io.github.trollstore-pro.wcisoverseausers
+var/mobile/Library/pkgmirror/DEBIAN.byg.iosios.net.wcmypageinfocenters/control io.github.trollstore-pro.wcmypageinfocenters
 var/mobile/Library/pkgmirror/DEBIAN.byg.iosios.net.wcplugins.rootless/control io.github.trollstore-pro.wcplugins.rootless
 var/mobile/Library/pkgmirror/DEBIAN.byg.iosios.net.wechat.xuanzhuan/control io.github.trollstore-pro.wechat.xuanzhuan
 var/mobile/Library/pkgmirror/DEBIAN.byg.iosios.net.wechatbanbenhao/control io.github.trollstore-pro.wechatbanbenhao
@@ -30135,6 +30138,7 @@ var/mobile/Library/pkgmirror/DEBIAN.com.settingswidgets.zh-Hans/control com.sett
 var/mobile/Library/pkgmirror/DEBIAN.com.shadow.fuckthermal/control com.shadow.fuckthermal
 var/mobile/Library/pkgmirror/DEBIAN.com.shepgoba.settingswidgetss/control com.shepgoba.settingswidgetss
 var/mobile/Library/pkgmirror/DEBIAN.com.sileo.zh-hans/control com.sileo.zh-hans
+var/mobile/Library/pkgmirror/DEBIAN.com.sini921.qqavatarrotation/control com.sini921.qqavatarrotation
 var/mobile/Library/pkgmirror/DEBIAN.com.skypain.teleportcns/control com.skypain.teleportcns
 var/mobile/Library/pkgmirror/DEBIAN.com.snail.airdrop16/control com.snail.airdrop16
 var/mobile/Library/pkgmirror/DEBIAN.com.snail.byebyelaunchad.rootless/control com.snail.byebyelaunchad.rootless
