@@ -1,0 +1,31 @@
+<package>
+  <id>io.github.trollstore-pro.pulloverpro</id>
+  <name>PullOver Pro分屏神器-Rootless</name>
+  <version>2.1.6</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>firmware (&gt;= 15.0)</package>
+    <package>mobilesubstrate</package>
+    <package>preferenceloader</package>
+  </dependencies>
+  <shortDescription><![CDATA[A better way to multitask! Fix support for iOS16 堪称最好的分屏神器，且是免费的，非常的好用，又好看，真的很不错，感谢退网的NetSkao再次为其更新支持iOS16！冲吧，兄弟们，必装插件！]]></shortDescription>
+  <descriptionlist>
+    <description><![CDATA[A better way to multitask! Fix support for iOS16 堪称最好的分屏神器，且是免费的，非常的好用，又好看，真的很不错，感谢退网的NetSkao再次为其更新支持iOS16！冲吧，兄弟们，必装插件！]]></description>
+    <description><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></description>
+  </descriptionlist>
+  <screenshots>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>p9wu63R.jpg</image>
+    </screenshot>
+  </screenshots>
+  <changelog>
+    <change><![CDATA[优化已知问题！<br />*** ]]></change>
+    <change><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></change>
+  </changelog>
+  <links></links>
+</package>

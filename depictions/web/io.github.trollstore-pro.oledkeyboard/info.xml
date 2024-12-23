@@ -1,0 +1,29 @@
+<package>
+  <id>io.github.trollstore-pro.oledkeyboard</id>
+  <name>OledKeyboard纯黑键盘-Rootless</name>
+  <version>0.0.3</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>mobilesubstrate (&gt;= 0.9.5000)</package>
+  </dependencies>
+  <shortDescription><![CDATA[OLED Dark Mode for iOS System Keyboard深色模式下键盘背景显示为纯黑，效果看截图，一款小插件，喜欢的小伙伴们可以试试！全能玩机源，最新最全！！]]></shortDescription>
+  <descriptionlist>
+    <description><![CDATA[OLED Dark Mode for iOS System Keyboard深色模式下键盘背景显示为纯黑，效果看截图，一款小插件，喜欢的小伙伴们可以试试！全能玩机源，最新最全！！]]></description>
+    <description><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></description>
+  </descriptionlist>
+  <screenshots>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>d9123a590796a77a7f3db5f727cd5e8e0cc4180c.jpg</image>
+    </screenshot>
+  </screenshots>
+  <changelog>
+    <change><![CDATA[支持自动填充键盘纯黑背景，支持键盘上方的条形纯黑背景<br />*** ]]></change>
+    <change><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></change>
+  </changelog>
+  <links></links>
+</package>

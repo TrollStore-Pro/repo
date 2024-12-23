@@ -1,0 +1,34 @@
+<package>
+  <id>io.github.trollstore-pro.waqt</id>
+  <name>Waqt日期时间自定义-Rootless</name>
+  <version>1.4</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>mobilesubstrate</package>
+    <package>preferenceloader</package>
+  </dependencies>
+  <shortDescription><![CDATA[Know more than just the current time!没有购买电话助手和nicebar的用户可以使用此款免费插件进行时间日期自定义，此插件由全能玩机源自主汉化完成，又get一项新技能！]]></shortDescription>
+  <descriptionlist>
+    <description><![CDATA[Know more than just the current time!没有购买电话助手和nicebar的用户可以使用此款免费插件进行时间日期自定义，此插件由全能玩机源自主汉化完成，又get一项新技能！]]></description>
+    <description><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></description>
+  </descriptionlist>
+  <screenshots>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>pCe3GY6.png</image>
+    </screenshot>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>pCeGA2T.jpg</image>
+    </screenshot>
+  </screenshots>
+  <changelog>
+    <change><![CDATA[更新支持iOS16<br />*** ]]></change>
+    <change><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></change>
+  </changelog>
+  <links></links>
+</package>

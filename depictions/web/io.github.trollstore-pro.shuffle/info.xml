@@ -1,0 +1,28 @@
+<package>
+  <id>io.github.trollstore-pro.shuffle</id>
+  <name>Shuffle插件归类-Rootless</name>
+  <version>1.6.2</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>com.creaturecoding.libcspreferences</package>
+  </dependencies>
+  <shortDescription><![CDATA[Organize your settings插件归类，功能与Settingrevamp类似，大家不要两个一起装，有冲突。感觉这个不太好用，应群友要求上架备份！]]></shortDescription>
+  <descriptionlist>
+    <description><![CDATA[Organize your settings插件归类，功能与Settingrevamp类似，大家不要两个一起装，有冲突。感觉这个不太好用，应群友要求上架备份！]]></description>
+    <description><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></description>
+  </descriptionlist>
+  <screenshots>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>no-screenshots.jpeg</image>
+    </screenshot>
+  </screenshots>
+  <changelog>
+    <change><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></change>
+  </changelog>
+  <links></links>
+</package>

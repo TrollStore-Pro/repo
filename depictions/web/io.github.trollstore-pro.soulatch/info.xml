@@ -1,0 +1,28 @@
+<package>
+  <id>io.github.trollstore-pro.soulatch</id>
+  <name>Soul增强-Rootless</name>
+  <version>1.0.0</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>mobilesubstrate (&gt;= 0.9.5000)</package>
+  </dependencies>
+  <shortDescription><![CDATA[Soul是App Store里的一款聊天交友软件，本插件的作用是：无需送礼私聊 下载图片视频无水印(无法下载的开启强制下载) 防撤回 移除一些广告！]]></shortDescription>
+  <descriptionlist>
+    <description><![CDATA[Soul是App Store里的一款聊天交友软件，本插件的作用是：无需送礼私聊 下载图片视频无水印(无法下载的开启强制下载) 防撤回 移除一些广告！]]></description>
+    <description><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></description>
+  </descriptionlist>
+  <screenshots>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>no-screenshots.jpeg</image>
+    </screenshot>
+  </screenshots>
+  <changelog>
+    <change><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></change>
+  </changelog>
+  <links></links>
+</package>

@@ -1,0 +1,32 @@
+<package>
+  <id>io.github.trollstore-pro.genesis4</id>
+  <name>Genesis 4系统小军刀-Rootless</name>
+  <version>1.0k</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>mobilesubstrate</package>
+    <package>firmware (&gt;= 15.0)</package>
+    <package>preferenceloader</package>
+    <package>com.itznebbs.phoenix</package>
+    <package>byg.iosios.net.nebbs</package>
+  </dependencies>
+  <shortDescription><![CDATA[The culmination of something beautiful!一款美化和修改系统文件的插件，人送外号小军刀。暂无汉化，内容太多，实力不够，也没时间，等汉化包！先尝鲜！]]></shortDescription>
+  <descriptionlist>
+    <description><![CDATA[The culmination of something beautiful!一款美化和修改系统文件的插件，人送外号小军刀。暂无汉化，内容太多，实力不够，也没时间，等汉化包！先尝鲜！]]></description>
+    <description><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></description>
+  </descriptionlist>
+  <screenshots>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>no-screenshots.jpeg</image>
+    </screenshot>
+  </screenshots>
+  <changelog>
+    <change><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></change>
+  </changelog>
+  <links></links>
+</package>

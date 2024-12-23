@@ -1,0 +1,29 @@
+<package>
+  <id>jp.akusio.backgrounderaction15</id>
+  <name>BackgrounderAction15 CCSupport</name>
+  <version>0.01</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>mobilesubstrate</package>
+    <package>com.opa334.ccsupport</package>
+  </dependencies>
+  <shortDescription><![CDATA[[iOS15]Add "Toggle Background Mode" action to ControlCenter.分屏插件依赖！]]></shortDescription>
+  <descriptionlist>
+    <description><![CDATA[[iOS15]Add 'Toggle Background Mode' action to ControlCenter.分屏插件依赖！]]></description>
+    <description><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></description>
+  </descriptionlist>
+  <screenshots>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>no-screenshots.jpeg</image>
+    </screenshot>
+  </screenshots>
+  <changelog>
+    <change><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></change>
+  </changelog>
+  <links></links>
+</package>

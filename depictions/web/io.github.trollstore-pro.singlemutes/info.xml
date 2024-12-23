@@ -1,0 +1,35 @@
+<package>
+  <id>io.github.trollstore-pro.singlemutes</id>
+  <name>Single Mute静音图标-Rootless</name>
+  <version>1.5</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>firmware (&gt;= 14.0)</package>
+    <package>mobilesubstrate</package>
+  </dependencies>
+  <shortDescription><![CDATA[听说这是一位越狱爱好者自费500元定制的插件，感谢其无私奉献，插件作用是在状态栏左上角显示静音图标，如截图所示，有需要的小伙伴也可以下载试试看，是否物超所值！]]></shortDescription>
+  <descriptionlist>
+    <description><![CDATA[听说这是一位越狱爱好者自费500元定制的插件，感谢其无私奉献，插件作用是在状态栏左上角显示静音图标，如截图所示，有需要的小伙伴也可以下载试试看，是否物超所值！]]></description>
+    <description><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></description>
+  </descriptionlist>
+  <screenshots>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>fa85def918528e809e5af2497de6725393097f36.png</image>
+    </screenshot>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>30055eba39758bdffd23bc946fda0a4198de9f38.jpg</image>
+    </screenshot>
+  </screenshots>
+  <changelog>
+    <change><![CDATA[修复已知问题！<br />*** ]]></change>
+    <change><![CDATA[添加设置选项<br />*** ]]></change>
+    <change><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></change>
+  </changelog>
+  <links></links>
+</package>

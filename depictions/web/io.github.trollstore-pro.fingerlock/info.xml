@@ -1,0 +1,33 @@
+<package>
+  <id>io.github.trollstore-pro.fingerlock</id>
+  <name>FingerLock个性化锁屏按钮-Rootless</name>
+  <version>3.0.2</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>mobilesubstrate</package>
+    <package>firmware (&gt;= 14.0)</package>
+  </dependencies>
+  <shortDescription><![CDATA[An intuitive way to unlock your device个性化锁屏按钮，自定义图标，感谢巨魔商店M哥汉化分享！]]></shortDescription>
+  <descriptionlist>
+    <description><![CDATA[An intuitive way to unlock your device个性化锁屏按钮，自定义图标，感谢巨魔商店M哥汉化分享！]]></description>
+    <description><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></description>
+  </descriptionlist>
+  <screenshots>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>63c2271ce262c9c3031bf1cb</image>
+    </screenshot>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>63c22723e262c9c3031bf216</image>
+    </screenshot>
+  </screenshots>
+  <changelog>
+    <change><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></change>
+  </changelog>
+  <links></links>
+</package>

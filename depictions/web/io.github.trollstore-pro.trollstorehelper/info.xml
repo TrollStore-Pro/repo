@@ -1,0 +1,30 @@
+<package>
+  <id>io.github.trollstore-pro.trollstorehelper</id>
+  <name>TrollStore巨魔安装器</name>
+  <version>2.0.15</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies></dependencies>
+  <shortDescription><![CDATA[Helper utility to install and manage TrollStore!正常情况是先装巨魔再越狱，但也有少数人先越狱了没巨魔，或者不小心删了巨魔，本插件的作用就是在越狱环境下安装巨魔，这样你的巨魔就又回来了，无法安装请切换网络环境，或者使用梯子，因为巨魔在国外网站，你得先连上才行！]]></shortDescription>
+  <descriptionlist>
+    <description><![CDATA[Helper utility to install and manage TrollStore!正常情况是先装巨魔再越狱，但也有少数人先越狱了没巨魔，或者不小心删了巨魔，本插件的作用就是在越狱环境下安装巨魔，这样你的巨魔就又回来了，无法安装请切换网络环境，或者使用梯子，因为巨魔在国外网站，你得先连上才行！]]></description>
+    <description><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></description>
+  </descriptionlist>
+  <screenshots>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>631919f5549621e7e74b74dd?w=3840&amp;q=75</image>
+    </screenshot>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>631919af549621e7e74b7250</image>
+    </screenshot>
+  </screenshots>
+  <changelog>
+    <change><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></change>
+  </changelog>
+  <links></links>
+</package>

@@ -1,0 +1,35 @@
+<package>
+  <id>io.github.trollstore-pro.notificationsgroupcount</id>
+  <name>Notifications通知分组计数-Rootless</name>
+  <version>1.0.6</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>mobilesubstrate (&gt;= 0.9.5000)</package>
+  </dependencies>
+  <shortDescription><![CDATA[Count those notifications inside Apple notifications grouping!众所周知苹果的APP通知达到一定的数量就会被归纳到一个分组里，这个插件的作用就是统计这个分组里有几条消息，效果如截图所示！机车主感觉有点鸡肋！但是还是感谢全能玩机源群友萝卜花费1.5美元购买此插件，大爱无疆，有你真好！]]></shortDescription>
+  <descriptionlist>
+    <description><![CDATA[Count those notifications inside Apple notifications grouping!众所周知苹果的APP通知达到一定的数量就会被归纳到一个分组里，这个插件的作用就是统计这个分组里有几条消息，效果如截图所示！机车主感觉有点鸡肋！但是还是感谢全能玩机源群友萝卜花费1.5美元购买此插件，大爱无疆，有你真好！]]></description>
+    <description><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></description>
+  </descriptionlist>
+  <screenshots>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>9a95b4e3a99713638676bef788f171448098d5bf.jpg</image>
+    </screenshot>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>c5b3793e40a0f9fe7be6b6e5533ca29277f086da.jpg</image>
+    </screenshot>
+  </screenshots>
+  <changelog>
+    <change><![CDATA[修复bug<br />*** ]]></change>
+    <change><![CDATA[修复可能存在的角标错位情况<br />*** ]]></change>
+    <change><![CDATA[修复图标问题<br />*** ]]></change>
+    <change><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></change>
+  </changelog>
+  <links></links>
+</package>
