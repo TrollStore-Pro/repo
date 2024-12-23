@@ -1,0 +1,28 @@
+<package>
+  <id>io.github.trollstore-pro.storeswitcher2rootless</id>
+  <name>StoreSwitcher商店账号切换-Rootless</name>
+  <version>1.0.4</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>firmware (&gt;= 11)</package>
+  </dependencies>
+  <shortDescription><![CDATA[Adds a button to switch account in App Store account page on iOS 11+.使用先前登录的多个 Apple 账户直接从 Appstore 切换！操作方法：打开 Appstore，点击个人资料，点击导航栏上的 2 个箭头，选择所需账户！对于拥有多个来自不同国家的 Appstore 账户的用户来说，这是一个不错的选择。全能玩机源，你最好的家！]]></shortDescription>
+  <descriptionlist>
+    <description><![CDATA[Adds a button to switch account in App Store account page on iOS 11+.使用先前登录的多个 Apple 账户直接从 Appstore 切换！操作方法：打开 Appstore，点击个人资料，点击导航栏上的 2 个箭头，选择所需账户！对于拥有多个来自不同国家的 Appstore 账户的用户来说，这是一个不错的选择。全能玩机源，你最好的家！]]></description>
+    <description><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></description>
+  </descriptionlist>
+  <screenshots>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>no-screenshots.jpeg</image>
+    </screenshot>
+  </screenshots>
+  <changelog>
+    <change><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></change>
+  </changelog>
+  <links></links>
+</package>

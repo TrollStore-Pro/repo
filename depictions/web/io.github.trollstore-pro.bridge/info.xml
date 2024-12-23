@@ -1,0 +1,38 @@
+<package>
+  <id>io.github.trollstore-pro.bridge</id>
+  <name>Bridge布局-Rootless</name>
+  <version>1.1</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>mobilesubstrate</package>
+    <package>ws.hbang.common</package>
+  </dependencies>
+  <shortDescription><![CDATA[The Apple Watch homescreen experience brought to iOS本插件原价2.49美元，暂无汉化，内容太多没精力汉化，请耐心等待更新，或者自己截图翻译！这是一款更改桌面布局的插件，可以把你的桌面布局变成和Apple Watch 一样，胡里花哨，喜欢的小伙们可以体验一下！]]></shortDescription>
+  <descriptionlist>
+    <description><![CDATA[The Apple Watch homescreen experience brought to iOS本插件原价2.49美元，暂无汉化，内容太多没精力汉化，请耐心等待更新，或者自己截图翻译！这是一款更改桌面布局的插件，可以把你的桌面布局变成和Apple Watch 一样，胡里花哨，喜欢的小伙们可以体验一下！]]></description>
+    <description><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></description>
+  </descriptionlist>
+  <screenshots>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>f20e2cdaa1b329e303a7e5ba9d9b9f01d5b01567.png</image>
+    </screenshot>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>4d2d9532fb602ca1ccaa6362b0518b13562f8bd4.png</image>
+    </screenshot>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>3e196fc6a7c862c340a788f47bcdeea4f78baa5a.png</image>
+    </screenshot>
+  </screenshots>
+  <changelog>
+    <change><![CDATA[优化已知问题！<br />*** ]]></change>
+    <change><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></change>
+  </changelog>
+  <links></links>
+</package>

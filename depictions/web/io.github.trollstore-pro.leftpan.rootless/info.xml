@@ -1,0 +1,31 @@
+<package>
+  <id>io.github.trollstore-pro.leftpan.rootless</id>
+  <name>左滑返回-Rootless</name>
+  <version>1.0-6</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>mobilesubstrate</package>
+    <package>preferenceloader</package>
+    <package>com.opa334.altlist (&gt;=1.0.4)</package>
+  </dependencies>
+  <shortDescription><![CDATA[本插件的作用是左滑返回上一页面。苹果自带的右滑有点不符合我们国人使用习惯，所以大神就开发出这个左滑手势插件，直接左滑返回上一个界面，非常的好用！无效的软件请解除屏蔽插件注入！但也不是所有软件都能用，自行体验！]]></shortDescription>
+  <descriptionlist>
+    <description><![CDATA[本插件的作用是左滑返回上一页面。苹果自带的右滑有点不符合我们国人使用习惯，所以大神就开发出这个左滑手势插件，直接左滑返回上一个界面，非常的好用！无效的软件请解除屏蔽插件注入！但也不是所有软件都能用，自行体验！]]></description>
+    <description><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></description>
+  </descriptionlist>
+  <screenshots>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>20220116114342_59863.jpg</image>
+    </screenshot>
+  </screenshots>
+  <changelog>
+    <change><![CDATA[更新支持iOS16！<br />*** ]]></change>
+    <change><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></change>
+  </changelog>
+  <links></links>
+</package>

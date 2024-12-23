@@ -1,0 +1,32 @@
+<package>
+  <id>io.github.trollstore-pro.awemefullscreen</id>
+  <name>抖音全屏-Rootless</name>
+  <version>1.2-3</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>firmware (&gt;= 12.0)</package>
+    <package>mobilesubstrate</package>
+  </dependencies>
+  <shortDescription><![CDATA[Aweme Full Screen. Tested on version 29.8.0 only, Failures due to subsequent version updates will not be maintained.这是一款让抖音全屏显示的插件，仅在抖音31.9.0版本上测试可用，小编测试了其它旧版本好像不行，睁大眼睛看好版本介绍。有Netskao大神开发，后续可能得不到更新维护，且用且珍惜！]]></shortDescription>
+  <descriptionlist>
+    <description><![CDATA[Aweme Full Screen. Tested on version 29.8.0 only, Failures due to subsequent version updates will not be maintained.这是一款让抖音全屏显示的插件，仅在抖音31.9.0版本上测试可用，小编测试了其它旧版本好像不行，睁大眼睛看好版本介绍。有Netskao大神开发，后续可能得不到更新维护，且用且珍惜！]]></description>
+    <description><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></description>
+  </descriptionlist>
+  <screenshots>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>no-screenshots.jpeg</image>
+    </screenshot>
+  </screenshots>
+  <changelog>
+    <change><![CDATA[恢复活动窗口<br />*** ]]></change>
+    <change><![CDATA[增加插件开关设置项<br />*** ]]></change>
+    <change><![CDATA[修复bug<br />*** ]]></change>
+    <change><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></change>
+  </changelog>
+  <links></links>
+</package>

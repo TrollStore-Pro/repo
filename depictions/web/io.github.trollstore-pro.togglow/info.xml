@@ -1,0 +1,34 @@
+<package>
+  <id>io.github.trollstore-pro.togglow</id>
+  <name>Togglow控制中心发光-Rootless</name>
+  <version>1.0.8</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>mobilesubstrate</package>
+    <package>org.thebigboss.libcolorpicker</package>
+    <package>oldabi</package>
+  </dependencies>
+  <shortDescription><![CDATA[Make the control center your own !控制中心美化，发光，看起来酷酷的！感谢巨魔商店M哥汉化插件！全能玩机源，最新最全！！]]></shortDescription>
+  <descriptionlist>
+    <description><![CDATA[Make the control center your own !控制中心美化，发光，看起来酷酷的！感谢巨魔商店M哥汉化插件！全能玩机源，最新最全！！]]></description>
+    <description><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></description>
+  </descriptionlist>
+  <screenshots>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>pC3yejP.jpg</image>
+    </screenshot>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>pC3ynnf.jpg</image>
+    </screenshot>
+  </screenshots>
+  <changelog>
+    <change><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></change>
+  </changelog>
+  <links></links>
+</package>

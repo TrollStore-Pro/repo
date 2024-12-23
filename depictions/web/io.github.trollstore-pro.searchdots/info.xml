@@ -1,0 +1,33 @@
+<package>
+  <id>io.github.trollstore-pro.searchdots</id>
+  <name>SearchDots搜索小圆点-Rootless</name>
+  <version>1.1.4</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>mobilesubstrate (&gt;= 0.9.5000)</package>
+    <package>preferenceloader</package>
+  </dependencies>
+  <shortDescription><![CDATA[Search Pill Ported from iOS 16 体验iOS16的搜索小圆点功能，貌似还不错哦，感谢巨魔商店M哥汉化，全能玩机源提供下载安装！]]></shortDescription>
+  <descriptionlist>
+    <description><![CDATA[Search Pill Ported from iOS 16 体验iOS16的搜索小圆点功能，貌似还不错哦，感谢巨魔商店M哥汉化，全能玩机源提供下载安装！]]></description>
+    <description><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></description>
+  </descriptionlist>
+  <screenshots>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>kgpLcp0DZVinV8pm6jF7EJp1Q7un0Eam6CfJpNE4m7sjO0b3L-yuWfZsGo-Pw4rlFmYAtLN5dkesaCbeipvQag.jpg</image>
+    </screenshot>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>LZPC5maFCRJjiYU8VdcRjF02ol_GDxz4MY_9V4PTAMYK7ic8pQKl4dn6OCprFnhwl2T7VLeqW0E4AFhdO0_Zjw.jpg</image>
+    </screenshot>
+  </screenshots>
+  <changelog>
+    <change><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></change>
+  </changelog>
+  <links></links>
+</package>

@@ -1,0 +1,32 @@
+<package>
+  <id>io.github.trollstore-pro.ccmusicartwork</id>
+  <name>CCMusic控制中心音乐模块背景-Rootless</name>
+  <version>2.4.0-rootless</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>mobilesubstrate</package>
+  </dependencies>
+  <shortDescription><![CDATA[Shows album artwork behind the music module in the iOS 11-13 control center控制中心音乐模块显示音乐专辑背景！]]></shortDescription>
+  <descriptionlist>
+    <description><![CDATA[Shows album artwork behind the music module in the iOS 11-13 control center控制中心音乐模块显示音乐专辑背景！]]></description>
+    <description><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></description>
+  </descriptionlist>
+  <screenshots>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>p9fiKat.jpg</image>
+    </screenshot>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>p9fi3RS.jpg</image>
+    </screenshot>
+  </screenshots>
+  <changelog>
+    <change><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></change>
+  </changelog>
+  <links></links>
+</package>

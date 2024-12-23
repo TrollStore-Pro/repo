@@ -1,0 +1,29 @@
+<package>
+  <id>io.github.trollstore-pro.backgrounderaction15autostate</id>
+  <name>AutoState自动真后台-Rootless</name>
+  <version>1.0.3</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>byg.iosios.net.backgrounderaction15</package>
+    <package>com.opa334.altlist</package>
+  </dependencies>
+  <shortDescription><![CDATA[Save Action state for BackgrounderAction15 CC Toggle一款自动真后台插件，配合全能玩机源里的真后台插件，实现打开某个APP自动设置真后台效果，无需复杂的操作！非常好用！请缷载其它源的真后台插件再进行安装！]]></shortDescription>
+  <descriptionlist>
+    <description><![CDATA[Save Action state for BackgrounderAction15 CC Toggle一款自动真后台插件，配合全能玩机源里的真后台插件，实现打开某个APP自动设置真后台效果，无需复杂的操作！非常好用！请缷载其它源的真后台插件再进行安装！]]></description>
+    <description><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></description>
+  </descriptionlist>
+  <screenshots>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>no-screenshots.jpeg</image>
+    </screenshot>
+  </screenshots>
+  <changelog>
+    <change><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></change>
+  </changelog>
+  <links></links>
+</package>

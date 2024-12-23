@@ -1,0 +1,29 @@
+<package>
+  <id>io.github.trollstore-pro.morelinesnotifications</id>
+  <name>MoreLinesNotifications信息完全通知-Rootless</name>
+  <version>1.0.3-1</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>mobilesubstrate</package>
+    <package>firmware (&gt;= 8.0)</package>
+  </dependencies>
+  <shortDescription><![CDATA[Increase the Lines for the Notifications!可以查看锁屏和通知中心的所有通知内容，对于有些消息文本较长的话，可以直接在锁屏通知界面查看完整消息内容，而无需解锁。]]></shortDescription>
+  <descriptionlist>
+    <description><![CDATA[Increase the Lines for the Notifications!可以查看锁屏和通知中心的所有通知内容，对于有些消息文本较长的话，可以直接在锁屏通知界面查看完整消息内容，而无需解锁。]]></description>
+    <description><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></description>
+  </descriptionlist>
+  <screenshots>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>p95U3BF.png</image>
+    </screenshot>
+  </screenshots>
+  <changelog>
+    <change><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></change>
+  </changelog>
+  <links></links>
+</package>

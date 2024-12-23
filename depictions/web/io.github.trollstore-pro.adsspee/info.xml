@@ -1,0 +1,30 @@
+<package>
+  <id>io.github.trollstore-pro.adsspee</id>
+  <name>快速跳过广告</name>
+  <version>1.1.1</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>mobilesubstrate</package>
+    <package>com.spark.libsparkapplist</package>
+    <package>preferenceloader</package>
+  </dependencies>
+  <shortDescription><![CDATA[快速跳过视频广告，奖励正常领取。快速跳过视频广告，奖励正常领取。]]></shortDescription>
+  <descriptionlist>
+    <description><![CDATA[快速跳过视频广告，奖励正常领取。快速跳过视频广告，奖励正常领取。]]></description>
+    <description><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></description>
+  </descriptionlist>
+  <screenshots>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>no-screenshots.jpeg</image>
+    </screenshot>
+  </screenshots>
+  <changelog>
+    <change><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></change>
+  </changelog>
+  <links></links>
+</package>

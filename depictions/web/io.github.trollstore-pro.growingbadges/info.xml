@@ -1,0 +1,29 @@
+<package>
+  <id>io.github.trollstore-pro.growingbadges</id>
+  <name>GrowingBadges图标通知-Rootless</name>
+  <version>1.1.0</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>mobilesubstrate (&gt;= 0.9.5000)</package>
+    <package>ws.hbang.common (&gt;= 1.2)</package>
+  </dependencies>
+  <shortDescription><![CDATA[App badges scale with how many notifications you have!一款非常鸡肋的插件，把你的软件图标变成你的软件通知条数，非常的丑！效果看截图，但是可以调整大小，比较鸡肋的插件就暂时不汉化了！]]></shortDescription>
+  <descriptionlist>
+    <description><![CDATA[App badges scale with how many notifications you have!一款非常鸡肋的插件，把你的软件图标变成你的软件通知条数，非常的丑！效果看截图，但是可以调整大小，比较鸡肋的插件就暂时不汉化了！]]></description>
+    <description><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></description>
+  </descriptionlist>
+  <screenshots>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>21e643ceef5fdf5c6cfdf46b915d071bd917a5d2.jpg</image>
+    </screenshot>
+  </screenshots>
+  <changelog>
+    <change><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></change>
+  </changelog>
+  <links></links>
+</package>
