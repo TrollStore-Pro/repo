@@ -1,0 +1,30 @@
+<package>
+  <id>io.github.trollstore-pro.disupdateapp</id>
+  <name>BlockAppUpdate屏蔽AppStore软件更新</name>
+  <version>1.0-1</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>mobilesubstrate (&gt;= 0.9.5000)</package>
+    <package>preferenceloader</package>
+    <package>com.opa334.altlist</package>
+  </dependencies>
+  <shortDescription><![CDATA[Block App Store Updates!很多用户都有强迫症，非要屏蔽App Store里的软件更新，你把App Store的角标通知关了不就行了，强迫自己干啥！不过真皮大神也开发出了这款插件，可以直接屏蔽App Store里的软件更新了，插件设置里选择你要屏蔽的插件，然后打开开关，再重新打开App Store就发现不提示更新了！问题解决！但是16.5好像不行！不行就卸载！]]></shortDescription>
+  <descriptionlist>
+    <description><![CDATA[Block App Store Updates!很多用户都有强迫症，非要屏蔽App Store里的软件更新，你把App Store的角标通知关了不就行了，强迫自己干啥！不过真皮大神也开发出了这款插件，可以直接屏蔽App Store里的软件更新了，插件设置里选择你要屏蔽的插件，然后打开开关，再重新打开App Store就发现不提示更新了！问题解决！但是16.5好像不行！不行就卸载！]]></description>
+    <description><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></description>
+  </descriptionlist>
+  <screenshots>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>f23264e3b3b31448a3bd20ef39c642b1752d5361.jpg</image>
+    </screenshot>
+  </screenshots>
+  <changelog>
+    <change><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></change>
+  </changelog>
+  <links></links>
+</package>

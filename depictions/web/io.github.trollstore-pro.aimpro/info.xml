@@ -1,0 +1,37 @@
+<package>
+  <id>io.github.trollstore-pro.aimpro</id>
+  <name>AIM Pro锁屏美化-Rootless</name>
+  <version>1.0.5</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>mobilesubstrate</package>
+    <package>firmware (&gt;= 13.0)</package>
+    <package>preferenceloader</package>
+    <package>ws.hbang.common (&gt;= 1.14)</package>
+    <package>com.spark.libsparkcolourpicker</package>
+    <package>oldabi</package>
+  </dependencies>
+  <shortDescription><![CDATA[iOS 16风格的时间和日期锁屏，感谢巨魔商店 来了老弟修复bug，M哥汉化，非常感谢你们！目前此插件需要legacy64转插，谨慎使用哦，如有问题请缷载！后面更新就不用了，耐心等待！]]></shortDescription>
+  <descriptionlist>
+    <description><![CDATA[iOS 16风格的时间和日期锁屏，感谢巨魔商店 来了老弟修复bug，M哥汉化，非常感谢你们！目前此插件需要legacy64转插，谨慎使用哦，如有问题请缷载！后面更新就不用了，耐心等待！]]></description>
+    <description><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></description>
+  </descriptionlist>
+  <screenshots>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>pCSV3dO.jpg</image>
+    </screenshot>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>pCSVUSA.jpg</image>
+    </screenshot>
+  </screenshots>
+  <changelog>
+    <change><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></change>
+  </changelog>
+  <links></links>
+</package>

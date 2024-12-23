@@ -1,0 +1,33 @@
+<package>
+  <id>io.github.trollstore-pro.aweme</id>
+  <name>抖音增强-Rootless</name>
+  <version>1.0.7</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>mobilesubstrate (&gt;= 0.9.5000)</package>
+  </dependencies>
+  <shortDescription><![CDATA[由全能玩机源群友精神小伙分享，如有侵权，请联删！图层失效？闪退？那就来用抖音增强吧！去广告，无水印下载，净化抖音讨厌的按扭，都可以，自行体验！至于有没有时间限制，暂不清楚，研究中！]]></shortDescription>
+  <descriptionlist>
+    <description><![CDATA[由全能玩机源群友精神小伙分享，如有侵权，请联删！图层失效？闪退？那就来用抖音增强吧！去广告，无水印下载，净化抖音讨厌的按扭，都可以，自行体验！至于有没有时间限制，暂不清楚，研究中！]]></description>
+    <description><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></description>
+  </descriptionlist>
+  <screenshots>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>pk7eAeJ.jpg</image>
+    </screenshot>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>pk7eeF1.png</image>
+    </screenshot>
+  </screenshots>
+  <changelog>
+    <change><![CDATA[修复不可用问题<br />*** ]]></change>
+    <change><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></change>
+  </changelog>
+  <links></links>
+</package>

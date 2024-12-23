@@ -1,0 +1,28 @@
+<package>
+  <id>io.github.trollstore-pro.spidercrack</id>
+  <name>SpiderProxy增强-Rootless</name>
+  <version>1.0.3</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>mobilesubstrate (&gt;= 0.9.5000)</package>
+  </dependencies>
+  <shortDescription><![CDATA[SpiderProxy是App Store里的一款抓包软件，会用的去下载，不会用的拉倒，自己找教程！本插件作用是解锁会员权限，插件仅供个人学习交流使用 如有能力请支持正版！插件支持版本应该是4.0.6！不行就降级！]]></shortDescription>
+  <descriptionlist>
+    <description><![CDATA[SpiderProxy是App Store里的一款抓包软件，会用的去下载，不会用的拉倒，自己找教程！本插件作用是解锁会员权限，插件仅供个人学习交流使用 如有能力请支持正版！插件支持版本应该是4.0.6！不行就降级！]]></description>
+    <description><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></description>
+  </descriptionlist>
+  <screenshots>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>1719712772540-1719712739521.jpg</image>
+    </screenshot>
+  </screenshots>
+  <changelog>
+    <change><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></change>
+  </changelog>
+  <links></links>
+</package>

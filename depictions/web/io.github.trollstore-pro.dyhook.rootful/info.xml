@@ -1,0 +1,29 @@
+<package>
+  <id>io.github.trollstore-pro.dyhook.rootful</id>
+  <name>抖音图层</name>
+  <version>2.0.6+8</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>mobilesubstrate (&gt;= 0.9.5000)</package>
+  </dependencies>
+  <shortDescription><![CDATA[首页视频界面双指双击弹出设置UI，作者为人低调，这是他自用 (也是老弟自用)，本插件的作用是：抖音顶部或侧面的功能，图层隐藏调节透明度！隐藏抖音上一些烦人的按扭，净化抖音！]]></shortDescription>
+  <descriptionlist>
+    <description><![CDATA[首页视频界面双指双击弹出设置UI，作者为人低调，这是他自用 (也是老弟自用)，本插件的作用是：抖音顶部或侧面的功能，图层隐藏调节透明度！隐藏抖音上一些烦人的按扭，净化抖音！]]></description>
+    <description><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></description>
+  </descriptionlist>
+  <screenshots>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>IMG_5642.JPG</image>
+    </screenshot>
+  </screenshots>
+  <changelog>
+    <change><![CDATA[最终稳定版，暂时不会更新了<br />*** ]]></change>
+    <change><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></change>
+  </changelog>
+  <links></links>
+</package>

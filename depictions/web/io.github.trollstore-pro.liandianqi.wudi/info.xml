@@ -1,0 +1,28 @@
+<package>
+  <id>io.github.trollstore-pro.liandianqi.wudi</id>
+  <name>连点器无敌版-Rootless</name>
+  <version>9.9.9</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>mobilesubstrate (&gt;= 0.9.5000)</package>
+  </dependencies>
+  <shortDescription><![CDATA[普通用户请下载源里的普通版！！！普通用户请下载源里的普通版！认真看！区别在于无敌版默认所有APP都注入了连点器都会有个悬浮按扭！本插件无设置项，安装打开软件后有悬浮窗，如果不想用就下载Choicy禁止插件注入！插件应该只有连点器功能可用，修改器和变速器功能应该没用！用来抢抢票试试吧！再说一遍，无敌版是所有APP都注入了连点器！如果造成APP闪退问题，请缷载！不要喷我！全能玩机源，越狱必加！]]></shortDescription>
+  <descriptionlist>
+    <description><![CDATA[普通用户请下载源里的普通版！！！普通用户请下载源里的普通版！认真看！区别在于无敌版默认所有APP都注入了连点器都会有个悬浮按扭！本插件无设置项，安装打开软件后有悬浮窗，如果不想用就下载Choicy禁止插件注入！插件应该只有连点器功能可用，修改器和变速器功能应该没用！用来抢抢票试试吧！再说一遍，无敌版是所有APP都注入了连点器！如果造成APP闪退问题，请缷载！不要喷我！全能玩机源，越狱必加！]]></description>
+    <description><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></description>
+  </descriptionlist>
+  <screenshots>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>piSaDoV.jpg</image>
+    </screenshot>
+  </screenshots>
+  <changelog>
+    <change><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></change>
+  </changelog>
+  <links></links>
+</package>

@@ -1,0 +1,28 @@
+<package>
+  <id>io.github.trollstore-pro.letmedecline</id>
+  <name>LetMeDecline来电按扭-Rootless</name>
+  <version>1.1</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>mobilesubstrate</package>
+  </dependencies>
+  <shortDescription><![CDATA[This tweak will show the Accept/Decline buttons when the phone is locked!此插件将在手机锁定时，增加来电话显示“接受/拒绝”按钮！]]></shortDescription>
+  <descriptionlist>
+    <description><![CDATA[This tweak will show the Accept/Decline buttons when the phone is locked!此插件将在手机锁定时，增加来电话显示“接受/拒绝”按钮！]]></description>
+    <description><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></description>
+  </descriptionlist>
+  <screenshots>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>0.png</image>
+    </screenshot>
+  </screenshots>
+  <changelog>
+    <change><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></change>
+  </changelog>
+  <links></links>
+</package>

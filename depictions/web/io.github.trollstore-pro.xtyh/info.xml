@@ -1,0 +1,30 @@
+<package>
+  <id>io.github.trollstore-pro.xtyh</id>
+  <name>系统优化合集-Rootless</name>
+  <version>1.7</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>mobilesubstrate</package>
+    <package>preferenceloader</package>
+  </dependencies>
+  <shortDescription><![CDATA[本插件有设置项，安装注销生效！功能如下：隐藏通知中心没有更早的通知文本。隐藏Dock栏磨砂背景。隐藏主屏幕翻页小白点。隐藏状态栏旋转。隐藏锁屏相机、手电筒。禁用主屏幕通知中心和锁屏搜索栏。隐藏勿扰模式横幅。无翻页点。去除负一屏编辑背景。文件夹透明。通知中心手势左滑清除消息，右滑打开应用。禁用锁屏左滑相机。去除横条。]]></shortDescription>
+  <descriptionlist>
+    <description><![CDATA[本插件有设置项，安装注销生效！功能如下：隐藏通知中心没有更早的通知文本。隐藏Dock栏磨砂背景。隐藏主屏幕翻页小白点。隐藏状态栏旋转。隐藏锁屏相机、手电筒。禁用主屏幕通知中心和锁屏搜索栏。隐藏勿扰模式横幅。无翻页点。去除负一屏编辑背景。文件夹透明。通知中心手势左滑清除消息，右滑打开应用。禁用锁屏左滑相机。去除横条。]]></description>
+    <description><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></description>
+  </descriptionlist>
+  <screenshots>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>8085ef093d6b08e4c7436cedc3f3c4bc0692d2e0.jpg</image>
+    </screenshot>
+  </screenshots>
+  <changelog>
+    <change><![CDATA[增加换锁头功能<br />*** ]]></change>
+    <change><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></change>
+  </changelog>
+  <links></links>
+</package>

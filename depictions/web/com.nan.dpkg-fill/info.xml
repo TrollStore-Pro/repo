@@ -1,0 +1,34 @@
+<package>
+  <id>com.nan.dpkg-fill</id>
+  <name>dpkg-fill修复sileo报错-Rootless</name>
+  <version>0.3.4</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>firmware (&gt;= 11.0)</package>
+    <package>sed</package>
+    <package>coreutils</package>
+  </dependencies>
+  <shortDescription><![CDATA[修补因缺少维护者和描述的报错信息，如图所示，sileo报错时可以尝试此方法，其他正常用户不需要，请无视此插件！]]></shortDescription>
+  <descriptionlist>
+    <description><![CDATA[修补因缺少维护者和描述的报错信息，如图所示，sileo报错时可以尝试此方法，其他正常用户不需要，请无视此插件！]]></description>
+    <description><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></description>
+  </descriptionlist>
+  <screenshots>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>p978dBD.jpg</image>
+    </screenshot>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>p978BAH.jpg</image>
+    </screenshot>
+  </screenshots>
+  <changelog>
+    <change><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></change>
+  </changelog>
+  <links></links>
+</package>

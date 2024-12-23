@@ -1,0 +1,28 @@
+<package>
+  <id>io.github.trollstore-pro.chick</id>
+  <name>小鸡模拟器破解-Rootless</name>
+  <version>1.0.0</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>mobilesubstrate (&gt;= 0.9.5000)</package>
+  </dependencies>
+  <shortDescription><![CDATA[小鸡模拟器屏蔽激活码弹框，小鸡模拟器IPA在果粉之家里下载：trollstore-pro.github.io此款插件能够屏蔽软件弹出的激活弹窗，直接使用，还不错！]]></shortDescription>
+  <descriptionlist>
+    <description><![CDATA[小鸡模拟器屏蔽激活码弹框，小鸡模拟器IPA在果粉之家里下载：trollstore-pro.github.io此款插件能够屏蔽软件弹出的激活弹窗，直接使用，还不错！]]></description>
+    <description><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></description>
+  </descriptionlist>
+  <screenshots>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>no-screenshots.jpeg</image>
+    </screenshot>
+  </screenshots>
+  <changelog>
+    <change><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></change>
+  </changelog>
+  <links></links>
+</package>

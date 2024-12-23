@@ -1,0 +1,11 @@
+<changelog>
+  <changes>
+    <version></version>
+    <change><![CDATA[12天内多个版本的更新情况：---新增一触即达(任意app内复制链接或路径-直接跳转)---新增一键翻译(任意app内复制内容即可直接翻译，带替换分享朗读等，--翻译越狱商店等大众应用推荐Hammer It,这些翻译我没加，防止冲突，个人2个插件都装着)---新增URL自定义(任意app内复制内容可便捷搜索或查阅你定义的网页或者app跳转界面)---悬浮球位置自定义，复制功能争对应用的白名单，去广告功能针对应用的白名单---新增触摸轨迹，屏幕x和y值---新增应用搜索框内文字复制，切换开关的文字复制---新增应用选择程序（选择即注入生效），无需手动增加bundle了---新增去广告窗口的便捷替换和#注释文字，文字段落精简(去除空格，换行，插入换行)-----处理前期大几处bug和冲突，修改某些代码使用更加方]]></change>
+    <change><![CDATA[*** ]]></change>
+  </changes>
+  <changes>
+    <version></version>
+    <change><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></change>
+  </changes>
+</changelog>

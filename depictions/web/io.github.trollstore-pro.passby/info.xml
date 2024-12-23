@@ -1,0 +1,30 @@
+<package>
+  <id>io.github.trollstore-pro.passby</id>
+  <name>PassBy智能化面容-Rootless</name>
+  <version>1.9.1</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>firmware (&gt;= 9.0)</package>
+    <package>mobilesubstrate (&gt;= 0.9.5000)</package>
+    <package>preferenceloader</package>
+  </dependencies>
+  <shortDescription><![CDATA[Bypass passcode in many ways临时绕过人脸，WiFi自动解锁，更多功能请看截图或者安装后体验，如果有问题安装无效或者安全模式请卸载！已汉化支持，特别感谢M哥为大家带来更多更好的插件转换]]></shortDescription>
+  <descriptionlist>
+    <description><![CDATA[Bypass passcode in many ways临时绕过人脸，WiFi自动解锁，更多功能请看截图或者安装后体验，如果有问题安装无效或者安全模式请卸载！已汉化支持，特别感谢M哥为大家带来更多更好的插件转换]]></description>
+    <description><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></description>
+  </descriptionlist>
+  <screenshots>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>p9MMVK0.jpg</image>
+    </screenshot>
+  </screenshots>
+  <changelog>
+    <change><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></change>
+  </changelog>
+  <links></links>
+</package>

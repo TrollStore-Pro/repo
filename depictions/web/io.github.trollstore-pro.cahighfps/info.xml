@@ -1,0 +1,31 @@
+<package>
+  <id>io.github.trollstore-pro.cahighfps</id>
+  <name>CAHighFPS120刷新率-Rootless</name>
+  <version>2.1.2</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>mobilesubstrate (&gt;= 0.9.5000)</package>
+    <package>firmware (&gt;= 7.0)</package>
+    <package>com.opa334.altlist (&gt;= 1.0.4)</package>
+  </dependencies>
+  <shortDescription><![CDATA[Make CoreAnimation apps use the highest available FPS. Custom FPS option added by uz.ra (@ChromiumCandy)一款非常不错的免费锁120Hz刷新率的插件，适用于iPhone13Pro以上机型，全能玩机源已汉化，插件有设置项，感谢大神免费开发！还有一点说明一下，免费的插件，有些不生效很正常，大家自行测试！]]></shortDescription>
+  <descriptionlist>
+    <description><![CDATA[Make CoreAnimation apps use the highest available FPS. Custom FPS option added by uz.ra (@ChromiumCandy)一款非常不错的免费锁120Hz刷新率的插件，适用于iPhone13Pro以上机型，全能玩机源已汉化，插件有设置项，感谢大神免费开发！还有一点说明一下，免费的插件，有些不生效很正常，大家自行测试！]]></description>
+    <description><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></description>
+  </descriptionlist>
+  <screenshots>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>e4c2edbc1e09f379eba737411fb75ad8d6e9b0ba.jpg</image>
+    </screenshot>
+  </screenshots>
+  <changelog>
+    <change><![CDATA[修复已知问题<br />*** ]]></change>
+    <change><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></change>
+  </changelog>
+  <links></links>
+</package>

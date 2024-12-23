@@ -1,0 +1,29 @@
+<package>
+  <id>io.github.trollstore-pro.witcher</id>
+  <name>Witcher后台切换模式-Rootless</name>
+  <version>0.0.1~alpha</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>mobilesubstrate</package>
+    <package>firmware (&gt;= 14.0)</package>
+  </dependencies>
+  <shortDescription><![CDATA[Magical iOS App Switcher机车主个人认为这是一款很糟糕的插件，改变了后台切换模式，但是太容易误触了吧，有喜欢的小伙伴们自行体验！]]></shortDescription>
+  <descriptionlist>
+    <description><![CDATA[Magical iOS App Switcher机车主个人认为这是一款很糟糕的插件，改变了后台切换模式，但是太容易误触了吧，有喜欢的小伙伴们自行体验！]]></description>
+    <description><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></description>
+  </descriptionlist>
+  <screenshots>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>Witcher-Rootless.png</image>
+    </screenshot>
+  </screenshots>
+  <changelog>
+    <change><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></change>
+  </changelog>
+  <links></links>
+</package>

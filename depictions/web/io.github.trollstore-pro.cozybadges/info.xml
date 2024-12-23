@@ -1,0 +1,31 @@
+<package>
+  <id>io.github.trollstore-pro.cozybadges</id>
+  <name>CozyBadges彩色通知下移-Rootless</name>
+  <version>2.1-rootless</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>firmware (&gt;= 13.0)</package>
+    <package>mobilesubstrate</package>
+    <package>org.thebigboss.libcolorpicker (&gt;= 1.6.7)</package>
+  </dependencies>
+  <shortDescription><![CDATA[A cozy place for your badges彩色角标通知，显示在APP下面，由全能玩机源汉化更新支持多巴胺！非常的好看呀，好秀！经典插件！]]></shortDescription>
+  <descriptionlist>
+    <description><![CDATA[A cozy place for your badges彩色角标通知，显示在APP下面，由全能玩机源汉化更新支持多巴胺！非常的好看呀，好秀！经典插件！]]></description>
+    <description><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></description>
+  </descriptionlist>
+  <screenshots>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>pCBkDhT.jpg</image>
+    </screenshot>
+  </screenshots>
+  <changelog>
+    <change><![CDATA[更新支持iOS16<br />*** ]]></change>
+    <change><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></change>
+  </changelog>
+  <links></links>
+</package>

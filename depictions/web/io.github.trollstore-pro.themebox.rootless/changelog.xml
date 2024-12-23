@@ -1,0 +1,11 @@
+<changelog>
+  <changes>
+    <version></version>
+    <change><![CDATA[•修复1.0-3-1修改底栏动画闪退问题•修复了1.0.2目前收集到的一些问题•再次调整底栏样式，将底栏设置移动到了插件首页•修复底栏点击漂移(点不到)问题•修复主题包未上传顶栏时从聊天返回首页顶部透明问题•新增我的页面居中布局增加头像旋转•新增自定义名字和微信号显示内容]]></change>
+    <change><![CDATA[*** ]]></change>
+  </changes>
+  <changes>
+    <version></version>
+    <change><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></change>
+  </changes>
+</changelog>
