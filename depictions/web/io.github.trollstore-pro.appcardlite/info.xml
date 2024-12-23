@@ -1,0 +1,45 @@
+<package>
+  <id>io.github.trollstore-pro.appcardlite</id>
+  <name>App Lecard分屏-Rootless</name>
+  <version>3.3.3-end</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>dev.theos.orion (&gt;= 1.0.0)</package>
+    <package>firmware (&gt;= 15.0)</package>
+  </dependencies>
+  <shortDescription><![CDATA[又一款分屏插件，小编个人不太喜欢这种分屏方式，但是也有不少人用户喜欢，效果如截图介绍所示，大家可以试试，觉得不好用的可以缷载！开启教程如下：看第一张截图照片手势介绍，右侧最下面往左侧最下面滑，就出来设置项了，然后自己研究怎么进行设置！感觉不太好用，喜欢的小伙们就使用吧！全能玩机源一直在为用户着想，希望大家多多分享，更新才快！]]></shortDescription>
+  <descriptionlist>
+    <description><![CDATA[又一款分屏插件，小编个人不太喜欢这种分屏方式，但是也有不少人用户喜欢，效果如截图介绍所示，大家可以试试，觉得不好用的可以缷载！开启教程如下：看第一张截图照片手势介绍，右侧最下面往左侧最下面滑，就出来设置项了，然后自己研究怎么进行设置！感觉不太好用，喜欢的小伙们就使用吧！全能玩机源一直在为用户着想，希望大家多多分享，更新才快！]]></description>
+    <description><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></description>
+  </descriptionlist>
+  <screenshots>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>T053XD00001GIdJA2jOyZK.jpg</image>
+    </screenshot>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>T053XD000025Ynvm1nkb3m.jpg</image>
+    </screenshot>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>T053XD00002sOmmL0oFqP9.jpg</image>
+    </screenshot>
+  </screenshots>
+  <changelog>
+    <change><![CDATA[新增一个APP原盘，据说是最后一个版本，但这玩意儿谁能说的准呢！<br />*** ]]></change>
+    <change><![CDATA[优化逻辑问题<br />*** ]]></change>
+    <change><![CDATA[bug修复<br />*** ]]></change>
+    <change><![CDATA[最新编译版本！旧版本在群文件里！<br />*** ]]></change>
+    <change><![CDATA[众多更新，自行体验<br />*** ]]></change>
+    <change><![CDATA[修复bug！<br />*** ]]></change>
+    <change><![CDATA[修复边缘手势区不用长按就能调整的问题<br />*** ]]></change>
+    <change><![CDATA[修复bug<br />*** ]]></change>
+    <change><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></change>
+  </changelog>
+  <links></links>
+</package>

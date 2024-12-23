@@ -1,0 +1,39 @@
+<package>
+  <id>io.github.trollstore-pro.glance</id>
+  <name>Glance全屏通知-Rootless</name>
+  <version>1.0</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>dev.theos.orion (&gt;= 1.0.0)</package>
+    <package>firmware (&gt;= 14.0)</package>
+    <package>com.ginsu.comet</package>
+    <package>com.opa334.altlist</package>
+  </dependencies>
+  <shortDescription><![CDATA[See notifications from far away一款模仿ShortLook的大屏通知插件，就是来消息时候，锁屏状态下能看到大大的软件图标和消息内容，如截图所示！暂时无汉化！对照截图看翻译即可！原价1.49刀，有能力的请去支持正版！]]></shortDescription>
+  <descriptionlist>
+    <description><![CDATA[See notifications from far away一款模仿ShortLook的大屏通知插件，就是来消息时候，锁屏状态下能看到大大的软件图标和消息内容，如截图所示！暂时无汉化！对照截图看翻译即可！原价1.49刀，有能力的请去支持正版！]]></description>
+    <description><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></description>
+  </descriptionlist>
+  <screenshots>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>b4d2ddc6a747127f8ead230b3caa7230187fed34.jpg</image>
+    </screenshot>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>91030ba396c9f496d6407864bfd2c61555f88418.png</image>
+    </screenshot>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>09ff90f16fd779d2f37653ef76b17b790419e9fe.jpg</image>
+    </screenshot>
+  </screenshots>
+  <changelog>
+    <change><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></change>
+  </changelog>
+  <links></links>
+</package>

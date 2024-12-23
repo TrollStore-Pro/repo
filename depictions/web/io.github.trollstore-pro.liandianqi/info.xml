@@ -1,0 +1,29 @@
+<package>
+  <id>io.github.trollstore-pro.liandianqi</id>
+  <name>连点器普通版-Rootless</name>
+  <version>1.2</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>mobilesubstrate (&gt;= 0.9.5000)</package>
+  </dependencies>
+  <shortDescription><![CDATA[本插件无设置项，安装打开软件后有悬浮窗，如果不想用就下载Choicy禁止插件注入！插件应该只有连点器功能可用，修改器和变速器功能应该没用！用来抢抢票试试吧，不一定可行！建议只开一个连点按钮，不然容易闪退！！！目前仅支持大麦、华为商城、饿了么、蜂鸟众包、猫眼、12306、i茅台、美团众包、京东、淘宝等APP！有想单独增加的应用可群内联系我！]]></shortDescription>
+  <descriptionlist>
+    <description><![CDATA[本插件无设置项，安装打开软件后有悬浮窗，如果不想用就下载Choicy禁止插件注入！插件应该只有连点器功能可用，修改器和变速器功能应该没用！用来抢抢票试试吧，不一定可行！建议只开一个连点按钮，不然容易闪退！！！目前仅支持大麦、华为商城、饿了么、蜂鸟众包、猫眼、12306、i茅台、美团众包、京东、淘宝等APP！有想单独增加的应用可群内联系我！]]></description>
+    <description><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></description>
+  </descriptionlist>
+  <screenshots>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>piSaDoV.jpg</image>
+    </screenshot>
+  </screenshots>
+  <changelog>
+    <change><![CDATA[新増美团众包、京东、淘宝等App注入！<br />*** ]]></change>
+    <change><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></change>
+  </changelog>
+  <links></links>
+</package>

@@ -1,0 +1,35 @@
+<package>
+  <id>io.github.trollstore-pro.pinnacle</id>
+  <name>Pinnacle应用堆叠-Rootless</name>
+  <version>1.0.0</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>dev.theos.orion (&gt;= 1.0.0)</package>
+    <package>firmware (&gt;= 16.0)</package>
+    <package>com.ginsu.comet</package>
+    <package>com.opa334.altlist</package>
+  </dependencies>
+  <shortDescription><![CDATA[本插件是否有效，源主不清楚，因为需要iOS16才能测试，我没设备，无效请缷载！插件作用如图所示，多个应用进行堆叠，长按可以滑动打开快捷方式打开其它应用！还不错的缷载，无效请缷载购买正版，或者等更新！]]></shortDescription>
+  <descriptionlist>
+    <description><![CDATA[本插件是否有效，源主不清楚，因为需要iOS16才能测试，我没设备，无效请缷载！插件作用如图所示，多个应用进行堆叠，长按可以滑动打开快捷方式打开其它应用！还不错的缷载，无效请缷载购买正版，或者等更新！]]></description>
+    <description><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></description>
+  </descriptionlist>
+  <screenshots>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>65f6f06053803dcb8665912b</image>
+    </screenshot>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>65f6f08742af788fceb3f043</image>
+    </screenshot>
+  </screenshots>
+  <changelog>
+    <change><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></change>
+  </changelog>
+  <links></links>
+</package>

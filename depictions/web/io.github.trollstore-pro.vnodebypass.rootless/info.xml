@@ -1,0 +1,31 @@
+<package>
+  <id>io.github.trollstore-pro.vnodebypass.rootless</id>
+  <name>Vnodebypass屏蔽越狱-Rootless</name>
+  <version>0.4.3</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>firmware (&gt;= 15.0)</package>
+    <package>firmware (&lt;&lt; 17.0)</package>
+    <package>com.opa334.ccsupport</package>
+    <package>libkrw0-dopamine (&gt;= 2.0)</package>
+  </dependencies>
+  <shortDescription><![CDATA[这是一款用于屏蔽隐藏越狱文件以绕过检测的工具。（仅支持iOS15-16系统Dopamine2越狱）教程如下：点击启用,然后打开中国工商银行即可!(其他软件一样)使用完毕后一定要点禁用,不然很多插件都失效了!这个插件不好删除,sileo删不掉的话要去Filza根目录里搜vnode,搜到的文件全部删除,然后去多巴胺里重启用户空间即可！全能玩机源一直为用户着想,奈何圣母婊太多!自以为自己站在道德的制高点！]]></shortDescription>
+  <descriptionlist>
+    <description><![CDATA[这是一款用于屏蔽隐藏越狱文件以绕过检测的工具。（仅支持iOS15-16系统Dopamine2越狱）教程如下：点击启用,然后打开中国工商银行即可!(其他软件一样)使用完毕后一定要点禁用,不然很多插件都失效了!这个插件不好删除,sileo删不掉的话要去Filza根目录里搜vnode,搜到的文件全部删除,然后去多巴胺里重启用户空间即可！全能玩机源一直为用户着想,奈何圣母婊太多!自以为自己站在道德的制高点！]]></description>
+    <description><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></description>
+  </descriptionlist>
+  <screenshots>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>T053XD00003fKTQd19km4n.jpg</image>
+    </screenshot>
+  </screenshots>
+  <changelog>
+    <change><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></change>
+  </changelog>
+  <links></links>
+</package>

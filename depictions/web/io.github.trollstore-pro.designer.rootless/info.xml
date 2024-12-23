@@ -1,0 +1,38 @@
+<package>
+  <id>io.github.trollstore-pro.designer.rootless</id>
+  <name>Designer锁屏美化-Rootless</name>
+  <version>1.4.7</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>mobilesubstrate</package>
+    <package>preferenceloader</package>
+  </dependencies>
+  <shortDescription><![CDATA[感谢妖刀汉化！在锁定屏幕和主屏幕的小功能，主题选择或隐藏某选项。插件已汉化，无需再安装汉化插件！主题非常的好看，自己制作，或者找人要都可以，自行体验！桌面小组件也支持呢！]]></shortDescription>
+  <descriptionlist>
+    <description><![CDATA[感谢妖刀汉化！在锁定屏幕和主屏幕的小功能，主题选择或隐藏某选项。插件已汉化，无需再安装汉化插件！主题非常的好看，自己制作，或者找人要都可以，自行体验！桌面小组件也支持呢！]]></description>
+    <description><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></description>
+  </descriptionlist>
+  <screenshots>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>pC69CwR.jpg</image>
+    </screenshot>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>124107w9mha1olehotiswn.jpeg</image>
+    </screenshot>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>124204dinvkmnerpjcl19f.jpeg</image>
+    </screenshot>
+  </screenshots>
+  <changelog>
+    <change><![CDATA[修复已知问题<br />*** ]]></change>
+    <change><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></change>
+  </changelog>
+  <links></links>
+</package>

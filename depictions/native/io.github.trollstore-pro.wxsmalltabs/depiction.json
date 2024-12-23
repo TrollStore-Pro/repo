@@ -1,0 +1,204 @@
+{
+  "minVersion": "0.1",
+  "headerImage": "https://trollstore-pro.github.io/repo/assets/repo/Headers/header.webp",
+  "tabs": [
+    {
+      "views": [
+        {
+          "text": "插件介绍",
+          "fontWeight": "bold",
+          "fontSize": 19,
+          "usePadding": true,
+          "useMargins": true,
+          "margins": "{10,0,8,0}",
+          "class": "DepictionLabelView"
+        },
+        {
+          "markdown": "由金手指研发的一款微信底栏悬浮显示插件，效果请看截图介绍演示，个人感觉全能玩机源里的Fiona插件更好看！小伙伴们自行选择！在设置能开启功能，找不到请下载微信插件收纳插件。",
+          "useSpacing": false,
+          "class": "DepictionMarkdownView"
+        },
+        {
+          "spacing": 20,
+          "class": "DepictionSpacerView"
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionLabelView",
+          "text": "插件截图预览",
+          "fontWeight": "semibold",
+          "fontSize": 17,
+          "usePadding": true,
+          "useMargins": true,
+          "margins": "{10,0,8,0}"
+        },
+        {
+          "itemCornerRadius": true,
+          "itemSize": "{127, 275}",
+          "screenshots": [
+            {
+              "accessibilityText": "Screenshot",
+              "url": "https://s21.ax1x.com/2024/12/15/pAqd9BR.png"
+            }
+          ],
+          "class": "DepictionScreenshotsView"
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "fontWeight": "semibold",
+          "fontSize": 16,
+          "usePadding": true,
+          "useMargins": true,
+          "margins": "{10,0,8,0}",
+          "class": "DepictionLabelView",
+          "text": "版本详细说明"
+        },
+        {
+          "orientation": "landscape",
+          "views": [
+            {
+              "class": "DepictionStackView",
+              "views": [
+                {
+                  "text": "插件版本",
+                  "textColor": "#777",
+                  "margins": "{16,0,8,0}",
+                  "class": "DepictionLabelView"
+                },
+                {
+                  "class": "DepictionLabelView",
+                  "text": "0.0.1-5",
+                  "fontWeight": "semibold",
+                  "fontSize": 16,
+                  "usePadding": false
+                },
+                {
+                  "class": "DepictionLabelView",
+                  "text": "插件大小",
+                  "textColor": "#777",
+                  "margins": "{16,0,8,0}"
+                },
+                {
+                  "text": "16 KB",
+                  "fontWeight": "semibold",
+                  "fontSize": 16,
+                  "usePadding": false,
+                  "class": "DepictionLabelView"
+                }
+              ]
+            },
+            {
+              "class": "DepictionStackView",
+              "views": [
+                {
+                  "class": "DepictionLabelView",
+                  "text": "插件更新时间",
+                  "textColor": "#777",
+                  "margins": "{16,0,8,0}"
+                },
+                {
+                  "class": "DepictionLabelView",
+                  "text": "2024-12-15 06:59:28",
+                  "fontWeight": "semibold",
+                  "fontSize": 16,
+                  "usePadding": false
+                },
+                {
+                  "class": "DepictionLabelView",
+                  "text": "插件系统兼容",
+                  "textColor": "#777",
+                  "margins": "{16,0,8,0}"
+                },
+                {
+                  "fontSize": 17,
+                  "usePadding": false,
+                  "class": "DepictionLabelView",
+                  "text": "15 ~ 17",
+                  "fontWeight": "semibold"
+                }
+              ]
+            }
+          ],
+          "class": "DepictionStackView"
+        },
+        {
+          "class": "DepictionStackView",
+          "orientation": "landscape",
+          "views": [
+            {
+              "class": "DepictionStackView",
+              "views": [
+                {
+                  "class": "DepictionLabelView",
+                  "text": "下载次数",
+                  "textColor": "#777",
+                  "margins": "{16,0,8,0}"
+                },
+                {
+                  "text": "700",
+                  "fontWeight": "semibold",
+                  "fontSize": 16,
+                  "usePadding": false,
+                  "class": "DepictionLabelView"
+                }
+              ]
+            },
+            {
+              "class": "DepictionStackView",
+              "views": [
+                {
+                  "class": "DepictionLabelView",
+                  "text": "上个用户下载时间",
+                  "textColor": "#777",
+                  "margins": "{16,0,8,0}"
+                },
+                {
+                  "class": "DepictionLabelView",
+                  "text": "2024-12-20 11:10:31",
+                  "fontWeight": "semibold",
+                  "fontSize": 16,
+                  "usePadding": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "spacing": 25,
+          "class": "DepictionSpacerView"
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "markdown": "<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>",
+          "useSpacing": true,
+          "class": "DepictionMarkdownView",
+          "useRawFormat": true
+        }
+      ],
+      "class": "DepictionStackView",
+      "tabname": "插件介绍"
+    },
+    {
+      "tabname": "更新日志",
+      "views": [
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "useRawFormat": true,
+          "markdown": "<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>",
+          "useSpacing": true
+        }
+      ],
+      "class": "DepictionStackView"
+    }
+  ],
+  "class": "DepictionTabView"
+}

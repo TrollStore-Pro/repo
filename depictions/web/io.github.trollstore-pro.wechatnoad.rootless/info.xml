@@ -1,0 +1,29 @@
+<package>
+  <id>io.github.trollstore-pro.wechatnoad.rootless</id>
+  <name>微信增强-Rootless</name>
+  <version>1.0</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>mobilesubstrate (&gt;= 0.9.5000)</package>
+  </dependencies>
+  <shortDescription><![CDATA[微信增强，全能玩机源免费首发，去除朋友圈及订阅号列表广告、文章底部广告以及顶部正在直播，去除少量小程序启动广告！开启微信拍照原生相机！默认开启Callkit！测试版本8.0.31，其他版本微信版本是否可行自行测试！更多免费插件请认准全能玩机源！trollstore-pro.github.io。如需京东代挂联系管理iOSign。]]></shortDescription>
+  <descriptionlist>
+    <description><![CDATA[微信增强，全能玩机源免费首发，去除朋友圈及订阅号列表广告、文章底部广告以及顶部正在直播，去除少量小程序启动广告！开启微信拍照原生相机！默认开启Callkit！测试版本8.0.31，其他版本微信版本是否可行自行测试！更多免费插件请认准全能玩机源！trollstore-pro.github.io。如需京东代挂联系管理iOSign。]]></description>
+    <description><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></description>
+  </descriptionlist>
+  <screenshots>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>no-screenshots.jpeg</image>
+    </screenshot>
+  </screenshots>
+  <changelog>
+    <change><![CDATA[恢复显示订阅号消息提醒，移除订阅号顶部常看的号。<br />*** ]]></change>
+    <change><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></change>
+  </changelog>
+  <links></links>
+</package>

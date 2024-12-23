@@ -1,0 +1,31 @@
+<package>
+  <id>io.github.trollstore-pro.sleipnizer5</id>
+  <name>Sleipnizer for Safari手势插件-Rootless</name>
+  <version>12.0.1</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>mobilesubstrate (&gt;= 0.9.6100)</package>
+    <package>preferenceloader (&gt;= 2.2.3)</package>
+    <package>firmware (&gt;= 15.0)</package>
+  </dependencies>
+  <shortDescription><![CDATA[convenient faster browsing with gestures暂时没汉化，自己截图翻译，内容太多，后面更新汉化！这是一款Safari浏览器手势插件，多种手势，非常好用！有需要的下载，原价1.99美元，现在全能玩机源免费使用！]]></shortDescription>
+  <descriptionlist>
+    <description><![CDATA[convenient faster browsing with gestures暂时没汉化，自己截图翻译，内容太多，后面更新汉化！这是一款Safari浏览器手势插件，多种手势，非常好用！有需要的下载，原价1.99美元，现在全能玩机源免费使用！]]></description>
+    <description><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></description>
+  </descriptionlist>
+  <screenshots>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>no-screenshots.jpeg</image>
+    </screenshot>
+  </screenshots>
+  <changelog>
+    <change><![CDATA[修复bug<br />*** ]]></change>
+    <change><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></change>
+  </changelog>
+  <links></links>
+</package>
