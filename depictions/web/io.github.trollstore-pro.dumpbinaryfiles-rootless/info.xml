@@ -1,0 +1,35 @@
+<package>
+  <id>io.github.trollstore-pro.dumpbinaryfiles-rootless</id>
+  <name>DumpDecrypter砸壳工具-Rootless</name>
+  <version>1.5-1</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>firmware (&gt;= 15.0)</package>
+    <package>mobilesubstrate</package>
+  </dependencies>
+  <shortDescription><![CDATA[提供二进制文件动态解密列表 适用于逆向工程-目前这砸壳应该是全权限，普通用户使用一下提取一下ipa包还是可以的，Netsako更新适配新版本！应该是全权限，但不保证！使用非常简单，桌面上图标点开，选择想要的软件点击，等待几分钟去filza里即可看到ipa包！全能玩机源群里发砸壳也能获得教程！配合本源的砸壳依赖才能获取全权限ipa包！sileo搜砸壳依赖即可！]]></shortDescription>
+  <descriptionlist>
+    <description><![CDATA[提供二进制文件动态解密列表 适用于逆向工程-目前这砸壳应该是全权限，普通用户使用一下提取一下ipa包还是可以的，Netsako更新适配新版本！应该是全权限，但不保证！使用非常简单，桌面上图标点开，选择想要的软件点击，等待几分钟去filza里即可看到ipa包！全能玩机源群里发砸壳也能获得教程！配合本源的砸壳依赖才能获取全权限ipa包！sileo搜砸壳依赖即可！]]></description>
+    <description><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></description>
+  </descriptionlist>
+  <screenshots>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>p98SJBj.jpg</image>
+    </screenshot>
+  </screenshots>
+  <changelog>
+    <change><![CDATA[一些小优化<br />*** ]]></change>
+    <change><![CDATA[修复部分设备无法显示应用列表的问题<br />*** ]]></change>
+    <change><![CDATA[新增程序内显示已解密的应用列表<br />*** ]]></change>
+    <change><![CDATA[修复APP列表不显示TF应用的问题！<br />*** ]]></change>
+    <change><![CDATA[修复已知问题！<br />*** ]]></change>
+    <change><![CDATA[逐渐趋于稳定！<br />*** ]]></change>
+    <change><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></change>
+  </changelog>
+  <links></links>
+</package>

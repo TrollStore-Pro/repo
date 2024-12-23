@@ -1,0 +1,36 @@
+<package>
+  <id>io.github.trollstore-pro.kbappdock</id>
+  <name>键盘增加APP跳转-Rootless</name>
+  <version>1.5</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>mobilesubstrate</package>
+  </dependencies>
+  <shortDescription><![CDATA[You can arrange apps on the dock of keyboard ⌨️.键盘上增加APP跳转，看截图介绍，第三方键盘也可以，更新支持快捷复制等功能]]></shortDescription>
+  <descriptionlist>
+    <description><![CDATA[You can arrange apps on the dock of keyboard ⌨️.键盘上增加APP跳转，看截图介绍，第三方键盘也可以，更新支持快捷复制等功能]]></description>
+    <description><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></description>
+  </descriptionlist>
+  <screenshots>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>p9NnqOg.jpg</image>
+    </screenshot>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>p9NyNee.jpg</image>
+    </screenshot>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>p9cHD4f.png</image>
+    </screenshot>
+  </screenshots>
+  <changelog>
+    <change><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></change>
+  </changelog>
+  <links></links>
+</package>

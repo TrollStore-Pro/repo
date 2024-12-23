@@ -1,0 +1,30 @@
+<package>
+  <id>io.github.trollstore-pro.arizona</id>
+  <name>Arizona锁屏美化-Rootless</name>
+  <version>0.9.2</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>mobilesubstrate</package>
+    <package>preferenceloader</package>
+    <package>com.mrgcgamer.libgcuniversal</package>
+  </dependencies>
+  <shortDescription><![CDATA[本插件的作用是自定义锁屏界面的日期，时钟和锁定图标，移动位置！（本插件由国人lans233汉化并分享，非常感谢！）全能玩机源，永久免费，只为越狱分享！]]></shortDescription>
+  <descriptionlist>
+    <description><![CDATA[本插件的作用是自定义锁屏界面的日期，时钟和锁定图标，移动位置！（本插件由国人lans233汉化并分享，非常感谢！）全能玩机源，永久免费，只为越狱分享！]]></description>
+    <description><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></description>
+  </descriptionlist>
+  <screenshots>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>e93c4a683f3f831038a479364b474bd5fa28d60a.jpg</image>
+    </screenshot>
+  </screenshots>
+  <changelog>
+    <change><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></change>
+  </changelog>
+  <links></links>
+</package>

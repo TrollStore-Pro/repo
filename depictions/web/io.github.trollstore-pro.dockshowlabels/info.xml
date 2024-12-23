@@ -1,0 +1,29 @@
+<package>
+  <id>io.github.trollstore-pro.dockshowlabels</id>
+  <name>Dock名称显示-Rootless</name>
+  <version>1.0.5</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>mobilesubstrate</package>
+  </dependencies>
+  <shortDescription><![CDATA[Add the Labels Below the Dock as before iOS 11! Added to Marina too.在Dock栏下面显示软件名称，一个小插件，M哥发现的，源主觉得好玩，也上传一下！插件无设置项，安装注销完成即可生效！]]></shortDescription>
+  <descriptionlist>
+    <description><![CDATA[Add the Labels Below the Dock as before iOS 11! Added to Marina too.在Dock栏下面显示软件名称，一个小插件，M哥发现的，源主觉得好玩，也上传一下！插件无设置项，安装注销完成即可生效！]]></description>
+    <description><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></description>
+  </descriptionlist>
+  <screenshots>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>bb3e4b466fbae838bf796342e45220be52cde222.jpg</image>
+    </screenshot>
+  </screenshots>
+  <changelog>
+    <change><![CDATA[修复部分应用不显示名称问题<br />*** ]]></change>
+    <change><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></change>
+  </changelog>
+  <links></links>
+</package>

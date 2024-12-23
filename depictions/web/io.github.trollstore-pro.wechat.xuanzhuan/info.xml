@@ -1,0 +1,28 @@
+<package>
+  <id>io.github.trollstore-pro.wechat.xuanzhuan</id>
+  <name>微信头像旋转-Rootless</name>
+  <version>0.0.1-28</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>mobilesubstrate (&gt;= 0.9.5000)</package>
+  </dependencies>
+  <shortDescription><![CDATA[一款非常好玩的插件，安装之后你的微信好友头像会变成圆形，然后旋转起来，非常的有个性，有逼格，喜欢装X的小伙伴们这个插件可不能错过啦！感谢威锋论坛好友分享，越狱有你更精彩，全能玩机源谢谢你！]]></shortDescription>
+  <descriptionlist>
+    <description><![CDATA[一款非常好玩的插件，安装之后你的微信好友头像会变成圆形，然后旋转起来，非常的有个性，有逼格，喜欢装X的小伙伴们这个插件可不能错过啦！感谢威锋论坛好友分享，越狱有你更精彩，全能玩机源谢谢你！]]></description>
+    <description><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></description>
+  </descriptionlist>
+  <screenshots>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>097e69c8ee4e45cae3813a06891bba8dccab4ef6.jpg</image>
+    </screenshot>
+  </screenshots>
+  <changelog>
+    <change><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></change>
+  </changelog>
+  <links></links>
+</package>

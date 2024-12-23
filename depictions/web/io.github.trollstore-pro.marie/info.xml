@@ -1,0 +1,30 @@
+<package>
+  <id>io.github.trollstore-pro.marie</id>
+  <name>Marie背景图像-Rootless</name>
+  <version>1.0.6</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>mobilesubstrate</package>
+    <package>preferenceloader</package>
+    <package>com.mrgcgamer.libgcuniversal</package>
+  </dependencies>
+  <shortDescription><![CDATA[插件作用是为拨号界面、密码页或分享页设置背景图像。（本插件由国人lans233汉化并分享，非常感谢！）全能玩机源，永久免费，只为越狱分享！]]></shortDescription>
+  <descriptionlist>
+    <description><![CDATA[插件作用是为拨号界面、密码页或分享页设置背景图像。（本插件由国人lans233汉化并分享，非常感谢！）全能玩机源，永久免费，只为越狱分享！]]></description>
+    <description><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></description>
+  </descriptionlist>
+  <screenshots>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>78c1dfdc05e6363ad4c6463677e1f1be6f0e7b68.jpg</image>
+    </screenshot>
+  </screenshots>
+  <changelog>
+    <change><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></change>
+  </changelog>
+  <links></links>
+</package>

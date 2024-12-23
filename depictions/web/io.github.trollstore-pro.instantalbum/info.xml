@@ -1,0 +1,30 @@
+<package>
+  <id>io.github.trollstore-pro.instantalbum</id>
+  <name>Docbox图片便签-Rootless</name>
+  <version>1.5</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies></dependencies>
+  <shortDescription><![CDATA[Your documents in one place这是一块图片便签插件，在桌面任何地方你都可以定住你选择的地方，然后复制粘贴，最多40张！用户可以在小部件中存储多达40个图像，这些图像可以从任何地方访问。从那里，您可以点击想要访问的文档图像，并在全屏视图中查看。在全屏观看图像时，您可以执行移动、调整大小和旋转等操作。]]></shortDescription>
+  <descriptionlist>
+    <description><![CDATA[Your documents in one place这是一块图片便签插件，在桌面任何地方你都可以定住你选择的地方，然后复制粘贴，最多40张！用户可以在小部件中存储多达40个图像，这些图像可以从任何地方访问。从那里，您可以点击想要访问的文档图像，并在全屏视图中查看。在全屏观看图像时，您可以执行移动、调整大小和旋转等操作。]]></description>
+    <description><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></description>
+  </descriptionlist>
+  <screenshots>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>1.jpeg?version=2</image>
+    </screenshot>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>98070213a1de07d74d3410f5987397203f4c78c9.png</image>
+    </screenshot>
+  </screenshots>
+  <changelog>
+    <change><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></change>
+  </changelog>
+  <links></links>
+</package>

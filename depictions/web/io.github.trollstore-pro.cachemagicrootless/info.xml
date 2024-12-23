@@ -1,0 +1,30 @@
+<package>
+  <id>io.github.trollstore-pro.cachemagicrootless</id>
+  <name>Cache Magic控制中心快捷小扫把-Rootless</name>
+  <version>1.1</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>mobilesubstrate</package>
+    <package>com.opa334.ccsupport</package>
+    <package>preferenceloader</package>
+  </dependencies>
+  <shortDescription><![CDATA[Add a button to your Control Center to clear the cache for the entire system. Simply tap the button and confirm the action to remove all cache files and see how much space you have freed up.控制中心添加快捷小扫把清理垃圾！]]></shortDescription>
+  <descriptionlist>
+    <description><![CDATA[Add a button to your Control Center to clear the cache for the entire system. Simply tap the button and confirm the action to remove all cache files and see how much space you have freed up.控制中心添加快捷小扫把清理垃圾！]]></description>
+    <description><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></description>
+  </descriptionlist>
+  <screenshots>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>p9qI8y9.png</image>
+    </screenshot>
+  </screenshots>
+  <changelog>
+    <change><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></change>
+  </changelog>
+  <links></links>
+</package>

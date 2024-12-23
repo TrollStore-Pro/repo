@@ -1,0 +1,27 @@
+<package>
+  <id>io.github.trollstore-pro.caperfhud</id>
+  <name>CAPerfHUD手机性能显示-Rootless</name>
+  <version>1.0.0</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies></dependencies>
+  <shortDescription><![CDATA[Enable system-wide performance HUD手机性能显示，比如显示帧率，显示fps，显示网络延迟，非常的酷帅！安装之后在桌面上，打开设置即可！]]></shortDescription>
+  <descriptionlist>
+    <description><![CDATA[Enable system-wide performance HUD手机性能显示，比如显示帧率，显示fps，显示网络延迟，非常的酷帅！安装之后在桌面上，打开设置即可！]]></description>
+    <description><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></description>
+  </descriptionlist>
+  <screenshots>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>fd074ac2ad004772b7307c302d271bc586c0067b.jpg</image>
+    </screenshot>
+  </screenshots>
+  <changelog>
+    <change><![CDATA[更新支持iOS 16<br />*** ]]></change>
+    <change><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></change>
+  </changelog>
+  <links></links>
+</package>

@@ -1,0 +1,36 @@
+<package>
+  <id>io.github.trollstore-pro.sixteenmusic</id>
+  <name>SixteenMusic iOS16风格锁屏音乐播放器-Rootless</name>
+  <version>1.6</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>mobilesubstrate</package>
+  </dependencies>
+  <shortDescription><![CDATA[iOS 16 style lock screen music player!  商店卖0.99刀的iOS16锁屏音乐播放器，现在全能玩机源免费使用，呃，一刀的话，觉得很不错的话可以去支持作者，反正又不贵，具体看截图介绍，源内有中文汉化包。]]></shortDescription>
+  <descriptionlist>
+    <description><![CDATA[iOS 16 style lock screen music player! 商店卖0.99刀的iOS16锁屏音乐播放器，现在全能玩机源免费使用，呃，一刀的话，觉得很不错的话可以去支持作者，反正又不贵，具体看截图介绍，源内有中文汉化包。]]></description>
+    <description><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></description>
+  </descriptionlist>
+  <screenshots>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>63def92498112480293d2550?w=3840&amp;q=75</image>
+    </screenshot>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>63def9c898112480293d2af3?w=3840&amp;q=75</image>
+    </screenshot>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>63def9ce98112480293d2b6d?w=3840&amp;q=75</image>
+    </screenshot>
+  </screenshots>
+  <changelog>
+    <change><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></change>
+  </changelog>
+  <links></links>
+</package>

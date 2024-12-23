@@ -1,0 +1,32 @@
+<package>
+  <id>io.github.trollstore-pro.Shimmer</id>
+  <name>Shimmer主题-Rootless</name>
+  <version>1.3</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>com.spark.snowboard</package>
+  </dependencies>
+  <shortDescription><![CDATA[一款Snowboard插件使用的主题！上架源的目的是给那些不知道怎么换主题的用户提供格式参考，下载完本主题插件后可以使用filza去var/jb/Library/Themes目录参考格式以便修改其它主题目录格式！全能玩机源，你最好的家！https://trollstore-pro.github.io]]></shortDescription>
+  <descriptionlist>
+    <description><![CDATA[一款Snowboard插件使用的主题！上架源的目的是给那些不知道怎么换主题的用户提供格式参考，下载完本主题插件后可以使用filza去var/jb/Library/Themes目录参考格式以便修改其它主题目录格式！全能玩机源，你最好的家！https://trollstore-pro.github.io]]></description>
+    <description><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></description>
+  </descriptionlist>
+  <screenshots>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>6489dc6d045c093cf5650cc8</image>
+    </screenshot>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>6489dc7f045c093cf5650e45</image>
+    </screenshot>
+  </screenshots>
+  <changelog>
+    <change><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></change>
+  </changelog>
+  <links></links>
+</package>

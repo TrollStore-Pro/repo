@@ -1,0 +1,34 @@
+<package>
+  <id>io.github.trollstore-pro.spotify</id>
+  <name>EeveeSpotify解锁-Rootless</name>
+  <version>5.8.2</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>dev.theos.orion (&gt;= 1.0.0)</package>
+    <package>firmware (&gt;= 14.0)</package>
+    <package>byg.iosios.net.swiftprotobuf (&gt;= 1.28.1)</package>
+  </dependencies>
+  <shortDescription><![CDATA[这是一款解锁Spotify高级功能的插件，至于有没有效果自行测试！Spotify（声破天）是一款听歌软件，需要用美区账号在App Store下载（巨魔版的应该不行），美区账号怎么获得，请使用微信搜一搜美区账号，就能知道！]]></shortDescription>
+  <descriptionlist>
+    <description><![CDATA[这是一款解锁Spotify高级功能的插件，至于有没有效果自行测试！Spotify（声破天）是一款听歌软件，需要用美区账号在App Store下载（巨魔版的应该不行），美区账号怎么获得，请使用微信搜一搜美区账号，就能知道！]]></description>
+    <description><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></description>
+  </descriptionlist>
+  <screenshots>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>475722300c94785adb5f1d6908cd396ae90bae13.png</image>
+    </screenshot>
+  </screenshots>
+  <changelog>
+    <change><![CDATA[更进官方最新版！<br />*** ]]></change>
+    <change><![CDATA[新增不替换歌词选项，新增日语设置项<br />*** ]]></change>
+    <change><![CDATA[修复已知问题，优化用户体验<br />*** ]]></change>
+    <change><![CDATA[更新最新版<br />*** ]]></change>
+    <change><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></change>
+  </changelog>
+  <links></links>
+</package>
