@@ -1,0 +1,29 @@
+<package>
+  <id>io.github.trollstore-pro.qqhook.rootful</id>
+  <name>QQ图层</name>
+  <version>1.1.0</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>mobilesubstrate (&gt;= 0.9.5000)</package>
+  </dependencies>
+  <shortDescription><![CDATA[QQ图层插件，非常的好用。仔细看-插件设置项在QQ设置-辅助功能-右上角开启！移除广告，移除侧滑直播，移除超级QQ秀，移除QQ钱包，移除个性装扮，防撤回，应该是无撤回提示，仅支持9.0.20及以上版本 || 开启了模拟机型iPhone 15 Pro Max。旧版本QQ请使用QQ净化插件，但是QQ版本要在8.9.58以下，新版QQ请使用本插件！非常的好用！]]></shortDescription>
+  <descriptionlist>
+    <description><![CDATA[QQ图层插件，非常的好用。仔细看-插件设置项在QQ设置-辅助功能-右上角开启！移除广告，移除侧滑直播，移除超级QQ秀，移除QQ钱包，移除个性装扮，防撤回，应该是无撤回提示，仅支持9.0.20及以上版本 || 开启了模拟机型iPhone 15 Pro Max。旧版本QQ请使用QQ净化插件，但是QQ版本要在8.9.58以下，新版QQ请使用本插件！非常的好用！]]></description>
+    <description><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></description>
+  </descriptionlist>
+  <screenshots>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>21dd606bf0390e770feecfad93a27b74922e5069.png</image>
+    </screenshot>
+  </screenshots>
+  <changelog>
+    <change><![CDATA[更新新版本<br />*** ]]></change>
+    <change><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></change>
+  </changelog>
+  <links></links>
+</package>

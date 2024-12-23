@@ -1,0 +1,29 @@
+<package>
+  <id>io.github.trollstore-pro.wbb</id>
+  <name>微博优化-Rootless</name>
+  <version>0.4-1</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>mobilesubstrate</package>
+  </dependencies>
+  <shortDescription><![CDATA[***给微博加点小功能，去广告啥的，可注入 可越狱版，随意写的，设置排版要加的东西多***。长按'我'页面的（创作中心）或者（浏览记录）（我的访问记录）的文字，弹出设置。。。来了老弟出品，必属精品。]]></shortDescription>
+  <descriptionlist>
+    <description><![CDATA[***给微博加点小功能，去广告啥的，可注入 可越狱版，随意写的，设置排版要加的东西多***。长按'我'页面的（创作中心）或者（浏览记录）（我的访问记录）的文字，弹出设置。。。来了老弟出品，必属精品。]]></description>
+    <description><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></description>
+  </descriptionlist>
+  <screenshots>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>no-screenshots.jpeg</image>
+    </screenshot>
+  </screenshots>
+  <changelog>
+    <change><![CDATA[修复小问题<br />*** ]]></change>
+    <change><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></change>
+  </changelog>
+  <links></links>
+</package>

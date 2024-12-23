@@ -1,0 +1,29 @@
+<package>
+  <id>io.github.trollstore-pro.qsyyhook</id>
+  <name>汽水音乐-Rootless</name>
+  <version>1.0.2</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>mobilesubstrate (&gt;= 0.9.5000)</package>
+  </dependencies>
+  <shortDescription><![CDATA[与小黑联手制作 | 去除启动广告 | 秒过激励视频(部分视频自动关闭)。并非破解VIP会员，请知悉！不能用就在设置界面长按可以关闭或者卸载此插件！]]></shortDescription>
+  <descriptionlist>
+    <description><![CDATA[与小黑联手制作 | 去除启动广告 | 秒过激励视频(部分视频自动关闭)。并非破解VIP会员，请知悉！不能用就在设置界面长按可以关闭或者卸载此插件！]]></description>
+    <description><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></description>
+  </descriptionlist>
+  <screenshots>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>no-screenshots.jpeg</image>
+    </screenshot>
+  </screenshots>
+  <changelog>
+    <change><![CDATA[更新支持新版本<br />*** ]]></change>
+    <change><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></change>
+  </changelog>
+  <links></links>
+</package>

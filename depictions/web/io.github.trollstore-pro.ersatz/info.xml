@@ -1,0 +1,30 @@
+<package>
+  <id>io.github.trollstore-pro.ersatz</id>
+  <name>Ersatz替换文字-Rootless</name>
+  <version>1.0.1</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>mobilesubstrate</package>
+    <package>preferenceloader</package>
+  </dependencies>
+  <shortDescription><![CDATA[Replace any text, system-wide! 全局替换任意位置的文字。可以用来自己汉化插件，也可以改自己想要显示的文字！]]></shortDescription>
+  <descriptionlist>
+    <description><![CDATA[Replace any text, system-wide! 全局替换任意位置的文字。可以用来自己汉化插件，也可以改自己想要显示的文字！]]></description>
+    <description><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></description>
+  </descriptionlist>
+  <screenshots>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>550e3d51f0967946a974e2cf79b7012f2e909031.png</image>
+    </screenshot>
+  </screenshots>
+  <changelog>
+    <change><![CDATA[更新支持iOS16！<br />*** ]]></change>
+    <change><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></change>
+  </changelog>
+  <links></links>
+</package>

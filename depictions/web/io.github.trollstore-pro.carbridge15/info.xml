@@ -1,0 +1,40 @@
+<package>
+  <id>io.github.trollstore-pro.carbridge15</id>
+  <name>CarBridge</name>
+  <version>2.0.10k</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>mobilesubstrate (&gt;= 0.9.5000)</package>
+    <package>firmware (&gt;= 13.0)</package>
+    <package>preferenceloader</package>
+    <package>ws.hbang.common (&gt;= 1.16)</package>
+    <package>com.spark.libsparkapplist (&gt;= 1.0.9)</package>
+  </dependencies>
+  <shortDescription><![CDATA[Open any app in CarPlay!此版为破解版xina越狱可用，仅供群友尝鮮，正版9.9美元，好像是有点贵，但是有能力的请支持正版，本源并非是传播盗版！因为是刚破解，还不稳定，使用中有问题可以加群反馈，等待更新，也可直接入手正版哈，全能玩机源，最新最全！]]></shortDescription>
+  <descriptionlist>
+    <description><![CDATA[Open any app in CarPlay!此版为破解版xina越狱可用，仅供群友尝鮮，正版9.9美元，好像是有点贵，但是有能力的请支持正版，本源并非是传播盗版！因为是刚破解，还不稳定，使用中有问题可以加群反馈，等待更新，也可直接入手正版哈，全能玩机源，最新最全！]]></description>
+    <description><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></description>
+  </descriptionlist>
+  <screenshots>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>6393d53afb3fac29d26b95e2?w=3840&amp;q=75</image>
+    </screenshot>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>6393d56bfb3fac29d26b9885?w=3840&amp;q=75</image>
+    </screenshot>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>6393d551fb3fac29d26b96fd?w=3840&amp;q=75</image>
+    </screenshot>
+  </screenshots>
+  <changelog>
+    <change><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></change>
+  </changelog>
+  <links></links>
+</package>

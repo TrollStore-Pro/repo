@@ -1,0 +1,43 @@
+<package>
+  <id>io.github.trollstore-pro.safarix</id>
+  <name>SafariX浏览器增强-Rootless</name>
+  <version>1.9.2</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>mobilesubstrate (&gt;= 0.9.5000)</package>
+    <package>preferenceloader</package>
+    <package>byg.iosios.net.safarixhook</package>
+  </dependencies>
+  <shortDescription><![CDATA[Safari Essential Features感谢全能玩机源群友萝卜购买并分享此插件，非常感谢好萝卜！此插件为iPhone自带浏览器增强插件，功能非常的多，使用，强烈建议用safri的用户下载！已添加进刀刀源汉化文件，感谢妖刀，本插件非常的好用！推荐！]]></shortDescription>
+  <descriptionlist>
+    <description><![CDATA[Safari Essential Features感谢全能玩机源群友萝卜购买并分享此插件，非常感谢好萝卜！此插件为iPhone自带浏览器增强插件，功能非常的多，使用，强烈建议用safri的用户下载！已添加进刀刀源汉化文件，感谢妖刀，本插件非常的好用！推荐！]]></description>
+    <description><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></description>
+  </descriptionlist>
+  <screenshots>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>eb4962e7cfad3f6587da926ff90e33ac54f2280c.jpg</image>
+    </screenshot>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>3d6b3e6c7080d5b89502fead46acca4b3041e87f.png</image>
+    </screenshot>
+  </screenshots>
+  <changelog>
+    <change><![CDATA[•添加了返回上一个书签选项<br />*** ]]></change>
+    <change><![CDATA[添加扩展按钮，修复闪退问题<br />*** ]]></change>
+    <change><![CDATA[添加了仅清除历史按钮，长按删除删除选项卡按钮将打开一个新标签<br />*** ]]></change>
+    <change><![CDATA[最近更新很频繁，我也不知道更新了啥，无脑更！<br />*** ]]></change>
+    <change><![CDATA[修复已知问题，优化用户体验<br />*** ]]></change>
+    <change><![CDATA[修复已知问题，优化用户体验<br />*** ]]></change>
+    <change><![CDATA[修复已知问题，优化用户体验<br />*** ]]></change>
+    <change><![CDATA[好像还没修复闪退问题，不知道什么原因<br />*** ]]></change>
+    <change><![CDATA[修复bug<br />*** ]]></change>
+    <change><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></change>
+  </changelog>
+  <links></links>
+</package>

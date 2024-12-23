@@ -1,0 +1,42 @@
+<package>
+  <id>io.github.trollstore-pro.dodo</id>
+  <name>Dodo锁屏美化-Rootless</name>
+  <version>4.2.2</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>dev.theos.orion14</package>
+    <package>firmware (&gt;= 14.0)</package>
+    <package>preferenceloader</package>
+    <package>com.ginsu.comet</package>
+    <package>com.ginsu.gscore</package>
+    <package>com.ginsu.gsweather</package>
+  </dependencies>
+  <shortDescription><![CDATA[The perfect Lock Screen redesign.锁屏美化，效果看截图！非常的安卓化，狂拽酷帅屌炸天！]]></shortDescription>
+  <descriptionlist>
+    <description><![CDATA[The perfect Lock Screen redesign.锁屏美化，效果看截图！非常的安卓化，狂拽酷帅屌炸天！]]></description>
+    <description><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></description>
+  </descriptionlist>
+  <screenshots>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>p9Mh8N6.png</image>
+    </screenshot>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>IMG_3682.PNG</image>
+    </screenshot>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>IMG_3683.PNG</image>
+    </screenshot>
+  </screenshots>
+  <changelog>
+    <change><![CDATA[启用新的架构<br />*** ]]></change>
+    <change><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></change>
+  </changelog>
+  <links></links>
+</package>

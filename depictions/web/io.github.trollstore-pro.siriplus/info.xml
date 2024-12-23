@@ -1,0 +1,33 @@
+<package>
+  <id>io.github.trollstore-pro.siriplus</id>
+  <name>SiriPlus智能Siri-Rootless</name>
+  <version>1.1</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>dev.theos.orion (&gt;= 1.0.0)</package>
+    <package>com.ginsu.comet</package>
+    <package>com.opa334.ccsupport</package>
+    <package>mobilesubstrate</package>
+    <package>firmware (&gt;= 14.0)</package>
+  </dependencies>
+  <shortDescription><![CDATA[Replace Siri with ChatGPT/Gemini用ChatGPT或Gemini取代Siri。SiriPlus是用ChatGPT或Gemini取代Siri的一个调整，通过最强大的大型语言模型为用户提供增强的功能、广泛的知识和个性化帮助。]]></shortDescription>
+  <descriptionlist>
+    <description><![CDATA[Replace Siri with ChatGPT/Gemini用ChatGPT或Gemini取代Siri。SiriPlus是用ChatGPT或Gemini取代Siri的一个调整，通过最强大的大型语言模型为用户提供增强的功能、广泛的知识和个性化帮助。]]></description>
+    <description><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></description>
+  </descriptionlist>
+  <screenshots>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>885db925513775c9b49fc20ac6afc1e38930bf7e.png</image>
+    </screenshot>
+  </screenshots>
+  <changelog>
+    <change><![CDATA[•为Siri添加了对Type的支持•增加CC切换•可定制的温度•选择GPT型号•改进了一般错误处理•修复了“嘿Siri”•修复了一个导致聊天轮换问题的错误•修复了多圈请求错误•改进了聊天腐败处理<br />*** ]]></change>
+    <change><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></change>
+  </changelog>
+  <links></links>
+</package>

@@ -1,0 +1,31 @@
+<package>
+  <id>io.github.trollstore-pro.appsyncunified</id>
+  <name>AppSync Unified软件安装-Rootless</name>
+  <version>112.0</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>firmware (&gt;= 5.0)</package>
+    <package>mobilesubstrate (&gt;= 0.9.5100)</package>
+    <package>firmware (&lt;= 16.5.1)</package>
+  </dependencies>
+  <shortDescription><![CDATA[Enables the ability to install unsigned/fakesigned iOS applications.使用本插件可以直接在Filza（巨魔filza不行）中安装IPA软件，无需通过巨魔，（多巴胺版本大于1.1.9）但是源主觉得有点鸡肋，有巨魔了何必这么麻烦！上架源备份一下！]]></shortDescription>
+  <descriptionlist>
+    <description><![CDATA[Enables the ability to install unsigned/fakesigned iOS applications.使用本插件可以直接在Filza（巨魔filza不行）中安装IPA软件，无需通过巨魔，（多巴胺版本大于1.1.9）但是源主觉得有点鸡肋，有巨魔了何必这么麻烦！上架源备份一下！]]></description>
+    <description><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></description>
+  </descriptionlist>
+  <screenshots>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>no-screenshots.jpeg</image>
+    </screenshot>
+  </screenshots>
+  <changelog>
+    <change><![CDATA[初代版本<br />*** ]]></change>
+    <change><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></change>
+  </changelog>
+  <links></links>
+</package>

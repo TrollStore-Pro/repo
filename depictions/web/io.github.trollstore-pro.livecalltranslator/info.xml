@@ -1,0 +1,29 @@
+<package>
+  <id>io.github.trollstore-pro.livecalltranslator</id>
+  <name>Live Call Translator通话翻译-Rootless</name>
+  <version>0.1-61</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>mobilesubstrate</package>
+    <package>byg.iosios.net.limneoscrack-rootless</package>
+  </dependencies>
+  <shortDescription><![CDATA[Translate your voice over a call live!和老外打电话实时进行翻译！还有这么无聊的插件？有出国的朋友们可以使用！全能玩机源，永久免费！]]></shortDescription>
+  <descriptionlist>
+    <description><![CDATA[Translate your voice over a call live!和老外打电话实时进行翻译！还有这么无聊的插件？有出国的朋友们可以使用！全能玩机源，永久免费！]]></description>
+    <description><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></description>
+  </descriptionlist>
+  <screenshots>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>image1-thumb.jpg</image>
+    </screenshot>
+  </screenshots>
+  <changelog>
+    <change><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></change>
+  </changelog>
+  <links></links>
+</package>

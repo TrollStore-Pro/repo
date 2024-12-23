@@ -1,0 +1,29 @@
+<package>
+  <id>io.github.trollstore-pro.nyyh</id>
+  <name>农业银行-Rootless</name>
+  <version>1.0.1</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>mobilesubstrate</package>
+  </dependencies>
+  <shortDescription><![CDATA[作用：能够正常进入使用农业银行。用法：进应用看到检测弹窗，点击Cancel即可正常进入，不要使用choicy或者魔术师屏蔽本插件注入农业银行！全能玩机源首发，感谢群友提供方法。全能玩机源一直免费为大家服务，希望大家能够多多支持全能玩机源！]]></shortDescription>
+  <descriptionlist>
+    <description><![CDATA[作用：能够正常进入使用农业银行。用法：进应用看到检测弹窗，点击Cancel即可正常进入，不要使用choicy或者魔术师屏蔽本插件注入农业银行！全能玩机源首发，感谢群友提供方法。全能玩机源一直免费为大家服务，希望大家能够多多支持全能玩机源！]]></description>
+    <description><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></description>
+  </descriptionlist>
+  <screenshots>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>no-screenshots.jpeg</image>
+    </screenshot>
+  </screenshots>
+  <changelog>
+    <change><![CDATA[修改只对农业银行生效，不会再影响其他软件了！<br />*** ]]></change>
+    <change><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></change>
+  </changelog>
+  <links></links>
+</package>

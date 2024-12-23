@@ -1,0 +1,16 @@
+<changelog>
+  <changes>
+    <version></version>
+    <change><![CDATA[修复在iOS 16锁屏日期字体颜色问题，修复崩溃问题]]></change>
+    <change><![CDATA[*** ]]></change>
+  </changes>
+  <changes>
+    <version></version>
+    <change><![CDATA[•添加对在锁定消息文本中显示随机咒语的支持•添加对无根的Powercuts操作支持（您需要从Chariz或我的repo安装Powercuts 1.2）•新的快捷方式操作：启用/禁用锁定消息文本，设置锁定消息文本•在设置中添加快捷方式操作部分，解释如何使用它们•插入充电器时退出环境模式，以防止在环境模式下看到动画•调整了“强制黑暗模式UI”选项以处理多个实时活动•通知指标：黑名单自动通知]]></change>
+    <change><![CDATA[*** ]]></change>
+  </changes>
+  <changes>
+    <version></version>
+    <change><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></change>
+  </changes>
+</changelog>

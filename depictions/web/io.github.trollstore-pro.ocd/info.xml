@@ -1,0 +1,37 @@
+<package>
+  <id>io.github.trollstore-pro.ocd</id>
+  <name>OCD彩色角标-Rootless</name>
+  <version>5.4.1.1</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>com.mrgcgamer.libgcuniversal</package>
+    <package>preferenceloader</package>
+    <package>ws.hbang.common</package>
+    <package>ws.hbang.alderis</package>
+  </dependencies>
+  <shortDescription><![CDATA[OCD will let the option to color icon lables & badges background based on app color!一款彩色角标插件，适配多巴胺，本插件也很好看，本源四款角标插件，大家自行选择！]]></shortDescription>
+  <descriptionlist>
+    <description><![CDATA[OCD will let the option to color icon lables & badges background based on app color!一款彩色角标插件，适配多巴胺，本插件也很好看，本源四款角标插件，大家自行选择！]]></description>
+    <description><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></description>
+  </descriptionlist>
+  <screenshots>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>7b66a19546d39e09ec1b9ea44b119efc9411c942.png</image>
+    </screenshot>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>c9e51699003376fa367a07d3867c6a50197a257c.jpg</image>
+    </screenshot>
+  </screenshots>
+  <changelog>
+    <change><![CDATA[修复5.4版本的圆点角标相关问题<br />*** ]]></change>
+    <change><![CDATA[性能优化<br />*** ]]></change>
+    <change><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></change>
+  </changelog>
+  <links></links>
+</package>
