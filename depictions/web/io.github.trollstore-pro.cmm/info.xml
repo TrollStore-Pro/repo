@@ -1,0 +1,28 @@
+<package>
+  <id>io.github.trollstore-pro.cmm</id>
+  <name>CallMeMaybe电话增强-Rootless</name>
+  <version>1.0.1</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>mobilesubstrate (&gt;= 0.9.5000)</package>
+  </dependencies>
+  <shortDescription><![CDATA[Enhancer for the system Phone app一款电话拨号增强插件，长按底部最近通话或者通讯录出来插件设置，暂时无汉化，请按本小编的截图翻译，功能不是很多，也不知道作者后面会不会继续更新，售价1.49美元！有能力的请支持作者！]]></shortDescription>
+  <descriptionlist>
+    <description><![CDATA[Enhancer for the system Phone app一款电话拨号增强插件，长按底部最近通话或者通讯录出来插件设置，暂时无汉化，请按本小编的截图翻译，功能不是很多，也不知道作者后面会不会继续更新，售价1.49美元！有能力的请支持作者！]]></description>
+    <description><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></description>
+  </descriptionlist>
+  <screenshots>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>4e6e7f919fc0396ec450a95f11cb53d8acc2a232.png</image>
+    </screenshot>
+  </screenshots>
+  <changelog>
+    <change><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></change>
+  </changelog>
+  <links></links>
+</package>

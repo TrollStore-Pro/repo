@@ -1,0 +1,29 @@
+<package>
+  <id>io.github.trollstore-pro.snapper2cc</id>
+  <name>Snapper2 CC Toggle控制中心截图-Rootless</name>
+  <version>1.0</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>mobilesubstrate</package>
+    <package>com.opa334.ccsupport</package>
+  </dependencies>
+  <shortDescription><![CDATA[Invoke the Snapper2 Tweak's actions using CC Toggle!控制中心添加截图快捷方式，需要配合Snapper2 插件使用，无法下载请删除作者源https://p2kdev.github.io/repo/，然后下载完成之后再添加回来，因为作者插件调用的是官方付费插件下载地址]]></shortDescription>
+  <descriptionlist>
+    <description><![CDATA[Invoke the Snapper2 Tweak's actions using CC Toggle!控制中心添加截图快捷方式，需要配合Snapper2 插件使用，无法下载请删除作者源https://p2kdev.github.io/repo/，然后下载完成之后再添加回来，因为作者插件调用的是官方付费插件下载地址]]></description>
+    <description><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></description>
+  </descriptionlist>
+  <screenshots>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>p9lTwhn.png</image>
+    </screenshot>
+  </screenshots>
+  <changelog>
+    <change><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></change>
+  </changelog>
+  <links></links>
+</package>

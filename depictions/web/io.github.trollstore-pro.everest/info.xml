@@ -1,0 +1,29 @@
+<package>
+  <id>io.github.trollstore-pro.everest</id>
+  <name>Everest软件启动动画-Rootless</name>
+  <version>1.0.1</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>mobilesubstrate (&gt;= 0.9.5000)</package>
+    <package>ws.hbang.common (&gt;= 2.0)</package>
+  </dependencies>
+  <shortDescription><![CDATA[App icon animations新上架的一款插件，修改APP启动动画，没什么实际作用，已汉化！感谢巨魔商店M哥汉化分享！]]></shortDescription>
+  <descriptionlist>
+    <description><![CDATA[App icon animations新上架的一款插件，修改APP启动动画，没什么实际作用，已汉化！感谢巨魔商店M哥汉化分享！]]></description>
+    <description><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></description>
+  </descriptionlist>
+  <screenshots>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>642ba2fd9fda5c6310b35f50</image>
+    </screenshot>
+  </screenshots>
+  <changelog>
+    <change><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></change>
+  </changelog>
+  <links></links>
+</package>

@@ -1,0 +1,30 @@
+<package>
+  <id>io.github.trollstore-pro.speaknotification</id>
+  <name>Speak Notification通知朗读-Rootless</name>
+  <version>1.8.19</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>firmware (&gt;= 7.0)</package>
+    <package>mobilesubstrate (&gt;= 0.9.5000)</package>
+    <package>preferenceloader (&gt;= 2.2.2)</package>
+  </dependencies>
+  <shortDescription><![CDATA[朗读任何通知消息_________仅测试，有问题请卸载，由来了老弟修复支持多巴胺越狱！关闭自动语言检测，就是说中文了，开车不方便看消息神器！]]></shortDescription>
+  <descriptionlist>
+    <description><![CDATA[朗读任何通知消息_________仅测试，有问题请卸载，由来了老弟修复支持多巴胺越狱！关闭自动语言检测，就是说中文了，开车不方便看消息神器！]]></description>
+    <description><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></description>
+  </descriptionlist>
+  <screenshots>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>pPC4jo9.jpg</image>
+    </screenshot>
+  </screenshots>
+  <changelog>
+    <change><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></change>
+  </changelog>
+  <links></links>
+</package>

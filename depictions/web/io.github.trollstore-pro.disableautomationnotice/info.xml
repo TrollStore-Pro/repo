@@ -1,0 +1,29 @@
+<package>
+  <id>io.github.trollstore-pro.disableautomationnotice</id>
+  <name>禁用快捷指令自动化通知-Rootless</name>
+  <version>2.0</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>mobilesubstrate (&gt;= 0.9.5000)</package>
+  </dependencies>
+  <shortDescription><![CDATA[禁用快捷指令自动化自动执行后的通知，仅禁用自动化不包含其他，附加允许将捷径通过文件形式分享，使用中如果有问题请卸载！]]></shortDescription>
+  <descriptionlist>
+    <description><![CDATA[禁用快捷指令自动化自动执行后的通知，仅禁用自动化不包含其他，附加允许将捷径通过文件形式分享，使用中如果有问题请卸载！]]></description>
+    <description><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></description>
+  </descriptionlist>
+  <screenshots>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>no-screenshots.jpeg</image>
+    </screenshot>
+  </screenshots>
+  <changelog>
+    <change><![CDATA[修复偶尔出现安全模式的问题！<br />*** ]]></change>
+    <change><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></change>
+  </changelog>
+  <links></links>
+</package>

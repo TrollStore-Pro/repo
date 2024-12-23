@@ -1,0 +1,33 @@
+<package>
+  <id>io.github.trollstore-pro.gesturesxv</id>
+  <name>GesturesXV全面屏手势-Rootless</name>
+  <version>1.6.1</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>mobilesubstrate</package>
+  </dependencies>
+  <shortDescription><![CDATA[iPhone X gestures brought to older iPhones compatible with iOS 15为旧设备提供全面屏手势，全能玩机源已汉化！]]></shortDescription>
+  <descriptionlist>
+    <description><![CDATA[iPhone X gestures brought to older iPhones compatible with iOS 15为旧设备提供全面屏手势，全能玩机源已汉化！]]></description>
+    <description><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></description>
+  </descriptionlist>
+  <screenshots>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>637514cf4e85484a9a4b839d</image>
+    </screenshot>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>63811274bdbc9947921e76d4</image>
+    </screenshot>
+  </screenshots>
+  <changelog>
+    <change><![CDATA[应群友要求，增加汉化！<br />*** ]]></change>
+    <change><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></change>
+  </changelog>
+  <links></links>
+</package>

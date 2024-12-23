@@ -1,0 +1,30 @@
+<package>
+  <id>org.mr.bioprotectxs-rootless</id>
+  <name>BioProtect-软件保护破解版-Rootless</name>
+  <version>4.6-57</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>mobilesubstrate</package>
+    <package>byg.iosios.net.limneoscrack-rootless</package>
+  </dependencies>
+  <shortDescription><![CDATA[使用面容ID或者指纹，保护你的APP，一款非常好用的软件保护插件，本插件已自带汉化，请卸载你的汉化插件再安装，更新也请卸载汉化包！]]></shortDescription>
+  <descriptionlist>
+    <description><![CDATA[使用面容ID或者指纹，保护你的APP，一款非常好用的软件保护插件，本插件已自带汉化，请卸载你的汉化插件再安装，更新也请卸载汉化包！]]></description>
+    <description><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></description>
+  </descriptionlist>
+  <screenshots>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>no-screenshots.jpeg</image>
+    </screenshot>
+  </screenshots>
+  <changelog>
+    <change><![CDATA[更新支持iOS 17<br />*** ]]></change>
+    <change><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></change>
+  </changelog>
+  <links></links>
+</package>
