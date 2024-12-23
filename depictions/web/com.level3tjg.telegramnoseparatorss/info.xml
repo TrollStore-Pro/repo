@@ -1,0 +1,31 @@
+<package>
+  <id>com.level3tjg.telegramnoseparatorss</id>
+  <name>Telegram 删除分隔符</name>
+  <version>0.0.3</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>mobilesubstrate (&gt;= 0.9.5000)</package>
+  </dependencies>
+  <shortDescription><![CDATA[从 Telegram 中删除分隔符
+ * 支持 Telegram、Swiftgram、Turrit、Nicegram
+ * Remove table view cell separators from Telegram]]></shortDescription>
+  <descriptionlist>
+    <description><![CDATA[## 从 Telegram 中删除分隔符<br />- 支持 Telegram、Swiftgram、iMe、Turrit、Nicegram<br />- Remove table view cell separators from Telegram]]></description>
+  </descriptionlist>
+  <screenshots>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>pic1.png</image>
+    </screenshot>
+  </screenshots>
+  <changelog>
+    <change><![CDATA[### 0.0.3<br />- 修复第三方客户端不生效问题]]></change>
+    <change><![CDATA[### 0.0.2<br />- 修复插件不生效问题]]></change>
+    <change><![CDATA[### 0.0.1<br />- 转换支持 Rootless、RootHide]]></change>
+  </changelog>
+  <links></links>
+</package>

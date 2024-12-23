@@ -1,0 +1,17 @@
+<package>
+  <id>org.swift.protobuf.swiftprotobufs</id>
+  <name>SwiftProtobuf</name>
+  <version>1.28.1</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies></dependencies>
+  <shortDescription><![CDATA[Spotify Eevee 依赖
+ * Plugin and runtime library for using protobuf with Swift]]></shortDescription>
+  <descriptionlist></descriptionlist>
+  <screenshots></screenshots>
+  <changelog></changelog>
+  <links></links>
+</package>

@@ -1,0 +1,32 @@
+<package>
+  <id>com.dvntm.oledkeyboards</id>
+  <name>OledKeyboard 纯黑键盘</name>
+  <version>0.0.3</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>mobilesubstrate (&gt;= 0.9.5000)</package>
+  </dependencies>
+  <shortDescription><![CDATA[深色模式下键盘背景显示为纯黑
+ * OLED Dark Mode for iOS System Keyboard]]></shortDescription>
+  <descriptionlist>
+    <description><![CDATA[## 深色模式下键盘背景显示为纯黑<br />- OLED Dark Mode for iOS System Keyboard]]></description>
+  </descriptionlist>
+  <screenshots>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>pic1.png</image>
+    </screenshot>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>pic2.png</image>
+    </screenshot>
+  </screenshots>
+  <changelog>
+    <change><![CDATA[### 0.3<br />- 支持自动填充键盘纯黑背景<br />- 支持键盘上方的条形纯黑背景]]></change>
+  </changelog>
+  <links></links>
+</package>

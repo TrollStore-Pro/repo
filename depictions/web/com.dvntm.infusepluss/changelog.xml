@@ -1,0 +1,26 @@
+<changelog>
+  <changes>
+    <version></version>
+    <change><![CDATA[### 1.3.2]]></change>
+    <change><![CDATA[- 在播放设置菜单中新增了灵活计时器子菜单]]></change>
+    <change><![CDATA[- 在 Infuse 7 中，点击剩余时间的功能仍然可用]]></change>
+    <change><![CDATA[- 启用播放速度子菜单选项会移除 Infuse 8 中的默认子菜单]]></change>
+    <change><![CDATA[- 启用音量增强子菜单选项会移除 Infuse 8 中的默认子菜单]]></change>
+    <change><![CDATA[- 2024.11.27]]></change>
+  </changes>
+  <changes>
+    <version></version>
+    <change><![CDATA[### 1.3.1]]></change>
+    <change><![CDATA[- 修复应用崩溃闪退问题]]></change>
+    <change><![CDATA[- 更新本地化文件]]></change>
+  </changes>
+  <changes>
+    <version></version>
+    <change><![CDATA[### 1.3.0]]></change>
+    <change><![CDATA[- 针对 Infuse 8进行了优化]]></change>
+    <change><![CDATA[- 改进了主代码]]></change>
+    <change><![CDATA[- 更新贡献列表]]></change>
+    <change><![CDATA[- 添加了新的欢迎界面]]></change>
+    <change><![CDATA[- 支持 RootHide ]]></change>
+  </changes>
+</changelog>

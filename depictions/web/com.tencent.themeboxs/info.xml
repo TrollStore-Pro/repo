@@ -1,0 +1,41 @@
+<package>
+  <id>com.tencent.themeboxs</id>
+  <name>主题盒子</name>
+  <version>1.0.5-2</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>mobilesubstrate (&gt;= 0.9.5000)</package>
+  </dependencies>
+  <shortDescription><![CDATA[微信主题插件]]></shortDescription>
+  <descriptionlist>
+    <description><![CDATA[## 微信主题插件<br />- 所有功能必须选择主题才能生效<br />- [原生主题购买地址](https://k.youshop10.com/pvivoLu0)]]></description>
+  </descriptionlist>
+  <screenshots>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>pic1.png</image>
+    </screenshot>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>pic2.png</image>
+    </screenshot>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>pic3.png</image>
+    </screenshot>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>pic4.png</image>
+    </screenshot>
+  </screenshots>
+  <changelog>
+    <change><![CDATA[### 1.0.5-2<br />- 新增背景动画，主题必需有背景图片才能生效<br />- 优化悬浮底栏，允许自定义大小<br />- 悬浮底栏图标新增长按动作]]></change>
+    <change><![CDATA[### 1.0.3-2<br />- 修复1.0-3-1修改底栏动画闪退问题<br />- 修复了1.0.2目前收集到的一些问题<br />- 再次调整底栏样式，将底栏设置移动到了插件首页<br />- 修复底栏点击漂移(点不到)问题<br />- 修复主题包未上传顶栏时从聊天返回首页顶部透明问题<br />- 新增我的页面居中布局增加头像旋转<br />- 新增自定义名字和微信号显示内容]]></change>
+    <change><![CDATA[### 1.0.2-1<br />- 修复用户白嫖主题 Bug<br />- 修复搜索栏透明问题<br />- 修复了一些已知问题<br />- 增加了主题更新功能，以后会用到<br />- 底栏样式做了修改，可以添加描边和发光]]></change>
+  </changelog>
+  <links></links>
+</package>

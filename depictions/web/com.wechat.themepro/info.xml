@@ -1,0 +1,39 @@
+<package>
+  <id>com.wechat.themepro</id>
+  <name>ThemePro 微信主题</name>
+  <version>3.4.4</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>mobilesubstrate</package>
+  </dependencies>
+  <shortDescription><![CDATA[微信主题插件
+ * 由ThemePro团队开发
+ * 用于加载微信美化主题
+ * 安装完成重启微信生效!]]></shortDescription>
+  <descriptionlist>
+    <description><![CDATA[## 微信主题插件]]></description>
+  </descriptionlist>
+  <screenshots>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>pic1.png</image>
+    </screenshot>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>pic2.png</image>
+    </screenshot>
+  </screenshots>
+  <changelog>
+    <change><![CDATA[### 3.4.4<br />- 更新支持动态背景<br />- 修复了服务页美团团购图标不显示<br />- 解决用户切猪咪主题未关闭 TP 导致小底栏消失问题]]></change>
+    <change><![CDATA[### 3.3.5<br />- 修复了微信 8.0.54 从其他页面返回首页，底栏会黑一下的问题<br />- 修复了我的页面订单与卡包变成购物订单与卡包图标不显示问题<br />- 新增一个设置组“个性化设置”原“其他设置”改名为“配套设置”<br />- 新增图标动效功能，大小底栏设置（配套设置内），各种字体修改，背景透明功能（个性化设置内）<br />- 修复了从公众号分类会到首页，顶栏消失问题<br />修复了用户3000+以上主题，应用主题显示不完整的问题]]></change>
+    <change><![CDATA[### 3.1.7<br />- 修复部分用户点击聊天窗口内图片闪退问题]]></change>
+    <change><![CDATA[### 3.1.6<br />- 宝盒之门布局切换按钮失效问题<br />- 适配8.0.54新版本图标加载]]></change>
+    <change><![CDATA[### 3.1.4<br />- 针对拥有大量 TP 主题的用户，为了加快加载主题速度和稳定性，可在宝盒中切换至「纯净模式」，隐藏「下载主题」列表的主题图片，避免因主题过多导致的卡顿或闪退问题。重新进入宝盒就可以回到大图模式。]]></change>
+    <change><![CDATA[### 3.1.2<br />- 修复微信更新的“小店订单与卡包”]]></change>
+  </changelog>
+  <links></links>
+</package>

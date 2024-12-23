@@ -1,0 +1,43 @@
+<package>
+  <id>com.dvntm.ytlites</id>
+  <name>YTLite</name>
+  <version>5.1</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>mobilesubstrate</package>
+  </dependencies>
+  <shortDescription><![CDATA[YouTube Plus 增强插件]]></shortDescription>
+  <descriptionlist>
+    <description><![CDATA[## YouTube 增强插件<br />- 支持去广告<br />- 视频下载<br />- 隐藏各种按钮元素<br />- 包括各种自定功能等]]></description>
+  </descriptionlist>
+  <screenshots>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>pic1.png</image>
+    </screenshot>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>pic2.png</image>
+    </screenshot>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>pic3.png</image>
+    </screenshot>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>pic4.png</image>
+    </screenshot>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>pic5.png</image>
+    </screenshot>
+  </screenshots>
+  <changelog>
+    <change><![CDATA[### 5.1<br />- 修复大量 bug<br />- 修复视频下载闪退<br />- 新增各种功能]]></change>
+  </changelog>
+  <links></links>
+</package>

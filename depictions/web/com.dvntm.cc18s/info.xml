@@ -1,0 +1,29 @@
+<package>
+  <id>com.dvntm.cc18s</id>
+  <name>CC18 iOS18 圆角控制中心</name>
+  <version>0.0.2</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>mobilesubstrate (&gt;= 0.9.5000)</package>
+    <package>firmware (&lt; 18.0)</package>
+  </dependencies>
+  <shortDescription><![CDATA[iOS 18 圆角控制中心
+ * Round CC modules replication, like in iOS 18]]></shortDescription>
+  <descriptionlist>
+    <description><![CDATA[## iOS 18 圆角控制中心<br />- Round CC modules replication, like in iOS 18]]></description>
+  </descriptionlist>
+  <screenshots>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>pic1.png</image>
+    </screenshot>
+  </screenshots>
+  <changelog>
+    <change><![CDATA[### 0.0.2<br />- 修复横屏状态调整音量 UI 错位 BUG]]></change>
+  </changelog>
+  <links></links>
+</package>

@@ -1,0 +1,32 @@
+<package>
+  <id>com.skypain.teleportcns</id>
+  <name>Teleport 简体中文</name>
+  <version>1.0.0-2</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>mobilesubstrate</package>
+    <package>com.teleports.location</package>
+  </dependencies>
+  <shortDescription><![CDATA[Teleport 简体中文]]></shortDescription>
+  <descriptionlist>
+    <description><![CDATA[虚拟定位 Spoof GPS location 简体中文包]]></description>
+  </descriptionlist>
+  <screenshots>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>pic1.png</image>
+    </screenshot>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>pic2.png</image>
+    </screenshot>
+  </screenshots>
+  <changelog>
+    <change><![CDATA[ • 未知]]></change>
+  </changelog>
+  <links></links>
+</package>

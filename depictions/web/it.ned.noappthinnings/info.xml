@@ -1,0 +1,32 @@
+<package>
+  <id>it.ned.noappthinnings</id>
+  <name>NoAppThinning 全量包下载</name>
+  <version>1.4</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>firmware (&gt;= 15.0)</package>
+    <package>mobilesubstrate</package>
+  </dependencies>
+  <shortDescription><![CDATA[允许从 App Store 下载全量包应用
+ * 配合 Dumpdecrypter 全权限砸壳使用
+ * Disable AppStore/TestFlight app thinning - by level3tjg]]></shortDescription>
+  <descriptionlist>
+    <description><![CDATA[## 如果你不需要砸壳请不要安装，全量包框架加密，TrollFools 无法注入全量包应用！！]]></description>
+    <description><![CDATA[## 允许从 App Store 下载全量包应用<br />- 配合 Dumpdecrypter 全权限砸壳使用<br />- Disable AppStore/TestFlight app thinning - by level3tjg]]></description>
+  </descriptionlist>
+  <screenshots>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>pic1.png</image>
+    </screenshot>
+  </screenshots>
+  <changelog>
+    <change><![CDATA[### 1.4<br />- 修复 TestFlight 添加新应用程序的请求]]></change>
+    <change><![CDATA[### 1.3<br />- 修复 TestFlight 3.6.0 失败问题]]></change>
+  </changelog>
+  <links></links>
+</package>

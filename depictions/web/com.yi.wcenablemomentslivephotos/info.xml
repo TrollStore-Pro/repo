@@ -1,0 +1,19 @@
+<package>
+  <id>com.yi.wcenablemomentslivephotos</id>
+  <name>WCEnableMomentsLivePhoto</name>
+  <version>1.1-2</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>mobilesubstrate</package>
+    <package>firmware (&gt;= 14.0)</package>
+  </dependencies>
+  <shortDescription><![CDATA[微信强制开启朋友圈LivePhoto功能。WeChat Enable Testing Moments Live Photo v8.0.51+]]></shortDescription>
+  <descriptionlist></descriptionlist>
+  <screenshots></screenshots>
+  <changelog></changelog>
+  <links></links>
+</package>

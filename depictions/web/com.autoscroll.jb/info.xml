@@ -1,0 +1,31 @@
+<package>
+  <id>com.autoscroll.jb</id>
+  <name>AutoScroll 自动滑动</name>
+  <version>1.0.0</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>mobilesubstrate</package>
+  </dependencies>
+  <shortDescription><![CDATA[页面自动滑动
+ * 安装生效无设置选项
+ * 跟随你的手指滑动幅度，页面始终自动滑动，直到你触摸屏幕才停止]]></shortDescription>
+  <descriptionlist>
+    <description><![CDATA[## 页面自动滑动<br />- 安装生效无设置选项<br />- 跟随你的手指滑动幅度，页面始终自动滑动，直到你触摸屏幕才停止<br />- [阿立视频效果演示](https://t.me/iOS_TrollStore/3731?comment=2798945)]]></description>
+  </descriptionlist>
+  <screenshots>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>meinv.png</image>
+    </screenshot>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>meinv1.png</image>
+    </screenshot>
+  </screenshots>
+  <changelog></changelog>
+  <links></links>
+</package>

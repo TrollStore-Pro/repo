@@ -1,0 +1,31 @@
+<package>
+  <id>com.netskao.awemesaveemojis</id>
+  <name>抖音保存表情 AwemeSaveEmoji</name>
+  <version>1.1-2</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>firmware (&gt;= 12.0)</package>
+    <package>mobilesubstrate</package>
+  </dependencies>
+  <shortDescription><![CDATA[抖音评论区表情保存
+ * 插件位于抖音设置内，默认关闭
+ * 保存评论表情功能仅在 32.3.0 版本上测试
+ * 开启功能后只有评论区中长按表情才可保存至相册（不要点开放大表情）]]></shortDescription>
+  <descriptionlist>
+    <description><![CDATA[## 抖音评论区表情保存<br />- ### 开启功能后只有评论区中长按表情才可保存至相册（不要点开放大表情）<br />- 插件位于抖音设置内，默认关闭<br />- 保存评论表情功能仅在 32.3.0 版本上测试]]></description>
+  </descriptionlist>
+  <screenshots>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>pic1.png</image>
+    </screenshot>
+  </screenshots>
+  <changelog>
+    <change><![CDATA[### 1.1-2<br />- 初始发布]]></change>
+  </changelog>
+  <links></links>
+</package>

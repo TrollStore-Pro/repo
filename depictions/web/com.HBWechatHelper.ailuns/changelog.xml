@@ -1,0 +1,32 @@
+<changelog>
+  <changes>
+    <version></version>
+    <change><![CDATA[### 1.7-8]]></change>
+    <change><![CDATA[- 临时修复微软语音接口修复地区无法访问问题]]></change>
+    <change><![CDATA[- 支持导出本地音色配置]]></change>
+    <change><![CDATA[- 支持纳入本地音色配置]]></change>
+    <change><![CDATA[- 支持删除异常音色配置]]></change>
+    <change><![CDATA[- 新增音色记忆选择功能]]></change>
+    <change><![CDATA[- 新增添加本地明星音色配置]]></change>
+    <change><![CDATA[- 所有功能基于内测群员给予补偿]]></change>
+    <change><![CDATA[- 所有语音都基于本地请求官网服务器转换]]></change>
+    <change><![CDATA[- 考虑情况决定是否把微软音色替换成一个全新的这一版有什么问题尽快说明]]></change>
+  </changes>
+  <changes>
+    <version></version>
+    <change><![CDATA[### 1.7-7]]></change>
+    <change><![CDATA[- 该版本未更新任何功能]]></change>
+    <change><![CDATA[- 仅为打某些🤡的脸]]></change>
+    <change><![CDATA[- 一言不合就喊跑路]]></change>
+    <change><![CDATA[- 内测用户强烈建议更新]]></change>
+    <change><![CDATA[- 该版本无需群验证且7天检测一次授权]]></change>
+    <change><![CDATA[- 避免授权失效问题]]></change>
+    <change><![CDATA[- 昨晚还在维护 谈何跑路]]></change>
+    <change><![CDATA[- 待一切处理完整后开源]]></change>
+  </changes>
+  <changes>
+    <version></version>
+    <change><![CDATA[### 1.7.6]]></change>
+    <change><![CDATA[- 优化]]></change>
+  </changes>
+</changelog>

@@ -1,0 +1,34 @@
+<package>
+  <id>com.netskao.awemeclearlikess</id>
+  <name>抖音清除点赞 AwemeClearLikes</name>
+  <version>1.1-2</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>firmware (&gt;= 15.0)</package>
+    <package>mobilesubstrate</package>
+  </dependencies>
+  <shortDescription><![CDATA[抖音清除点赞
+ * 自动清除抖音喜欢点赞过的视频
+ * 使用：抖音-我-喜欢界面-摇晃手机]]></shortDescription>
+  <descriptionlist>
+    <description><![CDATA[## 抖音增强插件<br />- 自动清除抖音喜欢点赞过的视频<br />- 使用：抖音-我-喜欢界面-摇晃手机]]></description>
+  </descriptionlist>
+  <screenshots>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>pic1.png</image>
+    </screenshot>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>pic2.png</image>
+    </screenshot>
+  </screenshots>
+  <changelog>
+    <change><![CDATA[### 1.1-2<br />- 初始发布]]></change>
+  </changelog>
+  <links></links>
+</package>

@@ -1,0 +1,52 @@
+<package>
+  <id>visibleisland</id>
+  <name>VisibleIsland 灵动岛</name>
+  <version>2.0</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>firmware (&gt;= 16.0)</package>
+    <package>mobilesubstrate (&gt;= 0.9.5000)</package>
+    <package>preferenceloader</package>
+    <package>firmware (&gt;= 16.0)</package>
+  </dependencies>
+  <shortDescription><![CDATA[在旧设备上启用、修复和自定义灵动岛位置。（由M哥汉化）]]></shortDescription>
+  <descriptionlist>
+    <description><![CDATA[# VisibleIsland<br />VisibleIsland brings a new and simple way to enable and configure the Dynamic Island on older devices.<br /><br />## Features:<br />- Enable/disable the Dynamic Island with the flip of a switch<br />- Fix the position of the Dynamic Island to be under the notch as opposed to halfway under it<br />- Set the position of the Dynamic Island to anywhere you want using custom X and Y offsets<br />- Hide the Dynamic Island when not in use<br />- Fix the position of notification banners to below the island for better visibility<br />- Set the position of notification banners to anywhere using custom X and Y offsets<br />- Set the scale of the Dynamic Island to whatever size you like<br />- Set the transparency of the Dynamic Island to exactly what you want<br />- Customize the color of the Dynamic Island<br /><br /><br />**Disclaimer**<br /><br />As of now, the option to fix the Dynamic Island position to directly under the notch is only officially supported on a few devices (list below), as I don't have a huge spectrum of devices to test on. If your device isn't fully compatible, use the custom positioning instead.<br /> <br /><br />## Fully supported devices:<br />- iPhone X<br />- iPhone XS<br />- iPhone 11 Pro<br />- iPhone 13<br />- iPhone 13 Pro<br />- iPhone 14<br /> <br /> <br />**Note**<br /><br />Some devices are currently set up using "fake" offsets calculated by setting the resolution on a device with the same size notch and finding a good position for the island. I'm not sure if these will work correctly on these devices, but ideally they should. Here's a list of the "fake" offset devices below.<br /> <br /> <br />## "Fake" offset devices:<br />- iPhone XR<br />- iPhone 11<br />- iPhone XS Max<br />- iPhone 11 Pro Max<br />- iPhone 13 Mini<br />- iPhone 13 Pro Max<br /> <br /> <br />**Version/jailbreak compatibility**<br /><br />Full support for iOS 16.0 - 16.6.1 rootless or roothide (bootstrap + serotonin)<br /> <br /> <br />**Coming soon:**<br />- More official device support<br />- iPad support (v2.1?)<br />- Fix the status bar size to accommodate for the Dynamic Island (maybe)<br /><br />**Known issues (fixes soon):**<br />- Black rectangle behind some elements (i.e. timer or FaceID unlock glyph) when using a custom color and/or transparency<br />- Red status bar (😳 rdar:45025538) on iPhone XR and 11 - a separate fix already exists but I'll implement it into the tweak soon<br />]]></description>
+  </descriptionlist>
+  <screenshots>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>sc1.png</image>
+    </screenshot>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>sc2.png</image>
+    </screenshot>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>sc3.png</image>
+    </screenshot>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>sc4.png</image>
+    </screenshot>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>sc5.png</image>
+    </screenshot>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>sc6.png</image>
+    </screenshot>
+  </screenshots>
+  <changelog>
+    <change><![CDATA[#### Version 2.0<br /><br />New:<br />- Fixed a bug where the Dynamic Island would flicker and shake when 'hide when not in use' is enabled<br />- Added new options to customize the color of the Dynamic Island<br />- Added a new option to hide the island outline<br />- Added a new option to customize the scale of the Dynamic Island<br />- Added a new option to set a custom transparency for the Dynamic Island]]></change>
+    <change><![CDATA[#### Version 1.1-b1<br /><br />New features:<br />- Added new option to disable the Dynamic Island when not in use<br />- Added option to move notification banners to below the Dynamic Island<br />- Added custom positioning for notification banners using custom X and Y offsets]]></change>
+    <change><![CDATA[#### Version 1.0-b1<br /><br />Initial beta release]]></change>
+  </changelog>
+  <links></links>
+</package>

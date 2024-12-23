@@ -1,0 +1,167 @@
+<changelog>
+  <changes>
+    <version></version>
+    <change><![CDATA[### 2.0.8+5+debug]]></change>
+    <change><![CDATA[- 修复长按菜单中倍速显示异常]]></change>
+  </changes>
+  <changes>
+    <version></version>
+    <change><![CDATA[### 2.0.8+5]]></change>
+    <change><![CDATA[- 修复长按倍速显示问题并新增1.25倍]]></change>
+    <change><![CDATA[- 修复背景视频换图片时还是视频问题]]></change>
+  </changes>
+  <changes>
+    <version></version>
+    <change><![CDATA[### 2.0.8+3]]></change>
+    <change><![CDATA[- 新增插件可选择视频背景]]></change>
+    <change><![CDATA[- 修复一些人保存GIF的问题]]></change>
+    <change><![CDATA[- 优化一些细节]]></change>
+  </changes>
+  <changes>
+    <version></version>
+    <change><![CDATA[### 2.0.8+1]]></change>
+    <change><![CDATA[- 新增移除消息界面顶部横向排列大头]]></change>
+    <change><![CDATA[- 2024.12.01]]></change>
+  </changes>
+  <changes>
+    <version></version>
+    <change><![CDATA[### 2.0.8]]></change>
+    <change><![CDATA[- 新增一项花里胡哨的按钮(最近很火的那个)]]></change>
+    <change><![CDATA[- 新增一个小丑功能(修改自己作品的点赞/播放/浏览/收藏/评论)_Q群小佳]]></change>
+    <change><![CDATA[- 修复一些已知问题]]></change>
+    <change><![CDATA[- 插件免费使用如你是买的，说明你被骗了，同时你也是小丑]]></change>
+    <change><![CDATA[- 2024.12.01]]></change>
+  </changes>
+  <changes>
+    <version></version>
+    <change><![CDATA[### 2.0.7+8]]></change>
+    <change><![CDATA[- 新增自定义接口]]></change>
+    <change><![CDATA[- 修复一些bug 优化一些细节]]></change>
+    <change><![CDATA[- 修复纯净模式时无法拉动长频进度条]]></change>
+    <change><![CDATA[- 修复隐藏进度条后还有一条线的问题]]></change>
+    <change><![CDATA[- 新增底部显示发布时间顶部弹窗显示时状态栏颜色问题修复]]></change>
+    <change><![CDATA[- 修复键盘颜色问题]]></change>
+    <change><![CDATA[- 优化评论区保存方案1]]></change>
+    <change><![CDATA[- 修复首页连播打开评论区时还会自动下一条问题]]></change>
+    <change><![CDATA[- 2024.11.23]]></change>
+  </changes>
+  <changes>
+    <version></version>
+    <change><![CDATA[### 2.0.7+6]]></change>
+    <change><![CDATA[- 修复纯净模式下无法拉动长视频滑条]]></change>
+    <change><![CDATA[- 修复隐藏进度条后还有一条长线]]></change>
+    <change><![CDATA[- 优化功能打开提示弹窗]]></change>
+    <change><![CDATA[- 优化抖音浅色模式下解析弹窗导致状态栏变色]]></change>
+    <change><![CDATA[- 优化一些细节]]></change>
+  </changes>
+  <changes>
+    <version></version>
+    <change><![CDATA[### 2.0.7+5]]></change>
+    <change><![CDATA[- 修复31.8.0直播间实际人数问题]]></change>
+    <change><![CDATA[- 修复31.9.0底部消息红点夫效]]></change>
+    <change><![CDATA[- 修复 31.9.0 直播界面异常]]></change>
+    <change><![CDATA[- 开启仅看一次开启下载按钮后 仅看一次视频或图片不会自动消失]]></change>
+  </changes>
+  <changes>
+    <version></version>
+    <change><![CDATA[### 2.0.7+3]]></change>
+    <change><![CDATA[- 修复一些bug ]]></change>
+    <change><![CDATA[- 移除全屏时打开评论区顶部黑块]]></change>
+    <change><![CDATA[- 尝试修复部分设备全屏无效]]></change>
+    <change><![CDATA[- 新增首页自动连播]]></change>
+    <change><![CDATA[- 纯净播放按钮支持相册导入gif ]]></change>
+    <change><![CDATA[- 新增移除视频底部热点相关视频等视图]]></change>
+  </changes>
+  <changes>
+    <version></version>
+    <change><![CDATA[### 2.0.7+2]]></change>
+    <change><![CDATA[- 新增视屏批量下载合集]]></change>
+    <change><![CDATA[- 新增倍速按钮自定义调节(重新打开开关) ]]></change>
+    <change><![CDATA[- 新增可自由选择是否添加图文保存视频按钮]]></change>
+    <change><![CDATA[- 新增纯净模式按钮图标自行更改(最底部选取) ]]></change>
+    <change><![CDATA[- 长按关闭输入我爱嘉嘉可以更改头像旁名字]]></change>
+    <change><![CDATA[- 修复右上角搜索透明度失败]]></change>
+    <change><![CDATA[- 修复首页全屏偶尔失效]]></change>
+    <change><![CDATA[- 修复一些已知问题]]></change>
+    <change><![CDATA[- 优化一些插件代码]]></change>
+  </changes>
+  <changes>
+    <version></version>
+    <change><![CDATA[### 2.0.7+1]]></change>
+    <change><![CDATA[- 支持非越狱环境使用]]></change>
+    <change><![CDATA[- 新增全屏播放]]></change>
+    <change><![CDATA[- 新增快捷发送消息(类续火花) ]]></change>
+    <change><![CDATA[- 新增长按菜单微透]]></change>
+    <change><![CDATA[- 新增评论区微透]]></change>
+    <change><![CDATA[- 新增解析支持选择实况/图片/视屏下载]]></change>
+    <change><![CDATA[- 新增主页视频/图片批量下载]]></change>
+    <change><![CDATA[- 新增消息防撤回]]></change>
+    <change><![CDATA[- 新增仅看一次下载按钮]]></change>
+    <change><![CDATA[- 新增解除仅看一次限制(会变成自己发的) ]]></change>
+    <change><![CDATA[- 新增隐藏稍后再看]]></change>
+    <change><![CDATA[- 新增隐藏右侧豆包图标]]></change>
+    <change><![CDATA[- 新增纯净模式按钮隐藏]]></change>
+    <change><![CDATA[- 视频右侧新增倍速按钮]]></change>
+  </changes>
+  <changes>
+    <version></version>
+    <change><![CDATA[#### 2.0.7]]></change>
+    <change><![CDATA[- 修夏自动发送消息为置顶时的错误 现在可以正常发送，首次可能提示错误，但是不影响]]></change>
+    <change><![CDATA[- 对纯净模式进行优化，现在可选择默认开启与按钮开启/ 关闭，理论对所有视频有效]]></change>
+    <change><![CDATA[- 保存图片为视频(调用了dy自带的保存方法 只是更快捷点）]]></change>
+    <change><![CDATA[- 作品是图片但是播放的是视频 增加个保存当前视频的方法]]></change>
+    <change><![CDATA[- 对部分长按菜单设置了个视图微透明度]]></change>
+    <change><![CDATA[- 新增全屏播放]]></change>
+    <change><![CDATA[- 新增评论区视图微透]]></change>
+    <change><![CDATA[- 优化一些代码]]></change>
+  </changes>
+  <changes>
+    <version></version>
+    <change><![CDATA[### 2.0.6+8.1]]></change>
+    <change><![CDATA[- 新增自动发送连续消息]]></change>
+    <change><![CDATA[- 设置完成后打开抖音自动发送(每天仅发一次)]]></change>
+    <change><![CDATA[- 修复一些问题]]></change>
+  </changes>
+  <changes>
+    <version></version>
+    <change><![CDATA[### 2.0.6+8]]></change>
+    <change><![CDATA[- 最终版]]></change>
+    <change><![CDATA[- 如果后续有其它收费的免越狱插件，此插件可能会继续对免越狱免费开放]]></change>
+  </changes>
+  <changes>
+    <version></version>
+    <change><![CDATA[### 2.0.6+5]]></change>
+    <change><![CDATA[- 新增右侧图标大小更改(狗楠说他想要，就给他一次)]]></change>
+    <change><![CDATA[- 优化评论区实况保存]]></change>
+    <change><![CDATA[- 调整保存清晰度]]></change>
+  </changes>
+  <changes>
+    <version></version>
+    <change><![CDATA[### 2.0.6+3]]></change>
+    <change><![CDATA[- 新增作品实况保存，原解析按钮打开即可，一些单个的实况作品仅能保存为视频(这个傻逼一个几秒的实况放几十秒的音乐)]]></change>
+    <change><![CDATA[- 适配最新版抖音，修复最新版抖音导致评论区保存图片方案三失效]]></change>
+    <change><![CDATA[- 优化评论区保存实况逻辑。]]></change>
+  </changes>
+  <changes>
+    <version></version>
+    <change><![CDATA[### 2.0.6+2]]></change>
+    <change><![CDATA[- 修复一些老设备闪退的问题]]></change>
+  </changes>
+  <changes>
+    <version></version>
+    <change><![CDATA[### 2.0.6+1]]></change>
+    <change><![CDATA[- 新增强制保存评论区实况]]></change>
+    <change><![CDATA[- 修复一些问题]]></change>
+    <change><![CDATA[- 优化一些功能]]></change>
+  </changes>
+  <changes>
+    <version></version>
+    <change><![CDATA[### 2.0.6]]></change>
+    <change><![CDATA[- 新增续火功能(增强选项开启) ]]></change>
+    <change><![CDATA[- 新增主页视频批量下下载(增强选项开启) ]]></change>
+    <change><![CDATA[- 消息防撤回]]></change>
+    <change><![CDATA[- 仅看一次视/图下载]]></change>
+    <change><![CDATA[- 修复一些问题]]></change>
+    <change><![CDATA[- 优化一些细节]]></change>
+  </changes>
+</changelog>

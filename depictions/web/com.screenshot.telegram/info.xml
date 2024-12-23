@@ -1,0 +1,29 @@
+<package>
+  <id>com.screenshot.telegram</id>
+  <name>Telegram 去除截图限制</name>
+  <version>1.0</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>firmware (&gt;= 14.0)</package>
+  </dependencies>
+  <shortDescription><![CDATA[部分群组频道开启限制截图功能，安装后可以绕过限制
+ * 支持 Swiftgram、Turit、iMe、Nicegram
+ * Some group channels have enabled restrictions on screenshotting. After installation, this can bypass the restriction]]></shortDescription>
+  <descriptionlist>
+    <description><![CDATA[## 支持 Swiftgram、Turit、iMe、Nicegram<br />- 部分群组频道开启限制截图功能，安装后可以绕过限制<br />- Some group channels have enabled restrictions on screenshotting. After installation, this can bypass the restriction]]></description>
+  </descriptionlist>
+  <screenshots>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>pic2.png</image>
+    </screenshot>
+  </screenshots>
+  <changelog>
+    <change><![CDATA[### 1.0<br />- 初始发布]]></change>
+  </changelog>
+  <links></links>
+</package>

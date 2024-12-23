@@ -1,0 +1,19 @@
+<package>
+  <id>com.iosrxwy.xmlynoads</id>
+  <name>喜马拉雅 NoAd</name>
+  <version>0.1-1</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>firmware (&gt;= 5.0)</package>
+    <package>mobilesubstrate</package>
+  </dependencies>
+  <shortDescription><![CDATA[喜马拉雅去广告，非破解！]]></shortDescription>
+  <descriptionlist></descriptionlist>
+  <screenshots></screenshots>
+  <changelog></changelog>
+  <links></links>
+</package>

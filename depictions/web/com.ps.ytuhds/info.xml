@@ -1,0 +1,20 @@
+<package>
+  <id>com.ps.ytuhds</id>
+  <name>YouTube YTUHD</name>
+  <version>1.5.5</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>mobilesubstrate (&gt;= 0.9.5000)</package>
+    <package>firmware (&gt;= 11.0)</package>
+  </dependencies>
+  <shortDescription><![CDATA[解锁 YouTube 1440p 和 2160p 分辨率
+ * Unlock 1440p and 2160p resolutions in iOS YouTube app.]]></shortDescription>
+  <descriptionlist></descriptionlist>
+  <screenshots></screenshots>
+  <changelog></changelog>
+  <links></links>
+</package>

@@ -1,0 +1,19 @@
+<package>
+  <id>netskao.BlockAppsCreateAlbum</id>
+  <name>禁止应用自动创建相册BlockAppsCreateAlbum</name>
+  <version>1.1.2</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>mobilesubstrate</package>
+    <package>firmware (&gt;= 15.0)</package>
+  </dependencies>
+  <shortDescription><![CDATA[阻止应用创建自己的相册]]></shortDescription>
+  <descriptionlist></descriptionlist>
+  <screenshots></screenshots>
+  <changelog></changelog>
+  <links></links>
+</package>

@@ -1,0 +1,29 @@
+<package>
+  <id>com.tiaotiao.betteruiswitchs</id>
+  <name>JB 按钮 BetterUISwitch</name>
+  <version>1.1</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>mobilesubstrate</package>
+    <package>firmware (&gt;= 14.0)</package>
+  </dependencies>
+  <shortDescription><![CDATA[修改开关按钮 UI 为 JB/B
+ * 无设置全局默认生效]]></shortDescription>
+  <descriptionlist>
+    <description><![CDATA[## 修改开关按钮 UI 为 JB/B<br />- 无设置全局默认生效]]></description>
+  </descriptionlist>
+  <screenshots>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>pic1.png</image>
+    </screenshot>
+  </screenshots>
+  <changelog>
+    <change><![CDATA[### 1.1<br />- 初始发布]]></change>
+  </changelog>
+  <links></links>
+</package>

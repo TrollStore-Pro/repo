@@ -1,0 +1,13 @@
+<changelog>
+  <changes>
+    <version></version>
+    <change><![CDATA[### 1.4.4]]></change>
+    <change><![CDATA[- 允许 TrollStore 安装的应用重置数据和权限]]></change>
+  </changes>
+  <changes>
+    <version></version>
+    <change><![CDATA[### 1.4.3]]></change>
+    <change><![CDATA[- 优化显示数据大小加载速度]]></change>
+    <change><![CDATA[- 降级应用显示ID]]></change>
+  </changes>
+</changelog>

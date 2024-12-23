@@ -1,0 +1,19 @@
+<package>
+  <id>com.initnil.wcenableshowcontactaddcreatetimes</id>
+  <name>WCEnableShowContactAddCreateTime</name>
+  <version>1.1-1</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>mobilesubstrate</package>
+    <package>firmware (&gt;= 14.0)</package>
+  </dependencies>
+  <shortDescription><![CDATA[微信显示好友添加时间 WeChat Enable Testing Show Contact Add CreateTime v8.0.51+]]></shortDescription>
+  <descriptionlist></descriptionlist>
+  <screenshots></screenshots>
+  <changelog></changelog>
+  <links></links>
+</package>

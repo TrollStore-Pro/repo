@@ -1,0 +1,38 @@
+<package>
+  <id>com.BeanbunsHelpers.DBs</id>
+  <name>抖音 豆包助手</name>
+  <version>1.0-1</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>mobilesubstrate</package>
+  </dependencies>
+  <shortDescription><![CDATA[抖音增强插件
+ * 无水印保存视频、图片、音频
+ * 双击打开评论区
+ * 隐藏菜单按钮]]></shortDescription>
+  <descriptionlist>
+    <description><![CDATA[## 抖音增强插件<br />- 无水印保存视频、图片、音频<br />-双击打开评论区<br />- 隐藏菜单按钮<br />- 插件设置位于抖音设置内]]></description>
+  </descriptionlist>
+  <screenshots>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>pic1.png</image>
+    </screenshot>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>pic2.png</image>
+    </screenshot>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>pic3.png</image>
+    </screenshot>
+  </screenshots>
+  <changelog>
+    <change><![CDATA[### 1.0-1<br />- 初始发布]]></change>
+  </changelog>
+  <links></links>
+</package>

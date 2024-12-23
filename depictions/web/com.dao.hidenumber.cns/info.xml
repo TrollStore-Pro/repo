@@ -1,0 +1,32 @@
+<package>
+  <id>com.dao.hidenumber.cns</id>
+  <name>HideSerialNumber 简体中文包</name>
+  <version>0.0.4</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>mobilesubstrate</package>
+    <package>com.ichitaso.hideserialnumbers</package>
+  </dependencies>
+  <shortDescription><![CDATA[HideSerialNumber 简体中文包]]></shortDescription>
+  <descriptionlist>
+    <description><![CDATA[HideSerialNumber 简体中文包]]></description>
+  </descriptionlist>
+  <screenshots>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>pic1.png</image>
+    </screenshot>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>pic2.png</image>
+    </screenshot>
+  </screenshots>
+  <changelog>
+    <change><![CDATA[ • 未知]]></change>
+  </changelog>
+  <links></links>
+</package>

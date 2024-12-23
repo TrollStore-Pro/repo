@@ -1,0 +1,31 @@
+<package>
+  <id>io.github.trollstore-pro.visibleisland-arm64e</id>
+  <name>VisibleIsland开启灵动岛-RootHide</name>
+  <version>2.0</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>firmware (&gt;=16.0)</package>
+    <package>mobilesubstrate (&gt;= 0.9.5000)</package>
+    <package>preferenceloader</package>
+    <package>firmware (&gt;= 16.0)</package>
+  </dependencies>
+  <shortDescription><![CDATA[Enable, fix, and customize the Dynamic Island on older devices.半越狱请安装这个！VisibleIsland 是一款为老设备但是是iOS16系统的开启灵动岛的插件。主要特点：一键开启灵动岛，免费，简单。支持自定义灵动岛位置。支持自定义通知位置。支持自定义灵动岛透明度和颜色。支持自定义灵动岛比例。VisibleIsland 仅仅支持 iOS 16.0 - 16.6.1 系统。iOS 15 及更低版本系统，请勿安装！请勿安装！请勿安装！原生就有灵动岛的设备，请勿安装！全能玩机源已完整汉化，享受吧！]]></shortDescription>
+  <descriptionlist>
+    <description><![CDATA[Enable, fix, and customize the Dynamic Island on older devices.半越狱请安装这个！VisibleIsland 是一款为老设备但是是iOS16系统的开启灵动岛的插件。主要特点：一键开启灵动岛，免费，简单。支持自定义灵动岛位置。支持自定义通知位置。支持自定义灵动岛透明度和颜色。支持自定义灵动岛比例。VisibleIsland 仅仅支持 iOS 16.0 - 16.6.1 系统。iOS 15 及更低版本系统，请勿安装！请勿安装！请勿安装！原生就有灵动岛的设备，请勿安装！全能玩机源已完整汉化，享受吧！]]></description>
+    <description><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></description>
+  </descriptionlist>
+  <screenshots>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>5bceb0f15083f0674c2dc2038d84dedccfe8a5db.jpg</image>
+    </screenshot>
+  </screenshots>
+  <changelog>
+    <change><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></change>
+  </changelog>
+  <links></links>
+</package>

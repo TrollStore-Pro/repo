@@ -1,0 +1,41 @@
+<package>
+  <id>com.shepgoba.settingswidgetss</id>
+  <name>SettingsWidgets 设置小部件</name>
+  <version>1.2.3</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>mobilesubstrate</package>
+    <package>preferenceloader</package>
+  </dependencies>
+  <shortDescription><![CDATA[将好看的小部件带到设置首页！
+ * Bring good looking widgets to the front page of settings!]]></shortDescription>
+  <descriptionlist>
+    <description><![CDATA[### 将好看的小部件带到设置首页！<br />- Bring good looking widgets to the front page of settings!]]></description>
+  </descriptionlist>
+  <screenshots>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>pic1.png</image>
+    </screenshot>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>pic2.png</image>
+    </screenshot>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>pic3.png</image>
+    </screenshot>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>pic4.png</image>
+    </screenshot>
+  </screenshots>
+  <changelog>
+    <change><![CDATA[暂无]]></change>
+  </changelog>
+  <links></links>
+</package>

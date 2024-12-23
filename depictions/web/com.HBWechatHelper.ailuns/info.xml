@@ -1,0 +1,50 @@
+<package>
+  <id>com.HBWechatHelper.ailuns</id>
+  <name>黄白助手</name>
+  <version>1.7-8</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>mobilesubstrate</package>
+  </dependencies>
+  <shortDescription><![CDATA[微信插件多功能插件
+ * 文本转语音，文案语录
+ * 点歌朋友圈一键点赞
+ * 禁用控件，设置布局大小
+ * 私聊发抢自己的红包，群聊管理
+ * 朋友圈保存实况 Live 图
+ * 消息防撤回，艾特所有人
+ * 朋友圈自定义选取位置
+ * 消息双击复读，修改气泡，修改按钮图标，修改显示微信号，自动呼出键盘，
+ * 微信运动一键点赞，头像转发好友，强制下载 dylib 文件，设置全局圆头像，百变消息小尾巴，朋友圈小尾巴，等诸多功能]]></shortDescription>
+  <descriptionlist>
+    <description><![CDATA[ ## 微信插件<br />- 一个微信插件文本转语音（付费功能）<br />- 点歌朋友圈一键点赞等诸多功能<br />- 发送网络语录舔狗日记骂人等文案<br />- 4K原图手绘壁纸等<br />- 抢私聊红包<br />- 自定义信息尾巴<br />- 自定义拍一拍、百变小尾巴、实时尾巴时间等功能]]></description>
+  </descriptionlist>
+  <screenshots>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>pic1.png</image>
+    </screenshot>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>pic2.png</image>
+    </screenshot>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>pic3.png</image>
+    </screenshot>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>pic4.png</image>
+    </screenshot>
+  </screenshots>
+  <changelog>
+    <change><![CDATA[### 1.7-8<br />- 临时修复微软语音接口修复地区无法访问问题<br />- 支持导出本地音色配置<br />- 支持纳入本地音色配置<br />- 支持删除异常音色配置<br />- 新增音色记忆选择功能<br />- 新增添加本地明星音色配置<br />- 所有功能基于内测群员给予补偿<br />- 所有语音都基于本地请求官网服务器转换<br />- 考虑情况决定是否把微软音色替换成一个全新的这一版有什么问题尽快说明]]></change>
+    <change><![CDATA[### 1.7-7<br />- 该版本未更新任何功能<br />- 仅为打某些🤡的脸<br />- 一言不合就喊跑路<br />- 内测用户强烈建议更新<br />- 该版本无需群验证且7天检测一次授权<br />- 避免授权失效问题<br />- 昨晚还在维护 谈何跑路<br />- 待一切处理完整后开源]]></change>
+    <change><![CDATA[### 1.7.6<br />- 优化]]></change>
+  </changelog>
+  <links></links>
+</package>

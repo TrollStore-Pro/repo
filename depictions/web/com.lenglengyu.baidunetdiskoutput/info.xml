@@ -1,0 +1,27 @@
+<package>
+  <id>com.lenglengyu.baidunetdiskoutput</id>
+  <name>百度网盘导出文件</name>
+  <version>1.0.1K</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>mobilesubstrate</package>
+  </dependencies>
+  <shortDescription><![CDATA[百度网盘下载管理添加导出按钮]]></shortDescription>
+  <descriptionlist>
+    <description><![CDATA[## 百度网盘下载管理添加导出按钮]]></description>
+  </descriptionlist>
+  <screenshots>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>pic1.png</image>
+    </screenshot>
+  </screenshots>
+  <changelog>
+    <change><![CDATA[### 1.0.1k<br />- 初始发布]]></change>
+  </changelog>
+  <links></links>
+</package>

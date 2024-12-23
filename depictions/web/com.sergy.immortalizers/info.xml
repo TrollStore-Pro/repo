@@ -1,0 +1,32 @@
+<package>
+  <id>com.sergy.immortalizers</id>
+  <name>Immortalizer 真后台</name>
+  <version>2.0.0-1</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>mobilesubstrate (&gt;= 0.9.5000)</package>
+    <package>preferenceloader</package>
+    <package>com.opa334.altlist</package>
+  </dependencies>
+  <shortDescription><![CDATA[让应用真后台运行，锁屏状态也能保持后台状态
+ * Foreground your tweaks even if they are in the background]]></shortDescription>
+  <descriptionlist>
+    <description><![CDATA[## 越狱永生，应用真后台插件<br />- 将您的应用保持在前台无限运行，即使它们处于后台！<br />- 您是否厌倦了某些应用必须在前台才能执行某些操作？或者，您是否想让应用在后台不被挂起？别担心，Immortalizer帮您解决！]]></description>
+    <description><![CDATA[## 功能特点<br />- 通过 3D Touch 菜单启用/禁用应用真后台运行（前台保持）<br />- 即使屏幕关闭或设备锁定也能正常运行，因此会减少电量损耗<br />- 提供状态指示器或提示消息选项，取决于应用的状态<br />- 允许您为某些在前台模式下无法显示通知的应用启用通知]]></description>
+  </descriptionlist>
+  <screenshots>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>pic1.png</image>
+    </screenshot>
+  </screenshots>
+  <changelog>
+    <change><![CDATA[### 2.0.0-1<br />- 修复了与某些拦截通知的插件（例如 Glance）冲突的错误<br />- 修复了控制中心模块的禁用按钮无响应的问题<br />- 修复了某些应用程序崩溃或卡顿的问题<br />- 修复了键盘无法使用的问题<br />- 提高了前台优化<br />- 优化了弹窗动画]]></change>
+    <change><![CDATA[### 1.0.1<br />- 修复了屏幕旋转在开启了“真后台”应用上不起作用的错误<br />- 改进安全检查]]></change>
+  </changelog>
+  <links></links>
+</package>

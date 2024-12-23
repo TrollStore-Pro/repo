@@ -1,0 +1,30 @@
+<package>
+  <id>com.xx.kshooks</id>
+  <name>快手图层</name>
+  <version>1.0.6-3</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>mobilesubstrate (&gt;= 0.9.5000)</package>
+  </dependencies>
+  <shortDescription><![CDATA[快手增强插件
+ * 插件入口：依次点击-我-右上角三横-空白处长按打开菜单开启功能或在设置右上角打开
+ * 移除一些广告、弹窗
+ * 无水印保存视频图片]]></shortDescription>
+  <descriptionlist>
+    <description><![CDATA[## 快手增强插件<br />- 插件入口：依次点击-我-右上角三横-空白处长按打开菜单开启功能或在设置右上角打开<br />- 移除一些广告和弹窗<br />- 无水印保存图片、视频]]></description>
+  </descriptionlist>
+  <screenshots>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>pic1.png</image>
+    </screenshot>
+  </screenshots>
+  <changelog>
+    <change><![CDATA[### 1.0.6-3<br />- 初始发布]]></change>
+  </changelog>
+  <links></links>
+</package>

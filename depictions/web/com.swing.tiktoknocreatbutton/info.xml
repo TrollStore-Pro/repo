@@ -1,0 +1,20 @@
+<package>
+  <id>com.swing.tiktoknocreatbutton</id>
+  <name>移除 TikTok ➕按钮</name>
+  <version>1.0.0</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>mobilesubstrate (&gt;= 0.9.5000)</package>
+  </dependencies>
+  <shortDescription><![CDATA[TikTokNoCreatButton
+ * 移除 TikTok ➕创作按钮
+ * TikTok removes the create button from the TabBar!]]></shortDescription>
+  <descriptionlist></descriptionlist>
+  <screenshots></screenshots>
+  <changelog></changelog>
+  <links></links>
+</package>

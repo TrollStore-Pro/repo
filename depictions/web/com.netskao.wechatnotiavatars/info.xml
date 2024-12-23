@@ -1,0 +1,33 @@
+<package>
+  <id>com.netskao.wechatnotiavatars</id>
+  <name>WeChatNotiAvatar 微信头像</name>
+  <version>1.2-5</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>firmware (&gt;= 15.0)</package>
+    <package>firmware (&lt;&lt; 17.0)</package>
+    <package>mobilesubstrate</package>
+  </dependencies>
+  <shortDescription><![CDATA[让微信消息通知显示微信好友头像，傻逼张小龙为什么不支持？]]></shortDescription>
+  <descriptionlist>
+    <description><![CDATA[仅支持越狱环境，注入无效 </br> </br> 让微信消息通知显示微信好友头像 </br> </br> 傻逼张小龙为什么不支持？]]></description>
+  </descriptionlist>
+  <screenshots>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>pic1.png</image>
+    </screenshot>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>.</image>
+    </screenshot>
+  </screenshots>
+  <changelog>
+    <change><![CDATA[ • 未知]]></change>
+  </changelog>
+  <links></links>
+</package>

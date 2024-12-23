@@ -1,0 +1,37 @@
+<package>
+  <id>com.netskao.awemevideotimes</id>
+  <name>抖音时间 AwemeVideoTime</name>
+  <version>1.1-2</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>firmware (&gt;= 15.0)</package>
+    <package>mobilesubstrate</package>
+  </dependencies>
+  <shortDescription><![CDATA[抖音视频下方显示视频时长
+ * 仅在30.3.0及更高版本上进行测试]]></shortDescription>
+  <descriptionlist>
+    <description><![CDATA[## 抖音增强插件<br />- 抖音视频下方显示视频时长<br />- 仅在30.3.0及更高版本上进行测试]]></description>
+  </descriptionlist>
+  <screenshots>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>pic1.png</image>
+    </screenshot>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>pic2.png</image>
+    </screenshot>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>pic3.png</image>
+    </screenshot>
+  </screenshots>
+  <changelog>
+    <change><![CDATA[### 1.1-2<br />- 修复通过搜索播放的视频不显示时间问题]]></change>
+  </changelog>
+  <links></links>
+</package>

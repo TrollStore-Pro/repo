@@ -1,0 +1,32 @@
+<package>
+  <id>netskao.wechatpurifications</id>
+  <name>微信净化</name>
+  <version>4.2-7</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>firmware (&gt;= 12.0)</package>
+    <package>mobilesubstrate (&gt;= 0.9.5000)</package>
+  </dependencies>
+  <shortDescription><![CDATA[微信净化，还原聊天本质，干净的微信给你，仅支持8.0.29及以上版本，设置位于微信-设置]]></shortDescription>
+  <descriptionlist>
+    <description><![CDATA[# 微信净化<br />- 还原聊天本质，干净的微信给你<br />- 仅支持8.0.29及以上版本，设置位于微信-设置 <br />- END 为最终版不再更新]]></description>
+  </descriptionlist>
+  <screenshots>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>pic1.png</image>
+    </screenshot>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>pic2.png</image>
+    </screenshot>
+  </screenshots>
+  <changelog>
+    <change><![CDATA[### 4.2-7 END<br />- 和过去做个告别，去年的最后一个版本<br />- 上传留作纪念，永远不再维护<br />- 移除红包相关功能<br />- 移除文字转语音<br />- 移除时间限制（永久使用）<br />- 移除黑名单（曾经被净化拉黑用户） <br />- 适配插件管理（收纳功能）<br />- 修复自动领取红包闪退 ]]></change>
+  </changelog>
+  <links></links>
+</package>

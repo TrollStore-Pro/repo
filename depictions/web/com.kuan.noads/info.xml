@@ -1,0 +1,21 @@
+<package>
+  <id>com.kuan.noads</id>
+  <name>酷安 NoAd</name>
+  <version>1.0</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>mobilesubstrate</package>
+  </dependencies>
+  <shortDescription><![CDATA[酷安去广告
+ * 无弹窗
+ * 去除开屏广告
+ * 去除帖子广告]]></shortDescription>
+  <descriptionlist></descriptionlist>
+  <screenshots></screenshots>
+  <changelog></changelog>
+  <links></links>
+</package>

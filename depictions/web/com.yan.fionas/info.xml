@@ -1,0 +1,36 @@
+<package>
+  <id>com.yan.fionas</id>
+  <name>Fiona 底栏浮动</name>
+  <version>1.0.6</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>mobilesubstrate (&gt;= 0.9.5000)</package>
+    <package>com.opa334.altlist</package>
+    <package>firmware(&gt;= 14.0)</package>
+    <package>com.mrgcgamer.libgcuniversal</package>
+  </dependencies>
+  <shortDescription><![CDATA[应用底栏浮动
+ * Floating Tab bar for iOS devices.
+ * 仅支持部分应用]]></shortDescription>
+  <descriptionlist>
+    <description><![CDATA[## 应用底栏浮动<br />- 仅支持部分应用<br />- 支持 Bootstrap 环境，需要开启应用注入]]></description>
+  </descriptionlist>
+  <screenshots>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>pic1.png</image>
+    </screenshot>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>pic2.png</image>
+    </screenshot>
+  </screenshots>
+  <changelog>
+    <change><![CDATA[### 转换支持 Bootstrap]]></change>
+  </changelog>
+  <links></links>
+</package>

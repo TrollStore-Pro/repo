@@ -1,0 +1,21 @@
+<package>
+  <id>com.ps.youpips</id>
+  <name>YouTube YouPiP 画中画</name>
+  <version>1.8.14</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>mobilesubstrate</package>
+    <package>firmware (&gt;= 11.0)</package>
+    <package>firmware (&gt;= 14.0) | gsc.ipad | com.ps.forceinpicture | com.cabralcole.forceinpicture</package>
+  </dependencies>
+  <shortDescription><![CDATA[在 YouTube 中启用原生画中画 PiP
+ * Enable native PiP in iOS YouTube app.]]></shortDescription>
+  <descriptionlist></descriptionlist>
+  <screenshots></screenshots>
+  <changelog></changelog>
+  <links></links>
+</package>

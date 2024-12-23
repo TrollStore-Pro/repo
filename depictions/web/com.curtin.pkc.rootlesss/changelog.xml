@@ -1,0 +1,42 @@
+<changelog>
+  <changes>
+    <version></version>
+    <change><![CDATA[### 0.6-6]]></change>
+    <change><![CDATA[- [文转语]新增FV音色自动签到，获取每日免费积分]]></change>
+    <change><![CDATA[- [文转语]修复启用背景音，但背景音为空时，导致闪退问题]]></change>
+    <change><![CDATA[- [个性化功能]新增透明气泡开关]]></change>
+    <change><![CDATA[- [个性化功能]新增一键拷贝个性签名功能]]></change>
+    <change><![CDATA[- 优化收款自动回复，回复模式增加选项【不回复】]]></change>
+    <change><![CDATA[- 修复8054消息推送、自动收款、群管理Pro功能失效问题]]></change>
+    <change><![CDATA[- 新增黑名单机制 ]]></change>
+  </changes>
+  <changes>
+    <version></version>
+    <change><![CDATA[### 0.6-5]]></change>
+    <change><![CDATA[- 优化群设置页面，默认折叠PKC功能]]></change>
+    <change><![CDATA[- [文转语]背景音可长按音频文件直接导入]]></change>
+    <change><![CDATA[- [文转语]语音转MP3兼容低版本V]]></change>
+    <change><![CDATA[- [文转语]修复启用自动清理缓存，无法发送二次元音色Bug]]></change>
+    <change><![CDATA[- [标签Pro]修复54版本标签在通讯录-服务号前错位显示问题]]></change>
+  </changes>
+  <changes>
+    <version></version>
+    <change><![CDATA[### 0.6-4]]></change>
+    <change><![CDATA[- [文转语]修复“随机”背景音闪退问题]]></change>
+    <change><![CDATA[- [文转语]优化背景音导入按钮（部分设备没显示按钮）]]></change>
+    <change><![CDATA[- [文转语]新增反向代理，支持填写代理地址，解决一些网站无法访问。快速部署反向代理：PKC反向代理项目]]></change>
+    <change><![CDATA[- [文转语]优化文字转语音Pro按钮]]></change>
+    <change><![CDATA[- [文转语]增加FV音色情绪]]></change>
+    <change><![CDATA[- [文转语]增加语音转MP3 ]]></change>
+    <change><![CDATA[- [文转语]增加自动清理缓存]]></change>
+    <change><![CDATA[- [文转语]增加快捷音色页面指令]]></change>
+    <change><![CDATA[- [标签Pro]修复X轴范围填写问题]]></change>
+  </changes>
+  <changes>
+    <version></version>
+    <change><![CDATA[### 0.6-3]]></change>
+    <change><![CDATA[- 优化[文转语]]]></change>
+    <change><![CDATA[- 修复琅琅音色转换成功，发送失败问题]]></change>
+    <change><![CDATA[- 背景音开启没设置背景音发送失败问题]]></change>
+  </changes>
+</changelog>

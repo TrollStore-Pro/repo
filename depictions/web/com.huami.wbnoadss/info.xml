@@ -1,0 +1,32 @@
+<package>
+  <id>com.huami.wbnoadss</id>
+  <name>微博 WBNoAds</name>
+  <version>1.0.1</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>firmware (&gt;= 5.0)</package>
+    <package>mobilesubstrate</package>
+  </dependencies>
+  <shortDescription><![CDATA[微博去广告
+ * 去除开屏广告
+ * 去除顶栏红包按钮
+ * 去除底部右侧红包按钮
+ * Give you a pure Weibo]]></shortDescription>
+  <descriptionlist>
+    <description><![CDATA[## 微博去广告插件<br />- 去除开屏广告<br />- 去除顶栏红包按钮<br />- 去除底部右侧红包按钮<br />- Give you a pure Weibo<br />- 尚未完善，持续更新]]></description>
+  </descriptionlist>
+  <screenshots>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>pic1.png</image>
+    </screenshot>
+  </screenshots>
+  <changelog>
+    <change><![CDATA[### 1.0.0<br />- 初始发布]]></change>
+  </changelog>
+  <links></links>
+</package>

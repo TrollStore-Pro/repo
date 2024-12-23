@@ -1,0 +1,43 @@
+<package>
+  <id>com.opa334.dopamine.trollstore</id>
+  <name>opa334</name>
+  <version>1.0</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>mobilesubstrate</package>
+    <package>firmware (&gt;= 12.0)</package>
+  </dependencies>
+  <shortDescription><![CDATA[opa334]]></shortDescription>
+  <descriptionlist>
+    <description><![CDATA[# 空包，仅浏览，🚫勿安装]]></description>
+    <description><![CDATA[# opa334<br />- 也叫 Lars Fröder，是一位著名的 iOS 开发者，特别是在越狱社区中有很高的知名度。他开发了许多受欢迎的工具和插件，其中最知名的项目是 TrollStore 和 Dopamine。]]></description>
+  </descriptionlist>
+  <screenshots>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>pic1.png</image>
+    </screenshot>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>pic2.png</image>
+    </screenshot>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>pic3.png</image>
+    </screenshot>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>pic4.png</image>
+    </screenshot>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>pic5.png</image>
+    </screenshot>
+  </screenshots>
+  <changelog></changelog>
+  <links></links>
+</package>

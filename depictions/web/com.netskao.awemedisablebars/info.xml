@@ -1,0 +1,48 @@
+<package>
+  <id>com.netskao.awemedisablebars</id>
+  <name>抖音禁用 AwemeDisableBar</name>
+  <version>1.1-6</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>firmware (&gt;= 15.0)</package>
+    <package>mobilesubstrate</package>
+  </dependencies>
+  <shortDescription><![CDATA[抖音禁用按钮菜单
+ * 禁用「顶部｜底部｜右侧」选项按钮
+ * 仅在 30.3.0 及更高版本上进行测试]]></shortDescription>
+  <descriptionlist>
+    <description><![CDATA[## 抖音禁用按钮菜单<br />- 禁用「顶部｜底部｜右侧」选项按钮<br />- 仅在抖音 30.3.0 上进行测试]]></description>
+  </descriptionlist>
+  <screenshots>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>pic1.png</image>
+    </screenshot>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>pic2.png</image>
+    </screenshot>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>pic3.png</image>
+    </screenshot>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>pic4.png</image>
+    </screenshot>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>pic5.png</image>
+    </screenshot>
+  </screenshots>
+  <changelog>
+    <change><![CDATA[### 1.1-6<br />- 禁用按钮将立即生效无需重启抖音<br />- 修复禁用底部商城按钮失效问题]]></change>
+    <change><![CDATA[### 1.1-5<br />- 支持禁用底部商城按钮]]></change>
+    <change><![CDATA[### 1.1-4<br />- 添加禁用视频右侧按钮]]></change>
+  </changelog>
+  <links></links>
+</package>

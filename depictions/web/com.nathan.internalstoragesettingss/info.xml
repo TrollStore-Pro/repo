@@ -1,0 +1,29 @@
+<package>
+  <id>com.nathan.internalstoragesettingss</id>
+  <name>显示存储系统数据详情InternalStorageSettings</name>
+  <version>1.0</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies></dependencies>
+  <shortDescription><![CDATA[显示存储“系统数据”详情 Tweak to enable the hidden storage settings]]></shortDescription>
+  <descriptionlist>
+    <description><![CDATA[显示存储“系统数据”详情 </br> </br> Tweak to enable the hidden storage settings]]></description>
+  </descriptionlist>
+  <screenshots>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>pic1.png</image>
+    </screenshot>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>.</image>
+    </screenshot>
+  </screenshots>
+  <changelog>
+    <change><![CDATA[未知]]></change>
+  </changelog>
+  <links></links>
+</package>

@@ -1,0 +1,28 @@
+<package>
+  <id>com.netskao.awemealwaysshowtimes</id>
+  <name>抖音发布时间 AwemeAlwaysShowTime</name>
+  <version>1.1-1</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>mobilesubstrate</package>
+    <package>firmware (&gt;= 12.0)</package>
+  </dependencies>
+  <shortDescription><![CDATA[抖音视频始终显示视频发布时间]]></shortDescription>
+  <descriptionlist>
+    <description><![CDATA[## 抖音视频发布时间<br />- 抖音视频下方始终显示视频的发布时间<br />- 安装默认生效，无设置选项]]></description>
+  </descriptionlist>
+  <screenshots>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>pic1.png</image>
+    </screenshot>
+  </screenshots>
+  <changelog>
+    <change><![CDATA[### 1.1-1<br />- 初始发布]]></change>
+  </changelog>
+  <links></links>
+</package>

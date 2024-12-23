@@ -1,0 +1,41 @@
+<package>
+  <id>com.netskao.awemedownloadmedias</id>
+  <name>抖音下载 AwemeDownloadMedia</name>
+  <version>1.1-8</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>firmware (&gt;= 13.0)</package>
+    <package>mobilesubstrate</package>
+  </dependencies>
+  <shortDescription><![CDATA[抖音下载增强插件
+ * 右下角显示下载按钮
+ * 无水印保存图片、视频、LivePhoto
+ * 仅在 31.7.0 及更高版本上进行测试]]></shortDescription>
+  <descriptionlist>
+    <description><![CDATA[## 抖音下载增强插件<br />- 右下角显示下载按钮<br />- 无水印保存图片、视频、LivePhoto<br />- 仅在 31.7.0 及更高版本上进行测试]]></description>
+    <description><![CDATA[## 使用提示<br />- 评论区「图片/实况」无需点开大图，直接长按图片即可开始下载（不要点开大图）<br />- 开启功能后只有在视频/图片右侧中的下载按钮中下载才为无水印]]></description>
+  </descriptionlist>
+  <screenshots>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>pic1.png</image>
+    </screenshot>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>pic2.png</image>
+    </screenshot>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>pic3.png</image>
+    </screenshot>
+  </screenshots>
+  <changelog>
+    <change><![CDATA[### 1.1-8<br />- 支持抖音 31.7.0 版本]]></change>
+    <change><![CDATA[### 1.1-1<br />- 初始发布]]></change>
+  </changelog>
+  <links></links>
+</package>

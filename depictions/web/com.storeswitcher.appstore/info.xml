@@ -1,0 +1,32 @@
+<package>
+  <id>com.storeswitcher.appstore</id>
+  <name>StoreSwitcher 账号切换</name>
+  <version>1.0.5</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>firmware (&gt;= 11)</package>
+  </dependencies>
+  <shortDescription><![CDATA[App Store 账号快速切换
+ * Adds a button to switch account in App Store account page on iOS 11+.]]></shortDescription>
+  <descriptionlist>
+    <description><![CDATA[## App Store 账号快速切换<br />- 账号界面左上角显示切换图标<br />- Switch between App Store accounts with ease.<br />- 支持 Bootstrap 环境]]></description>
+  </descriptionlist>
+  <screenshots>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>pic1.png</image>
+    </screenshot>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>pic2.png</image>
+    </screenshot>
+  </screenshots>
+  <changelog>
+    <change><![CDATA[### 1.0.5<br />- 转换支持 Bootstrap 环境]]></change>
+  </changelog>
+  <links></links>
+</package>

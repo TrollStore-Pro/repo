@@ -1,0 +1,34 @@
+<package>
+  <id>com.bandarhl.bhtwitters</id>
+  <name>BHTwitter</name>
+  <version>4.3-4</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>mobilesubstrate</package>
+    <package>ws.hbang.common</package>
+  </dependencies>
+  <shortDescription><![CDATA[Twitter/X 增强插件
+ * 视频下载
+ * 修改应用图标
+ * 去广告、去除 Groy 标签栏等功能
+ * Awesome tweak for Twitter]]></shortDescription>
+  <descriptionlist>
+    <description><![CDATA[## Twitter X 增强插件<br />- 视频下载<br />- 修改应用图标<br />- 去广告、去除 Groy 标签栏等功能]]></description>
+  </descriptionlist>
+  <screenshots>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>pic1.png</image>
+    </screenshot>
+  </screenshots>
+  <changelog>
+    <change><![CDATA[### 4.3-4<br />- 新增在搜索中隐藏热门视频选项<br />- 「隐藏 Premium 注册优惠」的选项功能现在也会隐藏时间线上显示的广告（消息）]]></change>
+    <change><![CDATA[### 4.3-3<br />- 修复 X 10.60 隐藏右上角“升级”按钮失效问题]]></change>
+    <change><![CDATA[### 4.3-2<br />- 隐藏个人资料和导航栏中的“通过验证”和“升级”按钮<br />- 隐藏底栏 Gork 菜单]]></change>
+  </changelog>
+  <links></links>
+</package>

@@ -1,0 +1,31 @@
+<package>
+  <id>com.p2kdev.twitternoadss</id>
+  <name>TwitterNoAds</name>
+  <version>1.2.4</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>mobilesubstrate</package>
+  </dependencies>
+  <shortDescription><![CDATA[No Ads in the Twitter App!]]></shortDescription>
+  <descriptionlist>
+    <description><![CDATA[## Twitter X 去除广告<br />- No Ads in the Twitter App!]]></description>
+  </descriptionlist>
+  <screenshots>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>pic1.png</image>
+    </screenshot>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>pic2.png</image>
+    </screenshot>
+  </screenshots>
+  <changelog>
+    <change><![CDATA[### 1.2.4<br />- 隐藏谷歌广告]]></change>
+  </changelog>
+  <links></links>
+</package>

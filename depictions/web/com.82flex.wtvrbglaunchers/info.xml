@@ -1,0 +1,35 @@
+<package>
+  <id>com.82flex.wtvrbglaunchers</id>
+  <name>语音转文字免跳转</name>
+  <version>1.1</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>firmware (&gt;= 14.0)</package>
+    <package>mobilesubstrate</package>
+    <package>preferenceloader</package>
+  </dependencies>
+  <shortDescription><![CDATA[中文输入法语音转文字免跳转插件。
+ * 无设置选项，安装并注销后立即生效。
+ * 支持的输入法：微信、百度、搜狗、讯飞]]></shortDescription>
+  <descriptionlist>
+    <description><![CDATA[## 中文输入法语音转文字免跳转插件<br />- 支持的输入法：微信、百度、搜狗、讯飞]]></description>
+  </descriptionlist>
+  <screenshots>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>pic1.png</image>
+    </screenshot>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>pic2.png</image>
+    </screenshot>
+  </screenshots>
+  <changelog>
+    <change><![CDATA[### 1.1<br />- 新增设置选项]]></change>
+  </changelog>
+  <links></links>
+</package>

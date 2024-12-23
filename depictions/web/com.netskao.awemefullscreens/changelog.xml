@@ -1,0 +1,13 @@
+<changelog>
+  <changes>
+    <version></version>
+    <change><![CDATA[### 1.2-3]]></change>
+    <change><![CDATA[- 首页直播界面关闭全屏显示]]></change>
+  </changes>
+  <changes>
+    <version></version>
+    <change><![CDATA[### 1.2-2]]></change>
+    <change><![CDATA[- 重构插件]]></change>
+    <change><![CDATA[- 新增插件开关设置]]></change>
+  </changes>
+</changelog>

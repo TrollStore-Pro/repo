@@ -1,0 +1,11 @@
+<changelog>
+  <changes>
+    <version></version>
+    <change><![CDATA[### 1.0.4]]></change>
+    <change><![CDATA[- 修复了有关 dock 位置的问题]]></change>
+    <change><![CDATA[- 修复了有关 Bolders Reborn 插件兼容性的文件夹预览问题]]></change>
+    <change><![CDATA[- 修复了因生成文件夹图标图像而导致崩溃的问题]]></change>
+    <change><![CDATA[- 将存储的位置数据移至设备上的单独位置]]></change>
+    <change><![CDATA[- 稳定性改进]]></change>
+  </changes>
+</changelog>

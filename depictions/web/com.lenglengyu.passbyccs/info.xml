@@ -1,0 +1,33 @@
+<package>
+  <id>com.lenglengyu.passbyccs</id>
+  <name>临时绕过面容 PassbyCC</name>
+  <version>1.0.2</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>mobilesubstrate</package>
+    <package>firmware (&gt;= 15.0)</package>
+    <package>com.opa334.ccsupport</package>
+  </dependencies>
+  <shortDescription><![CDATA[控制中心模块，临时绕过面容，绕过密码解锁，修改为 FaceID 图标。]]></shortDescription>
+  <descriptionlist>
+    <description><![CDATA[控制中心模块，临时绕过面容 </br> </br> 修改为 FaceID 图标，无设置选项]]></description>
+  </descriptionlist>
+  <screenshots>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>pic1.png</image>
+    </screenshot>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>pic2.png</image>
+    </screenshot>
+  </screenshots>
+  <changelog>
+    <change><![CDATA[未知]]></change>
+  </changelog>
+  <links></links>
+</package>

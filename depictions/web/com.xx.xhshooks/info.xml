@@ -1,0 +1,44 @@
+<package>
+  <id>com.xx.xhshooks</id>
+  <name>小红书图层</name>
+  <version>1.1.2</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>mobilesubstrate (&gt;= 0.9.5000)</package>
+  </dependencies>
+  <shortDescription><![CDATA[小红书增强插件
+ * 默认移除一些广告
+ * 无水印保存图片、视频、live图、评论区图片，长按复制文案
+ * 放大图片双指长按可保存高分辨率图片
+ * APP 设置界面右上角打开插件界面或双指长按设置界面]]></shortDescription>
+  <descriptionlist>
+    <description><![CDATA[## 小红书增强插件<br />- 默认移除一些广告<br />- 无水印保存图片、视频、live图、评论区图片，长按复制文案<br />- 放大图片双指长按可保存高分辨率图片<br />- APP设置界面右上角打开插件界面或双指长按设置界面]]></description>
+  </descriptionlist>
+  <screenshots>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>pic1.png</image>
+    </screenshot>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>pic2.png</image>
+    </screenshot>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>pic3.png</image>
+    </screenshot>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>pic4.png</image>
+    </screenshot>
+  </screenshots>
+  <changelog>
+    <change><![CDATA[### 1.1.2<br />- 新增评论区动图保存<br />- 修复一些问题<br />- 优化一些细节]]></change>
+    <change><![CDATA[### 1.1.1<br />- 支持非越狱环境<br />- 优化代码]]></change>
+  </changelog>
+  <links></links>
+</package>

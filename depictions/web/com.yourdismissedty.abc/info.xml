@@ -1,0 +1,31 @@
+<package>
+  <id>com.yourdismissedty.abc</id>
+  <name>取消农业银行越狱检测弹窗</name>
+  <version>1.0</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>mobilesubstrate</package>
+  </dependencies>
+  <shortDescription><![CDATA[取消农业银行越狱检测弹窗]]></shortDescription>
+  <descriptionlist>
+    <description><![CDATA[### 取消农业银行越狱检测弹窗<br />- 每次打开会弹窗，点击 Cancle 按钮进入应用<br />- 原插件名 YourDismissedTY，修改为仅对农业银行生效<br />- 使用 [lenglengyu源](https://lenglengyu.com/) DismissAlert 取消弹窗效果更佳]]></description>
+  </descriptionlist>
+  <screenshots>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>pic1.png</image>
+    </screenshot>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>.</image>
+    </screenshot>
+  </screenshots>
+  <changelog>
+    <change><![CDATA[### 1.0<br />- 初始发布]]></change>
+  </changelog>
+  <links></links>
+</package>

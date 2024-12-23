@@ -1,0 +1,33 @@
+<package>
+  <id>com.82flex.singlevpn.green</id>
+  <name>Single VPN Green</name>
+  <version>1.0</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>firmware (&gt;= 14.0)</package>
+    <package>mobilesubstrate</package>
+  </dependencies>
+  <shortDescription><![CDATA[连接 VPN 时，Wi-Fi 和 移动数据图标着色：绿色 🟢
+ * Combine VPN state and wireless state into one icon.]]></shortDescription>
+  <descriptionlist>
+    <description><![CDATA[### 连接 VPN 时<br /> ### Wi-Fi 和 移动数据图标着色：绿色 🟢<br />- Combine VPN state and wireless state into one icon.]]></description>
+  </descriptionlist>
+  <screenshots>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>pic2.png</image>
+    </screenshot>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>.</image>
+    </screenshot>
+  </screenshots>
+  <changelog>
+    <change><![CDATA[### 1.0<br />- 初始发布]]></change>
+  </changelog>
+  <links></links>
+</package>

@@ -1,0 +1,7 @@
+<changelog>
+  <changes>
+    <version></version>
+    <change><![CDATA[### 1.0.1]]></change>
+    <change><![CDATA[- 在 iOS 16 及更高版本上切换到新方法来设置音量，因为之前的方法对某些用户不起作用]]></change>
+  </changes>
+</changelog>

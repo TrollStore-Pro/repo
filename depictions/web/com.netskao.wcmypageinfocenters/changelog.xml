@@ -1,0 +1,28 @@
+<changelog>
+  <changes>
+    <version></version>
+    <change><![CDATA[### 1.1-8]]></change>
+    <change><![CDATA[- 支持昵称修改，支持换行]]></change>
+  </changes>
+  <changes>
+    <version></version>
+    <change><![CDATA[### 1.1-7]]></change>
+    <change><![CDATA[- 调整控件间距，更加优雅]]></change>
+  </changes>
+  <changes>
+    <version></version>
+    <change><![CDATA[### 1.1-6]]></change>
+    <change><![CDATA[- 向下兼容更多微信版本 8.0.31 及以上]]></change>
+  </changes>
+  <changes>
+    <version></version>
+    <change><![CDATA[### 1.1-5]]></change>
+    <change><![CDATA[- 修改标题为中文]]></change>
+    <change><![CDATA[- 限制自定义微信文本不能为1到5个单空格（以防无法再次点击修改）]]></change>
+  </changes>
+  <changes>
+    <version></version>
+    <change><![CDATA[### 1.1-4]]></change>
+    <change><![CDATA[- 支持点击微信号自定义文本内容]]></change>
+  </changes>
+</changelog>

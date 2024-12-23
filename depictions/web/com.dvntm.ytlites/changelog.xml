@@ -1,0 +1,9 @@
+<changelog>
+  <changes>
+    <version></version>
+    <change><![CDATA[### 5.1]]></change>
+    <change><![CDATA[- 修复大量 bug]]></change>
+    <change><![CDATA[- 修复视频下载闪退]]></change>
+    <change><![CDATA[- 新增各种功能]]></change>
+  </changes>
+</changelog>

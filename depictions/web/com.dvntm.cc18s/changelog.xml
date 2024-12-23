@@ -1,0 +1,7 @@
+<changelog>
+  <changes>
+    <version></version>
+    <change><![CDATA[### 0.0.2]]></change>
+    <change><![CDATA[- 修复横屏状态调整音量 UI 错位 BUG]]></change>
+  </changes>
+</changelog>

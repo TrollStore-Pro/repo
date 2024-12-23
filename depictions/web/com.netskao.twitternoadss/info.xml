@@ -1,0 +1,34 @@
+<package>
+  <id>com.netskao.twitternoadss</id>
+  <name>Twitter NoAds</name>
+  <version>1.1-2</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>mobilesubstrate</package>
+    <package>firmware (&gt;= 15.0)</package>
+  </dependencies>
+  <shortDescription><![CDATA[Twitter X 去广告
+ * 在 Twitter 中删除广告，仅在 10.64.1 版本上测试
+ * Twitter removes ads from data stream. Tested on version 10.64.1 only]]></shortDescription>
+  <descriptionlist>
+    <description><![CDATA[## Twitter X<br />- 在 Twitter 中删除信息流广告，仅在 10.64.1 版本上测试<br />- Twitter removes ads from data stream. Tested on version 10.64.1 only]]></description>
+  </descriptionlist>
+  <screenshots>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>pic1.png</image>
+    </screenshot>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>pic2.png</image>
+    </screenshot>
+  </screenshots>
+  <changelog>
+    <change><![CDATA[### 1.1-2<br />- 添加 B 计划]]></change>
+  </changelog>
+  <links></links>
+</package>

@@ -1,0 +1,25 @@
+<changelog>
+  <changes>
+    <version></version>
+    <change><![CDATA[#### Version 2.0]]></change>
+    <change><![CDATA[New:]]></change>
+    <change><![CDATA[- Fixed a bug where the Dynamic Island would flicker and shake when 'hide when not in use' is enabled]]></change>
+    <change><![CDATA[- Added new options to customize the color of the Dynamic Island]]></change>
+    <change><![CDATA[- Added a new option to hide the island outline]]></change>
+    <change><![CDATA[- Added a new option to customize the scale of the Dynamic Island]]></change>
+    <change><![CDATA[- Added a new option to set a custom transparency for the Dynamic Island]]></change>
+  </changes>
+  <changes>
+    <version></version>
+    <change><![CDATA[#### Version 1.1-b1]]></change>
+    <change><![CDATA[New features:]]></change>
+    <change><![CDATA[- Added new option to disable the Dynamic Island when not in use]]></change>
+    <change><![CDATA[- Added option to move notification banners to below the Dynamic Island]]></change>
+    <change><![CDATA[- Added custom positioning for notification banners using custom X and Y offsets]]></change>
+  </changes>
+  <changes>
+    <version></version>
+    <change><![CDATA[#### Version 1.0-b1]]></change>
+    <change><![CDATA[Initial beta release]]></change>
+  </changes>
+</changelog>

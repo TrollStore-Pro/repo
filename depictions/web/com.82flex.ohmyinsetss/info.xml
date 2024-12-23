@@ -1,0 +1,34 @@
+<package>
+  <id>com.82flex.ohmyinsetss</id>
+  <name>Oh My Insets 控制中心五列</name>
+  <version>0.1</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>firmware (&gt;= 15.0)</package>
+    <package>mobilesubstrate</package>
+    <package>preferenceloader</package>
+  </dependencies>
+  <shortDescription><![CDATA[控制中心模块五列显示
+ * Control Center module five-column layout]]></shortDescription>
+  <descriptionlist>
+    <description><![CDATA[## 控制中心模块五列显示<br />- Control Center module five-column layout]]></description>
+  </descriptionlist>
+  <screenshots>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>pic1.png</image>
+    </screenshot>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>pic2.png</image>
+    </screenshot>
+  </screenshots>
+  <changelog>
+    <change><![CDATA[### 0.1<br />- 初始发布]]></change>
+  </changelog>
+  <links></links>
+</package>

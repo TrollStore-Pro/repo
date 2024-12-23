@@ -1,0 +1,28 @@
+<package>
+  <id>com.icraze.smallboards</id>
+  <name>SmallBoard 键盘下沉</name>
+  <version>1.1</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>mobilesubstrate</package>
+  </dependencies>
+  <shortDescription><![CDATA[缩小键盘与底部的间隙
+ * Shrink the keyboard gap on notched devices]]></shortDescription>
+  <descriptionlist>
+    <description><![CDATA[## 缩小键盘与底部的间隙<br />- Shrink the keyboard gap on notched devices]]></description>
+  </descriptionlist>
+  <screenshots>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>pic1.png</image>
+    </screenshot>
+  </screenshots>
+  <changelog>
+    <change><![CDATA[### 1.1<br />- 转换支持 Bootstrap]]></change>
+  </changelog>
+  <links></links>
+</package>

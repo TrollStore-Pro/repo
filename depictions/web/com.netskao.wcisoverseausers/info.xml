@@ -1,0 +1,31 @@
+<package>
+  <id>com.netskao.wcisoverseausers</id>
+  <name>微信通行密钥 WCIsOverSeaUser</name>
+  <version>1.1-1</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>mobilesubstrate</package>
+    <package>firmware (&gt;= 14.0)</package>
+  </dependencies>
+  <shortDescription><![CDATA[微信插件
+ * 强制激活 86+ 号码使用「通行密钥」功能
+ * 设置-账号与安全-通行密钥
+ * 仅支持微信 8.0.54 及以上，仅支持 iOS 16 及以上]]></shortDescription>
+  <descriptionlist>
+    <description><![CDATA[## 微信通行密钥<br />- 强制激活中国大陆 86+ 号码使用「通行密钥」功能<br />- 开启设置：设置-账号与安全-通行密钥<br />- 仅支持微信 8.0.54 及以上<br />- 仅支持 iOS 16 及以上]]></description>
+  </descriptionlist>
+  <screenshots>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>pic1.png</image>
+    </screenshot>
+  </screenshots>
+  <changelog>
+    <change><![CDATA[### 1.1-1<br />- 初始发布]]></change>
+  </changelog>
+  <links></links>
+</package>

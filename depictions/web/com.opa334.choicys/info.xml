@@ -1,0 +1,36 @@
+<package>
+  <id>com.opa334.choicys</id>
+  <name>Choicy 禁止注入</name>
+  <version>1.5</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>firmware (&gt;= 10.0)</package>
+    <package>mobilesubstrate (&gt;= 0.9.5000)</package>
+    <package>preferenceloader</package>
+    <package>com.opa334.altlist (&gt;= 1.0.4)</package>
+  </dependencies>
+  <shortDescription><![CDATA[一个高级的插件配置工具
+ * 不是越狱检测绕过工具
+ * 为每个进程单独禁用插件注入
+ * 为每个进程单独配置每个插件的动态库（dylib）
+ * 全局禁用插件（可为单独的进程设置例外）
+ * 提供应用程序快捷方式，可选择临时启用或禁用插件运行应用
+ * 请从“设置”中进行配置]]></shortDescription>
+  <descriptionlist>
+    <description><![CDATA[## 一个高级的插件配置工具<br />- 不是越狱检测绕过工具<br />- 为每个进程单独禁用插件注入<br />- 为每个进程单独配置每个插件的动态库（dylib）<br />- 全局禁用插件（可为单独的进程设置例外）<br />- 提供应用程序快捷方式，可选择临时启用或禁用插件运行应用<br />- 请从插件设置中进行配置]]></description>
+  </descriptionlist>
+  <screenshots>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>pic1.png</image>
+    </screenshot>
+  </screenshots>
+  <changelog>
+    <change><![CDATA[### 1.5<br />- 修复在 iOS 15 及以上版本中，设置中与进程相关的调整列表不准确的问题<br />- 使用纯 C 重写主库，移除对函数钩子的依赖]]></change>
+  </changelog>
+  <links></links>
+</package>

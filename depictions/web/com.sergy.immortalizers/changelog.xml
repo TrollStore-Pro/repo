@@ -1,0 +1,18 @@
+<changelog>
+  <changes>
+    <version></version>
+    <change><![CDATA[### 2.0.0-1]]></change>
+    <change><![CDATA[- 修复了与某些拦截通知的插件（例如 Glance）冲突的错误]]></change>
+    <change><![CDATA[- 修复了控制中心模块的禁用按钮无响应的问题]]></change>
+    <change><![CDATA[- 修复了某些应用程序崩溃或卡顿的问题]]></change>
+    <change><![CDATA[- 修复了键盘无法使用的问题]]></change>
+    <change><![CDATA[- 提高了前台优化]]></change>
+    <change><![CDATA[- 优化了弹窗动画]]></change>
+  </changes>
+  <changes>
+    <version></version>
+    <change><![CDATA[### 1.0.1]]></change>
+    <change><![CDATA[- 修复了屏幕旋转在开启了“真后台”应用上不起作用的错误]]></change>
+    <change><![CDATA[- 改进安全检查]]></change>
+  </changes>
+</changelog>

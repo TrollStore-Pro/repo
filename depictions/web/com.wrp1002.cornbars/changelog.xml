@@ -1,0 +1,9 @@
+<changelog>
+  <changes>
+    <version></version>
+    <change><![CDATA[### 1.1.0]]></change>
+    <change><![CDATA[- 添加了自定义图像选项]]></change>
+    <change><![CDATA[- 添加了色调选项]]></change>
+    <change><![CDATA[- 删除剩余的图像文件]]></change>
+  </changes>
+</changelog>

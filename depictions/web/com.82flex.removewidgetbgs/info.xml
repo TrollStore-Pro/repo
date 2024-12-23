@@ -1,0 +1,35 @@
+<package>
+  <id>com.82flex.removewidgetbgs</id>
+  <name>移除小部件背景</name>
+  <version>1.7</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>firmware (&gt;= 15.0)</package>
+    <package>mobilesubstrate</package>
+    <package>com.opa334.altlist</package>
+  </dependencies>
+  <shortDescription><![CDATA[删除主屏幕上小部件的背景。
+ * Remove the background of the widgets on the home screen.]]></shortDescription>
+  <descriptionlist>
+    <description><![CDATA[### Remove Widget Background<br />- 删除一些系统小部件的背景。<br />- 删除指定应用程序小部件的背景。<br />- 强制小部件使用深色模式。<br />- 请注意，并非所有应用程序小部件都受支持：一些应用程序可能会完全绘制其小部件。]]></description>
+  </descriptionlist>
+  <screenshots>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>pic1.png</image>
+    </screenshot>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>pic2.png</image>
+    </screenshot>
+  </screenshots>
+  <changelog>
+    <change><![CDATA[### 1.7<br />- “强制黑暗模式”选项现在支持iOS 15。]]></change>
+    <change><![CDATA[### 1.6<br />- 修复了AltList没有正确链接的错误。]]></change>
+  </changelog>
+  <links></links>
+</package>

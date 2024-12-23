@@ -1,0 +1,21 @@
+<package>
+  <id>com.huami.kugouNoAD</id>
+  <name>酷狗 NoAd</name>
+  <version>0.1-1</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>firmware (&gt;= 5.0)</package>
+    <package>mobilesubstrate</package>
+  </dependencies>
+  <shortDescription><![CDATA[酷狗音乐去广告
+ * 去除开屏广告（含概念版）
+ * 去除【我的】页面寻搭子广告]]></shortDescription>
+  <descriptionlist></descriptionlist>
+  <screenshots></screenshots>
+  <changelog></changelog>
+  <links></links>
+</package>

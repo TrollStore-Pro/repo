@@ -1,0 +1,33 @@
+<package>
+  <id>com.kingpuffdaddi.control-center.ccvpn.surge</id>
+  <name>CCVPN Surge</name>
+  <version>1.0.6</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>mobilesubstrate (&gt;= 0.9.5000)</package>
+    <package>firmware (&gt;= 15.0)</package>
+    <package>com.opa334.ccsupport</package>
+  </dependencies>
+  <shortDescription><![CDATA[CCVPN 控制中心图标修改为 Surge]]></shortDescription>
+  <descriptionlist>
+    <description><![CDATA[## 控制中心 VPN 开启关闭模块<br />- CCVPN 控制中心图标修改为 Surge<br />- Change the CCVPN icon to Surge]]></description>
+  </descriptionlist>
+  <screenshots>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>pic1.png</image>
+    </screenshot>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>pic2.png</image>
+    </screenshot>
+  </screenshots>
+  <changelog>
+    <change><![CDATA[ • 更新支持rootless]]></change>
+  </changelog>
+  <links></links>
+</package>

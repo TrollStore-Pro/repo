@@ -1,0 +1,30 @@
+<package>
+  <id>netskao.actionbarreborns</id>
+  <name>ActionBar Reborn</name>
+  <version>1.1-2</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>firmware (&gt;= 15.0)</package>
+    <package>mobilesubstrate</package>
+  </dependencies>
+  <shortDescription><![CDATA[键盘底部显示[撤销] [选择] [粘贴]按钮。Undo, redo, select all, copy, cut and paste actions on bottom of keyboard. ActionBar Free Reborn Edition]]></shortDescription>
+  <descriptionlist>
+    <description><![CDATA[## 键盘底部显示<br /> ### [撤销] [选择] [粘贴] 按钮 <br />- Undo, redo, select all, copy, cut and paste actions on bottom of keyboard. <br />- ActionBar Free Reborn Edition]]></description>
+  </descriptionlist>
+  <screenshots>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>pic1.png</image>
+    </screenshot>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>pic.png</image>
+    </screenshot>
+  </screenshots>
+  <changelog></changelog>
+  <links></links>
+</package>

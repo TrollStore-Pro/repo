@@ -1,0 +1,18 @@
+<package>
+  <id>com.p2kdev.facebooknoads</id>
+  <name>FacebookNoAds</name>
+  <version>1.3</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>mobilesubstrate</package>
+  </dependencies>
+  <shortDescription><![CDATA[Facebook NoAds 去广告插件]]></shortDescription>
+  <descriptionlist></descriptionlist>
+  <screenshots></screenshots>
+  <changelog></changelog>
+  <links></links>
+</package>

@@ -1,0 +1,15 @@
+<changelog>
+  <changes>
+    <version></version>
+    <change><![CDATA[### 1.1.2]]></change>
+    <change><![CDATA[- 新增评论区动图保存]]></change>
+    <change><![CDATA[- 修复一些问题]]></change>
+    <change><![CDATA[- 优化一些细节]]></change>
+  </changes>
+  <changes>
+    <version></version>
+    <change><![CDATA[### 1.1.1]]></change>
+    <change><![CDATA[- 支持非越狱环境]]></change>
+    <change><![CDATA[- 优化代码]]></change>
+  </changes>
+</changelog>

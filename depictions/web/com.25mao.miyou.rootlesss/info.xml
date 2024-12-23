@@ -1,0 +1,18 @@
+<package>
+  <id>com.25mao.miyou.rootlesss</id>
+  <name>微信助手</name>
+  <version>3.8-0</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>firmware (&gt;= 5.0)</package>
+  </dependencies>
+  <shortDescription><![CDATA[微信助手/老猫助手/密友]]></shortDescription>
+  <descriptionlist></descriptionlist>
+  <screenshots></screenshots>
+  <changelog></changelog>
+  <links></links>
+</package>

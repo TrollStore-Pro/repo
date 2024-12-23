@@ -1,0 +1,29 @@
+<package>
+  <id>com.netskao.qqipadmodelogins</id>
+  <name>QQ iPad 模式</name>
+  <version>1.1-1</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>mobilesubstrate</package>
+    <package>firmware (&gt;= 13.0)</package>
+  </dependencies>
+  <shortDescription><![CDATA[让 iPhone QQ 客户端伪装成 iPad 登陆
+ * QQ simulates iPad mode login]]></shortDescription>
+  <descriptionlist>
+    <description><![CDATA[## 让 iPhone QQ 客户端伪装成 iPad 登陆<br />- QQ simulates iPad mode login]]></description>
+  </descriptionlist>
+  <screenshots>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>pic1.png</image>
+    </screenshot>
+  </screenshots>
+  <changelog>
+    <change><![CDATA[### 1.1-1<br />- 初始发布]]></change>
+  </changelog>
+  <links></links>
+</package>

@@ -1,0 +1,27 @@
+<package>
+  <id>com.sutuplus.releasefugu15s</id>
+  <name>酸果 微信主题</name>
+  <version>5.9.2-1</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>mobilesubstrate</package>
+  </dependencies>
+  <shortDescription><![CDATA[微信主题插件]]></shortDescription>
+  <descriptionlist>
+    <description><![CDATA[## 微信主题插件]]></description>
+  </descriptionlist>
+  <screenshots>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>pic1.png</image>
+    </screenshot>
+  </screenshots>
+  <changelog>
+    <change><![CDATA[### 5.9.2-1<br />- 新增 使用动态底栏图标 开关<br />- 新增 启用原始红点素材设置开关<br />- 新增 主题列表下滑定位到在用的<br />- 修复 标题/昵称/备注色值 部分位置失效的问题<br />- 修复 小店订单与卡包 图标失效问题<br />- 新增部分映射<br />- 修复部分机型顶栏可能存在异色缝隙]]></change>
+  </changelog>
+  <links></links>
+</package>

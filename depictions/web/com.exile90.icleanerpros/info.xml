@@ -1,0 +1,35 @@
+<package>
+  <id>com.exile90.icleanerpros</id>
+  <name>iCleaner Pro</name>
+  <version>7.10.0</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>firmware (&gt;= 4.0)</package>
+    <package>findutils</package>
+    <package>apt | apt7</package>
+  </dependencies>
+  <shortDescription><![CDATA[iCleaner Pro
+ * 垃圾清理工具，启动项管理等
+ * The first real iOS system cleanup and management utility]]></shortDescription>
+  <descriptionlist>
+    <description><![CDATA[## iCleaner Pro 系统工具<br />- 清理缓存、日志<br />- 禁用插件或系统启动项（谨慎使用）<br />- Tips：Bootstrap 环境下仅支持清理缓存、日志]]></description>
+  </descriptionlist>
+  <screenshots>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>pic1.png</image>
+    </screenshot>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>pic2.png</image>
+    </screenshot>
+  </screenshots>
+  <changelog>
+    <change><![CDATA[### 7.10.0<br />- 转换更新支持 Bootstrap 环境]]></change>
+  </changelog>
+  <links></links>
+</package>

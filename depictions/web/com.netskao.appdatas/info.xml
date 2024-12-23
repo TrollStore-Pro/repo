@@ -1,0 +1,38 @@
+<package>
+  <id>com.netskao.appdatas</id>
+  <name>AppData</name>
+  <version>1.4.4</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>firmware (&gt;= 15.0)</package>
+    <package>mobilesubstrate</package>
+    <package>preferenceloader</package>
+  </dependencies>
+  <shortDescription><![CDATA[桌面图标增强插件
+ * 由 Netskao 汉化修改
+ * 桌面图标上滑或下滑或3D长按菜单选择即可唤出图标
+ * View & Manage Applications Data from your Home Screen]]></shortDescription>
+  <descriptionlist>
+    <description><![CDATA[## 桌面图标增强工具<br />- 图标上滑或下滑或3D长按即可唤出菜单<br />- 此版本由 Netskao 完整汉化并修改优化。]]></description>
+    <description><![CDATA[## 功能<br />- 降级应用<br />- 修改应用名称<br />- 清除/重置应用数据<br />- 重置应用权限<br />- 快速跳转 Filza 应用路径]]></description>
+  </descriptionlist>
+  <screenshots>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>pic1.png</image>
+    </screenshot>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>pic2.png</image>
+    </screenshot>
+  </screenshots>
+  <changelog>
+    <change><![CDATA[### 1.4.4<br />- 允许 TrollStore 安装的应用重置数据和权限]]></change>
+    <change><![CDATA[### 1.4.3<br />- 优化显示数据大小加载速度<br />- 降级应用显示ID]]></change>
+  </changelog>
+  <links></links>
+</package>

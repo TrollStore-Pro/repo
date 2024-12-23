@@ -1,0 +1,18 @@
+<changelog>
+  <changes>
+    <version></version>
+    <change><![CDATA[### 1.1-6]]></change>
+    <change><![CDATA[- 禁用按钮将立即生效无需重启抖音]]></change>
+    <change><![CDATA[- 修复禁用底部商城按钮失效问题]]></change>
+  </changes>
+  <changes>
+    <version></version>
+    <change><![CDATA[### 1.1-5]]></change>
+    <change><![CDATA[- 支持禁用底部商城按钮]]></change>
+  </changes>
+  <changes>
+    <version></version>
+    <change><![CDATA[### 1.1-4]]></change>
+    <change><![CDATA[- 添加禁用视频右侧按钮]]></change>
+  </changes>
+</changelog>

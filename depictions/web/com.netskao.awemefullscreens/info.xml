@@ -1,0 +1,36 @@
+<package>
+  <id>com.netskao.awemefullscreens</id>
+  <name>抖音全屏 AwemeFullScreen</name>
+  <version>1.2-3</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>firmware (&gt;= 15.0)</package>
+    <package>mobilesubstrate</package>
+  </dependencies>
+  <shortDescription><![CDATA[抖音全屏显示
+ * 仅在 31.9.0 版本上进行测试
+ * 插件开关位于抖音设置内
+ * 放大视频达到全屏显示，视频区域会部分丢失]]></shortDescription>
+  <descriptionlist>
+    <description><![CDATA[## 抖音视频全屏显示<br />- 仅在 31.9.0 版本上进行测试<br />- 插件开关位于抖音设置内]]></description>
+  </descriptionlist>
+  <screenshots>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>pic3.png</image>
+    </screenshot>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>pic4.png</image>
+    </screenshot>
+  </screenshots>
+  <changelog>
+    <change><![CDATA[### 1.2-3<br />- 首页直播界面关闭全屏显示]]></change>
+    <change><![CDATA[### 1.2-2<br />- 重构插件<br />- 新增插件开关设置]]></change>
+  </changelog>
+  <links></links>
+</package>

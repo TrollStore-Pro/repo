@@ -1,0 +1,43 @@
+<package>
+  <id>com.sileo.zh-hans</id>
+  <name>Sileo 简体中文</name>
+  <version>2.7</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>org.coolstar.sileo | org.coolstar.sileonightly</package>
+  </dependencies>
+  <shortDescription><![CDATA[Sileo 简体中文本地化
+ * 修正翻译错误，本地化
+ * 完善 Sileo 简体中文
+ * 支持 RootHide Sileo
+ * ⚠️注意：卸载汉化包需重新安装Sileo恢复中文]]></shortDescription>
+  <descriptionlist>
+    <description><![CDATA[## zh-Hans for Sileo<br />- 修正 Sileo 翻译错误<br />- 完善 Sileo 简体中文<br />- 简体中文本地化]]></description>
+  </descriptionlist>
+  <screenshots>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>pic1.png</image>
+    </screenshot>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>pic2.png</image>
+    </screenshot>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>pic3.png</image>
+    </screenshot>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>pic4.png</image>
+    </screenshot>
+  </screenshots>
+  <changelog>
+    <change><![CDATA[### 2.7 <br />- 添加长按“更改”按钮显示插件历史版本界面汉化<br />- 其他小优化]]></change>
+  </changelog>
+  <links></links>
+</package>

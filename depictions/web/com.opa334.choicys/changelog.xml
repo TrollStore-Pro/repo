@@ -1,0 +1,8 @@
+<changelog>
+  <changes>
+    <version></version>
+    <change><![CDATA[### 1.5]]></change>
+    <change><![CDATA[- 修复在 iOS 15 及以上版本中，设置中与进程相关的调整列表不准确的问题]]></change>
+    <change><![CDATA[- 使用纯 C 重写主库，移除对函数钩子的依赖]]></change>
+  </changes>
+</changelog>

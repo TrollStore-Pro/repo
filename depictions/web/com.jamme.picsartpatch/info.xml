@@ -1,0 +1,18 @@
+<package>
+  <id>com.jamme.picsartpatch</id>
+  <name>PicsArt Patch 破解</name>
+  <version>4.2.0+debug</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>mobilesubstrate</package>
+  </dependencies>
+  <shortDescription><![CDATA[Made using Flex To Theos updated by: Randy420]]></shortDescription>
+  <descriptionlist></descriptionlist>
+  <screenshots></screenshots>
+  <changelog></changelog>
+  <links></links>
+</package>

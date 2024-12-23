@@ -1,0 +1,17 @@
+<changelog>
+  <changes>
+    <version></version>
+    <change><![CDATA[### 0.0.3]]></change>
+    <change><![CDATA[- 修复第三方客户端不生效问题]]></change>
+  </changes>
+  <changes>
+    <version></version>
+    <change><![CDATA[### 0.0.2]]></change>
+    <change><![CDATA[- 修复插件不生效问题]]></change>
+  </changes>
+  <changes>
+    <version></version>
+    <change><![CDATA[### 0.0.1]]></change>
+    <change><![CDATA[- 转换支持 Rootless、RootHide]]></change>
+  </changes>
+</changelog>

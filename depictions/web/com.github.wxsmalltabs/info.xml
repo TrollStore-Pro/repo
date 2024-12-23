@@ -1,0 +1,27 @@
+<package>
+  <id>com.github.wxsmalltabs</id>
+  <name>微信小底栏</name>
+  <version>0.0.1-5</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>mobilesubstrate (&gt;= 0.9.5000)</package>
+  </dependencies>
+  <shortDescription><![CDATA[微信底栏悬浮显示]]></shortDescription>
+  <descriptionlist>
+    <description><![CDATA[## 微信底栏悬浮<br />- 在设置能开启功能，找不到请注入插件收纳插件]]></description>
+  </descriptionlist>
+  <screenshots>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>pic1.png</image>
+    </screenshot>
+  </screenshots>
+  <changelog>
+    <change><![CDATA[### 0.0.1-5<br />- 初始发布]]></change>
+  </changelog>
+  <links></links>
+</package>

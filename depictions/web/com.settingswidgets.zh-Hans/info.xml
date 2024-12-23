@@ -1,0 +1,38 @@
+<package>
+  <id>com.settingswidgets.zh-Hans</id>
+  <name>SettingsWidgets 简体中文</name>
+  <version>1.0</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies></dependencies>
+  <shortDescription><![CDATA[zh-Hans for SettingsWidgets
+ * SettingsWidgets 简体中文]]></shortDescription>
+  <descriptionlist>
+    <description><![CDATA[### zh-Hans for SettingsWidgets<br />- SettingsWidgets 简体中文]]></description>
+  </descriptionlist>
+  <screenshots>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>pic1.png</image>
+    </screenshot>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>pic2.png</image>
+    </screenshot>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>pic3.png</image>
+    </screenshot>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>pic4.png</image>
+    </screenshot>
+  </screenshots>
+  <changelog>
+    <change><![CDATA[### 1.0<br />- 初始发布]]></change>
+  </changelog>
+  <links></links>
+</package>

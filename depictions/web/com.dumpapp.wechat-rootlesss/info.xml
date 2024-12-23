@@ -1,0 +1,30 @@
+<package>
+  <id>com.dumpapp.wechat-rootlesss</id>
+  <name>锤子助手</name>
+  <version>2.0.4</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>mobilesubstrate</package>
+    <package>firmware (&gt;= 12.0)</package>
+  </dependencies>
+  <shortDescription><![CDATA[微信多功能插件
+ * 1:1 复刻“微信净化”插件，功能一模一样
+ * ⚠️注意：不可与“微信净化”共存]]></shortDescription>
+  <descriptionlist>
+    <description><![CDATA[## 微信多功能插件<br />- 1:1 复刻“微信净化”插件，功能一模一样<br />- ⚠️注意：不可与“微信净化”共存]]></description>
+  </descriptionlist>
+  <screenshots>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>pic1.png</image>
+    </screenshot>
+  </screenshots>
+  <changelog>
+    <change><![CDATA[### 2.0.4<br />- 修复闪退]]></change>
+  </changelog>
+  <links></links>
+</package>

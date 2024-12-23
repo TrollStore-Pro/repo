@@ -1,0 +1,29 @@
+<changelog>
+  <changes>
+    <version></version>
+    <change><![CDATA[### 1.0.5-2]]></change>
+    <change><![CDATA[- 新增背景动画，主题必需有背景图片才能生效]]></change>
+    <change><![CDATA[- 优化悬浮底栏，允许自定义大小]]></change>
+    <change><![CDATA[- 悬浮底栏图标新增长按动作]]></change>
+  </changes>
+  <changes>
+    <version></version>
+    <change><![CDATA[### 1.0.3-2]]></change>
+    <change><![CDATA[- 修复1.0-3-1修改底栏动画闪退问题]]></change>
+    <change><![CDATA[- 修复了1.0.2目前收集到的一些问题]]></change>
+    <change><![CDATA[- 再次调整底栏样式，将底栏设置移动到了插件首页]]></change>
+    <change><![CDATA[- 修复底栏点击漂移(点不到)问题]]></change>
+    <change><![CDATA[- 修复主题包未上传顶栏时从聊天返回首页顶部透明问题]]></change>
+    <change><![CDATA[- 新增我的页面居中布局增加头像旋转]]></change>
+    <change><![CDATA[- 新增自定义名字和微信号显示内容]]></change>
+  </changes>
+  <changes>
+    <version></version>
+    <change><![CDATA[### 1.0.2-1]]></change>
+    <change><![CDATA[- 修复用户白嫖主题 Bug]]></change>
+    <change><![CDATA[- 修复搜索栏透明问题]]></change>
+    <change><![CDATA[- 修复了一些已知问题]]></change>
+    <change><![CDATA[- 增加了主题更新功能，以后会用到]]></change>
+    <change><![CDATA[- 底栏样式做了修改，可以添加描边和发光]]></change>
+  </changes>
+</changelog>

@@ -1,0 +1,34 @@
+<package>
+  <id>com.ichitaso.hideserialnumbers</id>
+  <name>HideSerialNumber 修改系统版本</name>
+  <version>0.0.4</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>firmware (&gt;= 12.2)</package>
+    <package>mobilesubstrate</package>
+    <package>preferenceloader</package>
+  </dependencies>
+  <shortDescription><![CDATA[修改系统版本号
+ * Hide Serial Number in Settings About page.]]></shortDescription>
+  <descriptionlist>
+    <description><![CDATA[修改/隐藏系统设置内的系统版本分割文本信息 </br> </br> Hide Serial Number in Settings About page.]]></description>
+  </descriptionlist>
+  <screenshots>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>pic1.png</image>
+    </screenshot>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>pic2.png</image>
+    </screenshot>
+  </screenshots>
+  <changelog>
+    <change><![CDATA[ • 未知]]></change>
+  </changelog>
+  <links></links>
+</package>

@@ -1,0 +1,27 @@
+<package>
+  <id>com.ginsu.ytmusicultimates</id>
+  <name>YTMusicUltimate</name>
+  <version>2.3</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>mobilesubstrate (&gt;= 0.9.5000)</package>
+  </dependencies>
+  <shortDescription><![CDATA[YouTube Music Premium]]></shortDescription>
+  <descriptionlist>
+    <description><![CDATA[## YouTube Music Premium]]></description>
+  </descriptionlist>
+  <screenshots>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>pic1.png</image>
+    </screenshot>
+  </screenshots>
+  <changelog>
+    <change><![CDATA[### 2.3<br />- 初始发布]]></change>
+  </changelog>
+  <links></links>
+</package>

@@ -1,0 +1,40 @@
+<package>
+  <id>com.anthopak.appaze3s</id>
+  <name>Appaze 3 体验版</name>
+  <version>1.0.1</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>mobilesubstrate</package>
+    <package>preferenceloader</package>
+    <package>ws.hbang.common (&gt;= 1.15)</package>
+    <package>firmware (&gt;= 15.0)</package>
+  </dependencies>
+  <shortDescription><![CDATA[为应用单独自定义各种功能设置
+ * Customize up to 30 settings for each app, in a clean and friendly UI, easily accessible!]]></shortDescription>
+  <descriptionlist>
+    <description><![CDATA[## 体验版<br /> ### 会有盗版弹窗，自行购买正版]]></description>
+    <description><![CDATA[### 可以为每个应用自定义多达30项设置，通过简洁友好的界面轻松访问！<br />- Appaze 3 允许你为特定应用自定义音量、亮度以及多个切换选项（如 Wi-Fi、蜂窝数据、屏幕方向锁定、VPN 等），还能设定自定义行为（禁用通知中心/控制中心、禁用主屏手势、隐藏系统提示和通知横幅等），直接通过 3D Touch 菜单实现。每次当定制的应用在前台运行（从主屏幕、应用切换器打开时），会自动应用所选择的设置值。退出应用时，之前的系统默认设置会自动恢复（除非在设置中选择其他选项）。]]></description>
+  </descriptionlist>
+  <screenshots>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>pic1.png</image>
+    </screenshot>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>pic2.png</image>
+    </screenshot>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>pic3.png</image>
+    </screenshot>
+  </screenshots>
+  <changelog>
+    <change><![CDATA[### 1.0.1<br />- 在 iOS 16 及更高版本上切换到新方法来设置音量，因为之前的方法对某些用户不起作用]]></change>
+  </changelog>
+  <links></links>
+</package>

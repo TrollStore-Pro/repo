@@ -1,0 +1,28 @@
+<package>
+  <id>preferenceloader.rootless.tops</id>
+  <name>PreferenceLoader Top</name>
+  <version>2.2.6.6</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies></dependencies>
+  <shortDescription><![CDATA[越狱依赖 PreferenceLoader
+ * 系统设置内插件选项置顶]]></shortDescription>
+  <descriptionlist>
+    <description><![CDATA[## 越狱依赖 PreferenceLoader <br />- 显示 Sileo 已安装插件设置<br />- Top 版本可以置顶插件设置]]></description>
+  </descriptionlist>
+  <screenshots>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>pic1.png</image>
+    </screenshot>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>.</image>
+    </screenshot>
+  </screenshots>
+  <changelog></changelog>
+  <links></links>
+</package>

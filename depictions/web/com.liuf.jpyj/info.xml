@@ -1,0 +1,31 @@
+<package>
+  <id>com.liuf.jpyj</id>
+  <name>修改系统键盘圆角</name>
+  <version>0.0.1</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>mobilesubstrate</package>
+  </dependencies>
+  <shortDescription><![CDATA[修改系统键盘圆角 Modify the keyboard icon to have rounded corners.]]></shortDescription>
+  <descriptionlist>
+    <description><![CDATA[修改系统键盘圆角 </br> </br> Modify the keyboard icon to have rounded corners. ]]></description>
+  </descriptionlist>
+  <screenshots>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>pic1.png</image>
+    </screenshot>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>.</image>
+    </screenshot>
+  </screenshots>
+  <changelog>
+    <change><![CDATA[未知]]></change>
+  </changelog>
+  <links></links>
+</package>

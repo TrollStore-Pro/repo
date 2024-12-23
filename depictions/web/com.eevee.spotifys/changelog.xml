@@ -1,0 +1,84 @@
+<changelog>
+  <changes>
+    <version></version>
+    <change><![CDATA[### 5.8.2]]></change>
+    <change><![CDATA[- 更新了德语本地化，由 @wlxxd 完成]]></change>
+  </changes>
+  <changes>
+    <version></version>
+    <change><![CDATA[### 5.8.1]]></change>
+    <change><![CDATA[- 由 @gototheskinny 更新了土耳其语本地化]]></change>
+    <change><![CDATA[- 由 @ElliotCHEN37 更新了繁体中文本地化]]></change>
+    <change><![CDATA[- 由 @HackZy01 更新了波兰语本地化]]></change>
+    <change><![CDATA[- 由 @Incognito-Coder 更新了波斯语本地化]]></change>
+  </changes>
+  <changes>
+    <version></version>
+    <change><![CDATA[### 5.8]]></change>
+    <change><![CDATA[- 请求为 Musixmatch 提供匿名令牌选项]]></change>
+    <change><![CDATA[- 阿拉伯语（埃及）、匈牙利语和罗马尼亚语本地化由 @RikyPy 提供]]></change>
+    <change><![CDATA[- 土耳其语本地化更新，由 @gototheskinny 提供]]></change>
+    <change><![CDATA[- 意大利语本地化更新，由 @RikyPy 提供]]></change>
+    <change><![CDATA[- 越南语本地化更新，由 @Richard-NDC 和 @hieuck 提供]]></change>
+    <change><![CDATA[- 简体中文本地化更新，由 @xiangfeidexiaohuo 提供]]></change>
+    <change><![CDATA[- 丹麦语本地化更新，由 @UnexcitingDean 提供]]></change>
+  </changes>
+  <changes>
+    <version></version>
+    <change><![CDATA[### 5.7]]></change>
+    <change><![CDATA[- EeveeSpotify 现在使用默认本地化来填补缺失的字符串]]></change>
+    <change><![CDATA[- @zrvpuna 提供的日语本地化]]></change>
+    <change><![CDATA[- @longopy 更新的西班牙语本地化]]></change>
+    <change><![CDATA[- @wlxxd 更新的德语本地化]]></change>
+    <change><![CDATA[- @KAGUYA-1137 更新的日语本地化]]></change>
+  </changes>
+  <changes>
+    <version></version>
+    <change><![CDATA[### 5.6]]></change>
+    <change><![CDATA[- 新增不替换歌词选项]]></change>
+    <change><![CDATA[- 实际修复了本地文件传输问题 (#437) ]]></change>
+    <change><![CDATA[- 修复了部分歌曲使用Musixmatch显示罗马化歌词时的崩溃问题 (#452) ]]></change>
+    <change><![CDATA[- 由@LPCC12提供的葡萄牙语本地化]]></change>
+    <change><![CDATA[- 由@dvirzxc提供的加泰罗尼亚语本地化]]></change>
+    <change><![CDATA[- 由@LIKVIDATOR1337更新的乌克兰语本地化]]></change>
+    <change><![CDATA[- 由@xiangfeidexiaohuo更新的简体中文本地化]]></change>
+    <change><![CDATA[- 由@ElliotCHEN37更新的繁体中文本地化]]></change>
+    <change><![CDATA[- 由@UnexcitingDean更新的丹麦语本地化]]></change>
+    <change><![CDATA[- 由@Richard-NDC和@hieuck更新的越南语本地化]]></change>
+    <change><![CDATA[- 由@Incognito-Coder更新的波斯语本地化]]></change>
+    <change><![CDATA[- 由@RikyPy更新的意大利语本地化]]></change>
+  </changes>
+  <changes>
+    <version></version>
+    <change><![CDATA[### 5.5]]></change>
+    <change><![CDATA[- 贡献者列表]]></change>
+    <change><![CDATA[- 可能修复了本地文件传输的问题（#437）]]></change>
+    <change><![CDATA[- 默认字符串（取消、确定等）现在已通过UIKit本地化]]></change>
+  </changes>
+  <changes>
+    <version></version>
+    <change><![CDATA[### 5.4 ]]></change>
+    <change><![CDATA[- 新增乌克兰语本地化@LIKVIDATOR1337]]></change>
+    <change><![CDATA[- 新增土耳其语本土化@gototheskinny]]></change>
+    <change><![CDATA[- 新增丹麦语本地化@UnexcitingDean]]></change>
+  </changes>
+  <changes>
+    <version></version>
+    <change><![CDATA[### 5.3]]></change>
+    <change><![CDATA[- 在艺术家页面中增加了“喜欢的歌曲”功能]]></change>
+    <change><![CDATA[- 改进了“重置数据”选项（现在会清除 /Library/Caches/，并加入进度动画）]]></change>
+    <change><![CDATA[- 更新了导出的配置]]></change>
+    <change><![CDATA[- 修复了点击歌曲页面上的三点菜单时应用崩溃的问题]]></change>
+    <change><![CDATA[- 将 swift-protobuf 更新至 1.28.1，Swift 更新至版本 6（Xcode 16.0）]]></change>
+    <change><![CDATA[- 修复了下载操作导致的应用崩溃问题，改进了挂钩逻辑]]></change>
+    <change><![CDATA[- 现在所有用户都可以使用 PetitLyrics ]]></change>
+    <change><![CDATA[- @xiangfeidexiaohuo 更新了简体中文翻译]]></change>
+    <change><![CDATA[- @ElliotCHEN37 更新了繁体中文翻译]]></change>
+    <change><![CDATA[- @Richard-NDC 更新了越南语翻译]]></change>
+  </changes>
+  <changes>
+    <version></version>
+    <change><![CDATA[### 5.2]]></change>
+    <change><![CDATA[- 新增巴西语言本地化，法语本地化更正]]></change>
+  </changes>
+</changelog>

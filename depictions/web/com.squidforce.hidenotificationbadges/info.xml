@@ -1,0 +1,31 @@
+<package>
+  <id>com.squidforce.hidenotificationbadges</id>
+  <name>隐藏通知图标右下角标</name>
+  <version>0.0.1</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies></dependencies>
+  <shortDescription><![CDATA[HideNotificationBadge
+ * 隐藏推送通知图标右下角标
+ * 可配合 WeChatNotiAvatar 插件使用]]></shortDescription>
+  <descriptionlist>
+    <description><![CDATA[### HideNotificationBadge<br />- 隐藏推送通知图标右下角标<br />- 可配合 WeChatNotiAvatar 插件使用]]></description>
+  </descriptionlist>
+  <screenshots>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>pic1.png</image>
+    </screenshot>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>.</image>
+    </screenshot>
+  </screenshots>
+  <changelog>
+    <change><![CDATA[暂无]]></change>
+  </changelog>
+  <links></links>
+</package>

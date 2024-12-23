@@ -1,0 +1,32 @@
+<package>
+  <id>com.mikifp.griddys</id>
+  <name>Griddy 图标随意摆</name>
+  <version>1.0.4</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>mobilesubstrate</package>
+  </dependencies>
+  <shortDescription><![CDATA[桌面图标可以随意摆放
+ * Layout your icons anywhere you want!]]></shortDescription>
+  <descriptionlist>
+    <description><![CDATA[## 桌面图标可以随意摆放<br />- Layout your icons anywhere you want!]]></description>
+  </descriptionlist>
+  <screenshots>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>pic1.png</image>
+    </screenshot>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>pic2.png</image>
+    </screenshot>
+  </screenshots>
+  <changelog>
+    <change><![CDATA[### 1.0.4<br />- 修复了有关 dock 位置的问题<br />- 修复了有关 Bolders Reborn 插件兼容性的文件夹预览问题<br />- 修复了因生成文件夹图标图像而导致崩溃的问题<br />- 将存储的位置数据移至设备上的单独位置<br />- 稳定性改进]]></change>
+  </changelog>
+  <links></links>
+</package>

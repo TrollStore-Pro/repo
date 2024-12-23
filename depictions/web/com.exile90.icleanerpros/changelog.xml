@@ -1,0 +1,7 @@
+<changelog>
+  <changes>
+    <version></version>
+    <change><![CDATA[### 7.10.0]]></change>
+    <change><![CDATA[- 转换更新支持 Bootstrap 环境]]></change>
+  </changes>
+</changelog>

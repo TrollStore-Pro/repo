@@ -1,0 +1,20 @@
+<package>
+  <id>com.dvntm.safariiis</id>
+  <name>Safariii</name>
+  <version>0.0.1</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>mobilesubstrate (&gt;= 0.9.5000)</package>
+  </dependencies>
+  <shortDescription><![CDATA[### Safari 浏览器
+ * 隐藏 Safari 菜单扩展图标
+ * Hides Extensions icon from Adress bar]]></shortDescription>
+  <descriptionlist></descriptionlist>
+  <screenshots></screenshots>
+  <changelog></changelog>
+  <links></links>
+</package>

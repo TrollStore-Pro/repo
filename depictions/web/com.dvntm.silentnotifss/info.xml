@@ -1,0 +1,20 @@
+<package>
+  <id>com.dvntm.silentnotifss</id>
+  <name>SilentNotifs</name>
+  <version>0.0.2</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>mobilesubstrate (&gt;= 0.9.5000)</package>
+  </dependencies>
+  <shortDescription><![CDATA[### 播放音乐时，保持推送通知静音。
+ * Keep notifications silent while media is playing.
+ * Tested on iOS 14.8 and iOS 16.4.1, no options to configure]]></shortDescription>
+  <descriptionlist></descriptionlist>
+  <screenshots></screenshots>
+  <changelog></changelog>
+  <links></links>
+</package>

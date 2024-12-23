@@ -1,0 +1,34 @@
+<package>
+  <id>com.dvntm.infusepluss</id>
+  <name>Infuse Plus</name>
+  <version>1.3.2</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>mobilesubstrate</package>
+  </dependencies>
+  <shortDescription><![CDATA[InfusePlus 高级版
+ * Enhancer for Infuse app
+ * 后台播放
+ * 双击播放/暂停手势
+ * 向前/向后搜索按钮的自定义搜索时间
+ * 自定义双击可跳过时间]]></shortDescription>
+  <descriptionlist>
+    <description><![CDATA[## InfusePlus 高级版<br />- Enhancer for Infuse app<br />- 后台播放<br />- 双击播放/暂停手势<br />- 向前/向后搜索按钮的自定义搜索时间<br />- 自定义双击可跳过时间]]></description>
+  </descriptionlist>
+  <screenshots>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>pic1.png</image>
+    </screenshot>
+  </screenshots>
+  <changelog>
+    <change><![CDATA[### 1.3.2<br />- 在播放设置菜单中新增了灵活计时器子菜单<br />- 在 Infuse 7 中，点击剩余时间的功能仍然可用<br />- 启用播放速度子菜单选项会移除 Infuse 8 中的默认子菜单<br />- 启用音量增强子菜单选项会移除 Infuse 8 中的默认子菜单<br />- 2024.11.27]]></change>
+    <change><![CDATA[### 1.3.1<br />- 修复应用崩溃闪退问题<br />- 更新本地化文件]]></change>
+    <change><![CDATA[### 1.3.0<br />- 针对 Infuse 8进行了优化<br />- 改进了主代码<br />- 更新贡献列表<br />- 添加了新的欢迎界面<br />- 支持 RootHide ]]></change>
+  </changelog>
+  <links></links>
+</package>

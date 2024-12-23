@@ -1,0 +1,63 @@
+<changelog>
+  <changes>
+    <version></version>
+    <change><![CDATA[### 1.7]]></change>
+    <change><![CDATA[- 修复因新版本导致侧边倍速播放失效]]></change>
+    <change><![CDATA[- 新增评论区键盘切换深色模式（在设置）]]></change>
+    <change><![CDATA[- 为新版本抖音的弹幕热更新适配改色功能]]></change>
+  </changes>
+  <changes>
+    <version></version>
+    <change><![CDATA[### 1.6-2]]></change>
+    <change><![CDATA[- 修复 TF 抖音 31.9.0 屏蔽底栏红点失效问题]]></change>
+  </changes>
+  <changes>
+    <version></version>
+    <change><![CDATA[### 1.6]]></change>
+    <change><![CDATA[- 新增默认倍速播放功能]]></change>
+    <change><![CDATA[- 完全重构了UI ]]></change>
+    <change><![CDATA[- 修改打开设置方式为双指长按]]></change>
+    <change><![CDATA[- 让 #random 也支持随机颜色]]></change>
+  </changes>
+  <changes>
+    <version></version>
+    <change><![CDATA[### 1.5]]></change>
+    <change><![CDATA[- 修复在透明度为1的情况下切换视频导致强制透明度卡顿的问题]]></change>
+    <change><![CDATA[- 新增默认允许被标为“广告”的视频倍速，无设置项]]></change>
+    <change><![CDATA[- 修复iPad显示问题，修改为全屏显示]]></change>
+    <change><![CDATA[- 去除频道弹窗]]></change>
+    <change><![CDATA[- 修复其他 bug]]></change>
+  </changes>
+  <changes>
+    <version></version>
+    <change><![CDATA[### 1.4-2]]></change>
+    <change><![CDATA[- 修复移除收藏问题]]></change>
+  </changes>
+  <changes>
+    <version></version>
+    <change><![CDATA[### 1.4-1]]></change>
+    <change><![CDATA[- 修复与 AwemeDownloadMedia 冲突导致移除收藏闪退问题]]></change>
+  </changes>
+  <changes>
+    <version></version>
+    <change><![CDATA[### 1.4]]></change>
+    <change><![CDATA[- 新增移除(点赞、评论、收藏、分享)按钮]]></change>
+    <change><![CDATA[- 修复iPad适配问题?自测]]></change>
+    <change><![CDATA[-不会写UI，所以很丑，将就着吧]]></change>
+    <change><![CDATA[- 部分设备移除收藏与 Netskao 插件 AwemeDownloadMedia 冲突导致闪退暂时无法解决]]></change>
+  </changes>
+  <changes>
+    <version></version>
+    <change><![CDATA[### 1.3]]></change>
+    <change><![CDATA[ - 新增隐藏底栏红点]]></change>
+    <change><![CDATA[- 新增隐藏侧栏红点]]></change>
+    <change><![CDATA[- 修复 iPad 显示不完整]]></change>
+    <change><![CDATA[- 优化插件体积]]></change>
+  </changes>
+  <changes>
+    <version></version>
+    <change><![CDATA[### 1.2]]></change>
+    <change><![CDATA[- 修复隐藏全屏观看开关失效]]></change>
+    <change><![CDATA[- 新增全局透明（不包含顶栏）]]></change>
+  </changes>
+</changelog>

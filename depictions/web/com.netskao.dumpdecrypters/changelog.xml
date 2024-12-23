@@ -1,0 +1,32 @@
+<changelog>
+  <changes>
+    <version></version>
+    <change><![CDATA[### 1.5-1]]></change>
+    <change><![CDATA[- 一些小的优化]]></change>
+  </changes>
+  <changes>
+    <version></version>
+    <change><![CDATA[### 1.4.9]]></change>
+    <change><![CDATA[- 修复部分设备无法显示应用列表的问题(感谢xiaozhang反馈）]]></change>
+    <change><![CDATA[- > 2024-10-23]]></change>
+  </changes>
+  <changes>
+    <version></version>
+    <change><![CDATA[### 1.4.8]]></change>
+    <change><![CDATA[- 新增程序内显示已解密的应用列表]]></change>
+    <change><![CDATA[- 未经AppThinning的完整软件包将不再执行修补白图标流程]]></change>
+  </changes>
+  <changes>
+    <version></version>
+    <change><![CDATA[### 1.4-6]]></change>
+    <change><![CDATA[- 修复Apps列表不显示TestFlight应用]]></change>
+    <change><![CDATA[- 目前可称为手机端的bagbak]]></change>
+  </changes>
+  <changes>
+    <version></version>
+    <change><![CDATA[### 1.4-5]]></change>
+    <change><![CDATA[- 未经 AppThinning 的完整软件包将在解密前主动加载所有框架以供解密]]></change>
+    <change><![CDATA[- 优化PlugIns加载实现(不再需要注入pkd进程)]]></change>
+    <change><![CDATA[- TrollStore 版本即将到来]]></change>
+  </changes>
+</changelog>

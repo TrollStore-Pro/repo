@@ -1,0 +1,20 @@
+<package>
+  <id>com.ps.recordpauses</id>
+  <name>录像暂停 RecordPause</name>
+  <version>2.0.3</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>mobilesubstrate</package>
+    <package>firmware (&gt;= 14.0)</package>
+    <package>firmware (&lt;&lt; 18.0)</package>
+  </dependencies>
+  <shortDescription><![CDATA[录像暂停 Pause/resume video recording in iOS Camera app.]]></shortDescription>
+  <descriptionlist></descriptionlist>
+  <screenshots></screenshots>
+  <changelog></changelog>
+  <links></links>
+</package>
