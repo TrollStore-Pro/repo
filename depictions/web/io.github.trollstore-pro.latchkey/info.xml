@@ -1,0 +1,30 @@
+<package>
+  <id>io.github.trollstore-pro.latchkey</id>
+  <name>锁头自定义 Latchkey-Rootless</name>
+  <version>2.3.2</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>mobilesubstrate</package>
+    <package>org.thebigboss.libcolorpicker</package>
+  </dependencies>
+  <shortDescription><![CDATA[自定义锁头图标和位置。适配多巴胺，增加汉化。Move and theme the Face-ID lock glyph自行测试iOS16是否可行，反正iOS15正常！]]></shortDescription>
+  <descriptionlist>
+    <description><![CDATA[自定义锁头图标和位置。适配多巴胺，增加汉化。Move and theme the Face-ID lock glyph自行测试iOS16是否可行，反正iOS15正常！]]></description>
+    <description><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></description>
+  </descriptionlist>
+  <screenshots>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>p9Qz3uR.jpg</image>
+    </screenshot>
+  </screenshots>
+  <changelog>
+    <change><![CDATA[更新支持iOS15.7.5<br />*** ]]></change>
+    <change><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></change>
+  </changelog>
+  <links></links>
+</package>

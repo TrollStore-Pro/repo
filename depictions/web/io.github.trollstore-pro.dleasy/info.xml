@@ -1,0 +1,35 @@
+<package>
+  <id>io.github.trollstore-pro.dleasy</id>
+  <name>DLEasy视频下载器-Rootless</name>
+  <version>2.14.5k</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>firmware (&gt;= 12.0)</package>
+    <package>mobilesubstrate</package>
+    <package>preferenceloader</package>
+  </dependencies>
+  <shortDescription><![CDATA[Download social media pictures and videos.本插件可以下载各大视频软件里的视频，但是能不能有效，自己尝试，不要屏蔽插件注入APP！下载支持的软件列表如截图介绍所示！]]></shortDescription>
+  <descriptionlist>
+    <description><![CDATA[Download social media pictures and videos.本插件可以下载各大视频软件里的视频，但是能不能有效，自己尝试，不要屏蔽插件注入APP！下载支持的软件列表如截图介绍所示！]]></description>
+    <description><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></description>
+  </descriptionlist>
+  <screenshots>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>62040a16cc1cde4bfe9aba47</image>
+    </screenshot>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>62040a17cc1cde4bfe9aba4b</image>
+    </screenshot>
+  </screenshots>
+  <changelog>
+    <change><![CDATA[剔除一大堆依赖！<br />*** ]]></change>
+    <change><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></change>
+  </changelog>
+  <links></links>
+</package>

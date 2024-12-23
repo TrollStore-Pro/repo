@@ -1,0 +1,28 @@
+<package>
+  <id>io.github.trollstore-pro.wxqzgz</id>
+  <name>强制关注微信公众号-Rootless</name>
+  <version>0.0.1</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>mobilesubstrate</package>
+  </dependencies>
+  <shortDescription><![CDATA[强制关注微信公众号。解决部分插件需要关注公众号才能使用，然后公众号又被注销了，导致插件不可用，此插件就是解决此问题的。但是还是希望大家能关注作者公众号，支持作者]]></shortDescription>
+  <descriptionlist>
+    <description><![CDATA[强制关注微信公众号。解决部分插件需要关注公众号才能使用，然后公众号又被注销了，导致插件不可用，此插件就是解决此问题的。但是还是希望大家能关注作者公众号，支持作者]]></description>
+    <description><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></description>
+  </descriptionlist>
+  <screenshots>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>no-screenshots.jpeg</image>
+    </screenshot>
+  </screenshots>
+  <changelog>
+    <change><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></change>
+  </changelog>
+  <links></links>
+</package>

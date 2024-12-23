@@ -1,0 +1,31 @@
+<package>
+  <id>io.github.trollstore-pro.kuku</id>
+  <name>KuKu酷炫通知-Rootless</name>
+  <version>1.5</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>mobilesubstrate</package>
+    <package>preferenceloader</package>
+    <package>com.mrgcgamer.libgcuniversal</package>
+    <package>ws.hbang.common (&gt;= 1.17)</package>
+  </dependencies>
+  <shortDescription><![CDATA[自定义通知横幅，非常的个性化，好看的一款插件，现免费使用！效果看截图，还是不错的！可以自定义！喜欢美化的小伙伴们不要错过啦！]]></shortDescription>
+  <descriptionlist>
+    <description><![CDATA[自定义通知横幅，非常的个性化，好看的一款插件，现免费使用！效果看截图，还是不错的！可以自定义！喜欢美化的小伙伴们不要错过啦！]]></description>
+    <description><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></description>
+  </descriptionlist>
+  <screenshots>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>KuKuReborn-Rootless1.png</image>
+    </screenshot>
+  </screenshots>
+  <changelog>
+    <change><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></change>
+  </changelog>
+  <links></links>
+</package>

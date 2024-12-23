@@ -1,0 +1,32 @@
+<package>
+  <id>com.huam.wcenablecleanorigmsg</id>
+  <name>WCEnable原图自动清理-Rootless</name>
+  <version>1.0-2</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>mobilesubstrate (&gt;= 0.9.5000)</package>
+  </dependencies>
+  <shortDescription><![CDATA[启用微信8.0.54版本【原图、原视频14天后自动清理 】看好微信版本，低版本不行！]]></shortDescription>
+  <descriptionlist>
+    <description><![CDATA[启用微信8.0.54版本【原图、原视频14天后自动清理 】看好微信版本，低版本不行！]]></description>
+    <description><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></description>
+  </descriptionlist>
+  <screenshots>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>pAf9eCF.jpg</image>
+    </screenshot>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>pAf9m34.jpg</image>
+    </screenshot>
+  </screenshots>
+  <changelog>
+    <change><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></change>
+  </changelog>
+  <links></links>
+</package>

@@ -1,0 +1,29 @@
+<package>
+  <id>io.github.trollstore-pro.3dbadgeclear</id>
+  <name>3DBadgeClear清角标-Rootless</name>
+  <version>1.6.8</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>firmware (&gt;= 13.0)</package>
+    <package>mobilesubstrate</package>
+  </dependencies>
+  <shortDescription><![CDATA[Clear your badges from the Force Touch / 3D Touch Menu! Only appears on apps that have badges.一款快速清理角标的插件，安装之后注销生效，长按APP图标选择清理！]]></shortDescription>
+  <descriptionlist>
+    <description><![CDATA[Clear your badges from the Force Touch / 3D Touch Menu! Only appears on apps that have badges.一款快速清理角标的插件，安装之后注销生效，长按APP图标选择清理！]]></description>
+    <description><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></description>
+  </descriptionlist>
+  <screenshots>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>no-screenshots.jpeg</image>
+    </screenshot>
+  </screenshots>
+  <changelog>
+    <change><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></change>
+  </changelog>
+  <links></links>
+</package>

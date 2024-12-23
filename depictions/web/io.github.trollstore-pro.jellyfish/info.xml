@@ -1,0 +1,36 @@
+<package>
+  <id>io.github.trollstore-pro.jellyfish</id>
+  <name>Jellyfish锁屏美化-Rootless</name>
+  <version>1.6.5</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>mobilesubstrate</package>
+    <package>preferenceloader</package>
+    <package>ws.hbang.alderis (&gt;= 1.1)</package>
+    <package>firmware (&gt;= 15.0)</package>
+  </dependencies>
+  <shortDescription><![CDATA[Natural, Simple, Beautiful. Redesign your Lock screen with Jellyfish.锁屏美化插件，由全能玩机源自主汉化分享，全能玩机源你永远的家！锁屏显示天气，字体修改等等！自行体验！]]></shortDescription>
+  <descriptionlist>
+    <description><![CDATA[Natural, Simple, Beautiful. Redesign your Lock screen with Jellyfish.锁屏美化插件，由全能玩机源自主汉化分享，全能玩机源你永远的家！锁屏显示天气，字体修改等等！自行体验！]]></description>
+    <description><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></description>
+  </descriptionlist>
+  <screenshots>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>Jellyfish-Rootless4.png</image>
+    </screenshot>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>pPmM0Q1.jpg</image>
+    </screenshot>
+  </screenshots>
+  <changelog>
+    <change><![CDATA[自主汉化<br />*** ]]></change>
+    <change><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></change>
+  </changelog>
+  <links></links>
+</package>

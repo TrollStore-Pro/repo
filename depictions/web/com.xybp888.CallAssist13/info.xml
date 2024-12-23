@@ -1,0 +1,30 @@
+<package>
+  <id>com.xybp888.CallAssist13</id>
+  <name>电话助手iOS13-正式版</name>
+  <version>2.5.6</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>firmware (&gt;= 13.0)</package>
+    <package>mobilesubstrate</package>
+    <package>preferenceloader</package>
+    <package>com.rpetrich.rocketbootstrap (&gt;= 1.0.10~beta1)</package>
+  </dependencies>
+  <shortDescription></shortDescription>
+  <descriptionlist>
+    <description><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></description>
+  </descriptionlist>
+  <screenshots>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>no-screenshots.jpeg</image>
+    </screenshot>
+  </screenshots>
+  <changelog>
+    <change><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></change>
+  </changelog>
+  <links></links>
+</package>

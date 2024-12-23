@@ -1,0 +1,31 @@
+<package>
+  <id>io.github.trollstore-pro.qqnotiavatar</id>
+  <name>QQ头像-Rootless</name>
+  <version>1.2-2</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>firmware (&gt;= 15.0)</package>
+    <package>firmware (&lt;&lt; 17.0)</package>
+    <package>mobilesubstrate</package>
+  </dependencies>
+  <shortDescription><![CDATA[Display Notification Avatars for QQ App using iOS15 APIs为QQ来消息通知显示头像信息！可以说是非常的骚气，效果看截图，配合灵动岛岂不是上天！]]></shortDescription>
+  <descriptionlist>
+    <description><![CDATA[Display Notification Avatars for QQ App using iOS15 APIs为QQ来消息通知显示头像信息！可以说是非常的骚气，效果看截图，配合灵动岛岂不是上天！]]></description>
+    <description><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></description>
+  </descriptionlist>
+  <screenshots>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>pPRdOde.jpg</image>
+    </screenshot>
+  </screenshots>
+  <changelog>
+    <change><![CDATA[修复已知问题！<br />*** ]]></change>
+    <change><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></change>
+  </changelog>
+  <links></links>
+</package>

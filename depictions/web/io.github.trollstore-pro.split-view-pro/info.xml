@@ -1,0 +1,29 @@
+<package>
+  <id>io.github.trollstore-pro.split-view-pro</id>
+  <name>Split-view-pro分屏-Rootless</name>
+  <version>0.0.3-1-47+debug</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>mobilesubstrate (&gt;= 0.9.5000)</package>
+  </dependencies>
+  <shortDescription><![CDATA[由大神sunshinesong免费开发的分屏插件，非常的酷拉炫，而且是免费的，据说是吊打O2，免费好用，推荐使用，目前是测试期，耐心等待完善，很多好玩免费插件，尽在全能玩机源！]]></shortDescription>
+  <descriptionlist>
+    <description><![CDATA[由大神sunshinesong免费开发的分屏插件，非常的酷拉炫，而且是免费的，据说是吊打O2，免费好用，推荐使用，目前是测试期，耐心等待完善，很多好玩免费插件，尽在全能玩机源！]]></description>
+    <description><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></description>
+  </descriptionlist>
+  <screenshots>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>ba8f11cd32f3243512ba28b1dc552209bd040964.jpg</image>
+    </screenshot>
+  </screenshots>
+  <changelog>
+    <change><![CDATA[1、 自定义摇晃灵敏度。 2、自定义侧边小窗是否平铺。3、底部app布局调整为居中。4、浮窗app合并，原切换按钮调整为切换控制台打开（不建议横屏切换）。<br />*** ]]></change>
+    <change><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></change>
+  </changelog>
+  <links></links>
+</package>

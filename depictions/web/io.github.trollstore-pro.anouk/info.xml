@@ -1,0 +1,28 @@
+<package>
+  <id>io.github.trollstore-pro.anouk</id>
+  <name>Anouk相册加锁-Rootless</name>
+  <version>1.2</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>mobilesubstrate</package>
+  </dependencies>
+  <shortDescription><![CDATA[Authentication for the hidden album.Anouk 目前版本 主要特点：完全免费，开源。支持已隐藏加锁。默认开启。支持最近删除加锁。需要在设置中开启。自定义已隐藏照片的数量。全能玩机源已汉化！]]></shortDescription>
+  <descriptionlist>
+    <description><![CDATA[Authentication for the hidden album.Anouk 目前版本 主要特点：完全免费，开源。支持已隐藏加锁。默认开启。支持最近删除加锁。需要在设置中开启。自定义已隐藏照片的数量。全能玩机源已汉化！]]></description>
+    <description><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></description>
+  </descriptionlist>
+  <screenshots>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>no-screenshots.jpeg</image>
+    </screenshot>
+  </screenshots>
+  <changelog>
+    <change><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></change>
+  </changelog>
+  <links></links>
+</package>

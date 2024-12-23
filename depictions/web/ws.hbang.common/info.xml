@@ -1,0 +1,28 @@
+<package>
+  <id>ws.hbang.common</id>
+  <name>Cephei Tweak Support</name>
+  <version>1.9</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>firmware (&gt;= 15.0)</package>
+  </dependencies>
+  <shortDescription><![CDATA[Support library for tweaks重要插件依赖，降低一个版本号提前上架！官方源上架之后，我会马上下架，我对你的依赖不感兴趣，没必要劫持！]]></shortDescription>
+  <descriptionlist>
+    <description><![CDATA[Support library for tweaks重要插件依赖，降低一个版本号提前上架！官方源上架之后，我会马上下架，我对你的依赖不感兴趣，没必要劫持！]]></description>
+    <description><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></description>
+  </descriptionlist>
+  <screenshots>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>no-screenshots.jpeg</image>
+    </screenshot>
+  </screenshots>
+  <changelog>
+    <change><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></change>
+  </changelog>
+  <links></links>
+</package>

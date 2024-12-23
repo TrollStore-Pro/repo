@@ -1,0 +1,31 @@
+<package>
+  <id>io.github.trollstore-pro.wtvrbglauncher</id>
+  <name>第三方输入法增强-Rootless</name>
+  <version>1.1</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>firmware (&gt;= 14.0)</package>
+    <package>mobilesubstrate</package>
+    <package>preferenceloader</package>
+  </dependencies>
+  <shortDescription><![CDATA[这款插件不错，对第三方输入法用户来说！App内调用输入法的“语音转文字”功能时，免去跳转的过程；支持微信输入法，百度输入法，讯飞输入法，搜狗输入法。设置里有开关选项，虽然只有一个百度输入法，但是打开了基本上都能生效，其他输入法没写出来，不用介意！]]></shortDescription>
+  <descriptionlist>
+    <description><![CDATA[这款插件不错，对第三方输入法用户来说！App内调用输入法的“语音转文字”功能时，免去跳转的过程；支持微信输入法，百度输入法，讯飞输入法，搜狗输入法。设置里有开关选项，虽然只有一个百度输入法，但是打开了基本上都能生效，其他输入法没写出来，不用介意！]]></description>
+    <description><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></description>
+  </descriptionlist>
+  <screenshots>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>eeff6a6c56732850a6b0ed314cb6dff111505926.jpg</image>
+    </screenshot>
+  </screenshots>
+  <changelog>
+    <change><![CDATA[新增插件简易选项<br />*** ]]></change>
+    <change><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></change>
+  </changelog>
+  <links></links>
+</package>

@@ -1,0 +1,45 @@
+<package>
+  <id>io.github.trollstore-pro.kayoko</id>
+  <name>Kayoko剪贴板神器-Rootless</name>
+  <version>2.7</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>firmware (&gt;= 14.0)</package>
+    <package>mobilesubstrate</package>
+    <package>preferenceloader</package>
+    <package>com.opa334.libsandy</package>
+  </dependencies>
+  <shortDescription><![CDATA[一款剪贴板神器，类似于Copylog和Nicelog，但是这是一块免费插件，非常的好用！支持复制图片到另一个软件，棒！其他开发者编译纯自用。适配多巴胺，此版本修改设置可以生效，自带中文翻译！82flex修复支持iOS16，非常的好用且免费，有问题请等更新修复！]]></shortDescription>
+  <descriptionlist>
+    <description><![CDATA[一款剪贴板神器，类似于Copylog和Nicelog，但是这是一块免费插件，非常的好用！支持复制图片到另一个软件，棒！其他开发者编译纯自用。适配多巴胺，此版本修改设置可以生效，自带中文翻译！82flex修复支持iOS16，非常的好用且免费，有问题请等更新修复！]]></description>
+    <description><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></description>
+  </descriptionlist>
+  <screenshots>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>p9aFjBR.png</image>
+    </screenshot>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>p9aiKdP.png</image>
+    </screenshot>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>p9aYIy9.png</image>
+    </screenshot>
+  </screenshots>
+  <changelog>
+    <change><![CDATA[修复bug<br />*** ]]></change>
+    <change><![CDATA[优化隐藏动画和时机<br />*** ]]></change>
+    <change><![CDATA[为听写键触发新增了一处触感反馈<br />*** ]]></change>
+    <change><![CDATA[优化删除/收藏时的动画效果，优化面板验收跟随状态栏风格<br />*** ]]></change>
+    <change><![CDATA[更新支持iOS16！<br />*** ]]></change>
+    <change><![CDATA[添加1.0版本的通知以便第三方插件调用！<br />*** ]]></change>
+    <change><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></change>
+  </changelog>
+  <links></links>
+</package>

@@ -1,0 +1,29 @@
+<package>
+  <id>io.github.trollstore-pro.betterccbrightness</id>
+  <name>BetterCCBrightness亮度增强-Rootless</name>
+  <version>1.0.2</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>mobilesubstrate (&gt;= 0.9.5000)</package>
+    <package>firmware (&gt;= 13.0)</package>
+  </dependencies>
+  <shortDescription><![CDATA[Add more controls to the expanded brightness CC module为控制中心亮度模块，拓展出很多功能，插件无设置项，安装注销即生效！长按控制中心亮度模块出来界面！]]></shortDescription>
+  <descriptionlist>
+    <description><![CDATA[Add more controls to the expanded brightness CC module为控制中心亮度模块，拓展出很多功能，插件无设置项，安装注销即生效！长按控制中心亮度模块出来界面！]]></description>
+    <description><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></description>
+  </descriptionlist>
+  <screenshots>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>pFbfVUA.jpg</image>
+    </screenshot>
+  </screenshots>
+  <changelog>
+    <change><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></change>
+  </changelog>
+  <links></links>
+</package>

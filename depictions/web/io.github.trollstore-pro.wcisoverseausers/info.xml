@@ -1,0 +1,29 @@
+<package>
+  <id>io.github.trollstore-pro.wcisoverseausers</id>
+  <name>WCIsOver微信通行密钥-Rootless</name>
+  <version>1.1-1</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>mobilesubstrate</package>
+    <package>firmware (&gt;= 14.0)</package>
+  </dependencies>
+  <shortDescription><![CDATA[* 仅支持微信 8.0.54 及以上，仅支持 iOS 16 及以上，86+ 号码强制激活“通行密钥”补丁（该功能原生仅支持海外号码，补丁强制86+ 用户使用）通行密钥怎么用可以百度一下，小编也不知道！作用如下：通过iCloud账号创建一个通行密钥；创建后可凭指纹，面容解锁方式登录微信账号；在使用相同iCloud账号的设备中可免密码登录。]]></shortDescription>
+  <descriptionlist>
+    <description><![CDATA[* 仅支持微信 8.0.54 及以上，仅支持 iOS 16 及以上，86+ 号码强制激活“通行密钥”补丁（该功能原生仅支持海外号码，补丁强制86+ 用户使用）通行密钥怎么用可以百度一下，小编也不知道！作用如下：通过iCloud账号创建一个通行密钥；创建后可凭指纹，面容解锁方式登录微信账号；在使用相同iCloud账号的设备中可免密码登录。]]></description>
+    <description><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></description>
+  </descriptionlist>
+  <screenshots>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>T053XD0000322Tt92YdVUR.png</image>
+    </screenshot>
+  </screenshots>
+  <changelog>
+    <change><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></change>
+  </changelog>
+  <links></links>
+</package>

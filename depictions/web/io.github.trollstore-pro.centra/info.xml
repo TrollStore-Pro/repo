@@ -1,0 +1,29 @@
+<package>
+  <id>io.github.trollstore-pro.centra</id>
+  <name>Centra控制中心大小-Rootless</name>
+  <version>1.0</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>mobilesubstrate</package>
+    <package>preferenceloader</package>
+  </dependencies>
+  <shortDescription><![CDATA[Customize the size of modules in the Control Center, including Connectivity and other modules.一款可以调整控制中心模块大小的插件，自带中文，原价0.99美元，现在免费使用，有能力的请支持作者！]]></shortDescription>
+  <descriptionlist>
+    <description><![CDATA[Customize the size of modules in the Control Center, including Connectivity and other modules.一款可以调整控制中心模块大小的插件，自带中文，原价0.99美元，现在免费使用，有能力的请支持作者！]]></description>
+    <description><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></description>
+  </descriptionlist>
+  <screenshots>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>6757632d275fa071ba17478a</image>
+    </screenshot>
+  </screenshots>
+  <changelog>
+    <change><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></change>
+  </changelog>
+  <links></links>
+</package>

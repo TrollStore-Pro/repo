@@ -1,0 +1,30 @@
+<package>
+  <id>io.github.trollstore-pro.messagesxi</id>
+  <name>MessagesXI短信增强-Rootless</name>
+  <version>2.3</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>mobilesubstrate</package>
+    <package>ws.hbang.common (&gt;= 1.13)</package>
+    <package>ws.hbang.alderis (&gt;= 1.2)</package>
+  </dependencies>
+  <shortDescription><![CDATA[我不知道这插件有什么用，下面我来给大家介绍：我写这篇文章是为了最初解决我在消息应用程序中的烦恼！从那时起，添加了更多功能来增强 iOS 设备的消息传递体验：无缝调整集成到“信息”中，提供类似 Apple 的体验。所有设置都在应用程序本身中配置 - 不再转到设置！如果您在对话中选择“消息”时将其置于背景或关闭，则系统会推回对话列表，而不是停留在上一个对话上（这是激发此调整的最初问题）。手动读取/取消读取消息的能力！如果启用此选项，您将在对话中看到“已读”或“未读”，具体取决于您是否真的有未读消息。手动未读聊天也会有不同的未读指示器颜色，让您知道它是手动未读的。打开“消息”应用，然后单击“撰写新消息”按钮左侧的省略号（3 个点）。这将打开一个上下文菜单来配置MessagesXI。正如一开始我所说，我不知道这插件有什么用！没用就卸载！]]></shortDescription>
+  <descriptionlist>
+    <description><![CDATA[我不知道这插件有什么用，下面我来给大家介绍：我写这篇文章是为了最初解决我在消息应用程序中的烦恼！从那时起，添加了更多功能来增强 iOS 设备的消息传递体验：无缝调整集成到“信息”中，提供类似 Apple 的体验。所有设置都在应用程序本身中配置 - 不再转到设置！如果您在对话中选择“消息”时将其置于背景或关闭，则系统会推回对话列表，而不是停留在上一个对话上（这是激发此调整的最初问题）。手动读取/取消读取消息的能力！如果启用此选项，您将在对话中看到“已读”或“未读”，具体取决于您是否真的有未读消息。手动未读聊天也会有不同的未读指示器颜色，让您知道它是手动未读的。打开“消息”应用，然后单击“撰写新消息”按钮左侧的省略号（3 个点）。这将打开一个上下文菜单来配置MessagesXI。正如一开始我所说，我不知道这插件有什么用！没用就卸载！]]></description>
+    <description><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></description>
+  </descriptionlist>
+  <screenshots>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>65f7916f53803dcb868d231e</image>
+    </screenshot>
+  </screenshots>
+  <changelog>
+    <change><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></change>
+  </changelog>
+  <links></links>
+</package>

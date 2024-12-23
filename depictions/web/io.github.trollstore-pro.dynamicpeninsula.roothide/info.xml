@@ -1,0 +1,31 @@
+<package>
+  <id>io.github.trollstore-pro.dynamicpeninsula.roothide</id>
+  <name>DynamicPeninsula灵动半岛-RootHide</name>
+  <version>0.7-8</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>mobilesubstrate</package>
+    <package>byg.iosios.net.limneoscrack-roothide</package>
+    <package>net.limneos.limtools-roothide</package>
+    <package>firmware(&gt;=12.0)</package>
+  </dependencies>
+  <shortDescription><![CDATA[Dynamic Island on your notch为旧设备提供灵动半岛，体验乐趣！可能有bug，自行忍受，毕竟不是原生的！半越狱可用！]]></shortDescription>
+  <descriptionlist>
+    <description><![CDATA[Dynamic Island on your notch为旧设备提供灵动半岛，体验乐趣！可能有bug，自行忍受，毕竟不是原生的！半越狱可用！]]></description>
+    <description><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></description>
+  </descriptionlist>
+  <screenshots>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>dynp1-thumb.jpg</image>
+    </screenshot>
+  </screenshots>
+  <changelog>
+    <change><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></change>
+  </changelog>
+  <links></links>
+</package>

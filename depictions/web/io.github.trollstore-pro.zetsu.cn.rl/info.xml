@@ -1,0 +1,29 @@
+<package>
+  <id>io.github.trollstore-pro.zetsu.cn.rl</id>
+  <name>Zetsu 分屏中文汉化插件-Rootless</name>
+  <version>1.6.2</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>jp.dcsyhi.zetsu</package>
+  </dependencies>
+  <shortDescription><![CDATA[Zetsu 分屏简体中文包(rootless)。安装之后，会使你的Zetsu插件变成中文显示！自动唤醒安装zetsu分屏，半越狱请手动安装chariz源里的zetsu！不喜欢1.6版本的可以长按更改降级1.5版本！]]></shortDescription>
+  <descriptionlist>
+    <description><![CDATA[Zetsu 分屏简体中文包(rootless)。安装之后，会使你的Zetsu插件变成中文显示！自动唤醒安装zetsu分屏，半越狱请手动安装chariz源里的zetsu！不喜欢1.6版本的可以长按更改降级1.5版本！]]></description>
+    <description><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></description>
+  </descriptionlist>
+  <screenshots>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>no-screenshots.jpeg</image>
+    </screenshot>
+  </screenshots>
+  <changelog>
+    <change><![CDATA[在收藏夹和应用前设置屏幕上添加了搜索功能。添加了截屏时隐藏菜单栏的功能。添加了从应用程序切换器启动拆分视图的功能。<br />*** ]]></change>
+    <change><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></change>
+  </changelog>
+  <links></links>
+</package>

@@ -1,0 +1,42 @@
+<package>
+  <id>io.github.trollstore-pro.complications</id>
+  <name>Complications手表锁屏-Rootless</name>
+  <version>4.0</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>mobilesubstrate</package>
+    <package>com.icraze.complicationsfix</package>
+    <package>oldabi</package>
+  </dependencies>
+  <shortDescription><![CDATA[watchOS widgets on your lock screen锁屏界面仿iWatch手表，目前bug较多，自行体验！转插。插件截图介绍有人工翻译，凑合着用吧]]></shortDescription>
+  <descriptionlist>
+    <description><![CDATA[watchOS widgets on your lock screen锁屏界面仿iWatch手表，目前bug较多，自行体验！转插。插件截图介绍有人工翻译，凑合着用吧]]></description>
+    <description><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></description>
+  </descriptionlist>
+  <screenshots>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>p90vz9g.png</image>
+    </screenshot>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>p90vjN8.jpg</image>
+    </screenshot>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>p90xAEV.png</image>
+    </screenshot>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>p90xENT.png</image>
+    </screenshot>
+  </screenshots>
+  <changelog>
+    <change><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></change>
+  </changelog>
+  <links></links>
+</package>
