@@ -1,0 +1,36 @@
+<package>
+  <id>io.github.trollstore-pro.minotaur</id>
+  <name>Minotaur通知风格-Rootless</name>
+  <version>1.2.2</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>mobilesubstrate</package>
+    <package>preferenceloader</package>
+    <package>emt.paisseon.xinamine (&gt;= 0.0.5)</package>
+    <package>oldabi</package>
+  </dependencies>
+  <shortDescription><![CDATA[状态栏中的通知样式风格，此版本需xinamine，功能完美_________来了老弟·修复。感谢老弟修复如此有趣的插件！]]></shortDescription>
+  <descriptionlist>
+    <description><![CDATA[状态栏中的通知样式风格，此版本需xinamine，功能完美_________来了老弟·修复。感谢老弟修复如此有趣的插件！]]></description>
+    <description><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></description>
+  </descriptionlist>
+  <screenshots>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>pCG93h8.jpg</image>
+    </screenshot>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>pCG9G9S.png</image>
+    </screenshot>
+  </screenshots>
+  <changelog>
+    <change><![CDATA[可能修复了显示海盗图标的bug，试试吧<br />*** ]]></change>
+    <change><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></change>
+  </changelog>
+  <links></links>
+</package>

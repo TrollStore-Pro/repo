@@ -1,0 +1,29 @@
+<package>
+  <id>io.github.trollstore-pro.pogr</id>
+  <name>PodsGrant蓝牙耳机弹窗-Rootless</name>
+  <version>0.4.0~prerelease1</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>mobilesubstrate (&gt;= 0.9.5000)</package>
+  </dependencies>
+  <shortDescription><![CDATA[Treat AirPods Pro 2 correctly在iOS16系统上启用AirPods蓝牙耳机弹窗，效果自测，无用请卸载！亲测支持iOS16系统！多巴胺正常，xina越狱不清楚！乱七八糟的问题不要来问我！全能玩机源永久免费，我们的服务众所周知！]]></shortDescription>
+  <descriptionlist>
+    <description><![CDATA[Treat AirPods Pro 2 correctly在iOS16系统上启用AirPods蓝牙耳机弹窗，效果自测，无用请卸载！亲测支持iOS16系统！多巴胺正常，xina越狱不清楚！乱七八糟的问题不要来问我！全能玩机源永久免费，我们的服务众所周知！]]></description>
+    <description><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></description>
+  </descriptionlist>
+  <screenshots>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>p96ItbV.jpg</image>
+    </screenshot>
+  </screenshots>
+  <changelog>
+    <change><![CDATA[更新支持iOS16！多巴胺越狱！<br />*** ]]></change>
+    <change><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></change>
+  </changelog>
+  <links></links>
+</package>

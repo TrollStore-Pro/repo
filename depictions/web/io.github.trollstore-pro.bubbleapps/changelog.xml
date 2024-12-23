@@ -1,0 +1,11 @@
+<changelog>
+  <changes>
+    <version></version>
+    <change><![CDATA[3.0.0版：•完全支持iOS 16（14-16无根和有根）•在锁屏上显示应用程序的新方式（检查图像•浮动气泡（任意位置）和静态气泡（锁屏）之间的独立逻辑•修复了旧版本中出现的一些错误•重新设计的首选项窗格•重构代码并提高性能•更好的徽章逻辑]]></change>
+    <change><![CDATA[*** ]]></change>
+  </changes>
+  <changes>
+    <version></version>
+    <change><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></change>
+  </changes>
+</changelog>

@@ -1,0 +1,33 @@
+<package>
+  <id>io.github.trollstore-pro.bindfs-xina</id>
+  <name>mount_bindfs挂载工具（Xina）</name>
+  <version>0.1.2</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>coreutils</package>
+    <package>sed</package>
+    <package>plutil</package>
+    <package>firmware (&gt;&gt; 14.0)</package>
+    <package>firmware (&lt;&lt; 16.0)</package>
+    <package>mobilesubstrate (= 999)</package>
+  </dependencies>
+  <shortDescription><![CDATA[以 bindfs 挂载文件夹的 cli 工具！本插件只支持xina越狱！挂载教程请下载果粉之家查看！trollstore-pro.github.io]]></shortDescription>
+  <descriptionlist>
+    <description><![CDATA[以 bindfs 挂载文件夹的 cli 工具！本插件只支持xina越狱！挂载教程请下载果粉之家查看！trollstore-pro.github.io]]></description>
+    <description><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></description>
+  </descriptionlist>
+  <screenshots>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>no-screenshots.jpeg</image>
+    </screenshot>
+  </screenshots>
+  <changelog>
+    <change><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></change>
+  </changelog>
+  <links></links>
+</package>

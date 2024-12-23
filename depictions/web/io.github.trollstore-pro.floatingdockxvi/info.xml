@@ -1,0 +1,33 @@
+<package>
+  <id>io.github.trollstore-pro.floatingdockxvi</id>
+  <name>FloatingDock悬浮Dock-Rootless</name>
+  <version>2.3</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>preferenceloader</package>
+  </dependencies>
+  <shortDescription><![CDATA[Floating Dock on iOS 16  让你的Dock栏和iPad一样悬浮起来，并且桌面底板加好几个图标，超过官方限制的4个!本插件仅是官方加全能玩机源汉化，无需再单独安装汉化包，毕竟能省一个插件是一个嘛！全能玩机源，最新最全！]]></shortDescription>
+  <descriptionlist>
+    <description><![CDATA[Floating Dock on iOS 16 让你的Dock栏和iPad一样悬浮起来，并且桌面底板加好几个图标，超过官方限制的4个!本插件仅是官方加全能玩机源汉化，无需再单独安装汉化包，毕竟能省一个插件是一个嘛！全能玩机源，最新最全！]]></description>
+    <description><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></description>
+  </descriptionlist>
+  <screenshots>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>639a2ec22814b7530636407e</image>
+    </screenshot>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>639a2ed32814b753063641f8</image>
+    </screenshot>
+  </screenshots>
+  <changelog>
+    <change><![CDATA[更新支持iOS 16<br />*** ]]></change>
+    <change><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></change>
+  </changelog>
+  <links></links>
+</package>

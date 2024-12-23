@@ -1,0 +1,29 @@
+<package>
+  <id>io.github.trollstore-pro.camera.rootless</id>
+  <name>全屏相机-Rootless</name>
+  <version>0.1-2</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>mobilesubstrate (&gt;= 0.9.5000)</package>
+  </dependencies>
+  <shortDescription><![CDATA[系统相机开启全屏拍照，禁用拍照提示音。此插件由全能玩机源免费首发，全能玩机源只为给您带来最好的iPhone体验！永久免费的全能玩机源！越狱必加！]]></shortDescription>
+  <descriptionlist>
+    <description><![CDATA[系统相机开启全屏拍照，禁用拍照提示音。此插件由全能玩机源免费首发，全能玩机源只为给您带来最好的iPhone体验！永久免费的全能玩机源！越狱必加！]]></description>
+    <description><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></description>
+  </descriptionlist>
+  <screenshots>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>4868cf9aed47e60adc26c0e7677c269b50991555.jpg</image>
+    </screenshot>
+  </screenshots>
+  <changelog>
+    <change><![CDATA[修复iOS16上可能存在的问题！<br />*** ]]></change>
+    <change><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></change>
+  </changelog>
+  <links></links>
+</package>

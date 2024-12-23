@@ -1,0 +1,16 @@
+<changelog>
+  <changes>
+    <version></version>
+    <change><![CDATA[修复重多bug，优化代码！]]></change>
+    <change><![CDATA[*** ]]></change>
+  </changes>
+  <changes>
+    <version></version>
+    <change><![CDATA[Bugfixes•修复动态岛设备上底部手势的问题•修复底部手势的横向支撑•修复在横向模式下访问控制中心时会导致安全模式的问题•在按下“电源控制”模块中的开关时添加了一个动画•修复用户从亮模式切换到暗模式时亮度滑块的问题，反之亦然•修复了一个问题，即如果连接到启用QuickTime的Mac，设备会卡在呼吸循环中•修复用户尝试屏幕共享时设备进入安全模式的问题•修复了手势方面的一些问题，即首先打开它，然后打开后向上滚动不会导致相同的位置•修复了在应用程序切换器两侧滑动会触发Jade的问题•修复iOS 17问题•iOS 16略有改进•修复未启用“静态Glyphs”选项时音量和亮度滑块的主题设置]]></change>
+    <change><![CDATA[*** ]]></change>
+  </changes>
+  <changes>
+    <version></version>
+    <change><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></change>
+  </changes>
+</changelog>

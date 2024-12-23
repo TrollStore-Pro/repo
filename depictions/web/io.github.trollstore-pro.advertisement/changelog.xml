@@ -1,0 +1,21 @@
+<changelog>
+  <changes>
+    <version></version>
+    <change><![CDATA[修复网易云音乐无法播放问题，优化插件体积，目前大部分软件没广告了，小部分的我不用，有缘再更新！]]></change>
+    <change><![CDATA[*** ]]></change>
+  </changes>
+  <changes>
+    <version></version>
+    <change><![CDATA[修复及新增威锋去广告，番茄，中国银行，丰云行，百度贴吧，百度网盘，网易邮箱，微信，喜马拉雅，亲邻开门等等！半越狱自行开启插件注入对应的软件！本插件不为半越狱服务！有问题请使用Choicy屏蔽插件注入相应软件！]]></change>
+    <change><![CDATA[*** ]]></change>
+  </changes>
+  <changes>
+    <version></version>
+    <change><![CDATA[有任何问题或者造成软件闪退请使用choicy或者魔术师屏蔽广告终结者注入该软件！！！更新日志：新增叮咚买菜去广告，新增哔哩哔哩国际版去广告解锁4K，新增微博轻享版去广告，新增游明星空去广告，新增游民星空去广告，新增饿了么去广告；优化百度网盘去广告，优化百度贴吧去广告，优化知乎去广告；优化豆瓣去广告。]]></change>
+    <change><![CDATA[*** ]]></change>
+  </changes>
+  <changes>
+    <version></version>
+    <change><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></change>
+  </changes>
+</changelog>

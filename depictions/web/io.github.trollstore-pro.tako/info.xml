@@ -1,0 +1,32 @@
+<package>
+  <id>io.github.trollstore-pro.tako</id>
+  <name>Tako锁屏美化-Rootless</name>
+  <version>3.5.2.1</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>mobilesubstrate</package>
+    <package>preferenceloader</package>
+    <package>ws.hbang.common (&gt;= 1.16)</package>
+    <package>com.mrgcgamer.libgcuniversal</package>
+  </dependencies>
+  <shortDescription><![CDATA[Notification priority hub tweak. Organize your lockscreen notification.主要功能：锁屏通知聚合，按照 App 图标归纳在一起，锁屏变得简洁。自定义选项丰富，多种样式。支持 Axon 样式，回归经典。插件免费，简单易用。全能玩机源已汉化！]]></shortDescription>
+  <descriptionlist>
+    <description><![CDATA[Notification priority hub tweak. Organize your lockscreen notification.主要功能：锁屏通知聚合，按照 App 图标归纳在一起，锁屏变得简洁。自定义选项丰富，多种样式。支持 Axon 样式，回归经典。插件免费，简单易用。全能玩机源已汉化！]]></description>
+    <description><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></description>
+  </descriptionlist>
+  <screenshots>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>pkCsXtO.jpg</image>
+    </screenshot>
+  </screenshots>
+  <changelog>
+    <change><![CDATA[优化过渡动画效果<br />*** ]]></change>
+    <change><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></change>
+  </changelog>
+  <links></links>
+</package>

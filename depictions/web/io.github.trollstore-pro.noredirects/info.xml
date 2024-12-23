@@ -1,0 +1,34 @@
+<package>
+  <id>io.github.trollstore-pro.noredirects</id>
+  <name>NoRedirect禁止跳转-Rootless</name>
+  <version>1.10</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>firmware (&gt;= 14.0)</package>
+    <package>mobilesubstrate</package>
+    <package>preferenceloader</package>
+    <package>com.opa334.altlist</package>
+    <package>com.opa334.libsandy</package>
+  </dependencies>
+  <shortDescription><![CDATA[阻止指定的应用重定向到 App Store、Safari 或其他应用。意思就是防止打开这个软件弹出了广告突然让你去下载另一个应用，或者打开浏览器链接，一款还不错的小插件，需要的用户可以试试！]]></shortDescription>
+  <descriptionlist>
+    <description><![CDATA[阻止指定的应用重定向到 App Store、Safari 或其他应用。意思就是防止打开这个软件弹出了广告突然让你去下载另一个应用，或者打开浏览器链接，一款还不错的小插件，需要的用户可以试试！]]></description>
+    <description><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></description>
+  </descriptionlist>
+  <screenshots>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>T053XD00000LIGeX1M9yXG.png</image>
+    </screenshot>
+  </screenshots>
+  <changelog>
+    <change><![CDATA[修复bug，添加更多功能！<br />*** ]]></change>
+    <change><![CDATA[重新构建以支持roothide！<br />*** ]]></change>
+    <change><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></change>
+  </changelog>
+  <links></links>
+</package>

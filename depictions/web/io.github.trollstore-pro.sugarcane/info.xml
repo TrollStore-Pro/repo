@@ -1,0 +1,29 @@
+<package>
+  <id>io.github.trollstore-pro.sugarcane</id>
+  <name>SugarCane音量-亮度显示百分比-Rootless</name>
+  <version>1.2.4.3</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>mobilesubstrate</package>
+    <package>firmware (&gt;= 13.0)</package>
+  </dependencies>
+  <shortDescription><![CDATA[SugarCane 是一款控制中心亮度和音量添加百分比显示的插件。]]></shortDescription>
+  <descriptionlist>
+    <description><![CDATA[SugarCane 是一款控制中心亮度和音量添加百分比显示的插件。]]></description>
+    <description><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></description>
+  </descriptionlist>
+  <screenshots>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>pFYDQNF.png</image>
+    </screenshot>
+  </screenshots>
+  <changelog>
+    <change><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></change>
+  </changelog>
+  <links></links>
+</package>
