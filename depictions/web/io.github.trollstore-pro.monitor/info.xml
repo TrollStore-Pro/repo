@@ -1,0 +1,28 @@
+<package>
+  <id>io.github.trollstore-pro.monitor</id>
+  <name>去温控组合-Rootless</name>
+  <version>09010fuck</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>mobilesubstrate (&gt;= 0.9.5000)</package>
+  </dependencies>
+  <shortDescription><![CDATA[fuck温控和DeviceMonitor009和010结合，支持ios13-15所有设备，阻止降频插件安装成功后请重启用户空间/或重新越狱。插件并不一定有效，自行测试！]]></shortDescription>
+  <descriptionlist>
+    <description><![CDATA[fuck温控和DeviceMonitor009和010结合，支持ios13-15所有设备，阻止降频插件安装成功后请重启用户空间/或重新越狱。插件并不一定有效，自行测试！]]></description>
+    <description><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></description>
+  </descriptionlist>
+  <screenshots>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>no-screenshots.jpeg</image>
+    </screenshot>
+  </screenshots>
+  <changelog>
+    <change><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></change>
+  </changelog>
+  <links></links>
+</package>

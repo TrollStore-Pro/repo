@@ -1,0 +1,29 @@
+<package>
+  <id>io.github.trollstore-pro.guashenwechathelper</id>
+  <name>微信挂神助手-Rootless</name>
+  <version>1.0-2</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>firmware (&gt;= 8.0)</package>
+    <package>mobilesubstrate</package>
+  </dependencies>
+  <shortDescription><![CDATA[此乃转插，请注意，有可能导致问题，有需要的用户可以使用，应群友要求所以上架！抢红包，后台推送功能！作者不更新，有可能无效，请缷载！]]></shortDescription>
+  <descriptionlist>
+    <description><![CDATA[此乃转插，请注意，有可能导致问题，有需要的用户可以使用，应群友要求所以上架！抢红包，后台推送功能！作者不更新，有可能无效，请缷载！]]></description>
+    <description><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></description>
+  </descriptionlist>
+  <screenshots>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>p95YH41.png</image>
+    </screenshot>
+  </screenshots>
+  <changelog>
+    <change><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></change>
+  </changelog>
+  <links></links>
+</package>

@@ -1,0 +1,30 @@
+<package>
+  <id>io.github.trollstore-pro.satella</id>
+  <name>Satella内购破解-Rootless</name>
+  <version>1.9.0</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>firmware (&gt;= 13.0)</package>
+    <package>preferenceloader</package>
+    <package>com.opa334.altlist</package>
+  </dependencies>
+  <shortDescription><![CDATA[Modern in-app purchase cracker内购破解插件，可以破解一些小众软件，支付宝，淘宝都不行！安装之后去设置里打开第一个按扭即可！大部分都破解不了，请知悉！]]></shortDescription>
+  <descriptionlist>
+    <description><![CDATA[Modern in-app purchase cracker内购破解插件，可以破解一些小众软件，支付宝，淘宝都不行！安装之后去设置里打开第一个按扭即可！大部分都破解不了，请知悉！]]></description>
+    <description><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></description>
+  </descriptionlist>
+  <screenshots>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>no-screenshots.jpeg</image>
+    </screenshot>
+  </screenshots>
+  <changelog>
+    <change><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></change>
+  </changelog>
+  <links></links>
+</package>

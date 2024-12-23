@@ -1,0 +1,39 @@
+<package>
+  <id>io.github.trollstore-pro.cardculator</id>
+  <name>Cardculator悬浮计算器-Rootless</name>
+  <version>2.1.1</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>dev.theos.orion (&gt;= 1.0.0)</package>
+    <package>firmware (&gt;= 14.0)</package>
+    <package>com.opa334.ccsupport (&gt;= 1.3.7)</package>
+    <package>com.ginsu.comet</package>
+  </dependencies>
+  <shortDescription><![CDATA[Calculator, but smaller悬浮计算器，怎么会有人喜欢这种东西！]]></shortDescription>
+  <descriptionlist>
+    <description><![CDATA[Calculator, but smaller悬浮计算器，怎么会有人喜欢这种东西！]]></description>
+    <description><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></description>
+  </descriptionlist>
+  <screenshots>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>62820e4a7e4e7e62c9982e6d?w=3840&amp;q=75</image>
+    </screenshot>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>627fb9ba5d905bb9b650739f?w=3840&amp;q=75</image>
+    </screenshot>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>627fb9b55d905bb9b650736f?w=3840&amp;q=75</image>
+    </screenshot>
+  </screenshots>
+  <changelog>
+    <change><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></change>
+  </changelog>
+  <links></links>
+</package>

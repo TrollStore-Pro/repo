@@ -1,0 +1,30 @@
+<package>
+  <id>io.github.trollstore-pro.awemepurification.neverupdate-rootless</id>
+  <name>抖音净化不消失版-Rootless</name>
+  <version>2.3-4</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>mobilesubstrate</package>
+    <package>firmware (&gt;= 15.0)</package>
+  </dependencies>
+  <shortDescription><![CDATA[抖音净化不消失版！请认准全能玩机源！设置位于抖音-设置，去除启动广告，去除视频流广告，去除视频流中的直播，去除流量提示，去除青少年提示，去除左下角播放时弹出的商品购买，去除左上角悬浮的推广等，可启用原始按钮或双击视频保存无水印视频活图片，支持保存所有视频或图片，可启用浅色模式或关闭，可启用全局纯净模式，可启用关注二次确定，可启用显示所有视频进度条，可启用双击快捷复制文案，可启用首页或非首页自动播放下一条，可启用iWall插件快速设置背景，可禁用头像挂件显示，可禁用弹出红包，可禁用全局状态栏，可禁用首页本地页面，可禁用摇一摇找朋友，可禁用分享面板朋友，可禁用分享面板应用，可禁用分享面板一起看视频，可禁用视频来源显示，可禁用首页按钮刷新列表，可禁用评论中的置顶评论，可禁用评论中的链接广告，可禁用底部朋友按钮，可禁用底部发抖音按钮，可禁用底部消息按钮，可禁用首页左上角直播按钮，可禁用首页右上角搜索按钮，仅支持15.7.0版本及以上(最后完美兼容版本16.2.0)，此插件已停止维护！！！]]></shortDescription>
+  <descriptionlist>
+    <description><![CDATA[抖音净化不消失版！请认准全能玩机源！设置位于抖音-设置，去除启动广告，去除视频流广告，去除视频流中的直播，去除流量提示，去除青少年提示，去除左下角播放时弹出的商品购买，去除左上角悬浮的推广等，可启用原始按钮或双击视频保存无水印视频活图片，支持保存所有视频或图片，可启用浅色模式或关闭，可启用全局纯净模式，可启用关注二次确定，可启用显示所有视频进度条，可启用双击快捷复制文案，可启用首页或非首页自动播放下一条，可启用iWall插件快速设置背景，可禁用头像挂件显示，可禁用弹出红包，可禁用全局状态栏，可禁用首页本地页面，可禁用摇一摇找朋友，可禁用分享面板朋友，可禁用分享面板应用，可禁用分享面板一起看视频，可禁用视频来源显示，可禁用首页按钮刷新列表，可禁用评论中的置顶评论，可禁用评论中的链接广告，可禁用底部朋友按钮，可禁用底部发抖音按钮，可禁用底部消息按钮，可禁用首页左上角直播按钮，可禁用首页右上角搜索按钮，仅支持15.7.0版本及以上(最后完美兼容版本16.2.0)，此插件已停止维护！！！]]></description>
+    <description><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></description>
+  </descriptionlist>
+  <screenshots>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>no-screenshots.jpeg</image>
+    </screenshot>
+  </screenshots>
+  <changelog>
+    <change><![CDATA[抖音净化不消失版！认准全能玩机源！<br />*** ]]></change>
+    <change><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></change>
+  </changelog>
+  <links></links>
+</package>

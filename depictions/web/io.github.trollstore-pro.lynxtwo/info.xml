@@ -1,0 +1,36 @@
+<package>
+  <id>io.github.trollstore-pro.lynxtwo</id>
+  <name>Lynx 2系统优化-Rootless</name>
+  <version>2.5.3</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>mobilesubstrate</package>
+    <package>firmware (&gt;= 14.0)</package>
+    <package>preferenceloader</package>
+    <package>ws.hbang.common</package>
+  </dependencies>
+  <shortDescription><![CDATA[Ultimate iDevice Customization for iOS 15+多功能系统调整，原价1.99刀！有能力的可以支持作者！插件功能非常的多，改时间格式，改状态栏，显示网速、carplay、改桌面图标等等，人称国外版电话助手！功能非常的多，强烈推荐使用！]]></shortDescription>
+  <descriptionlist>
+    <description><![CDATA[Ultimate iDevice Customization for iOS 15+多功能系统调整，原价1.99刀！有能力的可以支持作者！插件功能非常的多，改时间格式，改状态栏，显示网速、carplay、改桌面图标等等，人称国外版电话助手！功能非常的多，强烈推荐使用！]]></description>
+    <description><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></description>
+  </descriptionlist>
+  <screenshots>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>46df74a4ba4e2647f2822168f6e395791c023202.jpg</image>
+    </screenshot>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>p9vCiZR.jpg</image>
+    </screenshot>
+  </screenshots>
+  <changelog>
+    <change><![CDATA[支持修改灵动岛轮廓颜色<br />*** ]]></change>
+    <change><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></change>
+  </changelog>
+  <links></links>
+</package>

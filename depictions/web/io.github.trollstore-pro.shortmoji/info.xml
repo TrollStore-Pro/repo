@@ -1,0 +1,43 @@
+<package>
+  <id>io.github.trollstore-pro.shortmoji</id>
+  <name>Shortmoji键盘增强-Rootless</name>
+  <version>4.7-1</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>firmware (&gt;=13.0)</package>
+    <package>mobilesubstrate</package>
+    <package>preferenceloader</package>
+    <package>ws.hbang.common (&gt;= 1.11)</package>
+    <package>applist</package>
+    <package>com.creaturesurvive.libcscolorpicker</package>
+    <package>emt.paisseon.xinamine (&gt;= 0.0.5)</package>
+    <package>oldabi</package>
+  </dependencies>
+  <shortDescription><![CDATA[由巨佬来了老弟修复支持多巴胺，仅供尝鮮，原作者更新之后，本源会下架，感谢大家的支持，以及来了老弟给大家带来修复！ShortMoji 是一款键盘增强插件，键盘增加预测栏，键盘增加底部栏，支持显示表情，方便快速选择，支持快捷方式，包含复制、剪贴、粘贴、全选、撤销、重做等。_________仅测试用,有问题卸载！依赖较多，小心使用！]]></shortDescription>
+  <descriptionlist>
+    <description><![CDATA[由巨佬来了老弟修复支持多巴胺，仅供尝鮮，原作者更新之后，本源会下架，感谢大家的支持，以及来了老弟给大家带来修复！ShortMoji 是一款键盘增强插件，键盘增加预测栏，键盘增加底部栏，支持显示表情，方便快速选择，支持快捷方式，包含复制、剪贴、粘贴、全选、撤销、重做等。_________仅测试用,有问题卸载！依赖较多，小心使用！]]></description>
+    <description><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></description>
+  </descriptionlist>
+  <screenshots>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>100</image>
+    </screenshot>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>170422pdlq1ee5fnex69cq.jpeg</image>
+    </screenshot>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>170422r7dfj25tku0ghv59.jpeg</image>
+    </screenshot>
+  </screenshots>
+  <changelog>
+    <change><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></change>
+  </changelog>
+  <links></links>
+</package>

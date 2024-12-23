@@ -1,0 +1,29 @@
+<package>
+  <id>io.github.trollstore-pro.advancedbrightnessslider</id>
+  <name>AdvancedBright降低亮度-Rootless</name>
+  <version>1.2.1</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>mobilesubstrate (&gt;= 0.9.5000)</package>
+    <package>ws.hbang.common (&gt;= 1.17)</package>
+  </dependencies>
+  <shortDescription><![CDATA[Tweak to dim the screen even further with the brightness slider in Control Center使用Control Center中的亮度滑块进行调整以进一步调暗屏幕，感谢M哥汉化！]]></shortDescription>
+  <descriptionlist>
+    <description><![CDATA[Tweak to dim the screen even further with the brightness slider in Control Center使用Control Center中的亮度滑块进行调整以进一步调暗屏幕，感谢M哥汉化！]]></description>
+    <description><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></description>
+  </descriptionlist>
+  <screenshots>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>620c27d6d2285fe8ddb92884</image>
+    </screenshot>
+  </screenshots>
+  <changelog>
+    <change><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></change>
+  </changelog>
+  <links></links>
+</package>

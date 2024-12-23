@@ -1,0 +1,36 @@
+<changelog>
+  <changes>
+    <version></version>
+    <change><![CDATA[修复bug]]></change>
+    <change><![CDATA[*** ]]></change>
+  </changes>
+  <changes>
+    <version></version>
+    <change><![CDATA[优化隐藏动画和时机]]></change>
+    <change><![CDATA[*** ]]></change>
+  </changes>
+  <changes>
+    <version></version>
+    <change><![CDATA[为听写键触发新增了一处触感反馈]]></change>
+    <change><![CDATA[*** ]]></change>
+  </changes>
+  <changes>
+    <version></version>
+    <change><![CDATA[优化删除/收藏时的动画效果，优化面板验收跟随状态栏风格]]></change>
+    <change><![CDATA[*** ]]></change>
+  </changes>
+  <changes>
+    <version></version>
+    <change><![CDATA[更新支持iOS16！]]></change>
+    <change><![CDATA[*** ]]></change>
+  </changes>
+  <changes>
+    <version></version>
+    <change><![CDATA[添加1.0版本的通知以便第三方插件调用！]]></change>
+    <change><![CDATA[*** ]]></change>
+  </changes>
+  <changes>
+    <version></version>
+    <change><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></change>
+  </changes>
+</changelog>

@@ -1,0 +1,28 @@
+<package>
+  <id>io.github.trollstore-pro.ratebegone</id>
+  <name>RateBeGone删除评分弹窗-Rootless</name>
+  <version>0.0.1</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>mobilesubstrate (&gt;= 0.9.5000)</package>
+  </dependencies>
+  <shortDescription><![CDATA[Removes annoying rate app pop-ups众所周知，某些APP会偶尔弹出烦人的评分弹窗，本插件的作用就是禁止掉这些弹窗，但是也不一定有用，这弹窗也不是百分百出来，无法测试！有需要的小伙们试试吧！全能玩机源，永久免费，不喜勿喷！]]></shortDescription>
+  <descriptionlist>
+    <description><![CDATA[Removes annoying rate app pop-ups众所周知，某些APP会偶尔弹出烦人的评分弹窗，本插件的作用就是禁止掉这些弹窗，但是也不一定有用，这弹窗也不是百分百出来，无法测试！有需要的小伙们试试吧！全能玩机源，永久免费，不喜勿喷！]]></description>
+    <description><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></description>
+  </descriptionlist>
+  <screenshots>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>1578906183918035946.jpeg</image>
+    </screenshot>
+  </screenshots>
+  <changelog>
+    <change><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></change>
+  </changelog>
+  <links></links>
+</package>

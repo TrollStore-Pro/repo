@@ -1,0 +1,29 @@
+<package>
+  <id>io.github.trollstore-pro.jdnoad</id>
+  <name>京东 去广告-Rootless</name>
+  <version>1.2.1</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>mobilesubstrate (&gt;= 0.9.5000)</package>
+  </dependencies>
+  <shortDescription><![CDATA[去除启动广告、去除个人主页底部推荐、精简搜索栏、屏蔽升级弹窗！本插件有全能玩机源免费首发，且已包含在广告终结者插件，不想安装广告终结者的可以单独安装此插件！]]></shortDescription>
+  <descriptionlist>
+    <description><![CDATA[去除启动广告、去除个人主页底部推荐、精简搜索栏、屏蔽升级弹窗！本插件有全能玩机源免费首发，且已包含在广告终结者插件，不想安装广告终结者的可以单独安装此插件！]]></description>
+    <description><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></description>
+  </descriptionlist>
+  <screenshots>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>no-screenshots.jpeg</image>
+    </screenshot>
+  </screenshots>
+  <changelog>
+    <change><![CDATA[修复首页弹窗不显示问题<br />*** ]]></change>
+    <change><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></change>
+  </changelog>
+  <links></links>
+</package>

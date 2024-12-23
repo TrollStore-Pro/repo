@@ -1,0 +1,28 @@
+<package>
+  <id>com.xybp888.magiciannojailbreak.fugu15</id>
+  <name>魔术师(iOS15)</name>
+  <version>0.0.1-4257</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>mobilesubstrate (&gt;= 0.9.5000)</package>
+  </dependencies>
+  <shortDescription><![CDATA[本插件仅供学习测试之用,请于24小时内卸载,一切法律责任与本插件和作者无关！本插件的作用是屏蔽插件注入软件，从而避免越狱检测，但是需要付费购买了电话助手才能免费使用！和choicy的效果差不多吧，因人而异！]]></shortDescription>
+  <descriptionlist>
+    <description><![CDATA[本插件仅供学习测试之用,请于24小时内卸载,一切法律责任与本插件和作者无关！本插件的作用是屏蔽插件注入软件，从而避免越狱检测，但是需要付费购买了电话助手才能免费使用！和choicy的效果差不多吧，因人而异！]]></description>
+    <description><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></description>
+  </descriptionlist>
+  <screenshots>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>no-screenshots.jpeg</image>
+    </screenshot>
+  </screenshots>
+  <changelog>
+    <change><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></change>
+  </changelog>
+  <links></links>
+</package>

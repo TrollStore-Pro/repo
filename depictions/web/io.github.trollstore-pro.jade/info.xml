@@ -1,0 +1,38 @@
+<package>
+  <id>io.github.trollstore-pro.jade</id>
+  <name>Jade控制中心美化-Rootless</name>
+  <version>1.0.3</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>mobilesubstrate (&gt;= 0.9.5000)</package>
+    <package>com.opa334.ccsupport</package>
+    <package>com.mrgcgamer.libgcuniversal</package>
+    <package>preferenceloader</package>
+    <package>firmware (&gt;= 15.0)</package>
+  </dependencies>
+  <shortDescription><![CDATA[Your control center, brought anew.一款控制中心美化插件，非常的不错，可以缷载一些其它功能的插件了，感谢全能玩机源管理购买分享！这款插件非常的好看，给人一种清新的感觉！全能玩机源，真的用心在做免费！一个全能玩机源就足以！]]></shortDescription>
+  <descriptionlist>
+    <description><![CDATA[Your control center, brought anew.一款控制中心美化插件，非常的不错，可以缷载一些其它功能的插件了，感谢全能玩机源管理购买分享！这款插件非常的好看，给人一种清新的感觉！全能玩机源，真的用心在做免费！一个全能玩机源就足以！]]></description>
+    <description><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></description>
+  </descriptionlist>
+  <screenshots>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>pP6c7Gj.jpg</image>
+    </screenshot>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>C4ihYIX-mje2ztv3x7EZTpPRRZG9WnvfeHx95ZhauJ1KUMKOCBz__NJw9LWwIQSzYLqnWUBGCJ3XyeAwoLGZMA.jpg</image>
+    </screenshot>
+  </screenshots>
+  <changelog>
+    <change><![CDATA[修复重多bug，优化代码！<br />*** ]]></change>
+    <change><![CDATA[Bugfixes•修复动态岛设备上底部手势的问题•修复底部手势的横向支撑•修复在横向模式下访问控制中心时会导致安全模式的问题•在按下“电源控制”模块中的开关时添加了一个动画•修复用户从亮模式切换到暗模式时亮度滑块的问题，反之亦然•修复了一个问题，即如果连接到启用QuickTime的Mac，设备会卡在呼吸循环中•修复用户尝试屏幕共享时设备进入安全模式的问题•修复了手势方面的一些问题，即首先打开它，然后打开后向上滚动不会导致相同的位置•修复了在应用程序切换器两侧滑动会触发Jade的问题•修复iOS 17问题•iOS 16略有改进•修复未启用“静态Glyphs”选项时音量和亮度滑块的主题设置<br />*** ]]></change>
+    <change><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></change>
+  </changelog>
+  <links></links>
+</package>
