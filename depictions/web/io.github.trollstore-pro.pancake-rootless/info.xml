@@ -1,0 +1,32 @@
+<package>
+  <id>io.github.trollstore-pro.pancake-rootless</id>
+  <name>PanCake手势插件-Rootless</name>
+  <version>2.2</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>firmware (&gt;= 11.0)</package>
+    <package>mobilesubstrate</package>
+    <package>ws.hbang.common (&gt;= 1.14)</package>
+    <package>com.opa334.altlist</package>
+    <package>firmware (&gt;= 11.0)</package>
+  </dependencies>
+  <shortDescription><![CDATA[Interactive dismiss gesture on the whole screen in all apps and ability to restore previous page手势插件，已汉化]]></shortDescription>
+  <descriptionlist>
+    <description><![CDATA[Interactive dismiss gesture on the whole screen in all apps and ability to restore previous page手势插件，已汉化]]></description>
+    <description><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></description>
+  </descriptionlist>
+  <screenshots>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>p9OTzon.jpg</image>
+    </screenshot>
+  </screenshots>
+  <changelog>
+    <change><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></change>
+  </changelog>
+  <links></links>
+</package>

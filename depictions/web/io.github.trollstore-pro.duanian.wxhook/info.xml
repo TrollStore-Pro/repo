@@ -1,0 +1,28 @@
+<package>
+  <id>io.github.trollstore-pro.duanian.wxhook</id>
+  <name>微信萌萌助手-Rootless</name>
+  <version>1.0.2</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>mobilesubstrate</package>
+  </dependencies>
+  <shortDescription><![CDATA[本插件功能如下：抢红包、自动登录、屏蔽广告、超强防封（我不知道啥用）动态背景等。功能不多但是很十分的实用！有喜欢的小伙们可以下载体验啦，全能玩机源，最新最全！！爱你所爱！]]></shortDescription>
+  <descriptionlist>
+    <description><![CDATA[本插件功能如下：抢红包、自动登录、屏蔽广告、超强防封（我不知道啥用）动态背景等。功能不多但是很十分的实用！有喜欢的小伙们可以下载体验啦，全能玩机源，最新最全！！爱你所爱！]]></description>
+    <description><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></description>
+  </descriptionlist>
+  <screenshots>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>ed3ddd4970c8b0c8ba4f23a9f13e8b64a4e110f4.jpg</image>
+    </screenshot>
+  </screenshots>
+  <changelog>
+    <change><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></change>
+  </changelog>
+  <links></links>
+</package>

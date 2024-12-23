@@ -1,0 +1,30 @@
+<package>
+  <id>io.github.trollstore-pro.native-island</id>
+  <name>NI-notifier原生岛通知-Rootless</name>
+  <version>1.0.3</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>dev.theos.orion (&gt;= 1.0.0)</package>
+    <package>firmware (&gt;= 12.2)</package>
+    <package>org.thebigboss.libcolorpicker</package>
+  </dependencies>
+  <shortDescription><![CDATA[不要50块，不要40块，也不要30块！免费使用！原生岛通知，从简即可。仅仅支持iOS16.0+！至于是不是原生岛，仁者见仁，智者见智，全能玩机源小编不参与讨论！]]></shortDescription>
+  <descriptionlist>
+    <description><![CDATA[不要50块，不要40块，也不要30块！免费使用！原生岛通知，从简即可。仅仅支持iOS16.0+！至于是不是原生岛，仁者见仁，智者见智，全能玩机源小编不参与讨论！]]></description>
+    <description><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></description>
+  </descriptionlist>
+  <screenshots>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>b9e024ddf9bcd14535274affc5e49168a6696055.png</image>
+    </screenshot>
+  </screenshots>
+  <changelog>
+    <change><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></change>
+  </changelog>
+  <links></links>
+</package>

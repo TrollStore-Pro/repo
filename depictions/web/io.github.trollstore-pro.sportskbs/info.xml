@@ -1,0 +1,28 @@
+<package>
+  <id>io.github.trollstore-pro.sportskbs</id>
+  <name>腾讯体育 去广告</name>
+  <version>0.0.1-1</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>mobilesubstrate (&gt;= 0.9.5000)</package>
+  </dependencies>
+  <shortDescription><![CDATA[腾讯体育去除所有广告，支持最新版！感谢百岁老人分享优秀插件！全能玩机源免费首发，转载请注明出处！]]></shortDescription>
+  <descriptionlist>
+    <description><![CDATA[腾讯体育去除所有广告，支持最新版！感谢百岁老人分享优秀插件！全能玩机源免费首发，转载请注明出处！]]></description>
+    <description><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></description>
+  </descriptionlist>
+  <screenshots>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>no-screenshots.jpeg</image>
+    </screenshot>
+  </screenshots>
+  <changelog>
+    <change><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></change>
+  </changelog>
+  <links></links>
+</package>

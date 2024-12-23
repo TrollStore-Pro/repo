@@ -1,0 +1,29 @@
+<package>
+  <id>io.github.trollstore-pro.customizecchh.zh</id>
+  <name>CustomizeCC汉化补丁-Rootless</name>
+  <version>1.0</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>com.miguelaka95.customizecc</package>
+  </dependencies>
+  <shortDescription><![CDATA[一款非常好看的控制中心背景及透明插件，可以替代coolcc了，效果看截图！CustomizeCC汉化补丁，由来了老弟汉化分享，有问题进全能玩机源反馈！]]></shortDescription>
+  <descriptionlist>
+    <description><![CDATA[一款非常好看的控制中心背景及透明插件，可以替代coolcc了，效果看截图！CustomizeCC汉化补丁，由来了老弟汉化分享，有问题进全能玩机源反馈！]]></description>
+    <description><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></description>
+  </descriptionlist>
+  <screenshots>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>pPvVoRJ.jpg</image>
+    </screenshot>
+  </screenshots>
+  <changelog>
+    <change><![CDATA[初代版本<br />*** ]]></change>
+    <change><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></change>
+  </changelog>
+  <links></links>
+</package>

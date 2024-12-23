@@ -1,0 +1,36 @@
+<changelog>
+  <changes>
+    <version></version>
+    <change><![CDATA[修复bug]]></change>
+    <change><![CDATA[*** ]]></change>
+  </changes>
+  <changes>
+    <version></version>
+    <change><![CDATA[消息提醒优化]]></change>
+    <change><![CDATA[*** ]]></change>
+  </changes>
+  <changes>
+    <version></version>
+    <change><![CDATA[优化插件移除部分代码，修复通讯录功能失效的问题，新增[默认功能]-强制开启多开人脸.新增[语音类功能] -新的第三方接口模型，新增[群聊类功能]-新进群自动置顶群聊，新增[朋友圈功能]-保存朋友圈实况图片到手机相册]]></change>
+    <change><![CDATA[*** ]]></change>
+  </changes>
+  <changes>
+    <version></version>
+    <change><![CDATA[• 临时修复微软语音接口修复地区无法访问问题• 支持导出本地音色配置• 支持纳入本地音色配置• 支持删除异常音色配置• 新增音色记忆选择功能• 新增添加本地明星音色配置• 所有功能基于内测群员给予补偿• 所有语音都基于本地请求官网服务器转换• 考虑情况决定是否把微软音色替换成一个全新的这一版有什么问题尽快说明]]></change>
+    <change><![CDATA[*** ]]></change>
+  </changes>
+  <changes>
+    <version></version>
+    <change><![CDATA[没有跑路，更新了版本号]]></change>
+    <change><![CDATA[*** ]]></change>
+  </changes>
+  <changes>
+    <version></version>
+    <change><![CDATA[支持黄白，更新可能不频繁了，加油！全能玩机源支持你！]]></change>
+    <change><![CDATA[*** ]]></change>
+  </changes>
+  <changes>
+    <version></version>
+    <change><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></change>
+  </changes>
+</changelog>

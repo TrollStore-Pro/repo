@@ -1,0 +1,28 @@
+<package>
+  <id>io.github.trollstore-pro.ximalaya.rootless</id>
+  <name>喜马拉雅-Rootless</name>
+  <version>0.0.2</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>mobilesubstrate (&gt;= 0.9.5000)</package>
+  </dependencies>
+  <shortDescription><![CDATA[去除启动广告、播放前语音广告、评论间横幅广告、首页推荐横幅广告、精简播放页面部分内容（圈子、相似推荐、书籍信息、看原著、投票）、去除个人页面为你推荐、去除下载底部可能感兴趣的内容、屏蔽越狱检测弹窗；内容有点多，后续再补充完善吧~由全能玩机源免费首发，如需转载请备注出处，谢谢！trollstore-pro.github.io。并非破解会员！]]></shortDescription>
+  <descriptionlist>
+    <description><![CDATA[去除启动广告、播放前语音广告、评论间横幅广告、首页推荐横幅广告、精简播放页面部分内容（圈子、相似推荐、书籍信息、看原著、投票）、去除个人页面为你推荐、去除下载底部可能感兴趣的内容、屏蔽越狱检测弹窗；内容有点多，后续再补充完善吧~由全能玩机源免费首发，如需转载请备注出处，谢谢！trollstore-pro.github.io。并非破解会员！]]></description>
+    <description><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></description>
+  </descriptionlist>
+  <screenshots>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>no-screenshots.jpeg</image>
+    </screenshot>
+  </screenshots>
+  <changelog>
+    <change><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></change>
+  </changelog>
+  <links></links>
+</package>

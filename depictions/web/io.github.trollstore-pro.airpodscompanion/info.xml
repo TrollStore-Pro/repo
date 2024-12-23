@@ -1,0 +1,30 @@
+<package>
+  <id>io.github.trollstore-pro.airpodscompanion</id>
+  <name>AirpodsCompanion耳机伴侣-Rootless</name>
+  <version>1.5</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>preferenceloader</package>
+  </dependencies>
+  <shortDescription><![CDATA[感谢全能玩机源群友萝卜购买并分享此插件，非常感谢！Floating Noise Cancellation control next to volume slider插件作用是美化耳机音量，感觉有点鸡肋哈！]]></shortDescription>
+  <descriptionlist>
+    <description><![CDATA[感谢全能玩机源群友萝卜购买并分享此插件，非常感谢！Floating Noise Cancellation control next to volume slider插件作用是美化耳机音量，感觉有点鸡肋哈！]]></description>
+    <description><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></description>
+  </descriptionlist>
+  <screenshots>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>c95d7e8362510111dd6c5a191cfd58a07a0094fb.jpg</image>
+    </screenshot>
+  </screenshots>
+  <changelog>
+    <change><![CDATA[修复了一个问题，即hud在被解雇时仍会显示、为实用程序添加了一个新选项，允许您快速切换黑暗模式、重新响铃或进入安全模式<br />*** ]]></change>
+    <change><![CDATA[修复已知问题！<br />*** ]]></change>
+    <change><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></change>
+  </changelog>
+  <links></links>
+</package>

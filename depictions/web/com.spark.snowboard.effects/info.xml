@@ -1,0 +1,29 @@
+<package>
+  <id>com.spark.snowboard.effects</id>
+  <name>SnowBoard Icon Effects Extension滑雪板遮罩拓展-Rootless</name>
+  <version>1.2.1-Beta2-rootless</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>mobilesubstrate</package>
+    <package>com.spark.snowboard (&gt;= 1.2.100)</package>
+  </dependencies>
+  <shortDescription><![CDATA[Icon Effects for SnowBoard滑雪板遮罩拓展，有需要的安装，不需要的无视1降低版本号以证明我不劫持依赖，我对你的依赖不感兴趣，为了用户方便才上传，被喷子一直喷，公益免费源，何必如此呢！]]></shortDescription>
+  <descriptionlist>
+    <description><![CDATA[Icon Effects for SnowBoard滑雪板遮罩拓展，有需要的安装，不需要的无视1降低版本号以证明我不劫持依赖，我对你的依赖不感兴趣，为了用户方便才上传，被喷子一直喷，公益免费源，何必如此呢！]]></description>
+    <description><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></description>
+  </descriptionlist>
+  <screenshots>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>no-screenshots.jpeg</image>
+    </screenshot>
+  </screenshots>
+  <changelog>
+    <change><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></change>
+  </changelog>
+  <links></links>
+</package>
