@@ -1,0 +1,32 @@
+<package>
+  <id>io.github.trollstore-pro.BeanbunsHelpers.DB</id>
+  <name>豆包助手-Rootless</name>
+  <version>1.0-1</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>mobilesubstrate</package>
+  </dependencies>
+  <shortDescription><![CDATA[又一款抖音插件，现在的抖音插件真的是满天飞，至于哪个好，小编也不敢胡乱评判，只有用户自行测试，本插件名字叫豆包助手(DouYin)，抖音项目（仅供逆向学习），给自己的小抖音添加一些小功能，主要有以下功能：移除全屏观看、移除底栏红点、移除侧栏红点、移除点赞按钮、移除评论按钮、移除分享按钮、移除底部加号按钮等等，喜欢折腾的小伙们可以试试！]]></shortDescription>
+  <descriptionlist>
+    <description><![CDATA[又一款抖音插件，现在的抖音插件真的是满天飞，至于哪个好，小编也不敢胡乱评判，只有用户自行测试，本插件名字叫豆包助手(DouYin)，抖音项目（仅供逆向学习），给自己的小抖音添加一些小功能，主要有以下功能：移除全屏观看、移除底栏红点、移除侧栏红点、移除点赞按钮、移除评论按钮、移除分享按钮、移除底部加号按钮等等，喜欢折腾的小伙们可以试试！]]></description>
+    <description><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></description>
+  </descriptionlist>
+  <screenshots>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>T053XD00003MdtYQ0QM0pF.jpg</image>
+    </screenshot>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>T053XD00004C54xU15kZFj.jpg</image>
+    </screenshot>
+  </screenshots>
+  <changelog>
+    <change><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></change>
+  </changelog>
+  <links></links>
+</package>

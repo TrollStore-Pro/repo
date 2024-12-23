@@ -1,0 +1,33 @@
+<package>
+  <id>io.github.trollstore-pro.kiyoharu</id>
+  <name>Kiyoharu随心播放-Rootless</name>
+  <version>1.0.1</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>dev.theos.orion14</package>
+    <package>firmware (&gt;= 14.0)</package>
+    <package>preferenceloader</package>
+    <package>ws.hbang.common (&gt;= 1.17)</package>
+    <package>mobilesubstrate</package>
+  </dependencies>
+  <shortDescription><![CDATA[If it's nice, play it twice.Kiyoharu不再手动播放歌曲中最喜欢的部分！使用Kiyoharu，您可以指定您最喜欢的部分现在播放的歌曲手动重复，Kiyoharu将自动重复该部分！要使用，请用2个手指按住锁定屏幕以设置要循环的内容的范围，然后双击锁定屏幕以打开/关闭循环模式。]]></shortDescription>
+  <descriptionlist>
+    <description><![CDATA[If it's nice, play it twice.Kiyoharu不再手动播放歌曲中最喜欢的部分！使用Kiyoharu，您可以指定您最喜欢的部分现在播放的歌曲手动重复，Kiyoharu将自动重复该部分！要使用，请用2个手指按住锁定屏幕以设置要循环的内容的范围，然后双击锁定屏幕以打开/关闭循环模式。]]></description>
+    <description><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></description>
+  </descriptionlist>
+  <screenshots>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>pwqgkUAiK7vM9G5JC_XPLuTXYFdAXYf7NemNXbGy7pr-Noq16dJtbQwX_YOnbqCbDqiLmdW_FnAW9VrliqeUwQ.jpg</image>
+    </screenshot>
+  </screenshots>
+  <changelog>
+    <change><![CDATA[•在为Seratonin用户找到修复程序时，暂时删除双击手势<br />*** ]]></change>
+    <change><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></change>
+  </changelog>
+  <links></links>
+</package>

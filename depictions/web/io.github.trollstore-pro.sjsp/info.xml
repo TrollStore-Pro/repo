@@ -1,0 +1,31 @@
+<package>
+  <id>io.github.trollstore-pro.sjsp</id>
+  <name>双击锁屏-Rootless</name>
+  <version>1.0.2</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>mobilesubstrate</package>
+    <package>firmware (&gt;= 13.0)</package>
+    <package>preferenceloader</package>
+  </dependencies>
+  <shortDescription><![CDATA[Double-click the home screen to lock the device安装之后注销，双击主屏幕锁屏！双击状态栏也行，插件有设置项，大家自行设置！全能玩机源，最新最全！！]]></shortDescription>
+  <descriptionlist>
+    <description><![CDATA[Double-click the home screen to lock the device安装之后注销，双击主屏幕锁屏！双击状态栏也行，插件有设置项，大家自行设置！全能玩机源，最新最全！！]]></description>
+    <description><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></description>
+  </descriptionlist>
+  <screenshots>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>731d83ff1eebdf54b161d54cdb5737ca40b5c183.jpg</image>
+    </screenshot>
+  </screenshots>
+  <changelog>
+    <change><![CDATA[增加插件设置项<br />*** ]]></change>
+    <change><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></change>
+  </changelog>
+  <links></links>
+</package>

@@ -1,0 +1,34 @@
+<package>
+  <id>io.github.trollstore-pro.HBWechatHelper.rootlless</id>
+  <name>微信黄白助手-Rootless</name>
+  <version>1.7-8</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>mobilesubstrate</package>
+  </dependencies>
+  <shortDescription><![CDATA[支持文字转语音功能，一大特色，转语音闪退的话先设置音色！黄白助手-微信插件                                                                                                                                                                 一个微信插件文本转语音以及点歌（发送网络语录舔狗日记骂人等文案或者4K原图手绘壁纸等，抢私聊红包，自定义信息尾巴，朋友圈转发，防撤回，转发语音，自定义拍一拍 百变小尾巴 实时尾巴时间等功能 此为内测版，很多功能要付费才行，大家自行决定！]]></shortDescription>
+  <descriptionlist>
+    <description><![CDATA[支持文字转语音功能，一大特色，转语音闪退的话先设置音色！黄白助手-微信插件 一个微信插件文本转语音以及点歌（发送网络语录舔狗日记骂人等文案或者4K原图手绘壁纸等，抢私聊红包，自定义信息尾巴，朋友圈转发，防撤回，转发语音，自定义拍一拍 百变小尾巴 实时尾巴时间等功能 此为内测版，很多功能要付费才行，大家自行决定！]]></description>
+    <description><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></description>
+  </descriptionlist>
+  <screenshots>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>p9G1LSf.png</image>
+    </screenshot>
+  </screenshots>
+  <changelog>
+    <change><![CDATA[修复bug<br />*** ]]></change>
+    <change><![CDATA[消息提醒优化<br />*** ]]></change>
+    <change><![CDATA[优化插件移除部分代码，修复通讯录功能失效的问题，新增[默认功能]-强制开启多开人脸.新增[语音类功能] -新的第三方接口模型，新增[群聊类功能]-新进群自动置顶群聊，新增[朋友圈功能]-保存朋友圈实况图片到手机相册<br />*** ]]></change>
+    <change><![CDATA[• 临时修复微软语音接口修复地区无法访问问题• 支持导出本地音色配置• 支持纳入本地音色配置• 支持删除异常音色配置• 新增音色记忆选择功能• 新增添加本地明星音色配置• 所有功能基于内测群员给予补偿• 所有语音都基于本地请求官网服务器转换• 考虑情况决定是否把微软音色替换成一个全新的这一版有什么问题尽快说明<br />*** ]]></change>
+    <change><![CDATA[没有跑路，更新了版本号<br />*** ]]></change>
+    <change><![CDATA[支持黄白，更新可能不频繁了，加油！全能玩机源支持你！<br />*** ]]></change>
+    <change><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></change>
+  </changelog>
+  <links></links>
+</package>

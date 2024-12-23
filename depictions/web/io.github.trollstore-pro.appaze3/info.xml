@@ -1,0 +1,36 @@
+<package>
+  <id>io.github.trollstore-pro.appaze3</id>
+  <name>Appaze3多功能自定义-Rootless</name>
+  <version>1.0.1</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>mobilesubstrate</package>
+    <package>preferenceloader</package>
+    <package>ws.hbang.common (&gt;= 1.15)</package>
+    <package>byg.iosios.net.anthocrack2</package>
+  </dependencies>
+  <shortDescription><![CDATA[Customize up to 30 settings for each app, in a clean and friendly UI, easily accessible!已汉化（添加妖刀汉化文件），已破解！（可能有弹窗，不影响使用，介意的买正版）为每个应用程序自定义多达 30 个设置，用户界面干净友好，易于访问！Appaze 3 可让您自定义音量、亮度、一系列切换（Wi-Fi、蜂窝网络、方向锁定、VPN 等）和自定义行为（禁用 NC/CC、禁用 Home 手势、隐藏库存警报和通知横幅等）特定的应用程序，直接使用其 3D Touch 菜单！每次自定义应用程序位于前台（从主屏幕、应用程序切换器等打开）时，它都会设置所选值。]]></shortDescription>
+  <descriptionlist>
+    <description><![CDATA[Customize up to 30 settings for each app, in a clean and friendly UI, easily accessible!已汉化（添加妖刀汉化文件），已破解！（可能有弹窗，不影响使用，介意的买正版）为每个应用程序自定义多达 30 个设置，用户界面干净友好，易于访问！Appaze 3 可让您自定义音量、亮度、一系列切换（Wi-Fi、蜂窝网络、方向锁定、VPN 等）和自定义行为（禁用 NC/CC、禁用 Home 手势、隐藏库存警报和通知横幅等）特定的应用程序，直接使用其 3D Touch 菜单！每次自定义应用程序位于前台（从主屏幕、应用程序切换器等打开）时，它都会设置所选值。]]></description>
+    <description><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></description>
+  </descriptionlist>
+  <screenshots>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>T053XD000025R0yC14A7Nu.jpg</image>
+    </screenshot>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>T053XD00001hULFz0eWk1Y.jpg</image>
+    </screenshot>
+  </screenshots>
+  <changelog>
+    <change><![CDATA[•在 iOS 16 及更高版本上切换到新方法来设置音量，因为之前的方法对某些用户不起作用<br />*** ]]></change>
+    <change><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></change>
+  </changelog>
+  <links></links>
+</package>

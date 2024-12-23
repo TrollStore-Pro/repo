@@ -1,0 +1,31 @@
+<package>
+  <id>io.github.trollstore-pro.bluefinder</id>
+  <name>BlueFinder蓝牙找设备-Rootless</name>
+  <version>1.1.3</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>mobilesubstrate</package>
+    <package>preferenceloader</package>
+    <package>ws.hbang.common (&gt;= 1.11)</package>
+    <package>firmware (&gt;= 11.0)</package>
+  </dependencies>
+  <shortDescription><![CDATA[Find your iPhone using your Bluetooth devices!使用蓝牙设备查找iPhone。再也不要搜索你的iPhone了！你丢了手机，你知道它在你的房子里、床上或包里，但你没能找到它？只需连续两次（或多次）打开任何蓝牙设备，您的手机就会开始响起、振动和闪烁！ 它工作的唯一条件是您的手机已启用蓝牙。即使您处于静音模式或“请勿打扰”，它也能工作。它适用于之前与您的手机配对的每一个蓝牙设备（但您也可以仅限于选定的设备，例如，如果您希望它只适用于您的AirPods）。触发警报所需的重复次数是可配置的（最多5次）。 每个警报选项（振铃、振动、闪烁）都可以在设置中禁用。有一个选项可以播放渐强的铃声，这样如果你的手机就在你旁边，它就不会伤害你的耳朵。 当警报触发时，它会在你的iPhone上显示一个停止按钮，这样你就可以取消警报。笔记：•AirPods的连接/断开大约需要5秒。AirPods的过程是：打开机箱，等待5秒，关闭，等待5秒钟，打开，等待5分钟。•最大距离可能约为10m。如果你想尝试使用BlueFinder获得的距离，只需将iPhone放在另一个房间，并启用蓝牙设备即可查看它们是否自]]></shortDescription>
+  <descriptionlist>
+    <description><![CDATA[Find your iPhone using your Bluetooth devices!使用蓝牙设备查找iPhone。再也不要搜索你的iPhone了！你丢了手机，你知道它在你的房子里、床上或包里，但你没能找到它？只需连续两次（或多次）打开任何蓝牙设备，您的手机就会开始响起、振动和闪烁！ 它工作的唯一条件是您的手机已启用蓝牙。即使您处于静音模式或“请勿打扰”，它也能工作。它适用于之前与您的手机配对的每一个蓝牙设备（但您也可以仅限于选定的设备，例如，如果您希望它只适用于您的AirPods）。触发警报所需的重复次数是可配置的（最多5次）。 每个警报选项（振铃、振动、闪烁）都可以在设置中禁用。有一个选项可以播放渐强的铃声，这样如果你的手机就在你旁边，它就不会伤害你的耳朵。 当警报触发时，它会在你的iPhone上显示一个停止按钮，这样你就可以取消警报。笔记：•AirPods的连接/断开大约需要5秒。AirPods的过程是：打开机箱，等待5秒，关闭，等待5秒钟，打开，等待5分钟。•最大距离可能约为10m。如果你想尝试使用BlueFinder获得的距离，只需将iPhone放在另一个房间，并启用蓝牙设备即可查看它们是否自]]></description>
+    <description><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></description>
+  </descriptionlist>
+  <screenshots>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>no-screenshots.jpeg</image>
+    </screenshot>
+  </screenshots>
+  <changelog>
+    <change><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></change>
+  </changelog>
+  <links></links>
+</package>

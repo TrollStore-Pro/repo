@@ -1,0 +1,32 @@
+<package>
+  <id>io.github.trollstore-pro.doodle</id>
+  <name>Doodle图案解锁-Rootless</name>
+  <version>1.2</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>preferenceloader</package>
+  </dependencies>
+  <shortDescription><![CDATA[使用图案解锁你的iPhone，看起来非常酷炫，但是有没有用只有你自己试试才知道咯！喜欢的小伙伴们可以下载体验啦！]]></shortDescription>
+  <descriptionlist>
+    <description><![CDATA[使用图案解锁你的iPhone，看起来非常酷炫，但是有没有用只有你自己试试才知道咯！喜欢的小伙伴们可以下载体验啦！]]></description>
+    <description><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></description>
+  </descriptionlist>
+  <screenshots>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>6670f1f37a89d6440c3b4b37</image>
+    </screenshot>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>6670f1f97a89d6440c3b4c9d</image>
+    </screenshot>
+  </screenshots>
+  <changelog>
+    <change><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></change>
+  </changelog>
+  <links></links>
+</package>

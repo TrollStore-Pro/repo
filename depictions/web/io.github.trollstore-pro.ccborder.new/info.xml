@@ -1,0 +1,32 @@
+<package>
+  <id>io.github.trollstore-pro.ccborder.new</id>
+  <name>CCBorder18控制中心美化-Rootless</name>
+  <version>1.1.7.1</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>mobilesubstrate</package>
+    <package>firmware (&gt;= 16.0)</package>
+    <package>ws.hbang.alderis</package>
+    <package>byg.iosios.net.miuminuipro</package>
+  </dependencies>
+  <shortDescription><![CDATA[不支持iOS15！iOS15用源里另一款！也叫这个名字！类似iOS18样式的控制中心，可调节控制中心模块形状，模块边框粗细，音量/亮度图形颜色等；妖刀基于p2kdev的开源定制！全能玩机源加上美化插件！满足用户需求！]]></shortDescription>
+  <descriptionlist>
+    <description><![CDATA[不支持iOS15！iOS15用源里另一款！也叫这个名字！类似iOS18样式的控制中心，可调节控制中心模块形状，模块边框粗细，音量/亮度图形颜色等；妖刀基于p2kdev的开源定制！全能玩机源加上美化插件！满足用户需求！]]></description>
+    <description><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></description>
+  </descriptionlist>
+  <screenshots>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>9e338bd0f34c07d80bbe14c26ff44f871bb5f10a.png</image>
+    </screenshot>
+  </screenshots>
+  <changelog>
+    <change><![CDATA[增强音量百分比显示！<br />*** ]]></change>
+    <change><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></change>
+  </changelog>
+  <links></links>
+</package>

@@ -1,0 +1,37 @@
+<package>
+  <id>io.github.trollstore-pro.lastlook</id>
+  <name>LastLook息屏特效-Rootless</name>
+  <version>4.2.2</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>mobilesubstrate</package>
+    <package>preferenceloader</package>
+    <package>ws.hbang.common (&gt;= 1.15)</package>
+    <package>firmware (&gt;= 12.0)</package>
+  </dependencies>
+  <shortDescription><![CDATA[An AOD tweak that feels stock, with endless possibilities!另一款息屏特效插件，全能玩机源已汉化分享！，如果你不想继续做一个海盗，可以购买此插件！赞助作者！无法更新请缷载汉化插件再更新！]]></shortDescription>
+  <descriptionlist>
+    <description><![CDATA[An AOD tweak that feels stock, with endless possibilities!另一款息屏特效插件，全能玩机源已汉化分享！，如果你不想继续做一个海盗，可以购买此插件！赞助作者！无法更新请缷载汉化插件再更新！]]></description>
+    <description><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></description>
+  </descriptionlist>
+  <screenshots>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>7ad6P7qatRgZnbKBq5kjAsYDmKyj7Pe9aWQFt_o83-IuHPIjiHmwhBLqGsds-Rh6GEkTjkAjrvSzo6aP9DkG_w.jpg</image>
+    </screenshot>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>b37iYKu-zy0RTuA0U3xODnopyiF9dx8kQWjnnRNxkZ-OVx_4JbHkXBw1xs9d3BKfaSsC0NWktRvx3iZoKYN55Q.jpg</image>
+    </screenshot>
+  </screenshots>
+  <changelog>
+    <change><![CDATA[修复在iOS 16锁屏日期字体颜色问题，修复崩溃问题<br />*** ]]></change>
+    <change><![CDATA[•添加对在锁定消息文本中显示随机咒语的支持•添加对无根的Powercuts操作支持（您需要从Chariz或我的repo安装Powercuts 1.2）•新的快捷方式操作：启用/禁用锁定消息文本，设置锁定消息文本•在设置中添加快捷方式操作部分，解释如何使用它们•插入充电器时退出环境模式，以防止在环境模式下看到动画•调整了“强制黑暗模式UI”选项以处理多个实时活动•通知指标：黑名单自动通知<br />*** ]]></change>
+    <change><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></change>
+  </changelog>
+  <links></links>
+</package>
