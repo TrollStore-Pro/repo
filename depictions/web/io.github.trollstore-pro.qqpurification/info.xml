@@ -1,0 +1,29 @@
+<package>
+  <id>io.github.trollstore-pro.qqpurification</id>
+  <name>QQ净化</name>
+  <version>2.3-3</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>mobilesubstrate</package>
+    <package>firmware (&gt;= 12.2)</package>
+  </dependencies>
+  <shortDescription><![CDATA[QQ净化，去广告！QQ版本8.9.0以上，8.9.58以下！]]></shortDescription>
+  <descriptionlist>
+    <description><![CDATA[QQ净化，去广告！QQ版本8.9.0以上，8.9.58以下！]]></description>
+    <description><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></description>
+  </descriptionlist>
+  <screenshots>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>p9QKsoD.jpg</image>
+    </screenshot>
+  </screenshots>
+  <changelog>
+    <change><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></change>
+  </changelog>
+  <links></links>
+</package>

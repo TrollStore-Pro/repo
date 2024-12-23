@@ -1,0 +1,30 @@
+<package>
+  <id>io.github.trollstore-pro.networkmanager</id>
+  <name>NetworkManager切换网络-Rootless</name>
+  <version>1.4.2</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>firmware (&gt;=15.0)</package>
+    <package>mobilesubstrate</package>
+    <package>com.opa334.ccsupport</package>
+  </dependencies>
+  <shortDescription><![CDATA[Force 2G/3G/4G/5G connection from the Control Center可以在控制中心便捷切换2G、3G、4G、5G、LTE等等网络模式，下载插件之后去控制中心添加然后注销即可！]]></shortDescription>
+  <descriptionlist>
+    <description><![CDATA[Force 2G/3G/4G/5G connection from the Control Center可以在控制中心便捷切换2G、3G、4G、5G、LTE等等网络模式，下载插件之后去控制中心添加然后注销即可！]]></description>
+    <description><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></description>
+  </descriptionlist>
+  <screenshots>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>no-screenshots.jpeg</image>
+    </screenshot>
+  </screenshots>
+  <changelog>
+    <change><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></change>
+  </changelog>
+  <links></links>
+</package>

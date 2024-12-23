@@ -1,0 +1,31 @@
+<package>
+  <id>io.github.trollstore-pro.rena</id>
+  <name>Rena锁屏应用美化-Rootless</name>
+  <version>1.0.1</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>mobilesubstrate</package>
+    <package>preferenceloader</package>
+    <package>com.opa334.altlist</package>
+    <package>ws.hbang.common</package>
+  </dependencies>
+  <shortDescription><![CDATA[在 ios15系统的锁屏中，显示您最喜爱的应用程序（汉化：lans233）一款还不错的插件，喜欢的朋友们可以试试！通知用的是彩色通知插件！]]></shortDescription>
+  <descriptionlist>
+    <description><![CDATA[在 ios15系统的锁屏中，显示您最喜爱的应用程序（汉化：lans233）一款还不错的插件，喜欢的朋友们可以试试！通知用的是彩色通知插件！]]></description>
+    <description><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></description>
+  </descriptionlist>
+  <screenshots>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>f514bd28a09cb8fec4d01ebba459ef131832458e.jpg</image>
+    </screenshot>
+  </screenshots>
+  <changelog>
+    <change><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></change>
+  </changelog>
+  <links></links>
+</package>

@@ -1,0 +1,33 @@
+<package>
+  <id>io.github.trollstore-pro.zhuti.solstice.rootless</id>
+  <name>Solstice暗黑主题</name>
+  <version>2.6</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>com.spark.snowboard</package>
+    <package>com.spark.snowboard.ui</package>
+  </dependencies>
+  <shortDescription><![CDATA[一款还不错的暗黑主题，喜欢的小伙们可以下载体验，更多主题请添加百度主题源，非常的nice！字体、遮罩、主题免费下载！无需复杂的操作，直接安装就可！]]></shortDescription>
+  <descriptionlist>
+    <description><![CDATA[一款还不错的暗黑主题，喜欢的小伙们可以下载体验，更多主题请添加百度主题源，非常的nice！字体、遮罩、主题免费下载！无需复杂的操作，直接安装就可！]]></description>
+    <description><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></description>
+  </descriptionlist>
+  <screenshots>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>_9NxItTmMw8qpL1xhUiAmU8lkH9WUQadUkwCKsRg3TyaYBCikRgqeMQXbei5dZuQ-bWEM9hItEm9ON7vAqlg6A.jpg</image>
+    </screenshot>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>BOTvirAWll3ynIrRORRkwMHe4Xr53eFlLL6UXakuIqrJyr_79e0q7LCOJBwA6gBbUAoAjmYiO4saNEKL9fhoIA.jpg</image>
+    </screenshot>
+  </screenshots>
+  <changelog>
+    <change><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></change>
+  </changelog>
+  <links></links>
+</package>

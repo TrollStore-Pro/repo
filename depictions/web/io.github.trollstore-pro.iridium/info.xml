@@ -1,0 +1,26 @@
+<package>
+  <id>io.github.trollstore-pro.iridium</id>
+  <name>Iridium砸壳(全权限)</name>
+  <version>1.2.15-REL-1669371195</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies></dependencies>
+  <shortDescription><![CDATA[iOS应用解密砸壳工具，织词汉化。适用于iOS13.5-14.x，具体支持系统版本自测。江湖上传说的有根系统砸壳的全权限工具，具体是不是真的需要你测试砸完之后看看还有没有小组件，源主没设备没办法给你测试，请见谅！]]></shortDescription>
+  <descriptionlist>
+    <description><![CDATA[iOS应用解密砸壳工具，织词汉化。适用于iOS13.5-14.x，具体支持系统版本自测。江湖上传说的有根系统砸壳的全权限工具，具体是不是真的需要你测试砸完之后看看还有没有小组件，源主没设备没办法给你测试，请见谅！]]></description>
+    <description><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></description>
+  </descriptionlist>
+  <screenshots>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>no-screenshots.jpeg</image>
+    </screenshot>
+  </screenshots>
+  <changelog>
+    <change><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></change>
+  </changelog>
+  <links></links>
+</package>

@@ -1,0 +1,249 @@
+{
+  "minVersion": "0.1",
+  "headerImage": "https://trollstore-pro.github.io/repo/assets/repo/Headers/header.webp",
+  "tabs": [
+    {
+      "class": "DepictionStackView",
+      "tabname": "插件介绍",
+      "views": [
+        {
+          "fontWeight": "bold",
+          "fontSize": 19,
+          "usePadding": true,
+          "useMargins": true,
+          "margins": "{10,0,8,0}",
+          "class": "DepictionLabelView",
+          "text": "插件介绍"
+        },
+        {
+          "markdown": "大家期待已久的QQ头像旋转插件来啦，本插件由全能玩机源群友思念所作，功能如下：QQ头像瞎季伯转，仅在9.1.25版本上测试。转起来，嗨起来，花里胡哨！",
+          "useSpacing": false,
+          "class": "DepictionMarkdownView"
+        },
+        {
+          "spacing": 20,
+          "class": "DepictionSpacerView"
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionLabelView",
+          "text": "插件截图预览",
+          "fontWeight": "semibold",
+          "fontSize": 17,
+          "usePadding": true,
+          "useMargins": true,
+          "margins": "{10,0,8,0}"
+        },
+        {
+          "itemCornerRadius": true,
+          "itemSize": "{127, 275}",
+          "screenshots": [
+            {
+              "accessibilityText": "Screenshot",
+              "url": "https://trollstore-pro.github.io/repo/assets/repo/Screenshots/no-screenshots.jpeg"
+            }
+          ],
+          "class": "DepictionScreenshotsView"
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "usePadding": true,
+          "useMargins": true,
+          "margins": "{10,0,8,0}",
+          "class": "DepictionLabelView",
+          "text": "版本详细说明",
+          "fontWeight": "semibold",
+          "fontSize": 16
+        },
+        {
+          "class": "DepictionStackView",
+          "orientation": "landscape",
+          "views": [
+            {
+              "class": "DepictionStackView",
+              "views": [
+                {
+                  "class": "DepictionLabelView",
+                  "text": "插件版本",
+                  "textColor": "#777",
+                  "margins": "{16,0,8,0}"
+                },
+                {
+                  "fontSize": 16,
+                  "usePadding": false,
+                  "class": "DepictionLabelView",
+                  "text": "1.1.0-1",
+                  "fontWeight": "semibold"
+                },
+                {
+                  "class": "DepictionLabelView",
+                  "text": "插件大小",
+                  "textColor": "#777",
+                  "margins": "{16,0,8,0}"
+                },
+                {
+                  "class": "DepictionLabelView",
+                  "text": "6 KB",
+                  "fontWeight": "semibold",
+                  "fontSize": 16,
+                  "usePadding": false
+                }
+              ]
+            },
+            {
+              "class": "DepictionStackView",
+              "views": [
+                {
+                  "text": "插件更新时间",
+                  "textColor": "#777",
+                  "margins": "{16,0,8,0}",
+                  "class": "DepictionLabelView"
+                },
+                {
+                  "class": "DepictionLabelView",
+                  "text": "2024-12-16 08:11:37",
+                  "fontWeight": "semibold",
+                  "fontSize": 16,
+                  "usePadding": false
+                },
+                {
+                  "class": "DepictionLabelView",
+                  "text": "插件系统兼容",
+                  "textColor": "#777",
+                  "margins": "{16,0,8,0}"
+                },
+                {
+                  "text": "15 ~ 17",
+                  "fontWeight": "semibold",
+                  "fontSize": 17,
+                  "usePadding": false,
+                  "class": "DepictionLabelView"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "class": "DepictionStackView",
+          "orientation": "landscape",
+          "views": [
+            {
+              "class": "DepictionStackView",
+              "views": [
+                {
+                  "class": "DepictionLabelView",
+                  "text": "下载次数",
+                  "textColor": "#777",
+                  "margins": "{16,0,8,0}"
+                },
+                {
+                  "fontWeight": "semibold",
+                  "fontSize": 16,
+                  "usePadding": false,
+                  "class": "DepictionLabelView",
+                  "text": "122"
+                }
+              ]
+            },
+            {
+              "class": "DepictionStackView",
+              "views": [
+                {
+                  "class": "DepictionLabelView",
+                  "text": "上个用户下载时间",
+                  "textColor": "#777",
+                  "margins": "{16,0,8,0}"
+                },
+                {
+                  "class": "DepictionLabelView",
+                  "text": "2024-12-20 01:23:04",
+                  "fontWeight": "semibold",
+                  "fontSize": 16,
+                  "usePadding": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 25
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "useSpacing": true,
+          "class": "DepictionMarkdownView",
+          "useRawFormat": true,
+          "markdown": "<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>"
+        }
+      ]
+    },
+    {
+      "tabname": "更新日志",
+      "views": [
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionStackView",
+          "orientation": "landscape",
+          "views": [
+            {
+              "class": "DepictionLabelView",
+              "text": "1.1.0-1",
+              "fontWeight": "semibold",
+              "fontSize": 18,
+              "usePadding": true,
+              "useMargins": true,
+              "margins": "{10,0,8,0}"
+            },
+            {
+              "text": "更新于:2024/12/16 08:11",
+              "fontSize": 12,
+              "textColor": "#999",
+              "alignment": 2,
+              "class": "DepictionLabelView",
+              "usePadding": true,
+              "useMargins": true,
+              "margins": "{10,0,8,16}",
+              "useSpacing": false
+            }
+          ]
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "useSpacing": false,
+          "markdown": "初代版本！\n*** "
+        },
+        {
+          "text": "",
+          "fontSize": 0,
+          "usePadding": true,
+          "margins": "{-4,0,0,0}",
+          "class": "DepictionLabelView",
+          "useSpacing": false,
+          "useMargins": true,
+          "textColor": "#999",
+          "alignment": 0
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "useSpacing": true,
+          "class": "DepictionMarkdownView",
+          "useRawFormat": true,
+          "markdown": "<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>"
+        }
+      ],
+      "class": "DepictionStackView"
+    }
+  ],
+  "class": "DepictionTabView"
+}

@@ -1,0 +1,28 @@
+<package>
+  <id>io.github.trollstore-pro.dsj.rootless</id>
+  <name>电视家 破解-Rootless</name>
+  <version>0.0.1</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>mobilesubstrate (&gt;= 0.9.5000)</package>
+  </dependencies>
+  <shortDescription><![CDATA[电视家软件应该大部分人都知道，App Store搜索电视家即可，一款可以看CCTV和卫视直播的软件，本插件去除启动广告、视频播放广告、解锁VIP，无任何弹窗，由全能玩机源免费首发，如需转载请备注全能玩机源trollstore-pro.github.io。世界那么浑浊，全能玩机源坚守最后一片清明！]]></shortDescription>
+  <descriptionlist>
+    <description><![CDATA[电视家软件应该大部分人都知道，App Store搜索电视家即可，一款可以看CCTV和卫视直播的软件，本插件去除启动广告、视频播放广告、解锁VIP，无任何弹窗，由全能玩机源免费首发，如需转载请备注全能玩机源trollstore-pro.github.io。世界那么浑浊，全能玩机源坚守最后一片清明！]]></description>
+    <description><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></description>
+  </descriptionlist>
+  <screenshots>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>pCpTTuq.png</image>
+    </screenshot>
+  </screenshots>
+  <changelog>
+    <change><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></change>
+  </changelog>
+  <links></links>
+</package>

@@ -1,0 +1,31 @@
+<package>
+  <id>com.snail.killyourapps</id>
+  <name>KillYourApps定时杀后台-Rootless</name>
+  <version>1.0.1</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>mobilesubstrate</package>
+    <package>preferenceloader</package>
+    <package>com.opa334.altlist</package>
+    <package>byg.iosios.net.snail</package>
+  </dependencies>
+  <shortDescription><![CDATA[Kill Your Apps as you wish, keep your app switcher always clean with scheduled kills, immediate kills, and screen lock kills. Cracked by CBZ!定时杀掉你的APP软件后台，随时随地保持系统内存，自行下载体验！]]></shortDescription>
+  <descriptionlist>
+    <description><![CDATA[Kill Your Apps as you wish, keep your app switcher always clean with scheduled kills, immediate kills, and screen lock kills. Cracked by CBZ!定时杀掉你的APP软件后台，随时随地保持系统内存，自行下载体验！]]></description>
+    <description><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></description>
+  </descriptionlist>
+  <screenshots>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>no-screenshots.jpeg</image>
+    </screenshot>
+  </screenshots>
+  <changelog>
+    <change><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></change>
+  </changelog>
+  <links></links>
+</package>

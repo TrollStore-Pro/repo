@@ -1,0 +1,41 @@
+<package>
+  <id>io.github.trollstore-pro.videos</id>
+  <name>随机小姐姐短视频-Rootless</name>
+  <version>0.1-2</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>firmware (&gt;= 5.0)</package>
+    <package>mobilesubstrate</package>
+  </dependencies>
+  <shortDescription><![CDATA[随机小姐姐插件，听起来很牛批，其实就是在微信聊天界面发送小姐姐视频，由老猫开发泄露出来，全能玩机整合网络资源编译支持rootless。需要安装老猫的微信助手插件，添加聊天工具栏，具体操作看截图。使用中如果有问题，请缷载！]]></shortDescription>
+  <descriptionlist>
+    <description><![CDATA[随机小姐姐插件，听起来很牛批，其实就是在微信聊天界面发送小姐姐视频，由老猫开发泄露出来，全能玩机整合网络资源编译支持rootless。需要安装老猫的微信助手插件，添加聊天工具栏，具体操作看截图。使用中如果有问题，请缷载！]]></description>
+    <description><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></description>
+  </descriptionlist>
+  <screenshots>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>p9YD7Qg.jpg</image>
+    </screenshot>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>p9YDHyQ.png</image>
+    </screenshot>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>p9YDLes.png</image>
+    </screenshot>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>p9YrnSO.png</image>
+    </screenshot>
+  </screenshots>
+  <changelog>
+    <change><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></change>
+  </changelog>
+  <links></links>
+</package>

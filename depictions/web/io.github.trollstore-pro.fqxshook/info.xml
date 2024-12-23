@@ -1,0 +1,28 @@
+<package>
+  <id>io.github.trollstore-pro.fqxshook</id>
+  <name>番茄小说优化-Rootless</name>
+  <version>1.0.2</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>mobilesubstrate (&gt;= 0.9.5000)</package>
+  </dependencies>
+  <shortDescription><![CDATA[自用 | 去除一些可见广告 | 秒过激励视频 | 支持版本6.0.8+ | 移除底部福利板块，移除底部红点 。]]></shortDescription>
+  <descriptionlist>
+    <description><![CDATA[自用 | 去除一些可见广告 | 秒过激励视频 | 支持版本6.0.8+ | 移除底部福利板块，移除底部红点 。]]></description>
+    <description><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></description>
+  </descriptionlist>
+  <screenshots>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>072ede572bfd192520a0fa9e28c76984eec87aab.png</image>
+    </screenshot>
+  </screenshots>
+  <changelog>
+    <change><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></change>
+  </changelog>
+  <links></links>
+</package>

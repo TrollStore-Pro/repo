@@ -1,0 +1,35 @@
+<package>
+  <id>io.github.trollstore-pro.violetpro</id>
+  <name>Violet Pro个性Siri-Rootless</name>
+  <version>1.0.0</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>mobilesubstrate</package>
+    <package>firmware (&gt;= 15.0)</package>
+    <package>com.mrgcgamer.libgcuniversal</package>
+    <package>ws.hbang.common (&gt;= 2.0)</package>
+  </dependencies>
+  <shortDescription><![CDATA[个性Siri插件，修改Siri样式，正版0.99刀，个人感觉这插件没必要支持正版了，就图一乐！非常感谢全能玩机源群友浅殇购买此插件并分享！无中文，就几个英文开关，自己玩吧！]]></shortDescription>
+  <descriptionlist>
+    <description><![CDATA[个性Siri插件，修改Siri样式，正版0.99刀，个人感觉这插件没必要支持正版了，就图一乐！非常感谢全能玩机源群友浅殇购买此插件并分享！无中文，就几个英文开关，自己玩吧！]]></description>
+    <description><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></description>
+  </descriptionlist>
+  <screenshots>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>647cb025bdd7d630c763c1d6</image>
+    </screenshot>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>647cb02abdd7d630c763c1f6</image>
+    </screenshot>
+  </screenshots>
+  <changelog>
+    <change><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></change>
+  </changelog>
+  <links></links>
+</package>

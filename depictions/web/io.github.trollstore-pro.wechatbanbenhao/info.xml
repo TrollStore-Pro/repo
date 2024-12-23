@@ -1,0 +1,28 @@
+<package>
+  <id>io.github.trollstore-pro.wechatbanbenhao</id>
+  <name>微信修改版本号-Rootless</name>
+  <version>1.1</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>mobilesubstrate (&gt;= 0.9.5000)</package>
+  </dependencies>
+  <shortDescription><![CDATA[插件入口在设置里，小程序提示要升级微信的，可修改微信版本号为8.0.52，长期修改微信会有问题。用完改回来。路口在我的页面，点击退出微信生效。只能是最新版，不可自定义版本！感谢自由如风！]]></shortDescription>
+  <descriptionlist>
+    <description><![CDATA[插件入口在设置里，小程序提示要升级微信的，可修改微信版本号为8.0.52，长期修改微信会有问题。用完改回来。路口在我的页面，点击退出微信生效。只能是最新版，不可自定义版本！感谢自由如风！]]></description>
+    <description><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></description>
+  </descriptionlist>
+  <screenshots>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>no-screenshots.jpeg</image>
+    </screenshot>
+  </screenshots>
+  <changelog>
+    <change><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></change>
+  </changelog>
+  <links></links>
+</package>

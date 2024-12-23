@@ -1,0 +1,30 @@
+<package>
+  <id>io.github.trollstore-pro.afc2d-arm64</id>
+  <name>AppleFileConduit2电脑访问手机文件-Rootless</name>
+  <version>1.2.0</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>cy+cpu.arm64</package>
+    <package>ldid</package>
+    <package>firmware (&gt;= 11.0)</package>
+  </dependencies>
+  <shortDescription><![CDATA[允许设备通过USB访问完整的文件系统，对iOS11及更高版本的设备特别有用。神秘大佬修复支持Rootless。]]></shortDescription>
+  <descriptionlist>
+    <description><![CDATA[允许设备通过USB访问完整的文件系统，对iOS11及更高版本的设备特别有用。神秘大佬修复支持Rootless。]]></description>
+    <description><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></description>
+  </descriptionlist>
+  <screenshots>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>7552d609ffd0e4c4fe1e1a2c838230f97fa0cbd4.png</image>
+    </screenshot>
+  </screenshots>
+  <changelog>
+    <change><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></change>
+  </changelog>
+  <links></links>
+</package>

@@ -1,0 +1,31 @@
+<package>
+  <id>io.github.trollstore-pro.snapper3</id>
+  <name>Snapper 3智能截图-Rootless</name>
+  <version>1.0.2</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>mobilesubstrate</package>
+    <package>firmware(&gt;=15.0)</package>
+    <package>preferenceloader</package>
+  </dependencies>
+  <shortDescription><![CDATA[活久见，破解版比正版上架快，感谢cypwn大神破解，巨魔商店M哥汉化分享！非常感谢给越狱圈带来快乐，有经济能力的请等正版出来后，付费购买，此破解版仅供尝鲜，全能玩机源，国内首发！snapper3和snapper2冲突，自己决定要哪个！据说3好用，大家可以自己尝试一下！1.0.1版本更新移除破解依赖，无其它功能！大家今天安装的破解依赖可以删除了，能省一个插件是一个插件，无法更新的话，可以先删除此插件再更新！1.0.2修复OCR识图问题，愉快的截图吧，非常好用！插件自带中文！]]></shortDescription>
+  <descriptionlist>
+    <description><![CDATA[活久见，破解版比正版上架快，感谢cypwn大神破解，巨魔商店M哥汉化分享！非常感谢给越狱圈带来快乐，有经济能力的请等正版出来后，付费购买，此破解版仅供尝鲜，全能玩机源，国内首发！snapper3和snapper2冲突，自己决定要哪个！据说3好用，大家可以自己尝试一下！1.0.1版本更新移除破解依赖，无其它功能！大家今天安装的破解依赖可以删除了，能省一个插件是一个插件，无法更新的话，可以先删除此插件再更新！1.0.2修复OCR识图问题，愉快的截图吧，非常好用！插件自带中文！]]></description>
+    <description><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></description>
+  </descriptionlist>
+  <screenshots>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>pC1WX0P.jpg</image>
+    </screenshot>
+  </screenshots>
+  <changelog>
+    <change><![CDATA[1.0.2修复OCR识图问题，愉快的截图吧，非常好用！插件自带中文！<br />*** ]]></change>
+    <change><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></change>
+  </changelog>
+  <links></links>
+</package>

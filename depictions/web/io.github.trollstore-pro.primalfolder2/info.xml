@@ -1,0 +1,30 @@
+<package>
+  <id>io.github.trollstore-pro.primalfolder2</id>
+  <name>PrimalFolder2文件夹图标-Rootless</name>
+  <version>0.1.2</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>firmware (&gt;= 13.0)</package>
+    <package>mobilesubstrate</package>
+    <package>preferenceloader</package>
+  </dependencies>
+  <shortDescription><![CDATA[显示为文件夹图标为第一个APP图标，双击启动文件夹，这样方便隐藏黄色APP？不错不错！]]></shortDescription>
+  <descriptionlist>
+    <description><![CDATA[显示为文件夹图标为第一个APP图标，双击启动文件夹，这样方便隐藏黄色APP？不错不错！]]></description>
+    <description><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></description>
+  </descriptionlist>
+  <screenshots>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>no-screenshots.jpeg</image>
+    </screenshot>
+  </screenshots>
+  <changelog>
+    <change><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></change>
+  </changelog>
+  <links></links>
+</package>
