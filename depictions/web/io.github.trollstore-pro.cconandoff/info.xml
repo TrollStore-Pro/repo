@@ -1,0 +1,29 @@
+<package>
+  <id>io.github.trollstore-pro.cconandoff</id>
+  <name>CC On &amp; Off完全关闭WiFi蓝牙-Rootless</name>
+  <version>1.1.0</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>mobilesubstrate (&gt;= 0.9.5000)</package>
+    <package>firmware (&gt;= 11.0)</package>
+  </dependencies>
+  <shortDescription><![CDATA[Toggle Wi-Fi and Bluetooth On/Off from Control Center (iOS 15+).在控制中心完全关闭WiFi和蓝牙，不会再自动打开，非常好用！]]></shortDescription>
+  <descriptionlist>
+    <description><![CDATA[Toggle Wi-Fi and Bluetooth On/Off from Control Center (iOS 15+).在控制中心完全关闭WiFi和蓝牙，不会再自动打开，非常好用！]]></description>
+    <description><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></description>
+  </descriptionlist>
+  <screenshots>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>no-screenshots.jpeg</image>
+    </screenshot>
+  </screenshots>
+  <changelog>
+    <change><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></change>
+  </changelog>
+  <links></links>
+</package>

@@ -1,0 +1,29 @@
+<package>
+  <id>io.github.trollstore-pro.tmts</id>
+  <name>全局透明Max-Rootless</name>
+  <version>1.2</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>mobilesubstrate</package>
+    <package>preferenceloader</package>
+  </dependencies>
+  <shortDescription><![CDATA[全局透明1.2版本：自定义播放器大小和控制中心大小及位置，自定义SpringBoard全局透明度(包含 锁屏 ，播放器，负一屏，通知，控制中心，多任务后台模块等)----240305:增加锁屏手电相机透明度，增加16.2-16.3.1版本调节播放器透明度，***记得每个填空得有数值。以最新版本为准，之前代码是垃圾***。老弟yyds！]]></shortDescription>
+  <descriptionlist>
+    <description><![CDATA[全局透明1.2版本：自定义播放器大小和控制中心大小及位置，自定义SpringBoard全局透明度(包含 锁屏 ，播放器，负一屏，通知，控制中心，多任务后台模块等)----240305:增加锁屏手电相机透明度，增加16.2-16.3.1版本调节播放器透明度，***记得每个填空得有数值。以最新版本为准，之前代码是垃圾***。老弟yyds！]]></description>
+    <description><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></description>
+  </descriptionlist>
+  <screenshots>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>no-screenshots.jpeg</image>
+    </screenshot>
+  </screenshots>
+  <changelog>
+    <change><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></change>
+  </changelog>
+  <links></links>
+</package>

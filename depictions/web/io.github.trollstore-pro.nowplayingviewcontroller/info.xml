@@ -1,0 +1,28 @@
+<package>
+  <id>io.github.trollstore-pro.nowplayingviewcontroller</id>
+  <name>隐藏锁屏音乐播放器-Rootless</name>
+  <version>1.0</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>mobilesubstrate (&gt;= 0.9.5000)</package>
+  </dependencies>
+  <shortDescription><![CDATA[隐藏锁屏状态下的音乐播放器，还你一个干净的锁屏界面，应该会有很多小伙伴喜欢的吧，喜欢的就赶紧下载吧！感谢Z大神开发出如此免费实用的插件，全能玩机源全体员工在此表示对由衷你的感谢！]]></shortDescription>
+  <descriptionlist>
+    <description><![CDATA[隐藏锁屏状态下的音乐播放器，还你一个干净的锁屏界面，应该会有很多小伙伴喜欢的吧，喜欢的就赶紧下载吧！感谢Z大神开发出如此免费实用的插件，全能玩机源全体员工在此表示对由衷你的感谢！]]></description>
+    <description><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></description>
+  </descriptionlist>
+  <screenshots>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>no-screenshots.jpeg</image>
+    </screenshot>
+  </screenshots>
+  <changelog>
+    <change><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></change>
+  </changelog>
+  <links></links>
+</package>

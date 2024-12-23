@@ -1,0 +1,33 @@
+<package>
+  <id>io.github.trollstore-pro.zhuti.huawen</id>
+  <name>华文行楷字体</name>
+  <version>1.0</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>com.spark.snowboard</package>
+    <package>com.spark.snowboard.fonts</package>
+  </dependencies>
+  <shortDescription><![CDATA[更多免费好看的主题和字体请添加主题源：zhuti.trollstore-pro.github.io。永久免费。一种非常好看的华文行楷字体，非常的经典，锁屏字体也换了！很好看！本字体插件需要滑雪板来生效，非常的简单，对小白来说十分容易，下载本源字体插件后，请去系统设置-Snowboard里选择启用字体，然后注销就可以了，非常简单！主题源下载流量比较大，服务器成本高，有能力的朋友，希望能够捐赠一下，万分感谢！]]></shortDescription>
+  <descriptionlist>
+    <description><![CDATA[更多免费好看的主题和字体请添加主题源：zhuti.trollstore-pro.github.io。永久免费。一种非常好看的华文行楷字体，非常的经典，锁屏字体也换了！很好看！本字体插件需要滑雪板来生效，非常的简单，对小白来说十分容易，下载本源字体插件后，请去系统设置-Snowboard里选择启用字体，然后注销就可以了，非常简单！主题源下载流量比较大，服务器成本高，有能力的朋友，希望能够捐赠一下，万分感谢！]]></description>
+    <description><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></description>
+  </descriptionlist>
+  <screenshots>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>588c1ae008eb2527b6ede43223682e69c3dbf406.jpg</image>
+    </screenshot>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>039c508a4184390dfbef26796724dcd692aa09f4.png</image>
+    </screenshot>
+  </screenshots>
+  <changelog>
+    <change><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></change>
+  </changelog>
+  <links></links>
+</package>

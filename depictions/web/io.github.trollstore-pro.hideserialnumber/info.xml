@@ -1,0 +1,31 @@
+<package>
+  <id>io.github.trollstore-pro.hideserialnumber</id>
+  <name>HideSerialNumber隐藏序列号-Rootless</name>
+  <version>0.0.4</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>firmware (&gt;= 12.2)</package>
+    <package>mobilesubstrate</package>
+    <package>preferenceloader</package>
+  </dependencies>
+  <shortDescription><![CDATA[Hide Serial Number in Settings About page.在“设置关于”页面中隐藏/伪装序列号等相关信息。全能玩机源，最新最全！！]]></shortDescription>
+  <descriptionlist>
+    <description><![CDATA[Hide Serial Number in Settings About page.在“设置关于”页面中隐藏/伪装序列号等相关信息。全能玩机源，最新最全！！]]></description>
+    <description><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></description>
+  </descriptionlist>
+  <screenshots>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>no-screenshots.jpeg</image>
+    </screenshot>
+  </screenshots>
+  <changelog>
+    <change><![CDATA[修复已知问题！<br />*** ]]></change>
+    <change><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></change>
+  </changelog>
+  <links></links>
+</package>

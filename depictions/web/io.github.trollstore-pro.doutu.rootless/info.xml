@@ -1,0 +1,33 @@
+<package>
+  <id>io.github.trollstore-pro.doutu.rootless</id>
+  <name>斗图助手-Rootless</name>
+  <version>3.1-5</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>firmware (&gt;= 5.0)</package>
+  </dependencies>
+  <shortDescription><![CDATA[微信添加表情包接口]]></shortDescription>
+  <descriptionlist>
+    <description><![CDATA[微信添加表情包接口]]></description>
+    <description><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></description>
+  </descriptionlist>
+  <screenshots>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>20200918232639_25183.jpeg</image>
+    </screenshot>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>20200918232651_49079.jpeg</image>
+    </screenshot>
+  </screenshots>
+  <changelog>
+    <change><![CDATA[修复搜狗API接口问题<br />*** ]]></change>
+    <change><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></change>
+  </changelog>
+  <links></links>
+</package>

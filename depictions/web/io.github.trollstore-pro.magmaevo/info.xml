@@ -1,0 +1,40 @@
+<package>
+  <id>io.github.trollstore-pro.magmaevo</id>
+  <name>Magma Evo控制中心调色-Rootless</name>
+  <version>2.0.10</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>mobilesubstrate</package>
+    <package>firmware (&gt;= 12.0)</package>
+    <package>preferenceloader</package>
+    <package>com.opa334.ccsupport</package>
+    <package>com.spark.libsparkcolourpicker</package>
+  </dependencies>
+  <shortDescription><![CDATA[Redefine your Control Center控制中心调色插件，自定义你的控制中心颜色！原作者开源，大佬无尽伤痛都锁进黑夜修复支持多巴胺，全能玩机源汉化分享！刚学会汉化，可能汉化不完整，请见谅！觉得全能玩机源有用的可以用，不用就可以删了，请不要到处污蔑，用着插件还反咬一口，没意义的这样。]]></shortDescription>
+  <descriptionlist>
+    <description><![CDATA[Redefine your Control Center控制中心调色插件，自定义你的控制中心颜色！原作者开源，大佬无尽伤痛都锁进黑夜修复支持多巴胺，全能玩机源汉化分享！刚学会汉化，可能汉化不完整，请见谅！觉得全能玩机源有用的可以用，不用就可以删了，请不要到处污蔑，用着插件还反咬一口，没意义的这样。]]></description>
+    <description><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></description>
+  </descriptionlist>
+  <screenshots>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>100</image>
+    </screenshot>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>100</image>
+    </screenshot>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>100</image>
+    </screenshot>
+  </screenshots>
+  <changelog>
+    <change><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></change>
+  </changelog>
+  <links></links>
+</package>

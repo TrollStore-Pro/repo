@@ -1,0 +1,37 @@
+<package>
+  <id>io.github.trollstore-pro.kuaipanel.rootless</id>
+  <name>快捷面板-Rootless</name>
+  <version>2.0-4</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>firmware (&gt;= 5.0)</package>
+    <package>mobilesubstrate</package>
+    <package>preferenceloader</package>
+    <package>com.opa334.altlist (&gt;=1.0.4)</package>
+    <package>ws.hbang.alderis (&gt;= 1.1)</package>
+  </dependencies>
+  <shortDescription><![CDATA[本插件需要购买激活使用，源主觉得不错，所以上架备份一下，效果可以看截图，觉得有需要的小伙们可以选择是否付费激活！一些快捷操作，看起来还不错！]]></shortDescription>
+  <descriptionlist>
+    <description><![CDATA[本插件需要购买激活使用，源主觉得不错，所以上架备份一下，效果可以看截图，觉得有需要的小伙们可以选择是否付费激活！一些快捷操作，看起来还不错！]]></description>
+    <description><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></description>
+  </descriptionlist>
+  <screenshots>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>20210429180429_20845.jpeg</image>
+    </screenshot>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>20210514174056_55740.png</image>
+    </screenshot>
+  </screenshots>
+  <changelog>
+    <change><![CDATA[修复面板主题配色无效问题，修复iOS 16系统运行快捷指令导致安全模式问题，修复iOS 16显示后台应用/清理后台无效问题！<br />*** ]]></change>
+    <change><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></change>
+  </changelog>
+  <links></links>
+</package>

@@ -1,0 +1,35 @@
+<package>
+  <id>io.github.trollstore-pro.tinge.rootless</id>
+  <name>Tinge彩色角标-Rootless</name>
+  <version>1.2.2</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>firmware (&gt;= 15.0)</package>
+    <package>mobilesubstrate</package>
+    <package>ws.hbang.alderis</package>
+  </dependencies>
+  <shortDescription><![CDATA[一款彩色角标插件，根据你的软件图标颜色来自适应，非常的好看，安装去设置里开启注销即生效，原价0.99美元，现在全能玩机源免费使用，效果可以看截图，非常的好看！已汉化！]]></shortDescription>
+  <descriptionlist>
+    <description><![CDATA[一款彩色角标插件，根据你的软件图标颜色来自适应，非常的好看，安装去设置里开启注销即生效，原价0.99美元，现在全能玩机源免费使用，效果可以看截图，非常的好看！已汉化！]]></description>
+    <description><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></description>
+  </descriptionlist>
+  <screenshots>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>65d9120cdc4f78f77542b35b</image>
+    </screenshot>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>6d186ed4bf65d8974495a65871b0fd17f7b73fd8.jpg</image>
+    </screenshot>
+  </screenshots>
+  <changelog>
+    <change><![CDATA[修复插件设置不显示问题<br />*** ]]></change>
+    <change><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></change>
+  </changelog>
+  <links></links>
+</package>

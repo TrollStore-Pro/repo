@@ -1,0 +1,31 @@
+<package>
+  <id>io.github.trollstore-pro.smallbanners-rootless</id>
+  <name>SmallBanners缩小通知横幅-Rootless</name>
+  <version>1.2-8</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>mobilesubstrate</package>
+    <package>firmware (&gt;= 15.0)</package>
+    <package>firmware (&lt;&lt; 17.0)</package>
+  </dependencies>
+  <shortDescription><![CDATA[缩小来消息时的通知横幅，让它别那么大，遮挡别那么多。看起来还不错的插件，有需要的用户可以下载体验！效果可以看截图！]]></shortDescription>
+  <descriptionlist>
+    <description><![CDATA[缩小来消息时的通知横幅，让它别那么大，遮挡别那么多。看起来还不错的插件，有需要的用户可以下载体验！效果可以看截图！]]></description>
+    <description><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></description>
+  </descriptionlist>
+  <screenshots>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>p97y3U1.jpg</image>
+    </screenshot>
+  </screenshots>
+  <changelog>
+    <change><![CDATA[更新支持iOS16！<br />*** ]]></change>
+    <change><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></change>
+  </changelog>
+  <links></links>
+</package>

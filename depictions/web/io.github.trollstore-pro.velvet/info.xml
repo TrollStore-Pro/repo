@@ -1,0 +1,30 @@
+<package>
+  <id>io.github.trollstore-pro.velvet</id>
+  <name>Velvet 2彩色通知-Rootless</name>
+  <version>2.2.1</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>mobilesubstrate (&gt;= 0.9.5000)</package>
+    <package>preferenceloader</package>
+  </dependencies>
+  <shortDescription><![CDATA[一款非常好看的彩色通知条幅插件，让你的通知条幅自适应颜色，非常的酷拉炫，使用了妖刀的汉化文件，同步新源码，更新支持iOS16！自带中文，设置非常简单，真的很好看的一款插件！]]></shortDescription>
+  <descriptionlist>
+    <description><![CDATA[一款非常好看的彩色通知条幅插件，让你的通知条幅自适应颜色，非常的酷拉炫，使用了妖刀的汉化文件，同步新源码，更新支持iOS16！自带中文，设置非常简单，真的很好看的一款插件！]]></description>
+    <description><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></description>
+  </descriptionlist>
+  <screenshots>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>h_DeA0_FJrYgqjmi_veajUIAoVF4R-r27ivHgLOtXz-Nje4Upm4UQEIT69OHNFu15uvUdaXkx9M3G9dg5xryyQ.jpg</image>
+    </screenshot>
+  </screenshots>
+  <changelog>
+    <change><![CDATA[更新支持iOS16！<br />*** ]]></change>
+    <change><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></change>
+  </changelog>
+  <links></links>
+</package>

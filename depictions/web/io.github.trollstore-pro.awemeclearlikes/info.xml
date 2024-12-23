@@ -1,0 +1,29 @@
+<package>
+  <id>io.github.trollstore-pro.awemeclearlikes</id>
+  <name>抖音清除点赞-Rootless</name>
+  <version>1.1-2</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>firmware (&gt;= 15.0)</package>
+    <package>mobilesubstrate</package>
+  </dependencies>
+  <shortDescription><![CDATA[Aweme Clear All Likes, Shake it on my favorite page to get started!一款非常有意思的小插件，Netskao开发！在抖音我的喜欢界面，摇晃一下手机即可一键清空之前点赞的作品，不支持旧版本抖音，貌似要30版本以上吧，请慎重考虑，清空后不可挽回！有能力的请支持开发者！]]></shortDescription>
+  <descriptionlist>
+    <description><![CDATA[Aweme Clear All Likes, Shake it on my favorite page to get started!一款非常有意思的小插件，Netskao开发！在抖音我的喜欢界面，摇晃一下手机即可一键清空之前点赞的作品，不支持旧版本抖音，貌似要30版本以上吧，请慎重考虑，清空后不可挽回！有能力的请支持开发者！]]></description>
+    <description><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></description>
+  </descriptionlist>
+  <screenshots>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>T053XD00000TE1Kc4L4JEK.png</image>
+    </screenshot>
+  </screenshots>
+  <changelog>
+    <change><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></change>
+  </changelog>
+  <links></links>
+</package>
