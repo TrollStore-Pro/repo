@@ -1,0 +1,35 @@
+<package>
+  <id>io.github.trollstore-pro.popoutbuttons</id>
+  <name>PopOutButtons按钮动画-Rootless</name>
+  <version>1.0.1</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>mobilesubstrate (&gt;= 0.9.5000)</package>
+    <package>com.mrgcgamer.libgcuniversal</package>
+    <package>preferenceloader</package>
+  </dependencies>
+  <shortDescription><![CDATA[本插件功能：让你的音量键和电源键每按一次，在手机屏幕里显示动画效果，这是模仿iOS18的一个功能，还可以自定义按钮动画的大小，喜欢的小伙伴们可以试试，感谢M哥汉化插件，全能玩机源全体员工向你表示感谢！]]></shortDescription>
+  <descriptionlist>
+    <description><![CDATA[本插件功能：让你的音量键和电源键每按一次，在手机屏幕里显示动画效果，这是模仿iOS18的一个功能，还可以自定义按钮动画的大小，喜欢的小伙伴们可以试试，感谢M哥汉化插件，全能玩机源全体员工向你表示感谢！]]></description>
+    <description><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></description>
+  </descriptionlist>
+  <screenshots>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>FjtSGvx6F4YumUo525NX0l-tscIAPvH7PFfB-vjkGlwa_lUbmkduKAxJX1WE-Y2ddRIU4jFv81k6ZFC72W-tNw.jpg</image>
+    </screenshot>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>pA0KiJH.png</image>
+    </screenshot>
+  </screenshots>
+  <changelog>
+    <change><![CDATA[修复了暗黑模式问题，添加了音量按钮向外移动的功能<br />*** ]]></change>
+    <change><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></change>
+  </changelog>
+  <links></links>
+</package>

@@ -1,0 +1,37 @@
+<package>
+  <id>xyz.cypwn.xinam1ne</id>
+  <name>Xinam1ne All-in-One插件依赖包</name>
+  <version>2.4-9</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>mobilesubstrate</package>
+    <package>firmware (&gt;= 15.0)</package>
+    <package>libclang-cpp14</package>
+    <package>llvm-14</package>
+    <package>llvm-14-runtime</package>
+    <package>file</package>
+    <package>odcctools</package>
+    <package>ldid</package>
+    <package>plutil</package>
+    <package>com.tigisoftware.filza64bit (&gt;= 4.0) | com.tigisoftware.filza (&gt;= 4.0)</package>
+  </dependencies>
+  <shortDescription><![CDATA[Xinamine bundle. Includes linker, patcher, 'chex' link checker, 'chix' link fixer, plus other supporting filza scripts.插件依赖包！]]></shortDescription>
+  <descriptionlist>
+    <description><![CDATA[Xinamine bundle. Includes linker, patcher, 'chex' link checker, 'chix' link fixer, plus other supporting filza scripts.插件依赖包！]]></description>
+    <description><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></description>
+  </descriptionlist>
+  <screenshots>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>no-screenshots.jpeg</image>
+    </screenshot>
+  </screenshots>
+  <changelog>
+    <change><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></change>
+  </changelog>
+  <links></links>
+</package>

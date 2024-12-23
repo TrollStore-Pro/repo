@@ -1,0 +1,30 @@
+<package>
+  <id>io.github.trollstore-pro.cornbars</id>
+  <name>CornBar玉米小白条-Rootless</name>
+  <version>1.1.0</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>mobilesubstrate (&gt;= 0.9.5000)</package>
+    <package>preferenceloader</package>
+    <package>ws.hbang.alderis (&gt;= 1.2)</package>
+  </dependencies>
+  <shortDescription><![CDATA[把你的HomeBar小白条变成玉米！插件效果如截图所示！还可以更改其它自定义图片，一款花里胡哨的小插件，全能玩机源，永久免费更新，欢迎使用！]]></shortDescription>
+  <descriptionlist>
+    <description><![CDATA[把你的HomeBar小白条变成玉米！插件效果如截图所示！还可以更改其它自定义图片，一款花里胡哨的小插件，全能玩机源，永久免费更新，欢迎使用！]]></description>
+    <description><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></description>
+  </descriptionlist>
+  <screenshots>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>b5236b0a3b5f3928177a3eb94d60111d6d3d7a76.jpg</image>
+    </screenshot>
+  </screenshots>
+  <changelog>
+    <change><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></change>
+  </changelog>
+  <links></links>
+</package>

@@ -1,0 +1,28 @@
+<package>
+  <id>io.github.trollstore-pro.pridebars</id>
+  <name>PrideBars个性状态栏-Rootless</name>
+  <version>1.1.0</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>mobilesubstrate</package>
+  </dependencies>
+  <shortDescription><![CDATA[Colorful signal bars. Now with Wi-Fi support! The default colors are the first four rainbow colors, which coincidentally line up from red to green, as in from the weakest signal to the strongest.个性状态栏，花哩胡哨！]]></shortDescription>
+  <descriptionlist>
+    <description><![CDATA[Colorful signal bars. Now with Wi-Fi support! The default colors are the first four rainbow colors, which coincidentally line up from red to green, as in from the weakest signal to the strongest.个性状态栏，花哩胡哨！]]></description>
+    <description><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></description>
+  </descriptionlist>
+  <screenshots>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>piQe2vV.jpg</image>
+    </screenshot>
+  </screenshots>
+  <changelog>
+    <change><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></change>
+  </changelog>
+  <links></links>
+</package>

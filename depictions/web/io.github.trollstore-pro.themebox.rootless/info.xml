@@ -1,0 +1,29 @@
+<package>
+  <id>io.github.trollstore-pro.themebox.rootless</id>
+  <name>微信主题盒子-Rootless</name>
+  <version>1.0.5-2</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>mobilesubstrate (&gt;= 0.9.5000)</package>
+  </dependencies>
+  <shortDescription><![CDATA[An awesome MobileSubstrate tweak!又一款微信主题加载插件，非常的不错，但是好像也要收费，大家自行体验，小编测试了一下，会读取记录微信号...自行选择！]]></shortDescription>
+  <descriptionlist>
+    <description><![CDATA[An awesome MobileSubstrate tweak!又一款微信主题加载插件，非常的不错，但是好像也要收费，大家自行体验，小编测试了一下，会读取记录微信号...自行选择！]]></description>
+    <description><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></description>
+  </descriptionlist>
+  <screenshots>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>T053XD000024A92k4CDTeO.jpg</image>
+    </screenshot>
+  </screenshots>
+  <changelog>
+    <change><![CDATA[•修复1.0-3-1修改底栏动画闪退问题•修复了1.0.2目前收集到的一些问题•再次调整底栏样式，将底栏设置移动到了插件首页•修复底栏点击漂移(点不到)问题•修复主题包未上传顶栏时从聊天返回首页顶部透明问题•新增我的页面居中布局增加头像旋转•新增自定义名字和微信号显示内容<br />*** ]]></change>
+    <change><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></change>
+  </changelog>
+  <links></links>
+</package>

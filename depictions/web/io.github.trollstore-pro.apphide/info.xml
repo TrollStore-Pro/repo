@@ -1,0 +1,30 @@
+<package>
+  <id>io.github.trollstore-pro.apphide</id>
+  <name>App Hider应用隐藏-Rootless</name>
+  <version>0.0.2</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>mobilesubstrate</package>
+    <package>firmware (&gt;= 12.2)</package>
+    <package>com.opa334.altlist</package>
+  </dependencies>
+  <shortDescription><![CDATA[模仿iOS18的功能，隐藏已经安装的黄色APP，哈哈。本插件可以在设置里隐藏应用使其消失在搜索，资源库，主屏幕上。谨慎开启密码，因为我也没搞懂有了密码之后咋弄，可能你需要清除越狱才能恢复插件设置了，不是重装插件就能解决的！全能玩机源，最新最全！！暂无汉化！]]></shortDescription>
+  <descriptionlist>
+    <description><![CDATA[模仿iOS18的功能，隐藏已经安装的黄色APP，哈哈。本插件可以在设置里隐藏应用使其消失在搜索，资源库，主屏幕上。谨慎开启密码，因为我也没搞懂有了密码之后咋弄，可能你需要清除越狱才能恢复插件设置了，不是重装插件就能解决的！全能玩机源，最新最全！！暂无汉化！]]></description>
+    <description><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></description>
+  </descriptionlist>
+  <screenshots>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>no-screenshots.jpeg</image>
+    </screenshot>
+  </screenshots>
+  <changelog>
+    <change><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></change>
+  </changelog>
+  <links></links>
+</package>

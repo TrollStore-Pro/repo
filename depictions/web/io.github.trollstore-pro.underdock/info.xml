@@ -1,0 +1,29 @@
+<package>
+  <id>io.github.trollstore-pro.underdock</id>
+  <name>UnderDock键盘增强-Rootless</name>
+  <version>1.3</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>mobilesubstrate</package>
+  </dependencies>
+  <shortDescription><![CDATA[给原生键盘和第三方键盘增加复制、粘贴、换行、撤销等按钮，还不错的一款键盘增强插件，全能玩机源已汉化，尽情享受全能玩机源带来的越狱乐趣吧，全能玩机源永久免费！越狱不倒，陪你到老！]]></shortDescription>
+  <descriptionlist>
+    <description><![CDATA[给原生键盘和第三方键盘增加复制、粘贴、换行、撤销等按钮，还不错的一款键盘增强插件，全能玩机源已汉化，尽情享受全能玩机源带来的越狱乐趣吧，全能玩机源永久免费！越狱不倒，陪你到老！]]></description>
+    <description><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></description>
+  </descriptionlist>
+  <screenshots>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>646afd093903233c67fda5b7</image>
+    </screenshot>
+  </screenshots>
+  <changelog>
+    <change><![CDATA[更新支持iOS 16！<br />*** ]]></change>
+    <change><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></change>
+  </changelog>
+  <links></links>
+</package>

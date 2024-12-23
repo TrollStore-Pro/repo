@@ -1,0 +1,28 @@
+<package>
+  <id>io.github.trollstore-pro.quitall</id>
+  <name>QuitAll清理后台-Rootless</name>
+  <version>1.2.1.1</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>mobilesubstrate</package>
+  </dependencies>
+  <shortDescription><![CDATA[Swipe down on app switcher card to kill all apps!在应用程序切换卡向下滑动以结束所有程序，清理后台。]]></shortDescription>
+  <descriptionlist>
+    <description><![CDATA[Swipe down on app switcher card to kill all apps!在应用程序切换卡向下滑动以结束所有程序，清理后台。]]></description>
+    <description><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></description>
+  </descriptionlist>
+  <screenshots>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>no-screenshots.jpeg</image>
+    </screenshot>
+  </screenshots>
+  <changelog>
+    <change><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></change>
+  </changelog>
+  <links></links>
+</package>

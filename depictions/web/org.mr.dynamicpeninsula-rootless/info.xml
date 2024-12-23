@@ -1,0 +1,31 @@
+<package>
+  <id>org.mr.dynamicpeninsula-rootless</id>
+  <name>DynamicPeninsula 灵动半岛破解版-Rootless</name>
+  <version>0.6-25</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>mobilesubstrate</package>
+    <package>byg.iosios.net.limneoscrack-rootless</package>
+    <package>firmware(&gt;=12.0)</package>
+  </dependencies>
+  <shortDescription><![CDATA[灵动半岛破解版，让没有灵动岛的旧设备用上灵动岛，全能玩机源已经是最新版破解，不要相信其它源改的高版本号，都是骗小白用户的！全能玩机源已是最新版，安装完成之后注销生效，有问题进群反馈！]]></shortDescription>
+  <descriptionlist>
+    <description><![CDATA[灵动半岛破解版，让没有灵动岛的旧设备用上灵动岛，全能玩机源已经是最新版破解，不要相信其它源改的高版本号，都是骗小白用户的！全能玩机源已是最新版，安装完成之后注销生效，有问题进群反馈！]]></description>
+    <description><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></description>
+  </descriptionlist>
+  <screenshots>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>5fb160ee9c47b2086a3cd15421d005080488e20d.jpg</image>
+    </screenshot>
+  </screenshots>
+  <changelog>
+    <change><![CDATA[更新适配iOS16<br />*** ]]></change>
+    <change><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></change>
+  </changelog>
+  <links></links>
+</package>

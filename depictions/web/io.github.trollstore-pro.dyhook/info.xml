@@ -1,0 +1,37 @@
+<package>
+  <id>io.github.trollstore-pro.dyhook</id>
+  <name>抖音图层-Rootless</name>
+  <version>2.0.8+5</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>mobilesubstrate (&gt;= 0.9.5000)</package>
+  </dependencies>
+  <shortDescription><![CDATA[首页视频界面双指双击弹出设置UI，一款非常不错的插件，本插件的作用是：抖音顶部或侧面的功能，图层隐藏调节透明度！隐藏抖音上一些烦人的按扭，净化抖音！支持无水印下载视频，去除广告，个性标签等等！已经不再支持注入了，仅越狱可用，切记！]]></shortDescription>
+  <descriptionlist>
+    <description><![CDATA[首页视频界面双指双击弹出设置UI，一款非常不错的插件，本插件的作用是：抖音顶部或侧面的功能，图层隐藏调节透明度！隐藏抖音上一些烦人的按扭，净化抖音！支持无水印下载视频，去除广告，个性标签等等！已经不再支持注入了，仅越狱可用，切记！]]></description>
+    <description><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></description>
+  </descriptionlist>
+  <screenshots>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>ceb718323139f4956d552ab190fda8304da5069f.jpg</image>
+    </screenshot>
+  </screenshots>
+  <changelog>
+    <change><![CDATA[可以选择视频背景，修复长按倍速显示问题并新增1.25倍，修复背景视频换图片时还是视频问题<br />*** ]]></change>
+    <change><![CDATA[•新增移除消息界面顶部横向排列大头•2024.12.01<br />*** ]]></change>
+    <change><![CDATA[•新增一项花里胡哨的按钮(最近很火的那个)•新增一个小丑功能(修改自己作品的点赞/播放/浏览/收藏/评论)_Q群小佳•修复一些已知问题•插件免费使用如你是买的，说明你被骗了，同时你也是小丑•2024.12.01<br />*** ]]></change>
+    <change><![CDATA[底部新增显示发布时间，修复时间线问题<br />*** ]]></change>
+    <change><![CDATA[• 新增自定义接口• 修复一些bug 优化一些细节• 修复纯净模式时无法拉动长频进度条• 修复隐藏进度条后还有一条线的问题• 新增底部显示发布时间顶部弹窗显示时状态栏颜色问题修复• 修复键盘颜色问题• 优化评论区保存方案1• 修复首页连播打开评论区时还会自动下一条问题<br />*** ]]></change>
+    <change><![CDATA[修复直播间实际人数问题，修复直播界面异常问题<br />*** ]]></change>
+    <change><![CDATA[新增首页自动连播，修复bug<br />*** ]]></change>
+    <change><![CDATA[新增倍速播放自定义，长按关闭输入我爱嘉嘉可以修改头像旁名字<br />*** ]]></change>
+    <change><![CDATA[新增菜单微透，新增评论区微透<br />*** ]]></change>
+    <change><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></change>
+  </changelog>
+  <links></links>
+</package>

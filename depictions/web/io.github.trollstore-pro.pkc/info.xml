@@ -1,0 +1,33 @@
+<package>
+  <id>io.github.trollstore-pro.pkc</id>
+  <name>PKC微信助手-Rootless</name>
+  <version>0.6-7</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>firmware (&gt;= 5.0)</package>
+  </dependencies>
+  <shortDescription><![CDATA[群管理Pro、显示群友真名字、群管标识、艾特提醒、动态群昵称、自定义API(图、文本、视频)、消息统计、加密对话、Bark消息推送、定时问候、JD自动签到、好友分析、会话分析、每天60s新闻快报、防撤回、退群监控、步数定时修改、朋友圈特别关注、自动更新微信状态、长头像、消息二次确认、拍一拍二次确认、艾特列表置顶群管理、按群员查找列表置顶群管理、[每天60s读懂世界]自动发送信息、文字转语音等功能，非常的不错，认准全能玩机源更新即可！]]></shortDescription>
+  <descriptionlist>
+    <description><![CDATA[群管理Pro、显示群友真名字、群管标识、艾特提醒、动态群昵称、自定义API(图、文本、视频)、消息统计、加密对话、Bark消息推送、定时问候、JD自动签到、好友分析、会话分析、每天60s新闻快报、防撤回、退群监控、步数定时修改、朋友圈特别关注、自动更新微信状态、长头像、消息二次确认、拍一拍二次确认、艾特列表置顶群管理、按群员查找列表置顶群管理、[每天60s读懂世界]自动发送信息、文字转语音等功能，非常的不错，认准全能玩机源更新即可！]]></description>
+    <description><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></description>
+  </descriptionlist>
+  <screenshots>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>2349443e5455a9434e887a35fd0a627d983e0aa1.png</image>
+    </screenshot>
+  </screenshots>
+  <changelog>
+    <change><![CDATA[更新日志见插件内！<br />*** ]]></change>
+    <change><![CDATA[•优化群设置页面，默认折叠PKC功能•[文转语]背景音可长按音频文件直接导入•[文转语]语音转MP3兼容低版本V•[文转语]修复启用自动清理缓存，无法发送二次元音色Bug•[标签Pro]修复54版本标签在通讯录-服务号前错位显示问题<br />*** ]]></change>
+    <change><![CDATA[修复音色问题<br />*** ]]></change>
+    <change><![CDATA[•优化[文转语]•修复琅琅音色转换成功，发送失败问题•背景音开启没设置背景音发送失败问题<br />*** ]]></change>
+    <change><![CDATA[优化[文转语]： 1.默认模式，全改为本地转换，无需搭建服务器中转  2.默认模式，支持自定义音色分类管理，可自行搭建管理后台维护音色 3.默认模式，背景音可本地导入合成  4.新增音色快捷指令，在音色列表左滑-指令，可针对某个音色定义触发命令  5.优化转音Pro按钮，支持已添加到”快捷指令“的音色快捷发送  6.修复已知问题<br />*** ]]></change>
+    <change><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></change>
+  </changelog>
+  <links></links>
+</package>

@@ -1,0 +1,30 @@
+<package>
+  <id>io.github.trollstore-pro.dynamic-notifier</id>
+  <name>Dynamic-Notifier通知上岛-Rootless</name>
+  <version>1.0.5</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>dev.theos.orion (&gt;= 1.0.0)</package>
+    <package>firmware (&gt;= 12.2)</package>
+  </dependencies>
+  <shortDescription><![CDATA[上岛，不必太复杂。仅仅支持iOS16+。由split分屏作者sunshinesong大神研发通知上岛插件，非常的酷炫吊炸天！本人无iOS 16设备无法测试效果，大家自行测试！如果造成安全模式，尝试排查插件冲突，不行就卸载！安全第一，预防为主，综合治理！无效请尝试关闭开关注销，打开开关注销，多试几次，且需要Altlist依赖！]]></shortDescription>
+  <descriptionlist>
+    <description><![CDATA[上岛，不必太复杂。仅仅支持iOS16+。由split分屏作者sunshinesong大神研发通知上岛插件，非常的酷炫吊炸天！本人无iOS 16设备无法测试效果，大家自行测试！如果造成安全模式，尝试排查插件冲突，不行就卸载！安全第一，预防为主，综合治理！无效请尝试关闭开关注销，打开开关注销，多试几次，且需要Altlist依赖！]]></description>
+    <description><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></description>
+  </descriptionlist>
+  <screenshots>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>no-screenshots.jpeg</image>
+    </screenshot>
+  </screenshots>
+  <changelog>
+    <change><![CDATA[修复已知问题！<br />*** ]]></change>
+    <change><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></change>
+  </changelog>
+  <links></links>
+</package>
