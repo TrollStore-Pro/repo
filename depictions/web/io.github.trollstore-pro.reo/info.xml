@@ -1,0 +1,35 @@
+<package>
+  <id>io.github.trollstore-pro.reo</id>
+  <name>Reo播放器美化-Rootless</name>
+  <version>2.6.0</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>mobilesubstrate</package>
+    <package>preferenceloader</package>
+    <package>ws.hbang.common (&gt;= 1.17.0)</package>
+    <package>firmware (&gt;= 14.0)</package>
+  </dependencies>
+  <shortDescription><![CDATA[Classic Music player for LS一款播放器美化插件，效果看截图！暂时未汉化，源主精力有限，可以耐心等待更新！]]></shortDescription>
+  <descriptionlist>
+    <description><![CDATA[Classic Music player for LS一款播放器美化插件，效果看截图！暂时未汉化，源主精力有限，可以耐心等待更新！]]></description>
+    <description><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></description>
+  </descriptionlist>
+  <screenshots>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>66220590f4d7290c0ca30f46</image>
+    </screenshot>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>6611a78c3cdccdeaa09192b6</image>
+    </screenshot>
+  </screenshots>
+  <changelog>
+    <change><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></change>
+  </changelog>
+  <links></links>
+</package>

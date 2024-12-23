@@ -1,0 +1,41 @@
+<package>
+  <id>io.github.trollstore-pro.carbridge15-rootless</id>
+  <name>CarBridge13汽车互联（Carplay）-Rootless</name>
+  <version>2.0.14</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>mobilesubstrate (&gt;= 0.9.5000)</package>
+    <package>firmware (&gt;= 13.0)</package>
+    <package>preferenceloader</package>
+    <package>com.opa334.altlist (&gt;= 1.0.10)</package>
+  </dependencies>
+  <shortDescription><![CDATA[Open any app in CarPlay!此版为破解版，让不支持互联的软件显示在车机上！仅供群友尝鮮，正版9.9美元，好像是有点贵，但是有能力的请支持正版，本源并非是传播盗版！因为是刚破解，还不稳定，使用中有问题可以加群反馈，等待更新，也可直接入手正版哈，全能玩机源，最新最全！旧版本在全能玩机群文件里，新版本有问题的话，请手动降级回旧版本！]]></shortDescription>
+  <descriptionlist>
+    <description><![CDATA[Open any app in CarPlay!此版为破解版，让不支持互联的软件显示在车机上！仅供群友尝鮮，正版9.9美元，好像是有点贵，但是有能力的请支持正版，本源并非是传播盗版！因为是刚破解，还不稳定，使用中有问题可以加群反馈，等待更新，也可直接入手正版哈，全能玩机源，最新最全！旧版本在全能玩机群文件里，新版本有问题的话，请手动降级回旧版本！]]></description>
+    <description><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></description>
+  </descriptionlist>
+  <screenshots>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>6393d53afb3fac29d26b95e2?w=3840&amp;q=75</image>
+    </screenshot>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>6393d56bfb3fac29d26b9885?w=3840&amp;q=75</image>
+    </screenshot>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>6393d551fb3fac29d26b96fd?w=3840&amp;q=75</image>
+    </screenshot>
+  </screenshots>
+  <changelog>
+    <change><![CDATA[修复了在某些iOS 16版本上在桥接应用程序之间切换时出现的崩溃问题；希望解决桥接应用程序在打开时不会占用整个应用程序窗口的问题<br />*** ]]></change>
+    <change><![CDATA[修复iOS 16上的程序崩溃问题，好像还是有问题，旧版本在全能玩机源群文里，可以下载降级！<br />*** ]]></change>
+    <change><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></change>
+  </changelog>
+  <links></links>
+</package>

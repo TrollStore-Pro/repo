@@ -1,0 +1,40 @@
+<package>
+  <id>io.github.trollstore-pro.immortalizer</id>
+  <name>Immortalizer真后台-Rootless</name>
+  <version>2.0.0-1</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>mobilesubstrate (&gt;= 0.9.5000)</package>
+    <package>preferenceloader</package>
+    <package>com.opa334.altlist</package>
+  </dependencies>
+  <shortDescription><![CDATA[Foreground your tweaks even if they are in the background!本插件的作用让您的应用程序无限期地在前台运行，即使它们在后台运行！可以通过 3D Touch 上下文菜单启用/禁用应用程序背景（前景）即使屏幕关闭/设备锁定也能工作！也可以控制中心添加快捷方式，打开你需要保持真后台的软件，然后控制中心点一下模块即可！总结就是有点类似于真后台的插件吧，感觉还不错，有需要的小伙们可以试试，全能玩机源已汉化！]]></shortDescription>
+  <descriptionlist>
+    <description><![CDATA[Foreground your tweaks even if they are in the background!本插件的作用让您的应用程序无限期地在前台运行，即使它们在后台运行！可以通过 3D Touch 上下文菜单启用/禁用应用程序背景（前景）即使屏幕关闭/设备锁定也能工作！也可以控制中心添加快捷方式，打开你需要保持真后台的软件，然后控制中心点一下模块即可！总结就是有点类似于真后台的插件吧，感觉还不错，有需要的小伙们可以试试，全能玩机源已汉化！]]></description>
+    <description><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></description>
+  </descriptionlist>
+  <screenshots>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>T053XD00004FUkhv2A6LXc.jpg</image>
+    </screenshot>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>672ab805a80bcf5e2e0ae4bc</image>
+    </screenshot>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>672ab73aa80bcf5e2e0ac77a</image>
+    </screenshot>
+  </screenshots>
+  <changelog>
+    <change><![CDATA[•修复了与某些拦截通知的插件（例如 Glance）冲突的错误•修复了控制中心模块的禁用按钮无响应的问题•修复了某些应用程序崩溃或卡顿的问题•修复了键盘无法使用的问题•提高了前台优化•优化了弹窗动画<br />*** ]]></change>
+    <change><![CDATA[修复bug<br />*** ]]></change>
+    <change><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></change>
+  </changelog>
+  <links></links>
+</package>

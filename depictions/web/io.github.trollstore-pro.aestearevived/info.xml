@@ -1,0 +1,31 @@
+<package>
+  <id>io.github.trollstore-pro.aestearevived</id>
+  <name>Aestea Revived控制中心美化-Rootless</name>
+  <version>0.9.2</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>mobilesubstrate</package>
+    <package>preferenceloader</package>
+    <package>firmware (&gt;= 13)</package>
+    <package>com.mrgcgamer.libgcuniversal</package>
+  </dependencies>
+  <shortDescription><![CDATA[该插件的功能是美化一下控制中心插件的里面的图标,例如下图的更改 bigsurcenter的 WiFi等的颜色。（本插件由国人lans233汉化并分享，非常感谢！）全能玩机源，永久免费，只为越狱分享！]]></shortDescription>
+  <descriptionlist>
+    <description><![CDATA[该插件的功能是美化一下控制中心插件的里面的图标,例如下图的更改 bigsurcenter的 WiFi等的颜色。（本插件由国人lans233汉化并分享，非常感谢！）全能玩机源，永久免费，只为越狱分享！]]></description>
+    <description><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></description>
+  </descriptionlist>
+  <screenshots>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>ef3eaa2bde29f2b1de0eb4b2cdb976e1ff0868cd.jpg</image>
+    </screenshot>
+  </screenshots>
+  <changelog>
+    <change><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></change>
+  </changelog>
+  <links></links>
+</package>
