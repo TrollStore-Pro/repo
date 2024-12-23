@@ -1,0 +1,37 @@
+<package>
+  <id>io.github.trollstore-pro.appdata-rootless</id>
+  <name>AppData降级APP-Rootless</name>
+  <version>1.4.4</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>firmware (&gt;= 15.0)</package>
+    <package>mobilesubstrate</package>
+    <package>preferenceloader</package>
+  </dependencies>
+  <shortDescription><![CDATA[本插件功能非常的强大，可以降级APP版本，这是最nice的功能，还可以查看软件所占内存的大小，可以清除APP缓存，修改软件名称，修改角标数量，可以重置APP到刚下载时候的设置！可以查看软件的bundleID，可以直接跳转到软件的缓存及安装路径，可谓越狱必装插件，效果看截图介绍！安装之后去设置里开启插件唤醒的方式，然后注销即可，可以选择长按或者上滑软件，任君选择，全能玩机源，永久免费！本插件由Netskao大神修复更新！感谢Netskao！]]></shortDescription>
+  <descriptionlist>
+    <description><![CDATA[本插件功能非常的强大，可以降级APP版本，这是最nice的功能，还可以查看软件所占内存的大小，可以清除APP缓存，修改软件名称，修改角标数量，可以重置APP到刚下载时候的设置！可以查看软件的bundleID，可以直接跳转到软件的缓存及安装路径，可谓越狱必装插件，效果看截图介绍！安装之后去设置里开启插件唤醒的方式，然后注销即可，可以选择长按或者上滑软件，任君选择，全能玩机源，永久免费！本插件由Netskao大神修复更新！感谢Netskao！]]></description>
+    <description><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></description>
+  </descriptionlist>
+  <screenshots>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>f0cc5aca8f28bca5322209b555d845a2c8935538.jpg</image>
+    </screenshot>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>671e7888b1737dcb0bd06b2c6c2597b2ff8b9d0a.png</image>
+    </screenshot>
+  </screenshots>
+  <changelog>
+    <change><![CDATA[允许巨魔安装的应用可以重置数据和权限<br />*** ]]></change>
+    <change><![CDATA[优化显示数据大小的加载速度！<br />*** ]]></change>
+    <change><![CDATA[修复降级APP失效问题！<br />*** ]]></change>
+    <change><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></change>
+  </changelog>
+  <links></links>
+</package>

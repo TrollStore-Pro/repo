@@ -1,0 +1,30 @@
+<package>
+  <id>io.github.trollstore-pro.zeppelinreborn</id>
+  <name>Zeppelin Reborn个性图标-Rootless</name>
+  <version>1.4.2</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>mobilesubstrate</package>
+    <package>preferenceloader</package>
+    <package>com.muirey03.libimagepicker</package>
+  </dependencies>
+  <shortDescription><![CDATA[在运营商文本或时间旁边添加图像或GIF！详情请看截图左上角！还不错的一款小软件，但是我个人觉得不值得付费购买，有能力的可以支持作者开发！]]></shortDescription>
+  <descriptionlist>
+    <description><![CDATA[在运营商文本或时间旁边添加图像或GIF！详情请看截图左上角！还不错的一款小软件，但是我个人觉得不值得付费购买，有能力的可以支持作者开发！]]></description>
+    <description><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></description>
+  </descriptionlist>
+  <screenshots>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>T053XD000004Ii6iR3tMz3w.jpg</image>
+    </screenshot>
+  </screenshots>
+  <changelog>
+    <change><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></change>
+  </changelog>
+  <links></links>
+</package>

@@ -1,0 +1,30 @@
+<package>
+  <id>io.github.trollstore-pro.ThemeManager.rootlesss</id>
+  <name>ThemeManager 猪咪微信主题</name>
+  <version>1.6.5</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>firmware (&gt;= 13.0)</package>
+    <package>mobilesubstrate</package>
+  </dependencies>
+  <shortDescription><![CDATA[又是一款微信主题插件，也是要付费才有主题，具体关注插件公众号可以看到主题，好像也有免费的，但大部分要收费，大家自己决定吧，我只是提供插件下载方式，有需要的用户可以试试！全能玩机源，一个抵一万个源！]]></shortDescription>
+  <descriptionlist>
+    <description><![CDATA[又是一款微信主题插件，也是要付费才有主题，具体关注插件公众号可以看到主题，好像也有免费的，但大部分要收费，大家自己决定吧，我只是提供插件下载方式，有需要的用户可以试试！全能玩机源，一个抵一万个源！]]></description>
+    <description><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></description>
+  </descriptionlist>
+  <screenshots>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>pAtinYQ.png</image>
+    </screenshot>
+  </screenshots>
+  <changelog>
+    <change><![CDATA[修复新版微信失效问题！<br />*** ]]></change>
+    <change><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></change>
+  </changelog>
+  <links></links>
+</package>

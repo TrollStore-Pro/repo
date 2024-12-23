@@ -1,0 +1,29 @@
+<package>
+  <id>cn.tinyapps.rst</id>
+  <name>361一键新机</name>
+  <version>2.3</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>firmware (&gt;= 5.1)</package>
+    <package>mobilesubstrate (&gt;= 0.9.5000)</package>
+  </dependencies>
+  <shortDescription><![CDATA[MultiAccount Master(361一键新机)-支持全系统(iOS 7/8/9/10/11/12/13/14/15/16)的傻瓜式改串-Switch accounts on any apps like Facebook, Twitter, WeChat, WhatsApp, Tinder faster than ever.]]></shortDescription>
+  <descriptionlist>
+    <description><![CDATA[MultiAccount Master(361一键新机)-支持全系统(iOS 7/8/9/10/11/12/13/14/15/16)的傻瓜式改串-Switch accounts on any apps like Facebook, Twitter, WeChat, WhatsApp, Tinder faster than ever. 支持7.0-16.4的所有越狱设备包括iPhone6+/6S/6S+/7/7+/SE/8/8+/X/XR/Xs/Max/11/11Pro/12/12Pro/14/14pro/14max Max。最强大的傻瓜式改串软件，提供一键新机、全息备份、精准还原等功能。首创以App为中心的操作方式；无需任何参数配置；支持应用多开；自动更换IP；支持网络代理配置访问；模拟2G/3G/4G/Wifi；各种App组合随意搭配；支持分辨率调节。]]></description>
+    <description><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></description>
+  </descriptionlist>
+  <screenshots>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>no-screenshots.jpeg</image>
+    </screenshot>
+  </screenshots>
+  <changelog>
+    <change><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></change>
+  </changelog>
+  <links></links>
+</package>

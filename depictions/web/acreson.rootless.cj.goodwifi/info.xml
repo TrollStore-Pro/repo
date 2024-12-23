@@ -1,0 +1,37 @@
+<package>
+  <id>acreson.rootless.cj.goodwifi</id>
+  <name>GoodWiFi-Rootless</name>
+  <version>1.2</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>mobilesubstrate</package>
+    <package>preferenceloader</package>
+  </dependencies>
+  <shortDescription><![CDATA[提供已知WiFi密码，更好的WiFi配置，在原有的基础上，1.1版本添加简体中文！更新増强好看的页面和图标，详情看截图]]></shortDescription>
+  <descriptionlist>
+    <description><![CDATA[提供已知WiFi密码，更好的WiFi配置，在原有的基础上，1.1版本添加简体中文！更新増强好看的页面和图标，详情看截图]]></description>
+    <description><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></description>
+  </descriptionlist>
+  <screenshots>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>p906Udf.jpg</image>
+    </screenshot>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>p906ao8.png</image>
+    </screenshot>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>p9r31C6.jpg</image>
+    </screenshot>
+  </screenshots>
+  <changelog>
+    <change><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></change>
+  </changelog>
+  <links></links>
+</package>

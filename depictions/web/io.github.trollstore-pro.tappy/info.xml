@@ -1,0 +1,30 @@
+<package>
+  <id>io.github.trollstore-pro.tappy</id>
+  <name>Tappy日历显示-Rootless</name>
+  <version>1.0</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies></dependencies>
+  <shortDescription><![CDATA[Tap the time systemwide to reveal the date! Tappy is a convenient tweak that allows you to view the date with a simple tap on the time in the status bar.这是一款让你点击状态栏上的时间就能显示日历的小插件，适合不用电话助手或者nicebar插件的用户，如果你使用了这两款插件，可能会导致不生效！插件非常的不错，全能玩机源已汉化分享，那些无脑喷全能玩机源的人不知道是什么心理，不喜欢就别用，sileo还舍不得删，别让萌萌瞧不起你！]]></shortDescription>
+  <descriptionlist>
+    <description><![CDATA[Tap the time systemwide to reveal the date! Tappy is a convenient tweak that allows you to view the date with a simple tap on the time in the status bar.这是一款让你点击状态栏上的时间就能显示日历的小插件，适合不用电话助手或者nicebar插件的用户，如果你使用了这两款插件，可能会导致不生效！插件非常的不错，全能玩机源已汉化分享，那些无脑喷全能玩机源的人不知道是什么心理，不喜欢就别用，sileo还舍不得删，别让萌萌瞧不起你！]]></description>
+    <description><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></description>
+  </descriptionlist>
+  <screenshots>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>268728644fce27a20cb028dfff7a188a97a9b986.jpg</image>
+    </screenshot>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>2.jpeg?version=2</image>
+    </screenshot>
+  </screenshots>
+  <changelog>
+    <change><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></change>
+  </changelog>
+  <links></links>
+</package>

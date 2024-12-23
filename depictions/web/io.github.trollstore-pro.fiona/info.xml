@@ -1,0 +1,32 @@
+<package>
+  <id>io.github.trollstore-pro.fiona</id>
+  <name>Fiona底栏调整-Rootless</name>
+  <version>1.0.6</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>mobilesubstrate (&gt;= 0.9.5000)</package>
+    <package>com.opa334.altlist</package>
+    <package>firmware(&gt;= 14.0)</package>
+    <package>com.mrgcgamer.libgcuniversal</package>
+  </dependencies>
+  <shortDescription><![CDATA[Floating Tab bar for iOS devices.调整软件底部底栏的高度、宽度以及清晰度等等，让你的APP底栏悬浮起来，非常的有意思！有需要的下载，全能玩机源已汉化！]]></shortDescription>
+  <descriptionlist>
+    <description><![CDATA[Floating Tab bar for iOS devices.调整软件底部底栏的高度、宽度以及清晰度等等，让你的APP底栏悬浮起来，非常的有意思！有需要的下载，全能玩机源已汉化！]]></description>
+    <description><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></description>
+  </descriptionlist>
+  <screenshots>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>fb6aadcca8cea297510656cc39da6663056f31b7.png</image>
+    </screenshot>
+  </screenshots>
+  <changelog>
+    <change><![CDATA[•添加对微信的支持•为Deezer选项卡栏按钮添加颜色支持•修复了音乐、播客和推特中无法正确显示的边框笔划•修复Reddit中的一些视觉问题•修复关闭应用程序并重新打开后高亮显示的按钮的重新定位问题<br />*** ]]></change>
+    <change><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></change>
+  </changelog>
+  <links></links>
+</package>

@@ -1,0 +1,31 @@
+<package>
+  <id>io.github.trollstore-pro.classickeyboardxs-rootless</id>
+  <name>键盘高度调整-Rootless</name>
+  <version>1.1-8</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>firmware (&gt;= 15.0)</package>
+    <package>mobilesubstrate</package>
+    <package>preferenceloader</package>
+  </dependencies>
+  <shortDescription><![CDATA[自定义X键盘底部高度，地球底部高度等，非常不错的一个插件，键盘低了，用起来很舒服，全能玩机源，永久免费，大家多多推荐！]]></shortDescription>
+  <descriptionlist>
+    <description><![CDATA[自定义X键盘底部高度，地球底部高度等，非常不错的一个插件，键盘低了，用起来很舒服，全能玩机源，永久免费，大家多多推荐！]]></description>
+    <description><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></description>
+  </descriptionlist>
+  <screenshots>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>no-screenshots.jpeg</image>
+    </screenshot>
+  </screenshots>
+  <changelog>
+    <change><![CDATA[更新支持iOS16！<br />*** ]]></change>
+    <change><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></change>
+  </changelog>
+  <links></links>
+</package>

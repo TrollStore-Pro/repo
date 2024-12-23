@@ -1,0 +1,32 @@
+<package>
+  <id>io.github.trollstore-pro.folderx.rootless</id>
+  <name>FolderX文件夹神器-Rootless</name>
+  <version>2.0</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>mobilesubstrate</package>
+    <package>preferenceloader</package>
+    <package>firmware(&gt;=15.0)</package>
+    <package>com.ichitaso.iconorder</package>
+  </dependencies>
+  <shortDescription><![CDATA[Allows you to configure folders自定义文件夹，很不错。可以让文件夹透明，隐藏名称，修改圆角半径等功能，非常的不错！]]></shortDescription>
+  <descriptionlist>
+    <description><![CDATA[Allows you to configure folders自定义文件夹，很不错。可以让文件夹透明，隐藏名称，修改圆角半径等功能，非常的不错！]]></description>
+    <description><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></description>
+  </descriptionlist>
+  <screenshots>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>c84872bfd13c87065dae9d648ba1af3fc051ba07.png</image>
+    </screenshot>
+  </screenshots>
+  <changelog>
+    <change><![CDATA[更新适配iOS16<br />*** ]]></change>
+    <change><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></change>
+  </changelog>
+  <links></links>
+</package>

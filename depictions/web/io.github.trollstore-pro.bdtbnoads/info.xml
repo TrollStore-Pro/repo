@@ -1,0 +1,29 @@
+<package>
+  <id>io.github.trollstore-pro.bdtbnoads</id>
+  <name>百度贴吧 去广告-Rootless</name>
+  <version>1.2-8</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>firmware (&gt;= 9.0)</package>
+    <package>mobilesubstrate</package>
+  </dependencies>
+  <shortDescription><![CDATA[百度贴吧去除启动广告，去除贴中广告，去除吧内信息流中直播，去除吧内相关推荐，去除进入某些吧随机弹出的广告窗口，去除右下角随机出现的悬浮窗，去除吧内签到后弹出的推荐窗口，去除首页信息流中视频(不影响视频版块视频)，去除首页顶部的直播选项和高考选项，去除图片翻页到末尾时弹出广告，增加贴内详情视频长按保存到相册，增加底部视频板块双击保存到相册]]></shortDescription>
+  <descriptionlist>
+    <description><![CDATA[百度贴吧去除启动广告，去除贴中广告，去除吧内信息流中直播，去除吧内相关推荐，去除进入某些吧随机弹出的广告窗口，去除右下角随机出现的悬浮窗，去除吧内签到后弹出的推荐窗口，去除首页信息流中视频(不影响视频版块视频)，去除首页顶部的直播选项和高考选项，去除图片翻页到末尾时弹出广告，增加贴内详情视频长按保存到相册，增加底部视频板块双击保存到相册]]></description>
+    <description><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></description>
+  </descriptionlist>
+  <screenshots>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>no-screenshots.jpeg</image>
+    </screenshot>
+  </screenshots>
+  <changelog>
+    <change><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></change>
+  </changelog>
+  <links></links>
+</package>

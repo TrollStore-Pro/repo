@@ -1,0 +1,30 @@
+<package>
+  <id>io.github.trollstore-pro.milkyway4.rootless</id>
+  <name>MilkyWay4分屏-Rootless</name>
+  <version>0.1.1</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>mobilesubstrate</package>
+    <package>com.opa334.altlist</package>
+    <package>preferenceloader</package>
+  </dependencies>
+  <shortDescription><![CDATA[MilkyWay4 是一老牌的分屏插件，长按APP图标分屏！在本源安装每次注销会提示去作者源安装，所以才一直没上架，无视的可忽略，也可以去作者源下载安装！基本上没区别！相信全能玩机源的用户不用解释，无脑黑子只会黑，一年多了，全能玩机源一直在免费，后面仍然会永久免费！]]></shortDescription>
+  <descriptionlist>
+    <description><![CDATA[MilkyWay4 是一老牌的分屏插件，长按APP图标分屏！在本源安装每次注销会提示去作者源安装，所以才一直没上架，无视的可忽略，也可以去作者源下载安装！基本上没区别！相信全能玩机源的用户不用解释，无脑黑子只会黑，一年多了，全能玩机源一直在免费，后面仍然会永久免费！]]></description>
+    <description><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></description>
+  </descriptionlist>
+  <screenshots>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>75bad451175f865b509189524a87ff50961fbaba.png</image>
+    </screenshot>
+  </screenshots>
+  <changelog>
+    <change><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></change>
+  </changelog>
+  <links></links>
+</package>

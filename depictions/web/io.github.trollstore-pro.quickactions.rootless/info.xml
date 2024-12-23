@@ -1,0 +1,29 @@
+<package>
+  <id>io.github.trollstore-pro.quickactions.rootless</id>
+  <name>QuickActions快捷方式-Rootless</name>
+  <version>1.0.0-2</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>mobilesubstrate (&gt;= 0.9.5000)</package>
+    <package>preferenceloader</package>
+  </dependencies>
+  <shortDescription><![CDATA[QuickActions一款快捷操作的插件，内容不多，但是精悍！它允许你选择你希望将每个快捷方式专用于哪些内容。无论你只想访问每个按钮一个应用程序还是多个应用程序，选择完全取决于你。]]></shortDescription>
+  <descriptionlist>
+    <description><![CDATA[QuickActions一款快捷操作的插件，内容不多，但是精悍！它允许你选择你希望将每个快捷方式专用于哪些内容。无论你只想访问每个按钮一个应用程序还是多个应用程序，选择完全取决于你。]]></description>
+    <description><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></description>
+  </descriptionlist>
+  <screenshots>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>piVTkXq.jpg</image>
+    </screenshot>
+  </screenshots>
+  <changelog>
+    <change><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></change>
+  </changelog>
+  <links></links>
+</package>
