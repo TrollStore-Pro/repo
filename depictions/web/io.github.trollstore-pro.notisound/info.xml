@@ -1,0 +1,32 @@
+<package>
+  <id>io.github.trollstore-pro.notisound</id>
+  <name>NotiSound声音自定义-Rootless</name>
+  <version>2.4</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>com.spark.libsparkapplist</package>
+  </dependencies>
+  <shortDescription><![CDATA[自定义每个APP的消息通知音，未汉化，请参考截图使用！全能玩机源，最新最全！！]]></shortDescription>
+  <descriptionlist>
+    <description><![CDATA[自定义每个APP的消息通知音，未汉化，请参考截图使用！全能玩机源，最新最全！！]]></description>
+    <description><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></description>
+  </descriptionlist>
+  <screenshots>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>pCO3shR.png</image>
+    </screenshot>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>pCO3c1x.png</image>
+    </screenshot>
+  </screenshots>
+  <changelog>
+    <change><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></change>
+  </changelog>
+  <links></links>
+</package>

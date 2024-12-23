@@ -1,0 +1,30 @@
+<package>
+  <id>io.github.trollstore-pro.rootless.bhtwitter</id>
+  <name>BHTwitter推特优化-Rootless</name>
+  <version>4.3-5</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>mobilesubstrate</package>
+    <package>ws.hbang.common</package>
+  </dependencies>
+  <shortDescription><![CDATA[Awesome tweak for Twitter去广告，视频下载，自定义设置，插件设置位于推特设置顶部！一款综合性能比较强的插件，有需要的小伙伴可以下载试试！]]></shortDescription>
+  <descriptionlist>
+    <description><![CDATA[Awesome tweak for Twitter去广告，视频下载，自定义设置，插件设置位于推特设置顶部！一款综合性能比较强的插件，有需要的小伙伴可以下载试试！]]></description>
+    <description><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></description>
+  </descriptionlist>
+  <screenshots>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>no-screenshots.jpeg</image>
+    </screenshot>
+  </screenshots>
+  <changelog>
+    <change><![CDATA[适配iOS 16<br />*** ]]></change>
+    <change><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></change>
+  </changelog>
+  <links></links>
+</package>

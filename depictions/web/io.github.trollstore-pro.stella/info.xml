@@ -1,0 +1,35 @@
+<package>
+  <id>io.github.trollstore-pro.stella</id>
+  <name>Stella下雪特效-Rootless</name>
+  <version>1.0.4.1</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>mobilesubstrate (&gt;= 0.9.5000)</package>
+    <package>com.mrgcgamer.libgcuniversal</package>
+    <package>firmware (&gt;= 13.0)</package>
+    <package>ws.hbang.common (&gt;= 1.2)</package>
+  </dependencies>
+  <shortDescription><![CDATA[Let it snow on your device每天一个耗电小技巧，桌面及锁屏増加落雪特效，而且可以自己自定义图标！看效果图！非常的不错，狂拽酷炸帅！全能玩机源，最新最全！！]]></shortDescription>
+  <descriptionlist>
+    <description><![CDATA[Let it snow on your device每天一个耗电小技巧，桌面及锁屏増加落雪特效，而且可以自己自定义图标！看效果图！非常的不错，狂拽酷炸帅！全能玩机源，最新最全！！]]></description>
+    <description><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></description>
+  </descriptionlist>
+  <screenshots>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>p9j3HJS.jpg</image>
+    </screenshot>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>p9j3OMj.jpg</image>
+    </screenshot>
+  </screenshots>
+  <changelog>
+    <change><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></change>
+  </changelog>
+  <links></links>
+</package>

@@ -1,0 +1,33 @@
+<package>
+  <id>io.github.trollstore-pro.akara</id>
+  <name>Akara控制中心美化-Rootless</name>
+  <version>2.0.0k</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>mobilesubstrate</package>
+    <package>preferenceloader</package>
+    <package>com.opa334.ccsupport</package>
+    <package>com.muirey03.libimagepicker</package>
+    <package>firmware (&gt;=15.0)</package>
+  </dependencies>
+  <shortDescription><![CDATA[Minimal design without compromise一款控制中心美化插件，原价2.49美元，现全能玩机源免费使用，源主已连夜汉化完成，尽情享受吧！]]></shortDescription>
+  <descriptionlist>
+    <description><![CDATA[Minimal design without compromise一款控制中心美化插件，原价2.49美元，现全能玩机源免费使用，源主已连夜汉化完成，尽情享受吧！]]></description>
+    <description><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></description>
+  </descriptionlist>
+  <screenshots>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>akara.jpg</image>
+    </screenshot>
+  </screenshots>
+  <changelog>
+    <change><![CDATA[初代版本！<br />*** ]]></change>
+    <change><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></change>
+  </changelog>
+  <links></links>
+</package>

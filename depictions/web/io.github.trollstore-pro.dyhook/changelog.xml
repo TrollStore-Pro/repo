@@ -1,0 +1,51 @@
+<changelog>
+  <changes>
+    <version></version>
+    <change><![CDATA[可以选择视频背景，修复长按倍速显示问题并新增1.25倍，修复背景视频换图片时还是视频问题]]></change>
+    <change><![CDATA[*** ]]></change>
+  </changes>
+  <changes>
+    <version></version>
+    <change><![CDATA[•新增移除消息界面顶部横向排列大头•2024.12.01]]></change>
+    <change><![CDATA[*** ]]></change>
+  </changes>
+  <changes>
+    <version></version>
+    <change><![CDATA[•新增一项花里胡哨的按钮(最近很火的那个)•新增一个小丑功能(修改自己作品的点赞/播放/浏览/收藏/评论)_Q群小佳•修复一些已知问题•插件免费使用如你是买的，说明你被骗了，同时你也是小丑•2024.12.01]]></change>
+    <change><![CDATA[*** ]]></change>
+  </changes>
+  <changes>
+    <version></version>
+    <change><![CDATA[底部新增显示发布时间，修复时间线问题]]></change>
+    <change><![CDATA[*** ]]></change>
+  </changes>
+  <changes>
+    <version></version>
+    <change><![CDATA[• 新增自定义接口• 修复一些bug 优化一些细节• 修复纯净模式时无法拉动长频进度条• 修复隐藏进度条后还有一条线的问题• 新增底部显示发布时间顶部弹窗显示时状态栏颜色问题修复• 修复键盘颜色问题• 优化评论区保存方案1• 修复首页连播打开评论区时还会自动下一条问题]]></change>
+    <change><![CDATA[*** ]]></change>
+  </changes>
+  <changes>
+    <version></version>
+    <change><![CDATA[修复直播间实际人数问题，修复直播界面异常问题]]></change>
+    <change><![CDATA[*** ]]></change>
+  </changes>
+  <changes>
+    <version></version>
+    <change><![CDATA[新增首页自动连播，修复bug]]></change>
+    <change><![CDATA[*** ]]></change>
+  </changes>
+  <changes>
+    <version></version>
+    <change><![CDATA[新增倍速播放自定义，长按关闭输入我爱嘉嘉可以修改头像旁名字]]></change>
+    <change><![CDATA[*** ]]></change>
+  </changes>
+  <changes>
+    <version></version>
+    <change><![CDATA[新增菜单微透，新增评论区微透]]></change>
+    <change><![CDATA[*** ]]></change>
+  </changes>
+  <changes>
+    <version></version>
+    <change><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></change>
+  </changes>
+</changelog>

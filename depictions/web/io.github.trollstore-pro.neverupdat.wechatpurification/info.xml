@@ -1,0 +1,33 @@
+<package>
+  <id>io.github.trollstore-pro.neverupdat.wechatpurification</id>
+  <name>微信净化不消失版-Rootless</name>
+  <version>2.2-3</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>firmware (&gt;= 12.0)</package>
+    <package>mobilesubstrate (&gt;= 0.9.5000)</package>
+  </dependencies>
+  <shortDescription><![CDATA[微信净化无时间限制版本，不会隔段时间就更新，不会消失，适合低端选手养老！有需要的用户建议搭配微信8.0.26以下版本使用。但是缺少部分功能：无视频转语音、无气泡字体快捷修改，无小信号，但是基本上功能够用，无以上功能需求的用户可以使用，可能会有少许bug，低版本就是这样，望理解！感谢威锋论坛锋友许章驰提供分享！]]></shortDescription>
+  <descriptionlist>
+    <description><![CDATA[微信净化无时间限制版本，不会隔段时间就更新，不会消失，适合低端选手养老！有需要的用户建议搭配微信8.0.26以下版本使用。但是缺少部分功能：无视频转语音、无气泡字体快捷修改，无小信号，但是基本上功能够用，无以上功能需求的用户可以使用，可能会有少许bug，低版本就是这样，望理解！感谢威锋论坛锋友许章驰提供分享！]]></description>
+    <description><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></description>
+  </descriptionlist>
+  <screenshots>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>p91z28O.jpg</image>
+    </screenshot>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>p91zR2D.jpg</image>
+    </screenshot>
+  </screenshots>
+  <changelog>
+    <change><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></change>
+  </changelog>
+  <links></links>
+</package>

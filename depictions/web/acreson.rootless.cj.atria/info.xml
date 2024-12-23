@@ -1,0 +1,39 @@
+<package>
+  <id>acreson.rootless.cj.atria</id>
+  <name>Atria桌面自定义布局-Rootless</name>
+  <version>2.2.1</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>firmware (&gt;= 13.0)</package>
+    <package>mobilesubstrate</package>
+    <package>preferenceloader</package>
+    <package>ws.hbang.alderis (&gt;= 1.1)</package>
+  </dependencies>
+  <shortDescription><![CDATA[本插件2.2版本是由国人汉化修复的，更适合国人宝宝体质，全能玩机源里还有个1.4.1版本是原作者修复更新的，大家自行选择！本插件可以自定义桌面图标布局，5×5、4×4都可以，还可以缩小图标大小，美化桌面，非常的nice！喜欢的小伙伴们可不能错过啦！三击桌面也可以进入设置项，全能玩机源，一个抵一万个，缷载那些有毒源，越狱更稳定！祝小伙伴们玩的开心！]]></shortDescription>
+  <descriptionlist>
+    <description><![CDATA[本插件2.2版本是由国人汉化修复的，更适合国人宝宝体质，全能玩机源里还有个1.4.1版本是原作者修复更新的，大家自行选择！本插件可以自定义桌面图标布局，5×5、4×4都可以，还可以缩小图标大小，美化桌面，非常的nice！喜欢的小伙伴们可不能错过啦！三击桌面也可以进入设置项，全能玩机源，一个抵一万个，缷载那些有毒源，越狱更稳定！祝小伙伴们玩的开心！]]></description>
+    <description><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></description>
+  </descriptionlist>
+  <screenshots>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>p9lyZ5D.jpg</image>
+    </screenshot>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>p9lyVUO.jpg</image>
+    </screenshot>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>p9lyEVK.jpg</image>
+    </screenshot>
+  </screenshots>
+  <changelog>
+    <change><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></change>
+  </changelog>
+  <links></links>
+</package>

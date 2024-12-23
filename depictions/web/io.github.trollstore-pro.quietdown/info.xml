@@ -1,0 +1,29 @@
+<package>
+  <id>io.github.trollstore-pro.quietdown</id>
+  <name>QuietDown选择静音时间-Rootless</name>
+  <version>1.1.2</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>mobilesubstrate</package>
+    <package>firmware (&gt;= 11.0)</package>
+  </dependencies>
+  <shortDescription><![CDATA[Mute Notifications for Time PeriodsQuietDown 可让用户选择在一定时间内将应用程序静音。该菜单可通过向上轻扫图标或通过 3d touch 快捷键激活。静音通知的类型也可以更改，可以选择横幅、封面页（LS/NC）或两者兼而有之。]]></shortDescription>
+  <descriptionlist>
+    <description><![CDATA[Mute Notifications for Time PeriodsQuietDown 可让用户选择在一定时间内将应用程序静音。该菜单可通过向上轻扫图标或通过 3d touch 快捷键激活。静音通知的类型也可以更改，可以选择横幅、封面页（LS/NC）或两者兼而有之。]]></description>
+    <description><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></description>
+  </descriptionlist>
+  <screenshots>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>24030b8f53e66150dedb703cb8752e32f5e68523.png</image>
+    </screenshot>
+  </screenshots>
+  <changelog>
+    <change><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></change>
+  </changelog>
+  <links></links>
+</package>
