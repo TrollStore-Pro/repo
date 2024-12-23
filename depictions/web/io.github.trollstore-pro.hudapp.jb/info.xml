@@ -1,0 +1,29 @@
+<package>
+  <id>io.github.trollstore-pro.hudapp.jb</id>
+  <name>TrollSpeed网速显示-Rootless</name>
+  <version>1.12.0</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>firmware (&gt;= 14.0)</package>
+  </dependencies>
+  <shortDescription><![CDATA[Troll your speed, but jailbroken.一款网速显示插件，功能不是很多，但是够用！由国内大神开发，非常的不错，没有购买电话助手或者nicebar插件的小伙们可以用这个啦！]]></shortDescription>
+  <descriptionlist>
+    <description><![CDATA[Troll your speed, but jailbroken.一款网速显示插件，功能不是很多，但是够用！由国内大神开发，非常的不错，没有购买电话助手或者nicebar插件的小伙们可以用这个啦！]]></description>
+    <description><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></description>
+  </descriptionlist>
+  <screenshots>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>661955f131ed1a63f2e05cb3</image>
+    </screenshot>
+  </screenshots>
+  <changelog>
+    <change><![CDATA[最后一次更新，修复一个小错误！<br />*** ]]></change>
+    <change><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></change>
+  </changelog>
+  <links></links>
+</package>

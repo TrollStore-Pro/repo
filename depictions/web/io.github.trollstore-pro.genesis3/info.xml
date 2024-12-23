@@ -1,0 +1,30 @@
+<package>
+  <id>io.github.trollstore-pro.genesis3</id>
+  <name>Genesis 3-Rootless</name>
+  <version>1.5</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>firmware (&gt;= 15.0)</package>
+    <package>preferenceloader</package>
+    <package>com.itznebbs.phoenix (&gt;= 1.0.4)</package>
+  </dependencies>
+  <shortDescription><![CDATA[主界面，状态栏，系统设置，控制中心，图标等多功能隐藏和美化，巨魔商店-M哥汉化，感谢M哥！无法安装请卸载再安装，因为此插件需要依赖，我如果改了标识符就无法调取，不改又被骂劫持，无奈，正在寻求解决方法]]></shortDescription>
+  <descriptionlist>
+    <description><![CDATA[主界面，状态栏，系统设置，控制中心，图标等多功能隐藏和美化，巨魔商店-M哥汉化，感谢M哥！无法安装请卸载再安装，因为此插件需要依赖，我如果改了标识符就无法调取，不改又被骂劫持，无奈，正在寻求解决方法]]></description>
+    <description><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></description>
+  </descriptionlist>
+  <screenshots>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>63d8b262428cf82d019424a6?w=1920&amp;q=75</image>
+    </screenshot>
+  </screenshots>
+  <changelog>
+    <change><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></change>
+  </changelog>
+  <links></links>
+</package>

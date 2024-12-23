@@ -1,0 +1,29 @@
+<package>
+  <id>io.github.trollstore-pro.upsidedowned.roothide</id>
+  <name>Upsidedowned颠倒显示-RootHide</name>
+  <version>1.1-6+debug</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>mobilesubstrate (&gt;= 0.9.5000)</package>
+    <package>firmware (&gt;= 15.0)</package>
+  </dependencies>
+  <shortDescription><![CDATA[半越狱用这个！转载自艾锋降级。本插件可以实现颠倒显示，也就是说，方向锁定关闭后，设备颠倒过来，内容也会颠倒显示，实现一种无刘海感觉。在锁屏的状态下，也能颠倒显示，这次真正实现顶部无刘海无灵动岛显示，但会显示底部，不过！可以通过一些插件实现透明或者隐藏。使用 upsidedowned 方法：安装 upsidedowned 插件后，它自动生效，打开控制中心，关闭方向锁定，然后打开某App，将设备倒过来显示，即可看到效果。不过！针对一些视频翻转，还是有些BUG的，想解决这个问题，不要点“全屏观看”等字眼，直接翻转横屏就行。]]></shortDescription>
+  <descriptionlist>
+    <description><![CDATA[半越狱用这个！转载自艾锋降级。本插件可以实现颠倒显示，也就是说，方向锁定关闭后，设备颠倒过来，内容也会颠倒显示，实现一种无刘海感觉。在锁屏的状态下，也能颠倒显示，这次真正实现顶部无刘海无灵动岛显示，但会显示底部，不过！可以通过一些插件实现透明或者隐藏。使用 upsidedowned 方法：安装 upsidedowned 插件后，它自动生效，打开控制中心，关闭方向锁定，然后打开某App，将设备倒过来显示，即可看到效果。不过！针对一些视频翻转，还是有些BUG的，想解决这个问题，不要点“全屏观看”等字眼，直接翻转横屏就行。]]></description>
+    <description><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></description>
+  </descriptionlist>
+  <screenshots>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>no-screenshots.jpeg</image>
+    </screenshot>
+  </screenshots>
+  <changelog>
+    <change><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></change>
+  </changelog>
+  <links></links>
+</package>

@@ -1,0 +1,36 @@
+<package>
+  <id>io.github.trollstore-pro.cylinder</id>
+  <name>Cylinder图标特效-Rootless</name>
+  <version>1.1.1</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>firmware (&gt;= 15.0)</package>
+  </dependencies>
+  <shortDescription><![CDATA[Make your icons dance为桌面图标翻转提供特效。具体效果请查看插件截图介绍，全能玩机源里有中文汉化包，有需要的可以下载安装！]]></shortDescription>
+  <descriptionlist>
+    <description><![CDATA[Make your icons dance为桌面图标翻转提供特效。具体效果请查看插件截图介绍，全能玩机源里有中文汉化包，有需要的可以下载安装！]]></description>
+    <description><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></description>
+  </descriptionlist>
+  <screenshots>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>64531d3d8911a.jpg</image>
+    </screenshot>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>cylinder-reborn-2-thumb.jpg</image>
+    </screenshot>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>cylinder-reborn-3-thumb.jpg</image>
+    </screenshot>
+  </screenshots>
+  <changelog>
+    <change><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></change>
+  </changelog>
+  <links></links>
+</package>

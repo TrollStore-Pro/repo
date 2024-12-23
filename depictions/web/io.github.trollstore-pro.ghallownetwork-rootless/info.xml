@@ -1,0 +1,29 @@
+<package>
+  <id>io.github.trollstore-pro.ghallownetwork-rootless</id>
+  <name>Allow Network自动允许网络-Rootless</name>
+  <version>0.0.1</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>mobilesubstrate</package>
+  </dependencies>
+  <shortDescription><![CDATA[众所周知，国行手机安装完APP，第一次运行时，会弹出是否允许使用网络，安装这个插件会自动允许使用网络。]]></shortDescription>
+  <descriptionlist>
+    <description><![CDATA[众所周知，国行手机安装完APP，第一次运行时，会弹出是否允许使用网络，安装这个插件会自动允许使用网络。]]></description>
+    <description><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></description>
+  </descriptionlist>
+  <screenshots>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>T053XD00001V9QfF4bGz1n.jpg</image>
+    </screenshot>
+  </screenshots>
+  <changelog>
+    <change><![CDATA[初代版本<br />*** ]]></change>
+    <change><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></change>
+  </changelog>
+  <links></links>
+</package>

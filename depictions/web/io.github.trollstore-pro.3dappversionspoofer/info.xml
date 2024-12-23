@@ -1,0 +1,30 @@
+<package>
+  <id>io.github.trollstore-pro.3dappversionspoofer</id>
+  <name>自定义修改软版本号-Rootless</name>
+  <version>2.1.1</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>com.opa334.altlist</package>
+  </dependencies>
+  <shortDescription><![CDATA[A tweak to add app spoofing capabilities right from your 3D menu and prefs自定义修改软件版本号，可以开启长按软件图标修改软件版本号以达到解决app内部检测更新问题，不保证所有APP都生效，自行尝试！全能玩机源，最新最全！！]]></shortDescription>
+  <descriptionlist>
+    <description><![CDATA[A tweak to add app spoofing capabilities right from your 3D menu and prefs自定义修改软件版本号，可以开启长按软件图标修改软件版本号以达到解决app内部检测更新问题，不保证所有APP都生效，自行尝试！全能玩机源，最新最全！！]]></description>
+    <description><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></description>
+  </descriptionlist>
+  <screenshots>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>pPKvdSg.png</image>
+    </screenshot>
+  </screenshots>
+  <changelog>
+    <change><![CDATA[修复bug<br />*** ]]></change>
+    <change><![CDATA[更新支持iOS16<br />*** ]]></change>
+    <change><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></change>
+  </changelog>
+  <links></links>
+</package>

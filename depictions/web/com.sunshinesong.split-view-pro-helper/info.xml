@@ -1,0 +1,30 @@
+<package>
+  <id>com.sunshinesong.split-view-pro-helper</id>
+  <name>split-view-pro helper（SVP）依赖</name>
+  <version>999.1</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>mobilesubstrate (&gt;= 0.9.5000)</package>
+    <package>firmware (&gt;= 14.0)</package>
+    <package>preferenceloader</package>
+  </dependencies>
+  <shortDescription><![CDATA[据说这玩意儿能解决新版split分屏安全模式问题，小编也不知道真假，因为小编没安全模式，如果有遇到此问题的用户可以试试，全能玩机源一直都在为用户考虑，奈何还有很多人在喷，真的有必要么！]]></shortDescription>
+  <descriptionlist>
+    <description><![CDATA[据说这玩意儿能解决新版split分屏安全模式问题，小编也不知道真假，因为小编没安全模式，如果有遇到此问题的用户可以试试，全能玩机源一直都在为用户考虑，奈何还有很多人在喷，真的有必要么！]]></description>
+    <description><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></description>
+  </descriptionlist>
+  <screenshots>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>no-screenshots.jpeg</image>
+    </screenshot>
+  </screenshots>
+  <changelog>
+    <change><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></change>
+  </changelog>
+  <links></links>
+</package>
