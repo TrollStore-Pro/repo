@@ -1,0 +1,28 @@
+<package>
+  <id>io.github.trollstore-pro.audiorecorderxs.cn.hide</id>
+  <name>AudioRecorder通话录音中文汉化插件-RootHide</name>
+  <version>5.1-3</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>mobilesubstrate</package>
+  </dependencies>
+  <shortDescription><![CDATA[AudioRecorder XS 简体中文包。为通话录音插件提供中文界面，仅半越狱使用！]]></shortDescription>
+  <descriptionlist>
+    <description><![CDATA[AudioRecorder XS 简体中文包。为通话录音插件提供中文界面，仅半越狱使用！ ]]></description>
+    <description><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></description>
+  </descriptionlist>
+  <screenshots>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>no-screenshots.jpeg</image>
+    </screenshot>
+  </screenshots>
+  <changelog>
+    <change><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></change>
+  </changelog>
+  <links></links>
+</package>

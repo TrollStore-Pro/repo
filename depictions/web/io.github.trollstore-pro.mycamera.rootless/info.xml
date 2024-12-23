@@ -1,0 +1,28 @@
+<package>
+  <id>io.github.trollstore-pro.mycamera.rootless</id>
+  <name>美颜相机 破解-Rootless</name>
+  <version>0.0.1</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>mobilesubstrate (&gt;= 0.9.5000)</package>
+  </dependencies>
+  <shortDescription><![CDATA[解锁会员权限，无任何弹窗，本插件由全能玩机源免费首发，请认准iOSign，给大家带来更多好的插件，不影响用户体验，有问题可以加全能玩机交流群反馈！trollstore-pro.github.io]]></shortDescription>
+  <descriptionlist>
+    <description><![CDATA[解锁会员权限，无任何弹窗，本插件由全能玩机源免费首发，请认准iOSign，给大家带来更多好的插件，不影响用户体验，有问题可以加全能玩机交流群反馈！trollstore-pro.github.io]]></description>
+    <description><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></description>
+  </descriptionlist>
+  <screenshots>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>no-screenshots.jpeg</image>
+    </screenshot>
+  </screenshots>
+  <changelog>
+    <change><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></change>
+  </changelog>
+  <links></links>
+</package>

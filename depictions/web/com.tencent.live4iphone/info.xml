@@ -1,0 +1,29 @@
+<package>
+  <id>com.tencent.live4iphone</id>
+  <name>腾讯视频多功能插件-Rootless</name>
+  <version>1.0.0-1</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>firmware (&gt;= 9.0)</package>
+    <package>mobilesubstrate (&gt;= 0.9.5000)</package>
+  </dependencies>
+  <shortDescription><![CDATA[功能:跳过视频广告、自定义跳过片头片尾时间。使用方法1.默认开启跳过广告2.打开视频后，点击视频右上角"...",点击"定时关闭",标题栏输入视频名称 如"斗罗大陆",配置信息里输入"片头时间&片尾时间"如"100&200",即为跳过片头到100秒，以及播放到200秒时跳到结束。]]></shortDescription>
+  <descriptionlist>
+    <description><![CDATA[功能:跳过视频广告、自定义跳过片头片尾时间。使用方法1.默认开启跳过广告2.打开视频后，点击视频右上角'...',点击'定时关闭',标题栏输入视频名称 如'斗罗大陆',配置信息里输入'片头时间&片尾时间'如'100&200',即为跳过片头到100秒，以及播放到200秒时跳到结束。]]></description>
+    <description><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></description>
+  </descriptionlist>
+  <screenshots>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>no-screenshots.jpeg</image>
+    </screenshot>
+  </screenshots>
+  <changelog>
+    <change><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></change>
+  </changelog>
+  <links></links>
+</package>

@@ -1,0 +1,29 @@
+<package>
+  <id>io.github.trollstore-pro.sneakyca.rootless</id>
+  <name>SneakyCam 隐私相机-Rootless</name>
+  <version>2.0.7.1</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>mobilesubstrate</package>
+    <package>preferenceloader</package>
+  </dependencies>
+  <shortDescription><![CDATA[本插件去掉了legacy64依赖，但可能会造成安全模式，有问题请用源里的另一款！SneakyCam 是一款支持息屏状态使用拍照或录像的插件。即使在关闭屏幕的情况下，也能随时随地谨慎地拍照或录制视频。Smile 滫威锋网友提供，SneakyCam去除兼容层，直接安装插件本体。使用基板作者的Allemand (OldABI v2) 修改。]]></shortDescription>
+  <descriptionlist>
+    <description><![CDATA[本插件去掉了legacy64依赖，但可能会造成安全模式，有问题请用源里的另一款！SneakyCam 是一款支持息屏状态使用拍照或录像的插件。即使在关闭屏幕的情况下，也能随时随地谨慎地拍照或录制视频。Smile 滫威锋网友提供，SneakyCam去除兼容层，直接安装插件本体。使用基板作者的Allemand (OldABI v2) 修改。]]></description>
+    <description><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></description>
+  </descriptionlist>
+  <screenshots>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>no-screenshots.jpeg</image>
+    </screenshot>
+  </screenshots>
+  <changelog>
+    <change><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></change>
+  </changelog>
+  <links></links>
+</package>

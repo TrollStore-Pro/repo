@@ -1,0 +1,40 @@
+<package>
+  <id>io.github.trollstore-pro.qsyy</id>
+  <name>悬浮工具箱-Rootless</name>
+  <version>2.2.2-5</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>mobilesubstrate (&gt;= 0.9.5000)</package>
+    <package>firmware (&gt;= 14.0)</package>
+    <package>preferenceloader</package>
+    <package>com.opa334.altlist</package>
+  </dependencies>
+  <shortDescription><![CDATA[高级功能需要付费激活，二十多块钱。这一款翻译英文插件的插件，老弟出品，必属精品！使用方法：长按设置中任意'插件标题'弹出设置，功能：翻译插件语言，实时生效，用于汉化或者别的语言翻译，配合截图识字，发AI翻译效率更高，翻译普通插件几分钟，大型插件也用不了多久,节省汉化插件包，可多个融为一体！还有修改通话时间，通话记录，修改联系人，隐藏设备实际信息，靓仔装逼，导入输入法词库、去广告等功能，自己慢慢挖掘！]]></shortDescription>
+  <descriptionlist>
+    <description><![CDATA[高级功能需要付费激活，二十多块钱。这一款翻译英文插件的插件，老弟出品，必属精品！使用方法：长按设置中任意'插件标题'弹出设置，功能：翻译插件语言，实时生效，用于汉化或者别的语言翻译，配合截图识字，发AI翻译效率更高，翻译普通插件几分钟，大型插件也用不了多久,节省汉化插件包，可多个融为一体！还有修改通话时间，通话记录，修改联系人，隐藏设备实际信息，靓仔装逼，导入输入法词库、去广告等功能，自己慢慢挖掘！]]></description>
+    <description><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></description>
+  </descriptionlist>
+  <screenshots>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>IMG_9875.PNG</image>
+    </screenshot>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>8986.PNG</image>
+    </screenshot>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>123.png</image>
+    </screenshot>
+  </screenshots>
+  <changelog>
+    <change><![CDATA[12天内多个版本的更新情况：---新增一触即达(任意app内复制链接或路径-直接跳转)---新增一键翻译(任意app内复制内容即可直接翻译，带替换分享朗读等，--翻译越狱商店等大众应用推荐Hammer It,这些翻译我没加，防止冲突，个人2个插件都装着)---新增URL自定义(任意app内复制内容可便捷搜索或查阅你定义的网页或者app跳转界面)---悬浮球位置自定义，复制功能争对应用的白名单，去广告功能针对应用的白名单---新增触摸轨迹，屏幕x和y值---新增应用搜索框内文字复制，切换开关的文字复制---新增应用选择程序（选择即注入生效），无需手动增加bundle了---新增去广告窗口的便捷替换和#注释文字，文字段落精简(去除空格，换行，插入换行)-----处理前期大几处bug和冲突，修改某些代码使用更加方<br />*** ]]></change>
+    <change><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></change>
+  </changelog>
+  <links></links>
+</package>

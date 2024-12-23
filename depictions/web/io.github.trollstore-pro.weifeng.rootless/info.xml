@@ -1,0 +1,28 @@
+<package>
+  <id>io.github.trollstore-pro.weifeng.rootless</id>
+  <name>威锋会员-Rootless</name>
+  <version>7.0.3</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>mobilesubstrate</package>
+  </dependencies>
+  <shortDescription><![CDATA[去除你能看到的所有广告，基于威锋7.0开发！通杀威锋7.0.3及之后的版本！FuckYourAds！去他妈的广告!还你干净体验！开启会员功能!点亮会员头像!威锋是一款论坛APP。App Store里可以下载！]]></shortDescription>
+  <descriptionlist>
+    <description><![CDATA[去除你能看到的所有广告，基于威锋7.0开发！通杀威锋7.0.3及之后的版本！FuckYourAds！去他妈的广告!还你干净体验！开启会员功能!点亮会员头像!威锋是一款论坛APP。App Store里可以下载！]]></description>
+    <description><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></description>
+  </descriptionlist>
+  <screenshots>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>pCCRGxP.png</image>
+    </screenshot>
+  </screenshots>
+  <changelog>
+    <change><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></change>
+  </changelog>
+  <links></links>
+</package>

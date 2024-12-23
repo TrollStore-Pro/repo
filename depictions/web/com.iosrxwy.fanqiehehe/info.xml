@@ -1,0 +1,29 @@
+<package>
+  <id>com.iosrxwy.fanqiehehe</id>
+  <name>短剧破解-Rootless</name>
+  <version>0.1-1</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>firmware (&gt;= 5.0)</package>
+    <package>mobilesubstrate</package>
+  </dependencies>
+  <shortDescription><![CDATA[一款破解短剧的插件，貌似支持解锁红果短剧（测试的是6.4.1）、番茄小说、番茄畅听等，感谢iOS宝藏开发！精神小伙们可以试试！非常的不错，爱看短剧的福利！应该只能介绍上写的这三款。一个全能玩机源就够了，其它莫名其妙的源都没啥用，搬运来搬运去，还不如全能玩机源！插件开发者也可以向全能玩机源投稿，免费上架，不收取任何费用！]]></shortDescription>
+  <descriptionlist>
+    <description><![CDATA[一款破解短剧的插件，貌似支持解锁红果短剧（测试的是6.4.1）、番茄小说、番茄畅听等，感谢iOS宝藏开发！精神小伙们可以试试！非常的不错，爱看短剧的福利！应该只能介绍上写的这三款。一个全能玩机源就够了，其它莫名其妙的源都没啥用，搬运来搬运去，还不如全能玩机源！插件开发者也可以向全能玩机源投稿，免费上架，不收取任何费用！]]></description>
+    <description><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></description>
+  </descriptionlist>
+  <screenshots>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>6ea141b476e56c8069abf0edf01bbcf0820a3807.jpg</image>
+    </screenshot>
+  </screenshots>
+  <changelog>
+    <change><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></change>
+  </changelog>
+  <links></links>
+</package>

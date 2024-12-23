@@ -1,0 +1,29 @@
+<package>
+  <id>io.github.trollstore-pro.copylogfix16</id>
+  <name>CopyLogFix16修复</name>
+  <version>1.0.1</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>firmware (&gt;= 16.0)</package>
+  </dependencies>
+  <shortDescription><![CDATA[国外大神修复CopyLog不能在iOS16上使用的问题，但似乎听写键呼出是无效的，只是可能。前提你拥有正版CopyLog插件！]]></shortDescription>
+  <descriptionlist>
+    <description><![CDATA[国外大神修复CopyLog不能在iOS16上使用的问题，但似乎听写键呼出是无效的，只是可能。前提你拥有正版CopyLog插件！]]></description>
+    <description><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></description>
+  </descriptionlist>
+  <screenshots>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>no-screenshots.jpeg</image>
+    </screenshot>
+  </screenshots>
+  <changelog>
+    <change><![CDATA[*修正了指令按钮不工作的问题<br />*** ]]></change>
+    <change><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></change>
+  </changelog>
+  <links></links>
+</package>

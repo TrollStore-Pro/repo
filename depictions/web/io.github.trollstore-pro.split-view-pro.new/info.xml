@@ -1,0 +1,31 @@
+<package>
+  <id>io.github.trollstore-pro.split-view-pro.new</id>
+  <name>新split-view-pro分屏-Rootless</name>
+  <version>1.1.6</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>mobilesubstrate (&gt;= 0.9.5000)</package>
+    <package>firmware (&gt;= 14.0)</package>
+    <package>preferenceloader</package>
+  </dependencies>
+  <shortDescription><![CDATA[这是新版split分屏，本源仅作备份！源里还有个旧版，搜split即可！使用如果经常安全模式有问题可以下载旧版本。由大神sunshinesong免费开发的分屏插件，非常的酷拉炫，而且是免费的，据说是吊打O2，免费好用，推荐使用，目前是测试期，耐心等待完善，很多好玩免费插件，尽在全能玩机源！如果安全模式可以尝试打开 Filza，进入/var/jb/var/mobile/Library/Preferences/， 删除插件配置再安装！如果还是安全模式我也没办法，全能玩机源没改插件任何文件，除了标识符来区别劫持，不信任全能玩机源的不做过多解释！]]></shortDescription>
+  <descriptionlist>
+    <description><![CDATA[这是新版split分屏，本源仅作备份！源里还有个旧版，搜split即可！使用如果经常安全模式有问题可以下载旧版本。由大神sunshinesong免费开发的分屏插件，非常的酷拉炫，而且是免费的，据说是吊打O2，免费好用，推荐使用，目前是测试期，耐心等待完善，很多好玩免费插件，尽在全能玩机源！如果安全模式可以尝试打开 Filza，进入/var/jb/var/mobile/Library/Preferences/， 删除插件配置再安装！如果还是安全模式我也没办法，全能玩机源没改插件任何文件，除了标识符来区别劫持，不信任全能玩机源的不做过多解释！]]></description>
+    <description><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></description>
+  </descriptionlist>
+  <screenshots>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>ba8f11cd32f3243512ba28b1dc552209bd040964.jpg</image>
+    </screenshot>
+  </screenshots>
+  <changelog>
+    <change><![CDATA[优化已知问题，协调上岛！<br />*** ]]></change>
+    <change><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></change>
+  </changelog>
+  <links></links>
+</package>

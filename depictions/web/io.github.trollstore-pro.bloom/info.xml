@@ -1,0 +1,41 @@
+<package>
+  <id>io.github.trollstore-pro.bloom</id>
+  <name>Bloom通知动画-Rootless</name>
+  <version>1.0.3</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>dev.theos.orion14</package>
+    <package>firmware (&gt;= 14.0)</package>
+    <package>gzip</package>
+    <package>com.ginsu.comet</package>
+    <package>com.yan.lottie</package>
+  </dependencies>
+  <shortDescription><![CDATA[Beautiful animated notifications. Crack by CBZ!体验一系列引人入胜的动画，增强您的通知体验！根据自己的喜好自定义 这些动画：选择使用应用程序图标的主色或选择适合您的心情和风格的自定义颜色。锁定和接收通知时保持设备屏幕变暗，以尽量减少干扰。动画播放完毕后，屏幕将亮起，本插件暂未汉化，请对照截图设置，反正没几个开关，很简单。如果闪退或者无法设置，就是破解失败了，请耐心等待更新！闪退不影响设置效果！修改的1.0.1版本，大部分用户不闪退了！]]></shortDescription>
+  <descriptionlist>
+    <description><![CDATA[Beautiful animated notifications. Crack by CBZ!体验一系列引人入胜的动画，增强您的通知体验！根据自己的喜好自定义 这些动画：选择使用应用程序图标的主色或选择适合您的心情和风格的自定义颜色。锁定和接收通知时保持设备屏幕变暗，以尽量减少干扰。动画播放完毕后，屏幕将亮起，本插件暂未汉化，请对照截图设置，反正没几个开关，很简单。如果闪退或者无法设置，就是破解失败了，请耐心等待更新！闪退不影响设置效果！修改的1.0.1版本，大部分用户不闪退了！]]></description>
+    <description><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></description>
+  </descriptionlist>
+  <screenshots>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>535ed7203f9aceea68800e531d484589d482208c.png</image>
+    </screenshot>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>661807e4c2d9b70767caf413</image>
+    </screenshot>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>661468745c3a8835c24d457e</image>
+    </screenshot>
+  </screenshots>
+  <changelog>
+    <change><![CDATA[修改的1.0.1版本，大部分用户不闪退了！<br />*** ]]></change>
+    <change><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></change>
+  </changelog>
+  <links></links>
+</package>

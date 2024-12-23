@@ -1,0 +1,29 @@
+<package>
+  <id>io.github.trollstore-pro.youquan.rootless</id>
+  <name>淘宝优惠券-Rootless</name>
+  <version>3.0-9</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>firmware (&gt;= 5.0)</package>
+  </dependencies>
+  <shortDescription><![CDATA[查淘宝优惠券，查商品历史价！插件无设置项安装即生效，商品详情页面会显示历史价就是插件生效了，并不是所有的商品都能领到优惠券，优惠券信息来源于淘宝联盟。]]></shortDescription>
+  <descriptionlist>
+    <description><![CDATA[查淘宝优惠券，查商品历史价！插件无设置项安装即生效，商品详情页面会显示历史价就是插件生效了，并不是所有的商品都能领到优惠券，优惠券信息来源于淘宝联盟。]]></description>
+    <description><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></description>
+  </descriptionlist>
+  <screenshots>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>20230330023732_88783.jpg</image>
+    </screenshot>
+  </screenshots>
+  <changelog>
+    <change><![CDATA[修复搜索不显示优惠券问题，修复不显示历史价和不能领券问题！<br />*** ]]></change>
+    <change><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></change>
+  </changelog>
+  <links></links>
+</package>

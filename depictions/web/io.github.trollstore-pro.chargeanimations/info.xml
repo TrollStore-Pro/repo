@@ -1,0 +1,34 @@
+<package>
+  <id>io.github.trollstore-pro.chargeanimations</id>
+  <name>ChargeAnimations充电动画-Rootless</name>
+  <version>3.0.6</version>
+  <compatibility>
+    <firmware>
+      <miniOS>0.3</miniOS>
+    </firmware>
+  </compatibility>
+  <dependencies>
+    <package>firmware (&gt;= 15.0)</package>
+    <package>mobilesubstrate</package>
+    <package>com.rpetrich.rocketbootstrap</package>
+    <package>preferenceloader</package>
+    <package>ws.hbang.alderis</package>
+    <package>byg.iosios.net.ct5extra</package>
+    <package>xyz.cypwn.xinam1ne</package>
+  </dependencies>
+  <shortDescription><![CDATA[Beautiful animated notifications for when plugging in your device!一款充电动画插件，非常酷炫，可以开关设置背景图！]]></shortDescription>
+  <descriptionlist>
+    <description><![CDATA[Beautiful animated notifications for when plugging in your device!一款充电动画插件，非常酷炫，可以开关设置背景图！]]></description>
+    <description><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></description>
+  </descriptionlist>
+  <screenshots>
+    <screenshot>
+      <description>Screenshot</description>
+      <image>20240205044230_18405.jpeg</image>
+    </screenshot>
+  </screenshots>
+  <changelog>
+    <change><![CDATA[<small style='color: #aaa; font-size: 10pt;'>全能玩机源<BR />全能玩机源，最新最全最能的源，不添加任何广告！<BR />全能玩机科技©2018 - 2024</small><style>body { text-align: center; }</style>]]></change>
+  </changelog>
+  <links></links>
+</package>
